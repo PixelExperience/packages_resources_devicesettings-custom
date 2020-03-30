@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- DC Dimming settings -->
+    <string name="dc_dimming_enable_title">Anti-Flicker Mode</string>
+    <string name="dc_dimming_enable_summary">DC Dimming reduces eye strain in low light conditions</string>
+
+    <!-- Dirac settings -->
+    <string name="dirac_title">Mi Sound Enhancer</string>
+    <string name="dirac_summary">Optimize audio quality</string>
+    <string name="dirac_headset_title">Choose headphones type</string>
+    <string name="dirac_preset_title">Choose a preset</string>
+
+    <!-- Dirac settings: Hi-Fi -->
+    <string name="dirac_hifi_title">Hi-Fi</string>
+    <string name="dirac_hifi_summary">Decrease noise and Distortion and increase audio quality</string>
+
+    <!-- Dirac settings: Headset types -->
+    <string name="dirac_headset_default">Default</string>
+    <string name="dirac_headset_earbuds">Mi Earbuds</string>
+    <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
+    <string name="dirac_headset_piston_1">Mi Piston-1</string>
+    <string name="dirac_headset_general">General</string>
+    <string name="dirac_headset_general_inear">General In-Ear</string>
+    <string name="dirac_headset_piston_basic">Basic Edition</string>
+    <string name="dirac_headset_piston_2">Mi Piston-2</string>
+    <string name="dirac_headset_piston_standard">Standard Edition</string>
+    <string name="dirac_headset_headphone">Mi Headphones</string>
+    <string name="dirac_headset_piston_youth">Youth Edition</string>
+    <string name="dirac_headset_piston_color">Color Edition</string>
+    <string name="dirac_headset_in_ear">Mi In-Ear</string>
+    <string name="dirac_headset_capsule">Mi Capsule</string>
+    <string name="dirac_headset_in_ear_pro">Mi In-Ear Pro</string>
+    <string name="dirac_headset_comfort">Mi Comfort</string>
+    <string name="dirac_headset_reduction_noise">Mi Noise Cancelling Type-C</string>
+    <string name="dirac_headset_cancelling">Mi Noise Cancelling 3.5mm</string>
+    <string name="dirac_headset_half_in_ear">Mi Half In-Ear</string>
+    <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
+    <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
+    <string name="dirac_headset_earphone">Mi Earphones</string>
+
+    <!-- Dirac settings: Equalizer presets -->
+    <string name="dirac_preset_default">Default</string>
+    <string name="dirac_preset_rock">Rock</string>
+    <string name="dirac_preset_jazz">Jazz</string>
+    <string name="dirac_preset_pop">Pop</string>
+    <string name="dirac_preset_classical">Classical</string>
+    <string name="dirac_preset_hiphop">Hip Hop</string>
+    <string name="dirac_preset_blues">Blues</string>
+    <string name="dirac_preset_electronic">Electronic</string>
+    <string name="dirac_preset_country">Country</string>
+    <string name="dirac_preset_dance">Dance</string>
+    <string name="dirac_preset_metal">Metal</string>
+
+    <!-- Popup camera settings -->
+    <string name="popup_led_title">Visual effect</string>
+    <string name="popup_led_summary">Show animation when the front camera appears and retracts</string>
+    <string name="popup_title">Front camera effects</string>
+    <string name="popup_title_muqin">Xylophone</string>
+    <string name="popup_title_yingyan">Condor</string>
+    <string name="popup_title_mofa">Magic</string>
+    <string name="popup_title_jijia">Mecha</string>
+    <string name="popup_title_chilun">Gearwheel</string>
+    <string name="popup_title_cangmen">Cabin door</string>
+
+    <!-- Popup camera strings -->
+    <string name="popup_camera_tip">Attention</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">Couldn\'t close front camera multiple times. Try calibrating the camera.</string>
+    <string name="popup_camera_popup_failed_times_calibrate">Couldn\'t open front camera multiple times. Try calibrating the camera.</string>
+    <string name="popup_camera_calibrate_running">Front camera cannot be used during calibration.</string>
+    <string name="popup_camera_calibrate_now">Calibrate</string>
+    <string name="popup_camera_calibrate_failed">Couldn\'t calibrate</string>
+    <string name="popup_camera_calibrate_success">Calibrated successfully. You can open the front camera now.</string>
+    <string name="stop_operate_camera_frequently">You\'re opening the front camera too frequently.</string>
+    <string name="takeback_camera_front_failed">Couldn\'t close front camera. Try again.</string>
+    <string name="popup_camera_front_failed">Couldn\'t open front camera. Try again.</string>
+    <string name="popup_camera_proximity_obstructed">Remove your hand from the proximity sensor to open the front camera...</string>
+
+    <!-- Title and summary -->
+    <string name="moto_actions_title">Moto Actions</string>
+
+    <!-- Device gestures -->
+    <string name="device_gestures_title">Device gestures</string>
+    <string name="device_gestures_summary">Manage device gestures</string>
+
+    <!-- Ambient display gestures -->
+    <string name="ambient_display_manage_summary">Manage ambient display gestures</string>
+
+    <!-- Fingerprint gestures -->
+    <string name="fingerprint_gestures_title">Fingerprint gestures</string>
+    <string name="fingerprint_gestures_summary">Use fingerprint gestures</string>
+    <string name="fingerprint_gestures_manage_summary">Manage fingerprint gestures</string>
+    <string name="fingerprint_actions_screenon">Actions with screen on</string>
+
+    <!-- Fingerprint gestures screen off -->
+    <string name="fingerprint_gestures_screenoff_title">Fingerprint gestures when screen off</string>
+    <string name="fingerprint_gestures_screenoff_summary">Use fingerprint gestures when screen off.\n\nFingerprint unlocking must be disabled to use this feature.</string>
+    <string name="fingerprint_actions_screenoff">Actions with screen off</string>
+
+    <!-- Actions -->
+    <string name="action_home">Home</string>
+    <string name="action_power">Screen on/off</string>
+    <string name="action_wake">Wake</string>
+    <string name="action_back">Back</string>
+    <string name="action_recents">Recents</string>
+    <string name="action_last_app">Last app</string>
+    <string name="action_volume_up">Volume up</string>
+    <string name="action_volume_down">Volume down</string>
+    <string name="action_voice_assistant">Voice assistant</string>
+    <string name="action_play_pause">Play/pause</string>
+    <string name="action_previous_track">Previous track</string>
+    <string name="action_next_track">Next track</string>
+    <string name="action_flashlight">Flashlight on/off</string>
+    <string name="action_camera">Open camera</string>
+    <string name="action_screenshot">Take screenshot</string>
+    <string name="action_browser">Open browser</string>
+    <string name="action_dialer">Open dialer</string>
+    <string name="action_email">Open email app</string>
+    <string name="action_messages">Open messages app</string>
+
+    <!-- Screen off gestures -->
+    <string name="screen_off_gestures_manage_summary">Manage gestures when screen is off</string>
+
+    <!-- Swipe/tap/long tap -->
+    <string name="swipe_left_dlg_title">Select action for swipe left</string>
+    <string name="swipe_right_dlg_title">Select action for swipe right</string>
+    <string name="swipe_up_dlg_title">Select action for swipe up</string>
+    <string name="swipe_down_dlg_title">Select action for swipe down</string>
+    <string name="tap_title">Single tap</string>
+    <string name="double_tap_title">Double tap</string>
+    <string name="long_tap_title">Long tap</string>
+    <string name="tap_dlg_title">Select action for single tap</string>
+    <string name="double_tap_dlg_title">Select action for double tap</string>
+    <string name="long_tap_dlg_title">Select action for long tap</string>
+
+    <!-- Double tap to wake -->
+    <string name="tap_to_wake">Tap to wake</string>
+    <string name="tap_to_wake_summary">Double-tap anywhere on the screen to wake device</string>
+   
+    <!-- Proximity sensor -->
+    <string name="allow_proximity_sensor_title">Allow proximity sensor</string>
+    <string name="allow_proximity_sensor_summary">Check the proximity sensor before performing the action</string>
+
+    <!-- OnePlus - General -->
+    <string name="advanced_settings">OnePlus Settings</string>
+    <string name="advanced_settings_summary">Custom settings for your device</string>
+
+    <!-- OnePlus - Gestures -->
+    <string name="touchscreen_camera_gesture_summary">Draw a circle to activate camera</string>
+    <string name="touchscreen_flashlight_v_gesture_summary">Draw a \'V\' to toggle flashlight</string>
+    <string name="touchscreen_music_gesture_summary">Use gestures to control music playback \n
+    • Two fingers vertically \"||\" to play/pause\n
+    • Draw left arrow \"&#60;\" for previous track\n
+    • Draw right arrow \"&#62;\" for next track</string>
+
+    <!-- OnePlus - Alert slider settings -->
+    <string name="slider_dashboard_summary">Slider control</string>
+    <string name="notification_slider_selection_dialog_title">Action</string>
+    <string name="notification_slider_top_position">Top position</string>
+    <string name="notification_slider_middle_position">Middle position</string>
+    <string name="notification_slider_bottom_position">Bottom position</string>
+    <string name="notification_slider_mode_total_silence">Total silence</string>
+    <string name="notification_slider_mode_priority_only">Priority only</string>
+    <string name="notification_slider_mode_vibration">Vibration</string>
+    <string name="notification_slider_mode_none">None</string>
+</resources>

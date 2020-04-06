@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- Dirac settings -->
+    <string name="dirac_title">Tăng cường Mi Sound</string>
+    <string name="dirac_summary">Tối ưu chất lượng âm thanh</string>
+    <string name="dirac_headset_title">Chọn loại tai nghe</string>
+    <string name="dirac_preset_title">Chọn hiệu chỉnh sẵn có</string>
+    <!-- Dirac settings: Hi-Fi -->
+    <string name="dirac_hifi_title">Âm thanh Hi-Fi</string>
+    <string name="dirac_hifi_summary">Giảm tiếng ồn và biến dạng để tăng chất lượng âm thanh</string>
+    <!-- Dirac settings: Headset types -->
+    <string name="dirac_headset_default">Mặc định</string>
+    <string name="dirac_headset_earbuds">Mi Earbud</string>
+    <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
+    <string name="dirac_headset_piston_1">Mi Piston-1</string>
+    <string name="dirac_headset_general">Thường</string>
+    <string name="dirac_headset_general_inear">In-Ear thường</string>
+    <string name="dirac_headset_piston_basic">Cơ bản</string>
+    <string name="dirac_headset_piston_2">Mi piston-2</string>
+    <string name="dirac_headset_piston_standard">Tiêu chuẩn</string>
+    <string name="dirac_headset_headphone">Tai nghe Mi</string>
+    <string name="dirac_headset_piston_youth">Phiên bản trẻ</string>
+    <string name="dirac_headset_piston_color">Phiên bản sắc màu</string>
+    <string name="dirac_headset_in_ear">Mi In-Ear</string>
+    <string name="dirac_headset_capsule">Mi Capsule</string>
+    <string name="dirac_headset_in_ear_pro">Mi In-Ear Pro</string>
+    <string name="dirac_headset_comfort">Mi Comfort</string>
+    <string name="dirac_headset_reduction_noise">Khử tiếng ồn Mi Type-C</string>
+    <string name="dirac_headset_cancelling">Khử tiếng ồn Mi 3.5mm</string>
+    <string name="dirac_headset_half_in_ear">Mi Half In-Ear</string>
+    <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
+    <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
+    <string name="dirac_headset_earphone">Tai nghe Mi</string>
+    <!-- Dirac settings: Equalizer presets -->
+    <string name="dirac_preset_default">Mặc định</string>
+    <string name="dirac_preset_rock">Rock</string>
+    <string name="dirac_preset_jazz">Jazz</string>
+    <string name="dirac_preset_pop">Pop</string>
+    <string name="dirac_preset_classical">Cổ điển</string>
+    <string name="dirac_preset_hiphop">Hip Hop</string>
+    <string name="dirac_preset_blues">Blue</string>
+    <string name="dirac_preset_electronic">Điện tử</string>
+    <string name="dirac_preset_country">Quê hương</string>
+    <string name="dirac_preset_dance">Khiêu vũ</string>
+    <string name="dirac_preset_metal">Kim loại</string>
+    <!-- Popup camera settings -->
+    <string name="popup_led_title">Hiệu ứng hình ảnh</string>
+    <string name="popup_led_summary">Hiển thị ảnh động khi máy ảnh trước khởi chạy và trượt lên</string>
+    <string name="popup_title">Hiệu ứng máy ảnh trước</string>
+    <string name="popup_title_muqin">Mộc cầm</string>
+    <string name="popup_title_yingyan">Chim ưng</string>
+    <string name="popup_title_mofa">Ma thuật</string>
+    <string name="popup_title_jijia">Mecha</string>
+    <string name="popup_title_chilun">Bánh răng</string>
+    <string name="popup_title_cangmen">Cửa cabin</string>
+    <!-- Popup camera strings -->
+    <string name="popup_camera_tip">Chú ý</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">Không thể đóng máy ảnh trước nhiều lần. Thử hiệu chỉnh máy ảnh.</string>
+    <string name="popup_camera_popup_failed_times_calibrate">Không thể mở máy ảnh trước nhiều lần. Thử hiệu chỉnh máy ảnh.</string>
+    <string name="popup_camera_calibrate_running">Camera phía trước không thể được sử dụng trong quá trình hiệu chuẩn.</string>
+    <string name="popup_camera_calibrate_now">Hiệu chỉnh</string>
+    <string name="popup_camera_calibrate_failed">Không thể hiệu chỉnh. Mang thiết bị của bạn lại gần Mi Home để phân tích vấn đề</string>
+    <string name="popup_camera_calibrate_success">Hiệu chỉnh thành công. Giờ bạn có thể mở máy ảnh trước.</string>
+    <string name="stop_operate_camera_frequently">Có vẻ bạn mở máy ảnh trước quá thường xuyên.</string>
+    <string name="takeback_camera_front_failed">Không thể đóng máy ảnh trước. Thử lại.</string>
+    <string name="popup_camera_front_failed">Không thể mở máy ảnh trước. Thử lại.</string>
+    <string name="popup_camera_proximity_obstructed">Bỏ tay ra khỏi cảm biến tiệm cận để mở camera trước...</string>
+    <!-- Title and summary -->
+    <string name="moto_actions_title">Hành động Moto</string>
+    <!-- Device gestures -->
+    <string name="device_gestures_title">Cử chỉ của thiết bị</string>
+    <string name="device_gestures_summary">Quản lý các cử chỉ của thiết bị</string>
+    <!-- Ambient display gestures -->
+    <string name="ambient_display_manage_summary">Quản lý cử chỉ của màn hình xem nhanh</string>
+    <!-- Fingerprint gestures -->
+    <string name="fingerprint_gestures_title">Cử chỉ vân tay</string>
+    <string name="fingerprint_gestures_summary">Dùng cử chỉ vân tay</string>
+    <string name="fingerprint_gestures_manage_summary">Quản lý cử chỉ vân tay</string>
+    <string name="fingerprint_actions_screenon">Hành động khi màn hình bật</string>
+    <!-- Fingerprint gestures screen off -->
+    <string name="fingerprint_gestures_screenoff_title">Cử chỉ vân tay khi màn hình tắt</string>
+    <string name="fingerprint_gestures_screenoff_summary">Dùng cử chỉn vân tay khi màn hình tắt.\n\nPhải tắt mở khóa vân tay để dùng tính năng này.</string>
+    <string name="fingerprint_actions_screenoff">Hành động khi màn hình tắt</string>
+    <!-- Actions -->
+    <string name="action_home">Trang chủ</string>
+    <string name="action_power">Bật/tắt màn hình</string>
+    <string name="action_wake">Đánh thức</string>
+    <string name="action_back">Quay lại</string>
+    <string name="action_recents">Đa nhiệm</string>
+    <string name="action_last_app">Ứng dụng cuối</string>
+    <string name="action_volume_up">Tăng âm lượng</string>
+    <string name="action_volume_down">Giảm âm lượng</string>
+    <string name="action_voice_assistant">Trợ lý giọng nói</string>
+    <string name="action_play_pause">Phát/Tạm dừng</string>
+    <string name="action_previous_track">Bản nhạc trước</string>
+    <string name="action_next_track">Bản nhạc tiếp theo</string>
+    <string name="action_flashlight">Bật/tắt đèn pin</string>
+    <string name="action_camera">Mở máy ảnh</string>
+    <string name="action_screenshot">Chụp ảnh màn hình</string>
+    <string name="action_browser">Mở trình duyệt</string>
+    <string name="action_dialer">Mở trình quay số</string>
+    <string name="action_email">Mở ứng dụng email</string>
+    <string name="action_messages">Mở ứng dụng nhắn tin</string>
+    <!-- Screen off gestures -->
+    <string name="screen_off_gestures_manage_summary">Quản lý cử chỉ khi màn hình đã tắt</string>
+    <!-- Swipe/tap/long tap -->
+    <string name="swipe_left_dlg_title">Chọn hành động cho vuốt trái</string>
+    <string name="swipe_right_dlg_title">Chọn hành động cho vuốt phải</string>
+    <string name="swipe_up_dlg_title">Chọn hành động cho vuốt lên</string>
+    <string name="swipe_down_dlg_title">Chọn hành động cho vuốt xuống</string>
+    <string name="tap_title">Chạm một lần</string>
+    <string name="double_tap_title">Chạm hai lần</string>
+    <string name="long_tap_title">Chạm giữ</string>
+    <string name="tap_dlg_title">Chọn hành động cho một chạm</string>
+    <string name="double_tap_dlg_title">Chọn hành động cho chạm hai lần</string>
+    <string name="long_tap_dlg_title">Chọn hành động cho chạm giữ</string>
+    <!-- Double tap to wake -->
+    <string name="tap_to_wake">Chạm để đánh thức</string>
+    <string name="tap_to_wake_summary">Chạm hai lần bất cứ đâu trên màn hình để đánh thức thiết bị</string>
+    <!-- Proximity sensor -->
+    <string name="allow_proximity_sensor_title">Cho phép cảm biến tiệm cận</string>
+    <string name="allow_proximity_sensor_summary">Kiểm tra cảm biến tiệm cận trước khi thực hiện hành động</string>
+    <!-- OnePlus - General -->
+    <string name="advanced_settings">Thiết đặt OnePlus</string>
+    <string name="advanced_settings_summary">Thiết lập tuỳ chỉnh cho thiết bị của bạn</string>
+    <!-- OnePlus - Gestures -->
+    <string name="touchscreen_camera_gesture_summary">Vẽ một vòng tròn để kích hoạt máy ảnh</string>
+    <string name="touchscreen_flashlight_v_gesture_summary">Vẽ một chữ \'V\' để bật/tắt đèn pin</string>
+    <string name="touchscreen_music_gesture_summary">Sử dụng cử chỉ để điều khiển trình phát nhạc \n
+    • Vuốt hai ngón tay theo chiều dọc \"||\" để phát/tạm dừng\n
+    • Vẽ mũi tên trái \"&#60;\" để quay lại bài nhạc trước\n
+    • Vẽ mũi tên phải \"&#62;\" để tới bài nhạc tiếp theo</string>
+    <!-- OnePlus - Alert slider settings -->
+    <string name="slider_dashboard_summary">Điều khiển thanh trượt</string>
+    <string name="notification_slider_selection_dialog_title">Hành động</string>
+    <string name="notification_slider_top_position">Vị trí trên cùng</string>
+    <string name="notification_slider_middle_position">Vị trí giữa</string>
+    <string name="notification_slider_bottom_position">Vị trí dưới cùng</string>
+    <string name="notification_slider_mode_total_silence">Tắt tiếng hoàn toàn</string>
+    <string name="notification_slider_mode_priority_only">Chỉ ưu tiên</string>
+    <string name="notification_slider_mode_vibration">Rung</string>
+    <string name="notification_slider_mode_none">Không</string>
+</resources>

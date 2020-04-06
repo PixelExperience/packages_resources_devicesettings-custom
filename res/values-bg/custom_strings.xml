@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- Dirac settings -->
+    <string name="dirac_title">Използване на MiSound enhancer</string>
+    <string name="dirac_summary">Оптимизиране качеството на звука</string>
+    <string name="dirac_headset_title">Вид слушалки</string>
+    <string name="dirac_preset_title">Избери предв. зададен</string>
+    <!-- Dirac settings: Hi-Fi -->
+    <string name="dirac_hifi_title">Hi-Fi аудио</string>
+    <string name="dirac_hifi_summary">Намаляване на шума и изкривяването, за да се подобри качеството на звука</string>
+    <!-- Dirac settings: Headset types -->
+    <string name="dirac_headset_default">По подразбиране</string>
+    <string name="dirac_headset_earbuds">Mi слушалки</string>
+    <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
+    <string name="dirac_headset_piston_1">Mi piston-1</string>
+    <string name="dirac_headset_general">Обикновени</string>
+    <string name="dirac_headset_general_inear">Обикновени \"тапи за уши\"</string>
+    <string name="dirac_headset_piston_basic">Обикновени</string>
+    <string name="dirac_headset_piston_2">Mi piston-2</string>
+    <string name="dirac_headset_piston_standard">Стандартна версия</string>
+    <string name="dirac_headset_headphone">Mi Слушалки</string>
+    <string name="dirac_headset_piston_youth">Mi piston-youth</string>
+    <string name="dirac_headset_piston_color">Цветно издание</string>
+    <string name="dirac_headset_in_ear">Mi in-ear headphones</string>
+    <string name="dirac_headset_capsule">Mi капсула</string>
+    <string name="dirac_headset_in_ear_pro">Mi In-Ear Pro</string>
+    <string name="dirac_headset_comfort">Mi Комфорт</string>
+    <string name="dirac_headset_reduction_noise">Mi шумопотискане Тип-C</string>
+    <string name="dirac_headset_cancelling">Mi шумопотискане 3.5mm</string>
+    <string name="dirac_headset_half_in_ear">Вградени слушалки Mi</string>
+    <string name="dirac_headset_in_ear2">Mi слушалки на две уши</string>
+    <string name="dirac_headset_earphone_basic">Mi Слушалки</string>
+    <string name="dirac_headset_earphone">Mi Слушалки</string>
+    <!-- Dirac settings: Equalizer presets -->
+    <string name="dirac_preset_default">По подразбиране</string>
+    <string name="dirac_preset_rock">Рок</string>
+    <string name="dirac_preset_jazz">Джаз</string>
+    <string name="dirac_preset_pop">Поп</string>
+    <string name="dirac_preset_classical">Класика</string>
+    <string name="dirac_preset_hiphop">Хип-Хоп</string>
+    <string name="dirac_preset_blues">Блус</string>
+    <string name="dirac_preset_electronic">Електронна</string>
+    <string name="dirac_preset_country">Кънтри</string>
+    <string name="dirac_preset_dance">Танцувална</string>
+    <string name="dirac_preset_metal">Метъл</string>
+    <!-- Popup camera settings -->
+    <string name="popup_led_title">Визуални ефекти</string>
+    <string name="popup_led_summary">Покажи анимация, когато предната камера се показва и скрива</string>
+    <string name="popup_title">Ефекти на предната камера</string>
+    <string name="popup_title_muqin">Ксилофон</string>
+    <string name="popup_title_yingyan">Кондор</string>
+    <string name="popup_title_mofa">Магия</string>
+    <string name="popup_title_jijia">Механично</string>
+    <string name="popup_title_chilun">Скоростна кутия</string>
+    <string name="popup_title_cangmen">Врата на каюта</string>
+    <!-- Popup camera strings -->
+    <string name="popup_camera_tip">Внимание</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">Неуспешен опит за заттваряне на селфи камерата многократно. Опитайте да калибрирате камерата.</string>
+    <string name="popup_camera_popup_failed_times_calibrate">Неуспешен опит за отваряне на селфи камерата многократно. Опитайте да калибрирате камерата.</string>
+    <string name="popup_camera_calibrate_now">Калибриране</string>
+    <string name="popup_camera_calibrate_failed">Не може да се калибрира</string>
+    <string name="popup_camera_calibrate_success">Калибрирането е успешно. Може да отворите камерата сега.</string>
+    <string name="stop_operate_camera_frequently">Вие стартирате предната камера твърде често.</string>
+    <string name="takeback_camera_front_failed">Не може да се затвори селфи камерата. Опитайте отново.</string>
+    <string name="popup_camera_front_failed">Не може да се отвори селфи камерата. Опитайте отново.</string>
+    <!-- Title and summary -->
+    <!-- Device gestures -->
+    <string name="device_gestures_title">Жестове на устройството</string>
+    <string name="device_gestures_summary">Управление на жестовете на устройството</string>
+    <!-- Ambient display gestures -->
+    <string name="ambient_display_manage_summary">Управление на жестовете на активния дисплей</string>
+    <!-- Fingerprint gestures -->
+    <string name="fingerprint_gestures_title">Жестове с пръстов отпечатък</string>
+    <string name="fingerprint_gestures_summary">Използвайте жестове с пръстов отпечатък</string>
+    <string name="fingerprint_gestures_manage_summary">Управлявайте жестове с пръстов отпечатък</string>
+    <string name="fingerprint_actions_screenon">Действия при включен екран</string>
+    <!-- Fingerprint gestures screen off -->
+    <string name="fingerprint_gestures_screenoff_title">Жестове на пръстов отпечатък, когато екранът е изключен</string>
+    <string name="fingerprint_gestures_screenoff_summary">Използвайте жестове на пръстов отпечатък, когато екранът е изключен.\n\nОтключването на пръстовия отпечатък трябва да бъде деактивирано, за да използвате тази функция.</string>
+    <string name="fingerprint_actions_screenoff">Действия при изключен екран</string>
+    <!-- Actions -->
+    <string name="action_home">Начало</string>
+    <string name="action_power">Екран включен/изключен</string>
+    <string name="action_wake">Събуждане</string>
+    <string name="action_back">Назад</string>
+    <string name="action_recents">Последни</string>
+    <string name="action_last_app">Последно приложение</string>
+    <string name="action_volume_up">Увеличи звука</string>
+    <string name="action_volume_down">Намали звука</string>
+    <string name="action_voice_assistant">Гласов асистент</string>
+    <string name="action_play_pause">Пускане/пауза</string>
+    <string name="action_previous_track">Предишна песен</string>
+    <string name="action_next_track">Следващата песен</string>
+    <string name="action_flashlight">Фенерче включено/изключено</string>
+    <string name="action_camera">Отваряне на камерата</string>
+    <string name="action_screenshot">Направи екранна снимка</string>
+    <string name="action_browser">Отваряне на браузъра</string>
+    <string name="action_dialer">Отворяне на телефон</string>
+    <string name="action_email">Отваряне на имейл приложение</string>
+    <string name="action_messages">Отваряне на приложение за съобщения</string>
+    <!-- Screen off gestures -->
+    <string name="screen_off_gestures_manage_summary">Управление на жестовете, когато екранът е изключен</string>
+    <!-- Swipe/tap/long tap -->
+    <string name="swipe_left_dlg_title">Изберете действие при прекарване пръст наляво</string>
+    <string name="swipe_right_dlg_title">Изберете действие при прекарване пръст надясно</string>
+    <string name="swipe_up_dlg_title">Изберете действие при прекарване пръст нагоре</string>
+    <string name="swipe_down_dlg_title">Изберете действие при прекарване пръст надолу</string>
+    <string name="tap_title">Едно натискане</string>
+    <string name="double_tap_title">Двойно почукване</string>
+    <string name="long_tap_title">Дълго натискане</string>
+    <string name="tap_dlg_title">Изберете действие за единично докосване</string>
+    <string name="double_tap_dlg_title">Изберете действие за двойно докосване</string>
+    <string name="long_tap_dlg_title">Изберете действие за продължително докосване</string>
+    <!-- Double tap to wake -->
+    <string name="tap_to_wake">Чукнете за събуждане</string>
+    <string name="tap_to_wake_summary">Чукнете два пъти където и да е чо екрана за да събудите устройството</string>
+    <!-- Proximity sensor -->
+    <string name="allow_proximity_sensor_title">Сензор за близост</string>
+    <string name="allow_proximity_sensor_summary">Проверете сензора за близост, преди да извършите действието</string>
+    <!-- OnePlus - General -->
+    <string name="advanced_settings">OnePlus настройки</string>
+    <string name="advanced_settings_summary">Потребителски настройки за устройството ви</string>
+    <!-- OnePlus - Gestures -->
+    <!-- OnePlus - Alert slider settings -->
+</resources>

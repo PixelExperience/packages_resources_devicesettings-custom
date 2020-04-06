@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- Dirac settings -->
+    <string name="dirac_title">Mi Sound Enhancer</string>
+    <string name="dirac_summary">یاشترکردنی جۆرێتی دەنگ</string>
+    <string name="dirac_headset_title">جۆری بیستۆک هەڵبژێرە</string>
+    <string name="dirac_preset_title">Choose a preset</string>
+    <!-- Dirac settings: Hi-Fi -->
+    <string name="dirac_hifi_title">Hi-Fi</string>
+    <string name="dirac_hifi_summary">ژاوەژاو کەمتر دەکاتەوە و جۆرێتی دەنگ باشتر دەکات</string>
+    <!-- Dirac settings: Headset types -->
+    <string name="dirac_headset_default">بنەڕەت</string>
+    <string name="dirac_headset_earbuds">Mi Earbuds</string>
+    <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
+    <string name="dirac_headset_piston_1">Mi Piston-1</string>
+    <string name="dirac_headset_general">گشتی</string>
+    <string name="dirac_headset_general_inear">General In-Ear</string>
+    <string name="dirac_headset_piston_basic">Basic Edition</string>
+    <string name="dirac_headset_piston_2">Mi Piston-2</string>
+    <string name="dirac_headset_piston_standard">Standard Edition</string>
+    <string name="dirac_headset_headphone">Mi Headphones</string>
+    <string name="dirac_headset_piston_youth">Youth Edition</string>
+    <string name="dirac_headset_piston_color">Color Edition</string>
+    <string name="dirac_headset_in_ear">Mi In-Ear</string>
+    <string name="dirac_headset_capsule">Mi Capsule</string>
+    <string name="dirac_headset_in_ear_pro">Mi In-Ear Pro</string>
+    <string name="dirac_headset_comfort">Mi Comfort</string>
+    <string name="dirac_headset_reduction_noise">Mi Noise Cancelling Type-C</string>
+    <string name="dirac_headset_cancelling">Mi Noise Cancelling 3.5mm</string>
+    <string name="dirac_headset_half_in_ear">Mi Half In-Ear</string>
+    <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
+    <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
+    <string name="dirac_headset_earphone">Mi Earphones</string>
+    <!-- Dirac settings: Equalizer presets -->
+    <string name="dirac_preset_default">بنەڕەتی</string>
+    <string name="dirac_preset_rock">ڕۆک</string>
+    <string name="dirac_preset_jazz">جاز</string>
+    <string name="dirac_preset_pop">پۆپ</string>
+    <string name="dirac_preset_classical">كلاسیكی</string>
+    <string name="dirac_preset_hiphop">هیپ هۆپ</string>
+    <string name="dirac_preset_blues">Blues</string>
+    <string name="dirac_preset_electronic">ئەلکترۆنی</string>
+    <string name="dirac_preset_country">وڵات</string>
+    <string name="dirac_preset_dance">سه‌ما</string>
+    <string name="dirac_preset_metal">Metal</string>
+    <!-- Popup camera settings -->
+    <string name="popup_led_title">Visual effect</string>
+    <string name="popup_led_summary">پیشاندانی ئەنیمەیشن کاتێ کامێرای پێشەوە دەردەکەوێ </string>
+    <string name="popup_title">کاریگەرییەکانی کامێرای پێشەوە</string>
+    <string name="popup_title_muqin">Xylophone</string>
+    <string name="popup_title_yingyan">Condor</string>
+    <string name="popup_title_mofa">Magic</string>
+    <string name="popup_title_jijia">Mecha</string>
+    <string name="popup_title_chilun">Gearwheel</string>
+    <string name="popup_title_cangmen">Cabin door</string>
+    <!-- Popup camera strings -->
+    <string name="popup_camera_tip">Attention</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">Couldn\'t close front camera multiple times. Try calibrating the camera.</string>
+    <string name="popup_camera_popup_failed_times_calibrate">Couldn\'t open front camera multiple times. Try calibrating the camera.</string>
+    <string name="popup_camera_calibrate_running">Front camera cannot be used during calibration.</string>
+    <string name="popup_camera_calibrate_now">Calibrate</string>
+    <!-- Title and summary -->
+    <string name="moto_actions_title">کردارەکانی مۆتۆ</string>
+    <!-- Device gestures -->
+    <string name="device_gestures_title">جوڵەکانی ئامێر</string>
+    <string name="device_gestures_summary">ڕێکخستنی جوڵەکانی ئامێر</string>
+    <!-- Ambient display gestures -->
+    <string name="ambient_display_manage_summary">ڕێکخستنی جوڵەکانی ڕوونمای هەمیشە زیندوو</string>
+    <!-- Fingerprint gestures -->
+    <string name="fingerprint_gestures_title">جوڵەکانی پەنجەمۆر</string>
+    <string name="fingerprint_gestures_summary">بەکارهێنانی جوڵەکانی پەنجەمۆر</string>
+    <string name="fingerprint_gestures_manage_summary">ڕێکخستنی جوڵەکانی پەنجەمۆر</string>
+    <string name="fingerprint_actions_screenon">کردارەکانی هەڵبوونی ڕوونما</string>
+    <!-- Fingerprint gestures screen off -->
+    <string name="fingerprint_gestures_screenoff_title">جوڵەکانی پەنجەمۆر کاتی داخراوی ڕوونما</string>
+    <string name="fingerprint_gestures_screenoff_summary">جوڵەکانی پەنجەمۆر بەکاربهێنە کاتی داخراوی ڕوونما. \n\nکردنەوە لەڕێگای پەنجەمۆر دەبێ ناچالاک بکرێت بۆ بەکارهێنانی ئەم تایبەتمەندییە.</string>
+    <string name="fingerprint_actions_screenoff">کردارەکانی ڕوونمای داخراو</string>
+    <!-- Actions -->
+    <string name="action_home">ماڵەوە</string>
+    <string name="action_power">ڕوونما هەڵبوون/داخران</string>
+    <string name="action_wake">هەڵبوون</string>
+    <string name="action_back">گه‌ڕانه‌وه‌</string>
+    <string name="action_recents">دوایینەکان</string>
+    <string name="action_last_app">کۆتا ئەپ</string>
+    <string name="action_volume_up">زیادکردنی دەنگ</string>
+    <string name="action_volume_down">کەمکردنی دەنگ</string>
+    <string name="action_voice_assistant">یارمەتیدەری دەنگی</string>
+    <string name="action_play_pause">لێدان/ڕاگرتن</string>
+    <string name="action_previous_track">تراکی پێشوو</string>
+    <string name="action_next_track">تراکی دواتر</string>
+    <string name="action_flashlight">چرا چالاک/ناچالاک</string>
+    <string name="action_camera">کردنەوەی کامێرا</string>
+    <string name="action_screenshot">چرکاندنی وێنەی ڕوونما</string>
+    <string name="action_browser">کردنه‌وه‌ی وێبگه‌ر</string>
+    <string name="action_dialer">کردنەوەی پەیوەندیکردن</string>
+    <string name="action_email">کردنەوەی ئەپی ئیمێڵ</string>
+    <string name="action_messages">کردنەوەی ئەپی پەیامەکان</string>
+    <!-- Screen off gestures -->
+    <string name="screen_off_gestures_manage_summary">ڕێکخستنی جوڵەکان کاتی داخراوی ڕوونما</string>
+    <!-- Swipe/tap/long tap -->
+    <string name="swipe_left_dlg_title">دیاریکردنی کرداری ڕاکێشان بۆلای چەپ</string>
+    <string name="swipe_right_dlg_title">دیاریکردنی کرداری ڕاکێشان بۆلای ڕاست</string>
+    <string name="swipe_up_dlg_title">دیاریکردنی کرداری ڕاکێشان بۆ سەرەوە</string>
+    <string name="swipe_down_dlg_title">دیاریکردنی کرداری ڕاکێشان بۆ خوارەوە</string>
+    <string name="tap_title">یەکجار داگرتن</string>
+    <string name="double_tap_title">دوجار داگرتن</string>
+    <string name="long_tap_title">داگرتنی درێژ</string>
+    <string name="tap_dlg_title">دیاریکردنی کرداری یەکجار داگرتن</string>
+    <string name="double_tap_dlg_title">دیاریکردنی کرداری دووجار داگرتن</string>
+    <string name="long_tap_dlg_title">دیاریکردنی کرداری داگرتنی درێژ</string>
+    <!-- Double tap to wake -->
+    <string name="tap_to_wake">داگرە بۆ هەڵبوون</string>
+    <string name="tap_to_wake_summary">دووجار هەر شوێنێکی ڕوونما داگرە بۆ هەڵبوونی ڕوونمای ئامێر</string>
+    <!-- Proximity sensor -->
+    <string name="allow_proximity_sensor_title">چالاککردنی هەستەوەری نزیکی</string>
+    <string name="allow_proximity_sensor_summary">هەستەوەرەکە بپشکنە پێش ئەنجامدانی ئەو کردارە</string>
+    <!-- OnePlus - General -->
+    <string name="advanced_settings">ڕێکخستنەکانی وەنپڵەس</string>
+    <string name="advanced_settings_summary">ڕێکخستنی دەستی بۆ ئامێرەکەت</string>
+    <!-- OnePlus - Gestures -->
+    <string name="touchscreen_camera_gesture_summary">بازنه‌یه‌ک بکێشه‌ بۆ چالاککردنی کامێرا</string>
+    <string name="touchscreen_flashlight_v_gesture_summary">هێڵکاری °V° بکێشە بۆ چەسپانی چرا</string>
+    <string name="touchscreen_music_gesture_summary">جوڵەکان بەکاربهێنە بۆ کۆنتڕۆڵکردنی کارپێکەری مۆسیقا\n
+ • دوو پەنجە بە ستوونی بۆ لێدان/ڕاگرتن  \n
+• پەنجە ڕاکێشان بۆلای چەپ  \"&#60;\" بۆ تراکی پێشوو\n
+•  پەنجە ڕاکێشان بۆلای ڕاست \"&#62;\" بۆ تراکی دواتر</string>
+    <!-- OnePlus - Alert slider settings -->
+    <string name="slider_dashboard_summary">کۆنتڕۆڵی خلیسکان</string>
+    <string name="notification_slider_selection_dialog_title">کردار</string>
+    <string name="notification_slider_top_position">شوێنی سەرەوە</string>
+    <string name="notification_slider_middle_position">شوێنی ناوەند</string>
+    <string name="notification_slider_bottom_position">شوێنی خوارەوە</string>
+    <string name="notification_slider_mode_total_silence">بێدەنگکردنی گشتی</string>
+    <string name="notification_slider_mode_priority_only">تەنها پێشەیی</string>
+    <string name="notification_slider_mode_vibration">لەرزین</string>
+    <string name="notification_slider_mode_none">هیچیان</string>
+</resources>

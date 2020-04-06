@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- Dirac settings -->
+    <string name="dirac_title">מגבר צלילים Mi</string>
+    <string name="dirac_summary">ייעול איכות השמע</string>
+    <string name="dirac_headset_title">בחר סוג אוזניות</string>
+    <string name="dirac_preset_title">בחר הגדרה</string>
+    <!-- Dirac settings: Hi-Fi -->
+    <string name="dirac_hifi_title">שמע Hi-Fi</string>
+    <string name="dirac_hifi_summary">הפחת רעשים והפרעות והגבר את איכות השמע</string>
+    <!-- Dirac settings: Headset types -->
+    <string name="dirac_headset_default">ברירת מחדל</string>
+    <string name="dirac_headset_earbuds">Mi Earbuds</string>
+    <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
+    <string name="dirac_headset_piston_1">Mi Piston-1</string>
+    <string name="dirac_headset_general">כללי</string>
+    <string name="dirac_headset_general_inear">In-Ear כללי</string>
+    <string name="dirac_headset_piston_basic">מהדורה בסיסית</string>
+    <string name="dirac_headset_piston_2">Mi Piston-2</string>
+    <string name="dirac_headset_piston_standard">מהודרה רגילה</string>
+    <string name="dirac_headset_headphone">אוזניות Mi</string>
+    <string name="dirac_headset_piston_youth">מהדורת נוער</string>
+    <string name="dirac_headset_piston_color">מהדורת צבע</string>
+    <string name="dirac_headset_in_ear">Mi In-Ear</string>
+    <string name="dirac_headset_capsule">קפסולת Mi</string>
+    <string name="dirac_headset_in_ear_pro">Mi In-Ear Pro</string>
+    <string name="dirac_headset_comfort">Mi Comfort</string>
+    <string name="dirac_headset_reduction_noise">ביטול רעשים של Mi Type-C</string>
+    <string name="dirac_headset_cancelling">ביטול רעשים של Mi 3.5 מ\"מ</string>
+    <string name="dirac_headset_half_in_ear">Mi Half in Ear</string>
+    <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
+    <string name="dirac_headset_earphone_basic">Mi מיקרופון בסיסי</string>
+    <string name="dirac_headset_earphone">אוזניות Mi</string>
+    <!-- Dirac settings: Equalizer presets -->
+    <string name="dirac_preset_default">ברירת מחדל</string>
+    <string name="dirac_preset_rock">רוק</string>
+    <string name="dirac_preset_jazz">ג\'אז</string>
+    <string name="dirac_preset_pop">פופ</string>
+    <string name="dirac_preset_classical">קלאסית</string>
+    <string name="dirac_preset_hiphop">היפ הופ</string>
+    <string name="dirac_preset_blues">בלוז</string>
+    <string name="dirac_preset_electronic">אלקטרונית</string>
+    <string name="dirac_preset_country">קאנטרי</string>
+    <string name="dirac_preset_dance">דאנס</string>
+    <string name="dirac_preset_metal">מטאל</string>
+    <!-- Popup camera settings -->
+    <string name="popup_led_title">אפקטים וויזואלים</string>
+    <string name="popup_led_summary">הצג אנימציה כאשר המצלמה הקדמית מופיעה וממוקדת</string>
+    <string name="popup_title">אפקטים עבור מצלמה קדמית</string>
+    <string name="popup_title_muqin">קסילופון</string>
+    <string name="popup_title_yingyan">קונדור</string>
+    <string name="popup_title_mofa">קסם</string>
+    <string name="popup_title_jijia">מכני</string>
+    <string name="popup_title_chilun">הילוכים</string>
+    <string name="popup_title_cangmen">דלת תא</string>
+    <!-- Popup camera strings -->
+    <string name="popup_camera_tip">שים לב</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">לא ניתן היה לסגור את המצלמה הקדמית מספר פעמים. נסה לכייל את המצלמה.</string>
+    <string name="popup_camera_popup_failed_times_calibrate">לא ניתן היה לפתוח את המצלמה הקדמית מספר פעמים. נסה לכייל את המצלמה.</string>
+    <string name="popup_camera_calibrate_running">לא ניתן להשתמש במצלמה הקדמית בזמן הכיול.</string>
+    <string name="popup_camera_calibrate_now">כיול</string>
+    <string name="popup_camera_calibrate_failed">לא ניתן היה לכייל</string>
+    <string name="popup_camera_calibrate_success">כוייל בהצלחה. תוכל לפתוח את המצלמה הקדמית כעת.</string>
+    <string name="stop_operate_camera_frequently">פתחת את המצלמה בתדירות גבוהה מדיי.</string>
+    <string name="takeback_camera_front_failed">לא ניתן היה לסגור את המצלמה. נסה שוב.</string>
+    <string name="popup_camera_front_failed">לא ניתן היה לפתוח את המצלמה הקדמית. נסה שוב.</string>
+    <string name="popup_camera_proximity_obstructed">הסר את היד שלך מחיישן הקרבה כדי לפתוח את המצלמה הקדמית ...</string>
+    <!-- Title and summary -->
+    <string name="moto_actions_title">פעולות מוטו</string>
+    <!-- Device gestures -->
+    <string name="device_gestures_title">מחוות מכשיר</string>
+    <string name="device_gestures_summary">נהל מחוות מכשיר</string>
+    <!-- Ambient display gestures -->
+    <string name="ambient_display_manage_summary">מנהל מחוות התראות</string>
+    <!-- Fingerprint gestures -->
+    <string name="fingerprint_gestures_title">מחוות טביעת אצבע</string>
+    <string name="fingerprint_gestures_summary">השתמש במחוות טביעת אצבע</string>
+    <string name="fingerprint_gestures_manage_summary">נהל מחוות טביעות אצבע</string>
+    <string name="fingerprint_actions_screenon">פעולות כאשר המסך מופעל</string>
+    <!-- Fingerprint gestures screen off -->
+    <string name="fingerprint_gestures_screenoff_title">מחוות טביעת אצבע כאשר המסך כבוי</string>
+    <string name="fingerprint_gestures_screenoff_summary">השתמש במחוות טביעת אצבע כאשר המסך כבוי. ביטול נעילה על ידי טביעת אצבע יהיה מושבת.</string>
+    <string name="fingerprint_actions_screenoff">פעולות כאשר המסך כבוי</string>
+    <!-- Actions -->
+    <string name="action_home">בית</string>
+    <string name="action_power">מסך דלוק/כבוי</string>
+    <string name="action_wake">הער</string>
+    <string name="action_back">חזור</string>
+    <string name="action_recents">יישומים אחרונים</string>
+    <string name="action_last_app">מעבר ליישום אחרון</string>
+    <string name="action_volume_up">הגבהה עוצמת שמע</string>
+    <string name="action_volume_down">הנמך עוצמת שמע</string>
+    <string name="action_voice_assistant">עוזרת קולית</string>
+    <string name="action_play_pause">הפעל/השהה</string>
+    <string name="action_previous_track">שיר קודם</string>
+    <string name="action_next_track">שיר הבא</string>
+    <string name="action_flashlight">פנס כבוי/דלוק</string>
+    <string name="action_camera">פתח מצלמה</string>
+    <string name="action_screenshot">צלם מסך</string>
+    <string name="action_browser">פתח דפדפן</string>
+    <string name="action_dialer">פתח את החייגן</string>
+    <string name="action_email">פתח את הדואר האלקטרני</string>
+    <string name="action_messages">פתח את אפליקציית ההודעות</string>
+    <!-- Screen off gestures -->
+    <string name="screen_off_gestures_manage_summary">ניהול מחוות כאשר המסך כבוי</string>
+    <!-- Swipe/tap/long tap -->
+    <string name="swipe_left_dlg_title">בחר פעולה עבור החלקה לשמאל</string>
+    <string name="swipe_right_dlg_title">בחר פעולה עבור החלקה ימינה</string>
+    <string name="swipe_up_dlg_title">בחר פעולה עבור החלקה למעלה</string>
+    <string name="swipe_down_dlg_title">בחר פעולה עבור החלקה למטה</string>
+    <string name="tap_title">לחיצה יחידה</string>
+    <string name="double_tap_title">לחיצה כפולה</string>
+    <string name="long_tap_title">לחיצה ארוכה</string>
+    <string name="tap_dlg_title">בחר פעולה עבור לחיצה בודדת</string>
+    <string name="double_tap_dlg_title">בחר פעולה עבור לחיצה כפולה</string>
+    <string name="long_tap_dlg_title">בחר פעולה עבור לחיצה ארוכה</string>
+    <!-- Double tap to wake -->
+    <string name="tap_to_wake">הקש כדי להעיר</string>
+    <string name="tap_to_wake_summary">הקש פעמיים בנקודה כלשהי במסך כדי להעיר את המכשיר</string>
+    <!-- Proximity sensor -->
+    <string name="allow_proximity_sensor_title">אפשר חיישן קרבה</string>
+    <string name="allow_proximity_sensor_summary">בדוק את חיישן הקרבה לפני ביצוע הפעולה</string>
+    <!-- OnePlus - General -->
+    <string name="advanced_settings">הגדרות OnePlus</string>
+    <string name="advanced_settings_summary">הגדרות אישיות למכשיר שלך</string>
+    <!-- OnePlus - Gestures -->
+    <string name="touchscreen_camera_gesture_summary">צייר מעגל להפעלת המצלמה</string>
+    <string name="touchscreen_flashlight_v_gesture_summary">צייר V להפעלת/כיבוי הפנס</string>
+    <string name="touchscreen_music_gesture_summary">השתמש במחוות כדי לשלוט בנגן מוזיקה  \n
+    • שתי אצבעות אנכית \"||\" כדי להמשיך/להשהות\n
+    • צייר חץ שמאלי \"&#60;\" כדי לחזור אחורה\n
+    • צייר חץ ימני \"&#62;\" כדי להזיז קדימה</string>
+    <!-- OnePlus - Alert slider settings -->
+    <string name="slider_dashboard_summary">מחוון שליטה</string>
+    <string name="notification_slider_selection_dialog_title">פעולה</string>
+    <string name="notification_slider_top_position">מיקום עליון</string>
+    <string name="notification_slider_middle_position">מיקום אמצעי</string>
+    <string name="notification_slider_bottom_position">מיקום תחתון</string>
+    <string name="notification_slider_mode_total_silence">שקט מוחלט</string>
+    <string name="notification_slider_mode_priority_only">עדיפות בלבד</string>
+    <string name="notification_slider_mode_vibration">רטט</string>
+    <string name="notification_slider_mode_none">ללא</string>
+</resources>

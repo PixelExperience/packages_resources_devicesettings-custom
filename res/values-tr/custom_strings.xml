@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- Dirac settings -->
+    <string name="dirac_title">Mi Ses Yükseltici</string>
+    <string name="dirac_summary">Ses kalitesini optimize eder</string>
+    <string name="dirac_headset_title">Kulaklık türünü seçin</string>
+    <string name="dirac_preset_title">Bir ön ayar seçin</string>
+    <!-- Dirac settings: Hi-Fi -->
+    <string name="dirac_hifi_title">Hi-Fi</string>
+    <string name="dirac_hifi_summary">Gürültüyü ve bozulmaları azaltır ve ses kalitesinin arttırır</string>
+    <!-- Dirac settings: Headset types -->
+    <string name="dirac_headset_default">Varsayılan</string>
+    <string name="dirac_headset_earbuds">Mi Kulaklıklar</string>
+    <string name="dirac_headset_in_ear_2013">Mi Kulak İçi (2013)</string>
+    <string name="dirac_headset_piston_1">Mi Piston-1</string>
+    <string name="dirac_headset_general">Genel</string>
+    <string name="dirac_headset_general_inear">Genel Kulak İçi</string>
+    <string name="dirac_headset_piston_basic">Temel Sürüm</string>
+    <string name="dirac_headset_piston_2">Mi Piston-2</string>
+    <string name="dirac_headset_piston_standard">Standart Sürüm</string>
+    <string name="dirac_headset_headphone">Mi Kulaklıklar</string>
+    <string name="dirac_headset_piston_youth">Gençlik Sürümü</string>
+    <string name="dirac_headset_piston_color">Renkli Sürüm</string>
+    <string name="dirac_headset_in_ear">Mi Kulak İçi</string>
+    <string name="dirac_headset_capsule">Mi Kapsül</string>
+    <string name="dirac_headset_in_ear_pro">Mi Kulak İçi Pro</string>
+    <string name="dirac_headset_comfort">Mi Konfor</string>
+    <string name="dirac_headset_reduction_noise">Mi Gürültü Engelleme Type-C</string>
+    <string name="dirac_headset_cancelling">Mi Gürültü Engelleme 3.5mm</string>
+    <string name="dirac_headset_half_in_ear">Mi Yarı Kulak İçi</string>
+    <string name="dirac_headset_in_ear2">Mi Kulak İçi 2</string>
+    <string name="dirac_headset_earphone_basic">Mi Kulaklık Temel</string>
+    <string name="dirac_headset_earphone">Mi Kulaklıklar</string>
+    <!-- Dirac settings: Equalizer presets -->
+    <string name="dirac_preset_default">Varsayılan</string>
+    <string name="dirac_preset_rock">Rock</string>
+    <string name="dirac_preset_jazz">Caz</string>
+    <string name="dirac_preset_pop">Pop</string>
+    <string name="dirac_preset_classical">Klasik</string>
+    <string name="dirac_preset_hiphop">Hip Hop</string>
+    <string name="dirac_preset_blues">Blues</string>
+    <string name="dirac_preset_electronic">Elektronik</string>
+    <string name="dirac_preset_country">Yerel</string>
+    <string name="dirac_preset_dance">Dans</string>
+    <string name="dirac_preset_metal">Metal</string>
+    <!-- Popup camera settings -->
+    <string name="popup_led_title">Görsel efekt</string>
+    <string name="popup_led_summary">Ön kamera belirip geri çekildiğinde animasyonu göster</string>
+    <string name="popup_title">Ön kamera efektleri</string>
+    <string name="popup_title_muqin">Ksilofon</string>
+    <string name="popup_title_yingyan">Akbaba</string>
+    <string name="popup_title_mofa">Sihir</string>
+    <string name="popup_title_jijia">Mekanik</string>
+    <string name="popup_title_chilun">Dişli</string>
+    <string name="popup_title_cangmen">Kabin kapısı</string>
+    <!-- Popup camera strings -->
+    <string name="popup_camera_tip">Dikkat</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">Ön kamera birden çok denemede kapatılamadı. Kamerayı kalibre etmeyi deneyin.</string>
+    <string name="popup_camera_popup_failed_times_calibrate">Ön kamera birden çok denemede açılamadı. Kamerayı kalibre etmeyi deneyin.</string>
+    <string name="popup_camera_calibrate_running">Ön kamera kalibrasyon sırasında kullanılamaz.</string>
+    <string name="popup_camera_calibrate_now">Kalibre et</string>
+    <string name="popup_camera_calibrate_failed">Kalibre edilemedi</string>
+    <string name="popup_camera_calibrate_success">Başarıyla kalibre edildi. Ön kamerayı şimdi açabilirsiniz.</string>
+    <string name="stop_operate_camera_frequently">Ön kamerayı çok sık açıyorsunuz.</string>
+    <string name="takeback_camera_front_failed">Ön kamera kapatılamadı. Tekrar deneyin.</string>
+    <string name="popup_camera_front_failed">Ön kamera açılamadı. Tekrar deneyin.</string>
+    <string name="popup_camera_proximity_obstructed">Ön kamerayı açmak için elinizi yakınlık sensöründen uzaklaştırın...</string>
+    <!-- Title and summary -->
+    <string name="moto_actions_title">Moto Eylemleri</string>
+    <!-- Device gestures -->
+    <string name="device_gestures_title">Cihaz hareketleri</string>
+    <string name="device_gestures_summary">Cihaz hareketlerini yönetin</string>
+    <!-- Ambient display gestures -->
+    <string name="ambient_display_manage_summary">Ortam ekranı hareketlerini yönetin</string>
+    <!-- Fingerprint gestures -->
+    <string name="fingerprint_gestures_title">Parmak izi hareketleri</string>
+    <string name="fingerprint_gestures_summary">Parmak izi hareketlerini kullanın</string>
+    <string name="fingerprint_gestures_manage_summary">Parmak izi hareketlerini yönetin</string>
+    <string name="fingerprint_actions_screenon">Açık ekran eylemleri</string>
+    <!-- Fingerprint gestures screen off -->
+    <string name="fingerprint_gestures_screenoff_title">Ekran kapalıyken parmak izi hareketleri</string>
+    <string name="fingerprint_gestures_screenoff_summary">Ekran kapalıyken parmak izi hareketlerini kullan.\n\nBu özelliği kullanmak için parmak izinin kilit açma özelliği devre dışı bırakılmalıdır.</string>
+    <string name="fingerprint_actions_screenoff">Kapalı ekran etkinlikleri</string>
+    <!-- Actions -->
+    <string name="action_home">Ana ekran</string>
+    <string name="action_power">Ekranı aç/kapat</string>
+    <string name="action_wake">Uyandır</string>
+    <string name="action_back">Geri</string>
+    <string name="action_recents">Son kullanılanlar</string>
+    <string name="action_last_app">Son uygulama</string>
+    <string name="action_volume_up">Sesi aç</string>
+    <string name="action_volume_down">Sesi kıs</string>
+    <string name="action_voice_assistant">Sesli asistan</string>
+    <string name="action_play_pause">Oynat/duraklat</string>
+    <string name="action_previous_track">Önceki parça</string>
+    <string name="action_next_track">Sonraki parça</string>
+    <string name="action_flashlight">El fenerini aç/kapat</string>
+    <string name="action_camera">Kamerayı aç</string>
+    <string name="action_screenshot">Ekran görüntüsü al</string>
+    <string name="action_browser">Tarayıcıyı aç</string>
+    <string name="action_dialer">Çeviriciyi aç</string>
+    <string name="action_email">E-posta uygulamasını aç</string>
+    <string name="action_messages">Mesaj uygulamasını aç</string>
+    <!-- Screen off gestures -->
+    <string name="screen_off_gestures_manage_summary">Kapalı ekran hareketlerini yönetin</string>
+    <!-- Swipe/tap/long tap -->
+    <string name="swipe_left_dlg_title">Sola kaydırma için eylem seçin</string>
+    <string name="swipe_right_dlg_title">Sağa kaydırma için eylem seçin</string>
+    <string name="swipe_up_dlg_title">Yukarı kaydırma için eylem seçin</string>
+    <string name="swipe_down_dlg_title">Aşağı kaydırma için eylem seçin</string>
+    <string name="tap_title">Tek dokunma</string>
+    <string name="double_tap_title">Çift dokunma</string>
+    <string name="long_tap_title">Uzun basma</string>
+    <string name="tap_dlg_title">Tek dokunma için eylem seçin</string>
+    <string name="double_tap_dlg_title">Çift dokunma için eylem seçin</string>
+    <string name="long_tap_dlg_title">Uzun dokunma için eylem seçin</string>
+    <!-- Double tap to wake -->
+    <string name="tap_to_wake">Uyandırmak için dokunun</string>
+    <string name="tap_to_wake_summary">Cihazı uyandırmak için ekranda herhangi bir yere iki kez dokunun</string>
+    <!-- Proximity sensor -->
+    <string name="allow_proximity_sensor_title">Yakınlık sensörüne izin ver</string>
+    <string name="allow_proximity_sensor_summary">İşlemi gerçekleştirmeden önce yakınlık sensörünü kontrol eder</string>
+    <!-- OnePlus - General -->
+    <string name="advanced_settings">OnePlus Ayarları</string>
+    <string name="advanced_settings_summary">Cihazınız için özelleştirilmiş ayarlar</string>
+    <!-- OnePlus - Gestures -->
+    <string name="touchscreen_camera_gesture_summary">Kamerayı açmak için daire çiz</string>
+    <string name="touchscreen_flashlight_v_gesture_summary">El fenerini açıp kapatmak için \'V\' çizin</string>
+    <string name="touchscreen_music_gesture_summary">Müziği kontrol etmek için hareketleri kullanın\n
+    • Durdurmak/oynatmak için iki parmağınızla dikey \"||\" çizin\n
+    • Önceki parça için \"&#60;\" çizin\n
+    • Sonraki parça için \"&#62;\" çizin</string>
+    <!-- OnePlus - Alert slider settings -->
+    <string name="slider_dashboard_summary">Kaydırıcı kontrolü</string>
+    <string name="notification_slider_selection_dialog_title">Eylem</string>
+    <string name="notification_slider_top_position">Üst konum</string>
+    <string name="notification_slider_middle_position">Orta konum</string>
+    <string name="notification_slider_bottom_position">Alt konum</string>
+    <string name="notification_slider_mode_total_silence">Tamamen sessiz</string>
+    <string name="notification_slider_mode_priority_only">Sadece öncelikli olanlar</string>
+    <string name="notification_slider_mode_vibration">Titreşim</string>
+    <string name="notification_slider_mode_none">Hiçbiri</string>
+</resources>

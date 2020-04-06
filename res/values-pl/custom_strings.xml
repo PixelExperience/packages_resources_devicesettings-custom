@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- Dirac settings -->
+    <string name="dirac_title">Ulepszanie dźwięku Mi</string>
+    <string name="dirac_summary">Optymalizuj jakość dźwięku</string>
+    <string name="dirac_headset_title">Wybierz typ słuchawek</string>
+    <string name="dirac_preset_title">Wybierz konfigurację</string>
+    <!-- Dirac settings: Hi-Fi -->
+    <string name="dirac_hifi_title">Dźwięk Hi-Fi</string>
+    <string name="dirac_hifi_summary">Redukuje szumy i zniekształcenia oraz poprawia jakość dźwięku</string>
+    <!-- Dirac settings: Headset types -->
+    <string name="dirac_headset_default">Domyślne</string>
+    <string name="dirac_headset_earbuds">Douszne Mi</string>
+    <string name="dirac_headset_in_ear_2013">Mi dokanałowe (2013)</string>
+    <string name="dirac_headset_piston_1">Mi Piston 1</string>
+    <string name="dirac_headset_general">Douszne</string>
+    <string name="dirac_headset_general_inear">Dokanałowe</string>
+    <string name="dirac_headset_piston_basic">Edycja podstawowa</string>
+    <string name="dirac_headset_piston_2">Mi Piston 2</string>
+    <string name="dirac_headset_piston_standard">Edycja standardowa</string>
+    <string name="dirac_headset_headphone">Słuchawki Mi</string>
+    <string name="dirac_headset_piston_youth">Edycja Youth</string>
+    <string name="dirac_headset_piston_color">Edycja kolorowa</string>
+    <string name="dirac_headset_in_ear">Mi Dokanałowe</string>
+    <string name="dirac_headset_capsule">Mi Capsule</string>
+    <string name="dirac_headset_in_ear_pro">Mi Dokanałowe Pro</string>
+    <string name="dirac_headset_comfort">Mi Comfort</string>
+    <string name="dirac_headset_reduction_noise">Mi z redukcją szumów (Typ-C)</string>
+    <string name="dirac_headset_cancelling">Mi z redukcją szumów (3.5mm)</string>
+    <string name="dirac_headset_half_in_ear">Mi częściowo dokanałowe</string>
+    <string name="dirac_headset_in_ear2">Mi dokanałowe 2</string>
+    <string name="dirac_headset_earphone_basic">Słuchawki douszne Mi Basic</string>
+    <string name="dirac_headset_earphone">Słuchawki douszne Mi</string>
+    <!-- Dirac settings: Equalizer presets -->
+    <string name="dirac_preset_default">Domyślny</string>
+    <string name="dirac_preset_rock">Rock</string>
+    <string name="dirac_preset_jazz">Jazz</string>
+    <string name="dirac_preset_pop">Pop</string>
+    <string name="dirac_preset_classical">Muzyka poważna</string>
+    <string name="dirac_preset_hiphop">Hip Hop</string>
+    <string name="dirac_preset_blues">Blues</string>
+    <string name="dirac_preset_electronic">Elektroniczna</string>
+    <string name="dirac_preset_country">Country</string>
+    <string name="dirac_preset_dance">Dance</string>
+    <string name="dirac_preset_metal">Metal</string>
+    <!-- Popup camera settings -->
+    <string name="popup_led_title">Efekt wizualny</string>
+    <string name="popup_led_summary">Pokaż animację podczas wysuwania i zamykania przedniego aparatu</string>
+    <string name="popup_title">Efekty przedniego aparatu</string>
+    <string name="popup_title_muqin">Ksylofon</string>
+    <string name="popup_title_yingyan">Kondor</string>
+    <string name="popup_title_mofa">Magia</string>
+    <string name="popup_title_jijia">Mecha</string>
+    <string name="popup_title_chilun">Koło zębate</string>
+    <string name="popup_title_cangmen">Drzwi szafy</string>
+    <!-- Popup camera strings -->
+    <string name="popup_camera_tip">Uwaga</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">Nie udało się zamknąć przedniego aparatu kilka razy z rzędu. Spróbuj go skalibrować.</string>
+    <string name="popup_camera_popup_failed_times_calibrate">Nie udało się otworzyć przedniego aparatu kilka razy z rzędu. Spróbuj go skalibrować.</string>
+    <string name="popup_camera_calibrate_running">Przedni aparat nie może być używany podczas kalibracji.</string>
+    <string name="popup_camera_calibrate_now">Skalibruj</string>
+    <string name="popup_camera_calibrate_failed">Nie udało się skalibrować</string>
+    <string name="popup_camera_calibrate_success">Pomyślnie skalibrowano. Możesz otworzyć teraz przedni aparat.</string>
+    <string name="stop_operate_camera_frequently">Otwierasz przedni aparat zbyt często.</string>
+    <string name="takeback_camera_front_failed">Nie można zamknąć przedniego aparatu. Spróbuj ponownie.</string>
+    <string name="popup_camera_front_failed">Nie można otworzyć przedniego aparatu. Spróbuj ponownie.</string>
+    <string name="popup_camera_proximity_obstructed">Aby otworzyć przednią kamerę odsuń rękę od czujnika zbliżeniowego...</string>
+    <!-- Title and summary -->
+    <string name="moto_actions_title">Akcje Moto</string>
+    <!-- Device gestures -->
+    <string name="device_gestures_title">Gesty urządzenia</string>
+    <string name="device_gestures_summary">Ustawienia gestów</string>
+    <!-- Ambient display gestures -->
+    <string name="ambient_display_manage_summary">Opcje ekranu dostosowanego do otoczenia</string>
+    <!-- Fingerprint gestures -->
+    <string name="fingerprint_gestures_title">Gesty czytnika linii papilarnych</string>
+    <string name="fingerprint_gestures_summary">Używanie gestów czytnika linii papilarnych</string>
+    <string name="fingerprint_gestures_manage_summary">Gesty czytnika linii papilarnych</string>
+    <string name="fingerprint_actions_screenon">Akcje gdy ekran włączony</string>
+    <!-- Fingerprint gestures screen off -->
+    <string name="fingerprint_gestures_screenoff_title">Gesty czytnika linii papilarnych gdy ekran wyłączony</string>
+    <string name="fingerprint_gestures_screenoff_summary">Uzywaj gestów czytnika linii papilarnych gdy ekran wyłączony.\n\n Funkcja odblokowania za pomocą czytnika musi być wyłączona.</string>
+    <string name="fingerprint_actions_screenoff">Akcje gdy ekran wyłączony</string>
+    <!-- Actions -->
+    <string name="action_home">Strona główna</string>
+    <string name="action_power">Ekran wł/wył</string>
+    <string name="action_wake">Wybudzanie</string>
+    <string name="action_back">Wstecz</string>
+    <string name="action_recents">Ostatnie</string>
+    <string name="action_last_app">Ostatnia aplikacja</string>
+    <string name="action_volume_up">Zwiększ głośność</string>
+    <string name="action_volume_down">Zmniejsz głośność</string>
+    <string name="action_voice_assistant">Asystent głosowy</string>
+    <string name="action_play_pause">Odtwarzaj/Wstrzymaj</string>
+    <string name="action_previous_track">Poprzedni utwór</string>
+    <string name="action_next_track">Następny utwór</string>
+    <string name="action_flashlight">Latarka zał/wył</string>
+    <string name="action_camera">Otwórz kamerę</string>
+    <string name="action_screenshot">Zrzut Ekranu</string>
+    <string name="action_browser">Otwórz przeglądarkę</string>
+    <string name="action_dialer">Otwórz wybieranie numerów</string>
+    <string name="action_email">Otwórz aplikację poczty</string>
+    <string name="action_messages">Otwórz aplikację wiadomości</string>
+    <!-- Screen off gestures -->
+    <string name="screen_off_gestures_manage_summary">Zarządzaj gestami przy wyłączonym ekranie</string>
+    <!-- Swipe/tap/long tap -->
+    <string name="swipe_left_dlg_title">Akcja dla przesunięcia w lewo</string>
+    <string name="swipe_right_dlg_title">Akcja dla przesunięcia w prawo</string>
+    <string name="swipe_up_dlg_title">Akcja dla przesunięcia w górę</string>
+    <string name="swipe_down_dlg_title">Akcja dla przesunięcia w dół</string>
+    <string name="tap_title">Pojedyncze dotknięcie</string>
+    <string name="double_tap_title">Akcja dla podwójnego tapnięcia</string>
+    <string name="long_tap_title">Długie naciśnięcie</string>
+    <string name="tap_dlg_title">Akcja dla pojedynczego tapnięcia</string>
+    <string name="double_tap_dlg_title">Akcja dla podwójnego tapnięcia</string>
+    <string name="long_tap_dlg_title">Akcja dla długiego naciśnięcia</string>
+    <!-- Double tap to wake -->
+    <string name="tap_to_wake">Kliknij, by wybudzić</string>
+    <string name="tap_to_wake_summary">Kliknij dwukrotnie w dowolnym miejscu na ekranie, by wybudzić urządzenie</string>
+    <!-- Proximity sensor -->
+    <string name="allow_proximity_sensor_title">Włącz czujnik zbliżeniowy</string>
+    <string name="allow_proximity_sensor_summary">Sprawdź czujnik zbliżeniowy, przed wykonaniem akcji</string>
+    <!-- OnePlus - General -->
+    <string name="advanced_settings">Ustawienia OnePlus</string>
+    <string name="advanced_settings_summary">Niestandardowe ustawienia urządzenia</string>
+    <!-- OnePlus - Gestures -->
+    <string name="touchscreen_camera_gesture_summary">Narysuj koło, aby włączyć aparat</string>
+    <string name="touchscreen_flashlight_v_gesture_summary">Narysuj \'V\', aby włączyć lub wyłączyć latarkę</string>
+    <string name="touchscreen_music_gesture_summary">Użyj gestów do kontrolowania odtwarzacza muzyki\n
+• Przesuń dwa palce pionowo, aby odtworzyć/zapauzować\n
+• Narysuj strzałkę w lewo  \'&#60;\', aby odtworzyć poprzedni utwór\n
+• Narysuj strzałkę w prawo \'&#62;\', aby odtworzyć następny utwór</string>
+    <!-- OnePlus - Alert slider settings -->
+    <string name="slider_dashboard_summary">Kontrola suwaka</string>
+    <string name="notification_slider_selection_dialog_title">Czynność</string>
+    <string name="notification_slider_top_position">Na górze</string>
+    <string name="notification_slider_middle_position">Na środku</string>
+    <string name="notification_slider_bottom_position">Na dole</string>
+    <string name="notification_slider_mode_total_silence">Całkowite wyciszenie</string>
+    <string name="notification_slider_mode_priority_only">Tylko priorytetowe</string>
+    <string name="notification_slider_mode_vibration">Wibracje</string>
+    <string name="notification_slider_mode_none">Żaden</string>
+</resources>

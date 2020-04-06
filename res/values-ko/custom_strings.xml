@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- Dirac settings -->
+    <string name="dirac_title">Mi 사운드 강화</string>
+    <string name="dirac_summary">음질 최적화</string>
+    <string name="dirac_headset_title">헤드폰 유형 선택</string>
+    <string name="dirac_preset_title">프리셋 선택</string>
+    <!-- Dirac settings: Hi-Fi -->
+    <string name="dirac_hifi_title">Hi-Fi 오디오</string>
+    <string name="dirac_hifi_summary">노이즈와 왜곡을 줄이고 음질을 향상시킵니다.</string>
+    <!-- Dirac settings: Headset types -->
+    <string name="dirac_headset_default">기본</string>
+    <string name="dirac_headset_earbuds">Mi 이어버드</string>
+    <string name="dirac_headset_in_ear_2013">Mi 인이어 (2013)</string>
+    <string name="dirac_headset_piston_1">Mi 피스톤 1</string>
+    <string name="dirac_headset_general">일반</string>
+    <string name="dirac_headset_general_inear">일반 이어폰</string>
+    <string name="dirac_headset_piston_basic">기본 에디션</string>
+    <string name="dirac_headset_piston_2">Mi 피스톤 2</string>
+    <string name="dirac_headset_piston_standard">표준 에디션</string>
+    <string name="dirac_headset_headphone">Mi 헤드폰</string>
+    <string name="dirac_headset_piston_youth">청소년 에디션</string>
+    <string name="dirac_headset_piston_color">컬러 에디션</string>
+    <string name="dirac_headset_in_ear">Mi 이어폰</string>
+    <string name="dirac_headset_capsule">Mi 캡슐</string>
+    <string name="dirac_headset_in_ear_pro">Mi 인이어 프로</string>
+    <string name="dirac_headset_comfort">Mi Comfort</string>
+    <string name="dirac_headset_reduction_noise">Mi 노이즈 캔슬링 Type-C</string>
+    <string name="dirac_headset_cancelling">Mi 노이즈 캔슬링 3.5mm</string>
+    <string name="dirac_headset_half_in_ear">Mi 하프 인이어</string>
+    <string name="dirac_headset_in_ear2">Mi 인이어 2</string>
+    <string name="dirac_headset_earphone_basic">Mi 이어폰 베이직</string>
+    <string name="dirac_headset_earphone">Mi 이어폰</string>
+    <!-- Dirac settings: Equalizer presets -->
+    <string name="dirac_preset_default">기본</string>
+    <string name="dirac_preset_rock">6529</string>
+    <string name="dirac_preset_jazz">재즈</string>
+    <string name="dirac_preset_pop">팝</string>
+    <string name="dirac_preset_classical">클래식</string>
+    <string name="dirac_preset_hiphop">힙합</string>
+    <string name="dirac_preset_blues">블루스</string>
+    <string name="dirac_preset_electronic">일렉트로닉</string>
+    <string name="dirac_preset_country">컨트리</string>
+    <string name="dirac_preset_dance">댄스</string>
+    <string name="dirac_preset_metal">메탈</string>
+    <!-- Popup camera settings -->
+    <string name="popup_led_title">시각 효과</string>
+    <string name="popup_led_summary">전면 카메라를 열고 닫을 때 애니메이션 표시</string>
+    <string name="popup_title">전면 카메라 효과</string>
+    <string name="popup_title_muqin">실로폰</string>
+    <string name="popup_title_yingyan">콘도르</string>
+    <string name="popup_title_mofa">매직</string>
+    <string name="popup_title_jijia">메카</string>
+    <string name="popup_title_chilun">기어휠</string>
+    <string name="popup_title_cangmen">캐빈도어</string>
+    <!-- Popup camera strings -->
+    <string name="popup_camera_tip">주의</string>
+    <string name="popup_camera_takeback_failed_times_calibrate">전면 카메라를 여러번 열지 못했습니다. 카메라 보정을 시도해보세요.</string>
+    <string name="popup_camera_popup_failed_times_calibrate">전면 카메라를 여러번 열지 못했습니다. 카메라 보정을 시도해보세요.</string>
+    <string name="popup_camera_calibrate_running">보정 중에는 전면 카메라를 사용할 수 없습니다.</string>
+    <string name="popup_camera_calibrate_now">보정</string>
+    <string name="popup_camera_calibrate_failed">보정 실패</string>
+    <string name="popup_camera_calibrate_success">보정 완료. 이제 전면 카메라를 사용하실 수 있습니다.</string>
+    <string name="stop_operate_camera_frequently">전면 카메라를 너무 자주 실행하고 있습니다.</string>
+    <string name="takeback_camera_front_failed">전면 카메라를 닫을 수 없습니다. 다시 시도해보세요.</string>
+    <string name="popup_camera_front_failed">전면 카메라 열기 실패. 다시 시도하세요.</string>
+    <string name="popup_camera_proximity_obstructed">근접 센서에서 손을 떼어 전면 카메라를 엽니 다 ...</string>
+    <!-- Title and summary -->
+    <string name="moto_actions_title">모토 액션</string>
+    <!-- Device gestures -->
+    <string name="device_gestures_title">기기 제스처</string>
+    <string name="device_gestures_summary">기기 제스처 관리</string>
+    <!-- Ambient display gestures -->
+    <string name="ambient_display_manage_summary">절전 모드 자동 해제 제스처 관리</string>
+    <!-- Fingerprint gestures -->
+    <string name="fingerprint_gestures_title">지문 제스처</string>
+    <string name="fingerprint_gestures_summary">지문 제스처 사용</string>
+    <string name="fingerprint_gestures_manage_summary">지문 제스처 관리</string>
+    <string name="fingerprint_actions_screenon">화면이 켜져 있을 때의 작업</string>
+    <!-- Fingerprint gestures screen off -->
+    <string name="fingerprint_gestures_screenoff_title">화면이 꺼졌을 때 지문 제스처</string>
+    <string name="fingerprint_gestures_screenoff_summary">화면이 꺼졌을 때 지문 제스처를 사용합니다.\n\n이 기능을 사용하려면 지문 잠금 해제가 비활성화되어야 합니다.</string>
+    <string name="fingerprint_actions_screenoff">화면이 꺼져 있을 때의 작업</string>
+    <!-- Actions -->
+    <string name="action_home">홈</string>
+    <string name="action_power">화면 켜기/끄기</string>
+    <string name="action_wake">절전 모드 해제</string>
+    <string name="action_back">뒤로</string>
+    <string name="action_recents">최근 앱</string>
+    <string name="action_last_app">마지막으로 사용한 앱</string>
+    <string name="action_volume_up">볼륨 업</string>
+    <string name="action_volume_down">볼륨 다운</string>
+    <string name="action_voice_assistant">음성 어시스턴트</string>
+    <string name="action_play_pause">재생/일시 정지</string>
+    <string name="action_previous_track">이전 트랙</string>
+    <string name="action_next_track">다음 트랙</string>
+    <string name="action_flashlight">손전등 켜기/끄기</string>
+    <string name="action_camera">카메라 열기</string>
+    <string name="action_screenshot">스크린샷 찍기</string>
+    <string name="action_browser">브라우저 열기</string>
+    <string name="action_dialer">전화 열기</string>
+    <string name="action_email">이메일 앱 열기</string>
+    <string name="action_messages">메시지 앱 열기</string>
+    <!-- Screen off gestures -->
+    <string name="screen_off_gestures_manage_summary">화면이 꺼져 있을 때의 제스처 관리</string>
+    <!-- Swipe/tap/long tap -->
+    <string name="swipe_left_dlg_title">왼쪽으로 스와이프할 때의 작업 선택</string>
+    <string name="swipe_right_dlg_title">오른쪽으로 스와이프할 때의 작업 선택</string>
+    <string name="swipe_up_dlg_title">위로 스와이프할 때의 작업 선택</string>
+    <string name="swipe_down_dlg_title">아래로 스와이프할 때의 작업 선택</string>
+    <string name="tap_title">한 번 탭</string>
+    <string name="double_tap_title">두 번 탭</string>
+    <string name="long_tap_title">길게 탭</string>
+    <string name="tap_dlg_title">한 번 탭할 때의 작업 선택</string>
+    <string name="double_tap_dlg_title">두 번 탭할 때의 작업 선택</string>
+    <string name="long_tap_dlg_title">길게 탭할 때의 작업 선택</string>
+    <!-- Double tap to wake -->
+    <string name="tap_to_wake">탭하여 절전 모드 해제</string>
+    <string name="tap_to_wake_summary">화면 아무 곳이나 두 번 탭하여 기기 절전 모드 해제</string>
+    <!-- Proximity sensor -->
+    <string name="allow_proximity_sensor_title">근접 센서 사용</string>
+    <string name="allow_proximity_sensor_summary">작업을 수행하기 전에 근접 센서 확인</string>
+    <!-- OnePlus - General -->
+    <string name="advanced_settings">OnePlus 설정</string>
+    <string name="advanced_settings_summary">기기의 맞춤 설정</string>
+    <!-- OnePlus - Gestures -->
+    <string name="touchscreen_camera_gesture_summary">원을 그려 카메라 열기</string>
+    <string name="touchscreen_flashlight_v_gesture_summary">\'V\'를 그려 손전등 전환</string>
+    <string name="touchscreen_music_gesture_summary">제스처를 사용하여 음악 재생 제어 \n
+    • 두 손가락으로 수직으로 \"||\"를 그려 재생/일시 정지\n
+    • 왼쪽 화살표 \"&#60;\"를 그려 이전 트랙\n
+    • 오른쪽 화살표 \"&#62;\"를 그려 다음 트랙</string>
+    <!-- OnePlus - Alert slider settings -->
+    <string name="slider_dashboard_summary">슬라이더 제어</string>
+    <string name="notification_slider_selection_dialog_title">작업</string>
+    <string name="notification_slider_top_position">상단 위치</string>
+    <string name="notification_slider_middle_position">중간 위치</string>
+    <string name="notification_slider_bottom_position">하단 위치</string>
+    <string name="notification_slider_mode_total_silence">모두 차단</string>
+    <string name="notification_slider_mode_priority_only">중요 알림만</string>
+    <string name="notification_slider_mode_vibration">진동</string>
+    <string name="notification_slider_mode_none">없음</string>
+</resources>

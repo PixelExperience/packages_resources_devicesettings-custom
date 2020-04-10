@@ -130,6 +130,15 @@
 
     <!-- Screen off gestures -->
     <string name="screen_off_gestures_manage_summary">Manage gestures when screen is off</string>
+    <string name="screen_off_gestures_title">Screen off gestures</string>
+    <string name="screen_off_gestures_swipe_left_title">Swipe left</string>
+    <string name="screen_off_gestures_swipe_left_dlg_title">Select action for swipe left</string>
+    <string name="screen_off_gestures_swipe_right_title">Swipe right</string>
+    <string name="screen_off_gestures_swipe_right_dlg_title">Select action for swipe right</string>
+    <string name="screen_off_gestures_swipe_up_title">Swipe up</string>
+    <string name="screen_off_gestures_swipe_up_dlg_title">Select action for swipe up</string>
+    <string name="screen_off_gestures_swipe_down_title">Swipe down</string>
+    <string name="screen_off_gestures_swipe_down_dlg_title">Select action for swipe down</string>
 
     <!-- Swipe/tap/long tap -->
     <string name="swipe_left_dlg_title">Select action for swipe left</string>
@@ -142,6 +151,8 @@
     <string name="tap_dlg_title">Select action for single tap</string>
     <string name="double_tap_dlg_title">Select action for double tap</string>
     <string name="long_tap_dlg_title">Select action for long tap</string>
+    <string name="swipe_left_title">Swipe left</string>
+    <string name="swipe_right_title">Swipe right</string>
 
     <!-- Double tap to wake -->
     <string name="tap_to_wake">Tap to wake</string>
@@ -173,4 +184,8 @@
     <string name="notification_slider_mode_priority_only">Priority only</string>
     <string name="notification_slider_mode_vibration">Vibration</string>
     <string name="notification_slider_mode_none">None</string>
+
+    <!-- Haptic feedback -->
+    <string name="haptic_feedback">Haptic feedback</string>
+    <string name="haptic_feedback_summary">Vibrate when a touchscreen gesture is detected</string>
 </resources>

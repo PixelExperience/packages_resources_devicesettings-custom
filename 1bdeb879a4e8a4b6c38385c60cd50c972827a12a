@@ -1,0 +1,208 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "b869ed41_749a7b1f",
+        "filename": "res/values/custom_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 159,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2020-04-27T01:57:22Z",
+      "side": 1,
+      "message": "https://github.com/LineageOS/android_packages_resources_devicesettings/blob/lineage-17.1/res/values/strings.xml#L32",
+      "revId": "1bdeb879a4e8a4b6c38385c60cd50c972827a12a",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "951356b4_591b93c2",
+        "filename": "res/values/custom_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 160,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2020-04-27T01:57:22Z",
+      "side": 1,
+      "message": "https://github.com/PixelExperience/packages_resources_devicesettings-custom/blob/ten/res/values/custom_strings.xml#L147",
+      "revId": "1bdeb879a4e8a4b6c38385c60cd50c972827a12a",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "137df4e6_34ee2143",
+        "filename": "res/values/custom_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 161,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2020-04-27T01:57:22Z",
+      "side": 1,
+      "message": "https://github.com/PixelExperience/packages_resources_devicesettings-custom/blob/ten/res/values/custom_strings.xml#L148",
+      "revId": "1bdeb879a4e8a4b6c38385c60cd50c972827a12a",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "5f44de42_73e4c9a7",
+        "filename": "res/values/custom_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 162,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2020-04-27T01:57:22Z",
+      "side": 1,
+      "message": "https://github.com/LineageOS/android_packages_resources_devicesettings/blob/lineage-17.1/res/values/strings.xml#L44",
+      "revId": "1bdeb879a4e8a4b6c38385c60cd50c972827a12a",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "3a60052a_c169d4d0",
+        "filename": "res/values/custom_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 164,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2020-04-27T01:57:22Z",
+      "side": 1,
+      "message": "https://github.com/LineageOS/android_packages_resources_devicesettings/blob/lineage-17.1/res/values/strings.xml#L60",
+      "revId": "1bdeb879a4e8a4b6c38385c60cd50c972827a12a",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "e1588810_43921752",
+        "filename": "res/values/custom_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 165,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2020-04-27T01:57:22Z",
+      "side": 1,
+      "message": "https://github.com/LineageOS/android_packages_resources_devicesettings/blob/lineage-17.1/res/values/strings.xml#L56",
+      "revId": "1bdeb879a4e8a4b6c38385c60cd50c972827a12a",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "4117ddbd_cbe51f1d",
+        "filename": "res/values/custom_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 167,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2020-04-27T01:57:22Z",
+      "side": 1,
+      "message": "Adapt in your source",
+      "revId": "1bdeb879a4e8a4b6c38385c60cd50c972827a12a",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "f70105db_60233a66",
+        "filename": "res/values/custom_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 173,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2020-04-27T01:57:22Z",
+      "side": 1,
+      "message": "https://github.com/LineageOS/android_packages_resources_devicesettings/blob/lineage-17.1/res/values/strings.xml#L162",
+      "revId": "1bdeb879a4e8a4b6c38385c60cd50c972827a12a",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "5774246d_30f7be4d",
+        "filename": "res/values/custom_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 174,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2020-04-27T01:57:22Z",
+      "side": 1,
+      "message": "https://github.com/LineageOS/android_packages_resources_devicesettings/blob/lineage-17.1/res/values/strings.xml#L163",
+      "revId": "1bdeb879a4e8a4b6c38385c60cd50c972827a12a",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "a9519d6c_41751f67",
+        "filename": "res/values/custom_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 175,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2020-04-27T01:57:22Z",
+      "side": 1,
+      "message": "https://github.com/LineageOS/android_packages_resources_devicesettings/blob/lineage-17.1/res/values/strings.xml#L164",
+      "revId": "1bdeb879a4e8a4b6c38385c60cd50c972827a12a",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "2c3482a0_3fd4f503",
+        "filename": "res/values/custom_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 176,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2020-04-27T01:57:22Z",
+      "side": 1,
+      "message": "https://github.com/LineageOS/android_packages_resources_devicesettings/blob/lineage-17.1/res/values/strings.xml#L36",
+      "revId": "1bdeb879a4e8a4b6c38385c60cd50c972827a12a",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "7a12e1dc_05c91d00",
+        "filename": "res/values/custom_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 177,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2020-04-27T01:57:22Z",
+      "side": 1,
+      "message": "https://github.com/LineageOS/android_packages_resources_devicesettings/blob/lineage-17.1/res/values/strings.xml#L37",
+      "revId": "1bdeb879a4e8a4b6c38385c60cd50c972827a12a",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a",
+      "unresolved": true
+    }
+  ]
+}

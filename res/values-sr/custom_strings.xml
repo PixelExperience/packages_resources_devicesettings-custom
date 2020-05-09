@@ -79,6 +79,7 @@
     <string name="stop_operate_camera_frequently">Превише често отварате предњу камеру.</string>
     <string name="takeback_camera_front_failed">Није затворена предња камера. Покушајте опет.</string>
     <string name="popup_camera_front_failed">Није отворена предња камера. Покушајте опет.</string>
+    <string name="popup_camera_proximity_obstructed">Померите руку са сензора близине да се отвори предња камера...</string>
     <!-- Title and summary -->
     <string name="moto_actions_title">Мото Акције</string>
     <!-- Device gestures -->

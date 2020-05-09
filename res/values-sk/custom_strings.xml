@@ -79,6 +79,7 @@
     <string name="stop_operate_camera_frequently">Prepínate medzi kamera príliš rýchlo.</string>
     <string name="takeback_camera_front_failed">Nebolo možné zatvoriť prednú kameru.</string>
     <string name="popup_camera_front_failed">Nebolo možné otvoriť prednú kameru.</string>
+    <string name="popup_camera_proximity_obstructed">Ak chcete spustiť predný fotoaparát, odstráňte ruku zo snímača priblíženia...</string>
     <!-- Title and summary -->
     <string name="moto_actions_title">Akcie Moto</string>
     <!-- Device gestures -->

@@ -79,6 +79,7 @@
     <string name="stop_operate_camera_frequently">Obriu la càmera frontal amb massa freqüència.</string>
     <string name="takeback_camera_front_failed">No s’ha pogut tancar la càmera frontal. Proveu-ho de nou.</string>
     <string name="popup_camera_front_failed">No s’ha pogut obrir la càmera frontal. Proveu-ho de nou.</string>
+    <string name="popup_camera_proximity_obstructed">Traieu la mà del sensor de proximitat per obrir la càmera frontal...</string>
     <!-- Title and summary -->
     <string name="moto_actions_title">Accions Moto</string>
     <!-- Device gestures -->
@@ -100,6 +101,7 @@
     <string name="action_power">Pantalla encesa/apagada</string>
     <string name="action_wake">Desperta</string>
     <string name="action_back">Enrere</string>
+    <string name="action_recents">Recents</string>
     <string name="action_last_app">Última aplicació</string>
     <string name="action_volume_up">Pujar el volum</string>
     <string name="action_volume_down">Baixar el volum</string>

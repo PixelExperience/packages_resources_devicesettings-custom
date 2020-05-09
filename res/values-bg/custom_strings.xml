@@ -72,13 +72,16 @@
     <string name="popup_camera_tip">Внимание</string>
     <string name="popup_camera_takeback_failed_times_calibrate">Неуспешен опит за заттваряне на селфи камерата многократно. Опитайте да калибрирате камерата.</string>
     <string name="popup_camera_popup_failed_times_calibrate">Неуспешен опит за отваряне на селфи камерата многократно. Опитайте да калибрирате камерата.</string>
+    <string name="popup_camera_calibrate_running">Предната камера не може да бъде изпозлване по време на калибриране.</string>
     <string name="popup_camera_calibrate_now">Калибриране</string>
     <string name="popup_camera_calibrate_failed">Не може да се калибрира</string>
     <string name="popup_camera_calibrate_success">Калибрирането е успешно. Може да отворите камерата сега.</string>
     <string name="stop_operate_camera_frequently">Вие стартирате предната камера твърде често.</string>
     <string name="takeback_camera_front_failed">Не може да се затвори селфи камерата. Опитайте отново.</string>
     <string name="popup_camera_front_failed">Не може да се отвори селфи камерата. Опитайте отново.</string>
+    <string name="popup_camera_proximity_obstructed">Преместете си ръката от сензора за близост за да отворте предната камера...</string>
     <!-- Title and summary -->
+    <string name="moto_actions_title">Moto Actions</string>
     <!-- Device gestures -->
     <string name="device_gestures_title">Жестове на устройството</string>
     <string name="device_gestures_summary">Управление на жестовете на устройството</string>
@@ -136,5 +139,20 @@
     <string name="advanced_settings">OnePlus настройки</string>
     <string name="advanced_settings_summary">Потребителски настройки за устройството ви</string>
     <!-- OnePlus - Gestures -->
+    <string name="touchscreen_camera_gesture_summary">Начертайте кръг за да включите камерата</string>
+    <string name="touchscreen_flashlight_v_gesture_summary">Начертайте \"V\" за включване и изключване на фенерчето</string>
+    <string name="touchscreen_music_gesture_summary">Контролирайте музиката чрез жестове \n
+    • Плъзнете два пръста вертикално \"||\" за пускане/пауза\n
+    • Плъзнете наляво \"&#60;\" за предходната песен\n
+    • Плъзнете надясно \"&#62;\" за следващата песен</string>
     <!-- OnePlus - Alert slider settings -->
+    <string name="slider_dashboard_summary">Контрол на слайдера</string>
+    <string name="notification_slider_selection_dialog_title">Действие</string>
+    <string name="notification_slider_top_position">Най-горна позиция</string>
+    <string name="notification_slider_middle_position">Средна позиция</string>
+    <string name="notification_slider_bottom_position">Най-ниска позиция</string>
+    <string name="notification_slider_mode_total_silence">Пълна тишина</string>
+    <string name="notification_slider_mode_priority_only">Само с приоритет</string>
+    <string name="notification_slider_mode_vibration">Вибрация</string>
+    <string name="notification_slider_mode_none">Няма</string>
 </resources>

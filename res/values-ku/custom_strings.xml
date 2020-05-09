@@ -74,6 +74,12 @@
     <string name="popup_camera_popup_failed_times_calibrate">Couldn\'t open front camera multiple times. Try calibrating the camera.</string>
     <string name="popup_camera_calibrate_running">Front camera cannot be used during calibration.</string>
     <string name="popup_camera_calibrate_now">Calibrate</string>
+    <string name="popup_camera_calibrate_failed">ناتوانرێ چاکبکرێت</string>
+    <string name="popup_camera_calibrate_success">بەسەرکەوتوویی چاککرا، ئێستا دەتوانی کامێرای پێشەوە بکەیتەوە.</string>
+    <string name="stop_operate_camera_frequently">تۆ زۆر بەخێرایی کامێراکە دەکەیتەوە</string>
+    <string name="takeback_camera_front_failed">کامێرای پێشەوە دانەخرا، هەوڵبدەرەوە.</string>
+    <string name="popup_camera_front_failed">کامێرای پێشەوە نەکرایەوە، هەوڵبدەرەوە.</string>
+    <string name="popup_camera_proximity_obstructed">دەستت لە نزیکی هەستەوەرەکە دووربخەرەوە بۆ کردنەوەی کامێرای پێشەوە</string>
     <!-- Title and summary -->
     <string name="moto_actions_title">کردارەکانی مۆتۆ</string>
     <!-- Device gestures -->

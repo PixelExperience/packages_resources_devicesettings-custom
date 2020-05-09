@@ -79,6 +79,7 @@
     <string name="stop_operate_camera_frequently">Izgleda da mjenjate između kamera previše često.</string>
     <string name="takeback_camera_front_failed">Ne mogu zatvoriti prednju kameru. Pokušajte ponovno.</string>
     <string name="popup_camera_front_failed">Ne mogu otvoriti prednju kameru. Pokušajte ponovno.</string>
+    <string name="popup_camera_proximity_obstructed">Pomjerite ruku sa senzora blizine za otvaranje prednje kamere...</string>
     <!-- Title and summary -->
     <string name="moto_actions_title">Moto Akcije</string>
     <!-- Device gestures -->

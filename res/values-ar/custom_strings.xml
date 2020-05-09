@@ -151,7 +151,7 @@
     <string name="notification_slider_top_position">الموضع العلوي</string>
     <string name="notification_slider_middle_position">الموضع الوسطي</string>
     <string name="notification_slider_bottom_position">الموضع السفلي</string>
-    <string name="notification_slider_mode_total_silence">صمت تام</string>
+    <string name="notification_slider_mode_total_silence">كتم الصوت تماماً</string>
     <string name="notification_slider_mode_priority_only">الأولوية فقط</string>
     <string name="notification_slider_mode_vibration">إهتزاز</string>
     <string name="notification_slider_mode_none">لا شيء</string>

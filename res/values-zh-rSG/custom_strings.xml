@@ -79,7 +79,9 @@
     <string name="stop_operate_camera_frequently">請勿頻繁開關前置相機</string>
     <string name="takeback_camera_front_failed">前置相機收回失敗，請重試</string>
     <string name="popup_camera_front_failed">前置相機彈出失敗，請重試</string>
+    <string name="popup_camera_proximity_obstructed">請將您的手從近接感測器前移開以開啟前置鏡頭……</string>
     <!-- Title and summary -->
+    <string name="moto_actions_title">Moto Actions</string>
     <!-- Device gestures -->
     <string name="device_gestures_title">裝置手勢</string>
     <string name="device_gestures_summary">管理裝置手勢</string>

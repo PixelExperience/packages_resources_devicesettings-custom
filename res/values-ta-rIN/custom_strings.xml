@@ -79,7 +79,9 @@
     <string name="stop_operate_camera_frequently">நீங்கள் அடிக்கடி முன்புற கேமராவைத் திறக்கிறீர்கள்.</string>
     <string name="takeback_camera_front_failed">முன்புற கேமராவை மூட முடியவில்லை. மீண்டும் முயலவும்.</string>
     <string name="popup_camera_front_failed">முன்புற கேமராவைத் திறக்க முடியவில்லை. மீண்டும் முயலவும்.</string>
+    <string name="popup_camera_proximity_obstructed">முன் கேமராவைத் திறக்க உங்கள் கையை ப்ராக்ஸிமிட்டி சென்சாரிலிருந்து அகற்றவும் ...</string>
     <!-- Title and summary -->
+    <string name="moto_actions_title">மோட்டோ செயல்கள்</string>
     <!-- Device gestures -->
     <string name="device_gestures_title">சாதன சைகைகள்</string>
     <string name="device_gestures_summary">சாதன சைகைகளை நிர்வகி</string>
@@ -134,6 +136,10 @@
     <string name="allow_proximity_sensor_title">ப்ரோக்ஸிமிட்டி சென்சார் அனுமதி</string>
     <string name="allow_proximity_sensor_summary">செயலைச் செய்வதற்கு முன்னர் அலைபேசி சென்சார் சரிபார்க்கவும்</string>
     <!-- OnePlus - General -->
+    <string name="advanced_settings">ஒன்ப்ளஸ் அமைப்புகள்</string>
+    <string name="advanced_settings_summary">உங்கள் சாதனத்திற்கான தனிப்பயன் அமைப்புகள்</string>
     <!-- OnePlus - Gestures -->
+    <string name="touchscreen_camera_gesture_summary">கேமராவை இயக்க ஒரு வட்டத்தை வரையவும்</string>
+    <string name="touchscreen_flashlight_v_gesture_summary">ஃபிளாஷ்லைட்டை நிலைமாற்ற ஒரு \'V\' வரை</string>
     <!-- OnePlus - Alert slider settings -->
 </resources>

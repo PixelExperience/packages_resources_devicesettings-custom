@@ -81,6 +81,7 @@
     <string name="popup_camera_front_failed">ไม่สามารถเปิดกล้องหน้า ลองอีกครั้ง</string>
     <string name="popup_camera_proximity_obstructed">เอามือของคุณออกจากเซ็นเซอร์ตรวจจับระยะห่างเพื่อเปิดกล้องหน้า...</string>
     <!-- Title and summary -->
+    <string name="moto_actions_title">ท่าทาง Moto</string>
     <!-- Device gestures -->
     <string name="device_gestures_title">ควบคุมเครื่องด้วยท่าทาง</string>
     <string name="device_gestures_summary">จัดการควบคุมเครื่องด้วยท่าทาง</string>

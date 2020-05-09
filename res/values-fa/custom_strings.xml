@@ -79,6 +79,7 @@
     <string name="stop_operate_camera_frequently">شما در حال باز و بسته کردن مکرر دوربین جلو هستید.</string>
     <string name="takeback_camera_front_failed">دوربین جلو بسته نشد. دوباره تلاش کنید.</string>
     <string name="popup_camera_front_failed">دوربین جلو باز نشد. دوباره تلاش کنید.</string>
+    <string name="popup_camera_proximity_obstructed">دست خود را از حسگر مجاورت جدا کنید تا دوربین جلو باز شود ...</string>
     <!-- Title and summary -->
     <string name="moto_actions_title">اقدامات Moto</string>
     <!-- Device gestures -->

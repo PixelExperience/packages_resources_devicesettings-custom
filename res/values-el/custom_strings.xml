@@ -79,6 +79,7 @@
     <string name="stop_operate_camera_frequently">Ανοίγετε τη μπροστινή κάμερα υπερβολικά συχνά.</string>
     <string name="takeback_camera_front_failed">Δεν μπόρεσε να κλείσει η μπροστινή κάμερα. Προσπαθήστε ξανά.</string>
     <string name="popup_camera_front_failed">Αδυναμία ανοίγματος μπροστινής κάμερας. Προσπαθήστε ξανά.</string>
+    <string name="popup_camera_proximity_obstructed">Αφαιρέστε το χέρι σας από τον αισθητήρα εγγύτητας για να ανοίξετε την μπροστινή κάμερα ...</string>
     <!-- Title and summary -->
     <string name="moto_actions_title">Moto ενέργειες</string>
     <!-- Device gestures -->

@@ -160,22 +160,16 @@
     <string name="advanced_settings">OnePlus Settings</string>
     <string name="advanced_settings_summary">Custom settings for your device</string>
 
-    <!-- OnePlus - Gestures -->
-    <string name="touchscreen_camera_gesture_summary">Draw a circle to activate camera</string>
-    <string name="touchscreen_flashlight_v_gesture_summary">Draw a \'V\' to toggle flashlight</string>
-    <string name="touchscreen_music_gesture_summary">Use gestures to control music playback \n
-    • Two fingers vertically \"||\" to play/pause\n
-    • Draw left arrow \"&#60;\" for previous track\n
-    • Draw right arrow \"&#62;\" for next track</string>
-
     <!-- OnePlus - Alert slider settings -->
-    <string name="slider_dashboard_summary">Slider control</string>
+    <string name="notification_slider_category_title">Alert slider</string>
     <string name="notification_slider_selection_dialog_title">Action</string>
     <string name="notification_slider_top_position">Top position</string>
     <string name="notification_slider_middle_position">Middle position</string>
     <string name="notification_slider_bottom_position">Bottom position</string>
     <string name="notification_slider_mode_total_silence">Total silence</string>
+    <string name="notification_slider_mode_alarms_only">Alarms only</string>
     <string name="notification_slider_mode_priority_only">Priority only</string>
-    <string name="notification_slider_mode_vibration">Vibration</string>
-    <string name="notification_slider_mode_none">None</string>
+    <string name="notification_slider_mode_silent">Silent</string>
+    <string name="notification_slider_mode_vibrate">Vibrate</string>
+    <string name="notification_slider_mode_none">Normal</string>
 </resources>

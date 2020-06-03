@@ -15,6 +15,10 @@
      limitations under the License.
 -->
 <resources>
+    <!-- DC Dimming settings -->
+    <string name="display_title">Display</string>
+    <string name="dc_dimming_enable_title">Anti-Flicker Mode</string>
+    <string name="dc_dimming_enable_summary">DC Dimming reduces eye strain in low light conditions</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Sound Amplificator</string>
     <string name="dirac_summary">Optimizare calitate audio</string>
@@ -138,21 +142,26 @@
     <!-- OnePlus - General -->
     <string name="advanced_settings">Setări OnePlus</string>
     <string name="advanced_settings_summary">Setări personalizate pentru dispozitivul dvs.</string>
-    <!-- OnePlus - Gestures -->
-    <string name="touchscreen_camera_gesture_summary">Desenează un cerc pentru a activa camera</string>
-    <string name="touchscreen_flashlight_v_gesture_summary">Desenează un „v” pentru a deschide lanterna</string>
-    <string name="touchscreen_music_gesture_summary">Folosiți gesturi pentru a controla redarea muzicii\n
-    • Două degete vertical \"Ii\" pentru play/pauză\n
-    • Desenează o săgeată la stânga \"&#60;\" pentru melodia anterioară\n
-    • Desenează o săgeată la dreapta \"&#62;\" pentru melodia următoare</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="slider_dashboard_summary">Controlul glisorului</string>
+    <string name="notification_slider_category_title">Alert slider</string>
     <string name="notification_slider_selection_dialog_title">Acţiune</string>
     <string name="notification_slider_top_position">Poziția de sus</string>
     <string name="notification_slider_middle_position">Poziția de mijloc</string>
     <string name="notification_slider_bottom_position">Poziția de jos</string>
     <string name="notification_slider_mode_total_silence">Niciun sunet</string>
+    <string name="notification_slider_mode_alarms_only">Alarms only</string>
     <string name="notification_slider_mode_priority_only">Doar cu prioritate</string>
-    <string name="notification_slider_mode_vibration">Vibrare</string>
-    <string name="notification_slider_mode_none">Nimic</string>
+    <string name="notification_slider_mode_silent">Silent</string>
+    <string name="notification_slider_mode_vibrate">Vibrate</string>
+    <string name="notification_slider_mode_none">Normal</string>
+    <!-- Thermal profiles -->
+    <string name="thermal_title">Thermal profiles</string>
+    <string name="thermal_summary">Adjust per-app thermal profiles for optimum performance</string>
+    <string name="thermal_default">Default</string>
+    <string name="thermal_benchmark">Benchmark</string>
+    <string name="thermal_browser">Browser</string>
+    <string name="thermal_camera">Camera</string>
+    <string name="thermal_dialer">Dialer</string>
+    <string name="thermal_gaming">Gaming</string>
+    <string name="thermal_streaming">Streaming</string>
 </resources>

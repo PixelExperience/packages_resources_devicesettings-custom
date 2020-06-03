@@ -15,6 +15,10 @@
      limitations under the License.
 -->
 <resources>
+    <!-- DC Dimming settings -->
+    <string name="display_title">Display</string>
+    <string name="dc_dimming_enable_title">Anti-Flicker Mode</string>
+    <string name="dc_dimming_enable_summary">DC Dimming reduces eye strain in low light conditions</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi ध्वनि एन्हांसर</string>
     <string name="dirac_summary">ऑडियो गुणवत्ता ऑप्टिमाइज़ करें</string>
@@ -79,6 +83,7 @@
     <string name="stop_operate_camera_frequently">आप सामने का कैमरा बहुत ज़्यादा बार खोल रहे हैं.</string>
     <string name="takeback_camera_front_failed">सामने का कैमरा बंद नहीं किया जा सका. फिर से कोशिश करें.</string>
     <string name="popup_camera_front_failed">सामने का कैमरा नहीं खोला जा सका. फिर से कोशिश करें.</string>
+    <string name="popup_camera_proximity_obstructed">Remove your hand from the proximity sensor to open the front camera...</string>
     <!-- Title and summary -->
     <string name="moto_actions_title">मोटो क्रिया</string>
     <!-- Device gestures -->
@@ -135,6 +140,28 @@
     <string name="allow_proximity_sensor_title">निकटता सेंसर को मंज़ूरी दें</string>
     <string name="allow_proximity_sensor_summary">निकटता सेंसर को जांच लें</string>
     <!-- OnePlus - General -->
-    <!-- OnePlus - Gestures -->
+    <string name="advanced_settings">OnePlus Settings</string>
+    <string name="advanced_settings_summary">Custom settings for your device</string>
     <!-- OnePlus - Alert slider settings -->
+    <string name="notification_slider_category_title">Alert slider</string>
+    <string name="notification_slider_selection_dialog_title">Action</string>
+    <string name="notification_slider_top_position">Top position</string>
+    <string name="notification_slider_middle_position">Middle position</string>
+    <string name="notification_slider_bottom_position">Bottom position</string>
+    <string name="notification_slider_mode_total_silence">Total silence</string>
+    <string name="notification_slider_mode_alarms_only">Alarms only</string>
+    <string name="notification_slider_mode_priority_only">Priority only</string>
+    <string name="notification_slider_mode_silent">Silent</string>
+    <string name="notification_slider_mode_vibrate">Vibrate</string>
+    <string name="notification_slider_mode_none">Normal</string>
+    <!-- Thermal profiles -->
+    <string name="thermal_title">Thermal profiles</string>
+    <string name="thermal_summary">Adjust per-app thermal profiles for optimum performance</string>
+    <string name="thermal_default">Default</string>
+    <string name="thermal_benchmark">Benchmark</string>
+    <string name="thermal_browser">Browser</string>
+    <string name="thermal_camera">Camera</string>
+    <string name="thermal_dialer">Dialer</string>
+    <string name="thermal_gaming">Gaming</string>
+    <string name="thermal_streaming">Streaming</string>
 </resources>

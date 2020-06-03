@@ -15,6 +15,10 @@
      limitations under the License.
 -->
 <resources>
+    <!-- DC Dimming settings -->
+    <string name="display_title">Display</string>
+    <string name="dc_dimming_enable_title">Anti-Flicker Mode</string>
+    <string name="dc_dimming_enable_summary">DC Dimming reduces eye strain in low light conditions</string>
     <!-- Dirac settings -->
     <string name="dirac_title">ตัวเพิ่มประสิทธิภาพเสียง Mi</string>
     <string name="dirac_summary">เพิ่มคุณภาพเสียง</string>
@@ -138,21 +142,26 @@
     <!-- OnePlus - General -->
     <string name="advanced_settings">การตั้งค่า OnePlus</string>
     <string name="advanced_settings_summary">การตั้งค่าแบบกำหนดเองสำหรับอุปกรณ์ของคุณ</string>
-    <!-- OnePlus - Gestures -->
-    <string name="touchscreen_camera_gesture_summary">วาดวงกลมเพื่อเปิดกล้อง</string>
-    <string name="touchscreen_flashlight_v_gesture_summary">วาด \'V\' เพื่อเปิดไฟฉาย</string>
-    <string name="touchscreen_music_gesture_summary">วิธีใช้การสัมผัสเพื่อควบคุมการเล่นเพลง\n
-• สองนิ้วในแนวตั้งเพื่อ เล่น/หยุด\n
-• วาดลูกศรชี้ซ้าย \"&#60;\" เพื่อเล่นเพลงก่อนหน้า\n
-• วาดลูกศรชี้ขวา \"&#62;\" เพื่อเล่นเพลงถัดไป</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="slider_dashboard_summary">การควบคุมแถบเลื่อน</string>
+    <string name="notification_slider_category_title">Alert slider</string>
     <string name="notification_slider_selection_dialog_title">ดำเนินการ</string>
     <string name="notification_slider_top_position">ตำแหน่งบนสุด</string>
     <string name="notification_slider_middle_position">ตำแหน่งกึ่งกลาง</string>
     <string name="notification_slider_bottom_position">ตำแหน่งล่างสุด</string>
     <string name="notification_slider_mode_total_silence">ความเงียบรวม</string>
+    <string name="notification_slider_mode_alarms_only">Alarms only</string>
     <string name="notification_slider_mode_priority_only">เฉพาะระดับความสำคัญ</string>
-    <string name="notification_slider_mode_vibration">การสั่น</string>
-    <string name="notification_slider_mode_none">ปิด</string>
+    <string name="notification_slider_mode_silent">Silent</string>
+    <string name="notification_slider_mode_vibrate">Vibrate</string>
+    <string name="notification_slider_mode_none">Normal</string>
+    <!-- Thermal profiles -->
+    <string name="thermal_title">Thermal profiles</string>
+    <string name="thermal_summary">Adjust per-app thermal profiles for optimum performance</string>
+    <string name="thermal_default">Default</string>
+    <string name="thermal_benchmark">Benchmark</string>
+    <string name="thermal_browser">Browser</string>
+    <string name="thermal_camera">Camera</string>
+    <string name="thermal_dialer">Dialer</string>
+    <string name="thermal_gaming">Gaming</string>
+    <string name="thermal_streaming">Streaming</string>
 </resources>

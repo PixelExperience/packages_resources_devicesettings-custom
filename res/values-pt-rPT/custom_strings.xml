@@ -15,6 +15,10 @@
      limitations under the License.
 -->
 <resources>
+    <!-- DC Dimming settings -->
+    <string name="display_title">Display</string>
+    <string name="dc_dimming_enable_title">Anti-Flicker Mode</string>
+    <string name="dc_dimming_enable_summary">DC Dimming reduces eye strain in low light conditions</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Amplificador Mi Sound</string>
     <string name="dirac_summary">Otimizar qualidade de áudio</string>
@@ -138,21 +142,26 @@
     <!-- OnePlus - General -->
     <string name="advanced_settings">Definições OnePlus</string>
     <string name="advanced_settings_summary">Definições personalizadas para o seu aparelho</string>
-    <!-- OnePlus - Gestures -->
-    <string name="touchscreen_camera_gesture_summary">Desenhar um círculo para ativar a câmara</string>
-    <string name="touchscreen_flashlight_v_gesture_summary">Desenhe um \'V\' para ligar a lanterna</string>
-    <string name="touchscreen_music_gesture_summary">Use gestos para controlar a reprodução de músicas\n
-• Dois dedos verticalmente para reproduzir/pausar a música\n 
-• Desenhar uma seta para a esquerda \"&#60;\"  para reproduzir a música anterior\n 
-• Desenhar uma seta para a direita \'\"&#62;\" para reproduzir a próxima música</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="slider_dashboard_summary">Controlo deslizante</string>
+    <string name="notification_slider_category_title">Alert slider</string>
     <string name="notification_slider_selection_dialog_title">Ação</string>
     <string name="notification_slider_top_position">Posição superior</string>
     <string name="notification_slider_middle_position">Posição central</string>
     <string name="notification_slider_bottom_position">Posição inferior</string>
     <string name="notification_slider_mode_total_silence">Silêncio total</string>
+    <string name="notification_slider_mode_alarms_only">Alarms only</string>
     <string name="notification_slider_mode_priority_only">Apenas prioritários</string>
-    <string name="notification_slider_mode_vibration">Vibração</string>
-    <string name="notification_slider_mode_none">Não fazer nada</string>
+    <string name="notification_slider_mode_silent">Silent</string>
+    <string name="notification_slider_mode_vibrate">Vibrate</string>
+    <string name="notification_slider_mode_none">Normal</string>
+    <!-- Thermal profiles -->
+    <string name="thermal_title">Thermal profiles</string>
+    <string name="thermal_summary">Adjust per-app thermal profiles for optimum performance</string>
+    <string name="thermal_default">Default</string>
+    <string name="thermal_benchmark">Benchmark</string>
+    <string name="thermal_browser">Browser</string>
+    <string name="thermal_camera">Camera</string>
+    <string name="thermal_dialer">Dialer</string>
+    <string name="thermal_gaming">Gaming</string>
+    <string name="thermal_streaming">Streaming</string>
 </resources>

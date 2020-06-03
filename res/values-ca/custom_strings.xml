@@ -15,6 +15,10 @@
      limitations under the License.
 -->
 <resources>
+    <!-- DC Dimming settings -->
+    <string name="display_title">Display</string>
+    <string name="dc_dimming_enable_title">Anti-Flicker Mode</string>
+    <string name="dc_dimming_enable_summary">DC Dimming reduces eye strain in low light conditions</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Potenciador de so Mi</string>
     <string name="dirac_summary">Optimitza la qualitat d\'àudio</string>
@@ -138,21 +142,26 @@
     <!-- OnePlus - General -->
     <string name="advanced_settings">Configuració OnePlus</string>
     <string name="advanced_settings_summary">Configuració personalitzada del dispositiu</string>
-    <!-- OnePlus - Gestures -->
-    <string name="touchscreen_camera_gesture_summary">Dibuixa un cercle per activar la càmera</string>
-    <string name="touchscreen_flashlight_v_gesture_summary">Dibuixa una \'V\' per encendre la llanterna</string>
-    <string name="touchscreen_music_gesture_summary">Utilitza gestos per controlar la reproducció de música \n
-    • Dos dits verticalment per reproduir/pausar\n
-    • Dibuixa una fletxa a l\'esquerra \"&#60;\" per anar a la pista anterior\n
-    • Dibuixa una fletxa a la dreta \"&#62;\" per anar a la pista següent</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="slider_dashboard_summary">Control lliscant</string>
+    <string name="notification_slider_category_title">Alert slider</string>
     <string name="notification_slider_selection_dialog_title">Acció</string>
     <string name="notification_slider_top_position">Posició superior</string>
     <string name="notification_slider_middle_position">Posició mitjana</string>
     <string name="notification_slider_bottom_position">Posició inferior</string>
     <string name="notification_slider_mode_total_silence">Silenci total</string>
+    <string name="notification_slider_mode_alarms_only">Alarms only</string>
     <string name="notification_slider_mode_priority_only">Només prioritat</string>
-    <string name="notification_slider_mode_vibration">Vibració</string>
-    <string name="notification_slider_mode_none">Cap</string>
+    <string name="notification_slider_mode_silent">Silent</string>
+    <string name="notification_slider_mode_vibrate">Vibrate</string>
+    <string name="notification_slider_mode_none">Normal</string>
+    <!-- Thermal profiles -->
+    <string name="thermal_title">Thermal profiles</string>
+    <string name="thermal_summary">Adjust per-app thermal profiles for optimum performance</string>
+    <string name="thermal_default">Default</string>
+    <string name="thermal_benchmark">Benchmark</string>
+    <string name="thermal_browser">Browser</string>
+    <string name="thermal_camera">Camera</string>
+    <string name="thermal_dialer">Dialer</string>
+    <string name="thermal_gaming">Gaming</string>
+    <string name="thermal_streaming">Streaming</string>
 </resources>

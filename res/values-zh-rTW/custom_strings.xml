@@ -15,18 +15,22 @@
      limitations under the License.
 -->
 <resources>
+    <!-- DC Dimming settings -->
+    <string name="display_title">Display</string>
+    <string name="dc_dimming_enable_title">Anti-Flicker Mode</string>
+    <string name="dc_dimming_enable_summary">DC Dimming reduces eye strain in low light conditions</string>
     <!-- Dirac settings -->
-    <string name="dirac_title">使用米音提升音質</string>
-    <string name="dirac_summary">米音</string>
-    <string name="dirac_headset_title">耳機類型設定</string>
+    <string name="dirac_title">Mi Sound 加強器</string>
+    <string name="dirac_summary">最佳化聲音品質</string>
+    <string name="dirac_headset_title">選擇耳機類型</string>
     <string name="dirac_preset_title">請選擇預設等化器</string>
     <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">使用Hi-Fi高傳真播放</string>
     <string name="dirac_hifi_summary">高度還原音源資訊，原汁原味</string>
     <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_default">預設</string>
-    <string name="dirac_headset_earbuds">靈動耳塞式</string>
-    <string name="dirac_headset_in_ear_2013">靈悅入耳式</string>
+    <string name="dirac_headset_earbuds">小米耳塞式</string>
+    <string name="dirac_headset_in_ear_2013">小米入耳式</string>
     <string name="dirac_headset_piston_1">小米活塞1</string>
     <string name="dirac_headset_general">通用</string>
     <string name="dirac_headset_general_inear">通用入耳式</string>
@@ -40,26 +44,26 @@
     <string name="dirac_headset_capsule">小米膠囊</string>
     <string name="dirac_headset_in_ear_pro">小米圈鐵耳機Pro</string>
     <string name="dirac_headset_comfort">小米頭戴式耳機輕鬆版</string>
-    <string name="dirac_headset_reduction_noise">小米降噪耳機 typeC</string>
+    <string name="dirac_headset_reduction_noise">小米降噪耳機 Type-C</string>
     <string name="dirac_headset_cancelling">小米降噪耳機 3.5mm</string>
     <string name="dirac_headset_half_in_ear">小米半入耳式</string>
     <string name="dirac_headset_in_ear2">小米圈鐵耳機2</string>
     <string name="dirac_headset_earphone_basic">小米耳機基本款</string>
     <string name="dirac_headset_earphone">小米耳機</string>
     <!-- Dirac settings: Equalizer presets -->
-    <string name="dirac_preset_default">無</string>
+    <string name="dirac_preset_default">預設</string>
     <string name="dirac_preset_rock">搖滾</string>
     <string name="dirac_preset_jazz">爵士</string>
     <string name="dirac_preset_pop">流行</string>
     <string name="dirac_preset_classical">古典</string>
     <string name="dirac_preset_hiphop">嘻哈</string>
-    <string name="dirac_preset_blues">布魯斯</string>
+    <string name="dirac_preset_blues">藍調</string>
     <string name="dirac_preset_electronic">電子音樂</string>
     <string name="dirac_preset_country">鄉村</string>
     <string name="dirac_preset_dance">舞曲</string>
     <string name="dirac_preset_metal">金屬</string>
     <!-- Popup camera settings -->
-    <string name="popup_led_title">攝像頭燈效</string>
+    <string name="popup_led_title">視覺效果</string>
     <string name="popup_led_summary">攝像頭升降時的氛圍燈效果</string>
     <string name="popup_title">升降攝像頭</string>
     <string name="popup_title_muqin">木琴</string>
@@ -138,21 +142,26 @@
     <!-- OnePlus - General -->
     <string name="advanced_settings">OnePlus 設定</string>
     <string name="advanced_settings_summary">您裝置的自訂設定</string>
-    <!-- OnePlus - Gestures -->
-    <string name="touchscreen_camera_gesture_summary">畫一個圈即可啟動相機</string>
-    <string name="touchscreen_flashlight_v_gesture_summary">畫一個「V」即可開關手電筒</string>
-    <string name="touchscreen_music_gesture_summary">使用手勢控制音樂播放\n
-    ·兩根手指垂直繪製 \"||\" 播放/暫停\n
-    ·繪制左箭頭 \"&#60;\" 播放上一首\n
-    ·繪制右箭頭 \"&#62;\" 播放下一首</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="slider_dashboard_summary">滑塊控制</string>
+    <string name="notification_slider_category_title">Alert slider</string>
     <string name="notification_slider_selection_dialog_title">動作</string>
     <string name="notification_slider_top_position">頂部位置</string>
     <string name="notification_slider_middle_position">中間位置</string>
     <string name="notification_slider_bottom_position">底部位置</string>
     <string name="notification_slider_mode_total_silence">完全靜音</string>
+    <string name="notification_slider_mode_alarms_only">Alarms only</string>
     <string name="notification_slider_mode_priority_only">僅限優先通知</string>
-    <string name="notification_slider_mode_vibration">震動</string>
-    <string name="notification_slider_mode_none">無</string>
+    <string name="notification_slider_mode_silent">Silent</string>
+    <string name="notification_slider_mode_vibrate">Vibrate</string>
+    <string name="notification_slider_mode_none">Normal</string>
+    <!-- Thermal profiles -->
+    <string name="thermal_title">Thermal profiles</string>
+    <string name="thermal_summary">Adjust per-app thermal profiles for optimum performance</string>
+    <string name="thermal_default">Default</string>
+    <string name="thermal_benchmark">Benchmark</string>
+    <string name="thermal_browser">Browser</string>
+    <string name="thermal_camera">Camera</string>
+    <string name="thermal_dialer">Dialer</string>
+    <string name="thermal_gaming">Gaming</string>
+    <string name="thermal_streaming">Streaming</string>
 </resources>

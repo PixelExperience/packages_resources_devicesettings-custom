@@ -15,6 +15,10 @@
      limitations under the License.
 -->
 <resources>
+    <!-- DC Dimming settings -->
+    <string name="display_title">Display</string>
+    <string name="dc_dimming_enable_title">Anti-Flicker Mode</string>
+    <string name="dc_dimming_enable_summary">DC Dimming reduces eye strain in low light conditions</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Ottimizzazione Mi Sound</string>
     <string name="dirac_summary">Ottimizza la qualità audio</string>
@@ -52,9 +56,9 @@
     <string name="dirac_preset_jazz">Jazz</string>
     <string name="dirac_preset_pop">Pop</string>
     <string name="dirac_preset_classical">Musica classica</string>
-    <string name="dirac_preset_hiphop">Hip Hop</string>
+    <string name="dirac_preset_hiphop">Hip-hop</string>
     <string name="dirac_preset_blues">Blues</string>
-    <string name="dirac_preset_electronic">Musica elettronica</string>
+    <string name="dirac_preset_electronic">Elettronica</string>
     <string name="dirac_preset_country">Country</string>
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metal</string>
@@ -64,10 +68,10 @@
     <string name="popup_title">Effetti fotocamera anteriore</string>
     <string name="popup_title_muqin">Xilofono</string>
     <string name="popup_title_yingyan">Condor</string>
-    <string name="popup_title_mofa">Magico</string>
-    <string name="popup_title_jijia">Mecha</string>
+    <string name="popup_title_mofa">Magia</string>
+    <string name="popup_title_jijia">Robot</string>
     <string name="popup_title_chilun">Ingranaggio</string>
-    <string name="popup_title_cangmen">Porta della cabina</string>
+    <string name="popup_title_cangmen">Portellone</string>
     <!-- Popup camera strings -->
     <string name="popup_camera_tip">Attenzione</string>
     <string name="popup_camera_takeback_failed_times_calibrate">Impossibile chiudere la fotocamera anteriore più volte. Prova a calibrarla.</string>
@@ -83,14 +87,14 @@
     <!-- Title and summary -->
     <string name="moto_actions_title">Azioni di movimento</string>
     <!-- Device gestures -->
-    <string name="device_gestures_title">Gesti del dispositivo</string>
-    <string name="device_gestures_summary">Gestione dei gesti del dispositivo</string>
+    <string name="device_gestures_title">Gestures del dispositivo</string>
+    <string name="device_gestures_summary">Gestione delle gestures del dispositivo</string>
     <!-- Ambient display gestures -->
     <string name="ambient_display_manage_summary">Gestisci i gesti del Display ambient</string>
     <!-- Fingerprint gestures -->
-    <string name="fingerprint_gestures_title">Gesti sensore di impronte digitali</string>
-    <string name="fingerprint_gestures_summary">Utilizza i gesti del sensore di impronte digitali</string>
-    <string name="fingerprint_gestures_manage_summary">Gestisci le azioni del sensore di impronte digitali</string>
+    <string name="fingerprint_gestures_title">Gestures del sensore di impronte digitali</string>
+    <string name="fingerprint_gestures_summary">Utilizza le gestures del sensore di impronte digitali</string>
+    <string name="fingerprint_gestures_manage_summary">Gestisci le gestures del sensore di impronte digitali</string>
     <string name="fingerprint_actions_screenon">Azioni con schermo acceso</string>
     <!-- Fingerprint gestures screen off -->
     <string name="fingerprint_gestures_screenoff_title">Gesti del sensore di impronte digitali quando lo schermo è spento</string>
@@ -138,18 +142,26 @@
     <!-- OnePlus - General -->
     <string name="advanced_settings">Impostazioni OnePlus</string>
     <string name="advanced_settings_summary">Impostazioni personalizzate per il tuo dispositivo</string>
-    <!-- OnePlus - Gestures -->
-    <string name="touchscreen_camera_gesture_summary">Disegna una O per aprire la fotocamera</string>
-    <string name="touchscreen_flashlight_v_gesture_summary">Disegna una V per attivare/disattivare la torcia</string>
-    <string name="touchscreen_music_gesture_summary">Disegna || con due dita per riprodurre o sospendere la musica. Disegna &#60; o &#62; per passare alla traccia precedente o successiva</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="slider_dashboard_summary">Dispositivo di scorrimento avvisi</string>
+    <string name="notification_slider_category_title">Alert slider</string>
     <string name="notification_slider_selection_dialog_title">Azione</string>
     <string name="notification_slider_top_position">Silenzioso</string>
     <string name="notification_slider_middle_position">Vibrazione</string>
     <string name="notification_slider_bottom_position">Squillo</string>
     <string name="notification_slider_mode_total_silence">Silenzio totale</string>
+    <string name="notification_slider_mode_alarms_only">Alarms only</string>
     <string name="notification_slider_mode_priority_only">Solo con priorità</string>
-    <string name="notification_slider_mode_vibration">Vibrazione</string>
-    <string name="notification_slider_mode_none">Non fare nulla</string>
+    <string name="notification_slider_mode_silent">Silent</string>
+    <string name="notification_slider_mode_vibrate">Vibrate</string>
+    <string name="notification_slider_mode_none">Normal</string>
+    <!-- Thermal profiles -->
+    <string name="thermal_title">Thermal profiles</string>
+    <string name="thermal_summary">Adjust per-app thermal profiles for optimum performance</string>
+    <string name="thermal_default">Default</string>
+    <string name="thermal_benchmark">Benchmark</string>
+    <string name="thermal_browser">Browser</string>
+    <string name="thermal_camera">Camera</string>
+    <string name="thermal_dialer">Dialer</string>
+    <string name="thermal_gaming">Gaming</string>
+    <string name="thermal_streaming">Streaming</string>
 </resources>

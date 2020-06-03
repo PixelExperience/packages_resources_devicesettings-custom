@@ -15,6 +15,10 @@
      limitations under the License.
 -->
 <resources>
+    <!-- DC Dimming settings -->
+    <string name="display_title">Display</string>
+    <string name="dc_dimming_enable_title">Anti-Flicker Mode</string>
+    <string name="dc_dimming_enable_summary">DC Dimming reduces eye strain in low light conditions</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Ενισχυτής Mi Ήχου</string>
     <string name="dirac_summary">Βελτιστοποίηση ποιότητας ήχου</string>
@@ -138,21 +142,26 @@
     <!-- OnePlus - General -->
     <string name="advanced_settings">Ρυθμίσεις OnePlus</string>
     <string name="advanced_settings_summary">Προσαρμοσμένες ρυθμίσεις για την συσκευή σας</string>
-    <!-- OnePlus - Gestures -->
-    <string name="touchscreen_camera_gesture_summary">Σχεδιάστε έναν κύκλο για εκκίνηση της φωτογρ. μηχανής</string>
-    <string name="touchscreen_flashlight_v_gesture_summary">Σχεδιάστε ένα \'V\' για ενεργοποίηση του φακού</string>
-    <string name="touchscreen_music_gesture_summary">Χρησιμοποιήστε χειρονομίες για τον έλεγχο αναπαραγωγής μουσικής \n 
-• δύο δάχτυλα κάθετα  \"||\" για αναπαραγωγή/παύση\n 
-• σχεδιάστε αριστερό βέλος \"&#60;\" για προηγούμενο κομμάτι\n 
-• σχεδιάστε δεξιό βέλος \"&#62;\" για το επόμενο κομμάτι</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="slider_dashboard_summary">Έλεγχος ρυθμιστικού</string>
+    <string name="notification_slider_category_title">Alert slider</string>
     <string name="notification_slider_selection_dialog_title">Ενέργεια</string>
     <string name="notification_slider_top_position">Πάνω θέση</string>
     <string name="notification_slider_middle_position">Μεσαία θέση</string>
     <string name="notification_slider_bottom_position">Κάτω θέση</string>
     <string name="notification_slider_mode_total_silence">Απόλυτη σίγαση</string>
+    <string name="notification_slider_mode_alarms_only">Alarms only</string>
     <string name="notification_slider_mode_priority_only">Μόνο προτεραιότητα</string>
-    <string name="notification_slider_mode_vibration">Δόνηση</string>
-    <string name="notification_slider_mode_none">Καμία</string>
+    <string name="notification_slider_mode_silent">Silent</string>
+    <string name="notification_slider_mode_vibrate">Vibrate</string>
+    <string name="notification_slider_mode_none">Normal</string>
+    <!-- Thermal profiles -->
+    <string name="thermal_title">Thermal profiles</string>
+    <string name="thermal_summary">Adjust per-app thermal profiles for optimum performance</string>
+    <string name="thermal_default">Default</string>
+    <string name="thermal_benchmark">Benchmark</string>
+    <string name="thermal_browser">Browser</string>
+    <string name="thermal_camera">Camera</string>
+    <string name="thermal_dialer">Dialer</string>
+    <string name="thermal_gaming">Gaming</string>
+    <string name="thermal_streaming">Streaming</string>
 </resources>

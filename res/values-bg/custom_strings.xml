@@ -15,6 +15,10 @@
      limitations under the License.
 -->
 <resources>
+    <!-- DC Dimming settings -->
+    <string name="display_title">Display</string>
+    <string name="dc_dimming_enable_title">Anti-Flicker Mode</string>
+    <string name="dc_dimming_enable_summary">DC Dimming reduces eye strain in low light conditions</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Използване на MiSound enhancer</string>
     <string name="dirac_summary">Оптимизиране качеството на звука</string>
@@ -138,21 +142,26 @@
     <!-- OnePlus - General -->
     <string name="advanced_settings">OnePlus настройки</string>
     <string name="advanced_settings_summary">Потребителски настройки за устройството ви</string>
-    <!-- OnePlus - Gestures -->
-    <string name="touchscreen_camera_gesture_summary">Начертайте кръг за да включите камерата</string>
-    <string name="touchscreen_flashlight_v_gesture_summary">Начертайте \"V\" за включване и изключване на фенерчето</string>
-    <string name="touchscreen_music_gesture_summary">Контролирайте музиката чрез жестове \n
-    • Плъзнете два пръста вертикално \"||\" за пускане/пауза\n
-    • Плъзнете наляво \"&#60;\" за предходната песен\n
-    • Плъзнете надясно \"&#62;\" за следващата песен</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="slider_dashboard_summary">Контрол на слайдера</string>
+    <string name="notification_slider_category_title">Alert slider</string>
     <string name="notification_slider_selection_dialog_title">Действие</string>
     <string name="notification_slider_top_position">Най-горна позиция</string>
     <string name="notification_slider_middle_position">Средна позиция</string>
     <string name="notification_slider_bottom_position">Най-ниска позиция</string>
     <string name="notification_slider_mode_total_silence">Пълна тишина</string>
+    <string name="notification_slider_mode_alarms_only">Alarms only</string>
     <string name="notification_slider_mode_priority_only">Само с приоритет</string>
-    <string name="notification_slider_mode_vibration">Вибрация</string>
-    <string name="notification_slider_mode_none">Няма</string>
+    <string name="notification_slider_mode_silent">Silent</string>
+    <string name="notification_slider_mode_vibrate">Vibrate</string>
+    <string name="notification_slider_mode_none">Normal</string>
+    <!-- Thermal profiles -->
+    <string name="thermal_title">Thermal profiles</string>
+    <string name="thermal_summary">Adjust per-app thermal profiles for optimum performance</string>
+    <string name="thermal_default">Default</string>
+    <string name="thermal_benchmark">Benchmark</string>
+    <string name="thermal_browser">Browser</string>
+    <string name="thermal_camera">Camera</string>
+    <string name="thermal_dialer">Dialer</string>
+    <string name="thermal_gaming">Gaming</string>
+    <string name="thermal_streaming">Streaming</string>
 </resources>

@@ -15,6 +15,10 @@
      limitations under the License.
 -->
 <resources>
+    <!-- DC Dimming settings -->
+    <string name="display_title">Display</string>
+    <string name="dc_dimming_enable_title">Anti-Flicker Mode</string>
+    <string name="dc_dimming_enable_summary">DC Dimming reduces eye strain in low light conditions</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi சவுண்ட் என்ஹேன்சர்</string>
     <string name="dirac_summary">ஆடியோ தரத்தை மேம்படுத்து</string>
@@ -138,8 +142,26 @@
     <!-- OnePlus - General -->
     <string name="advanced_settings">ஒன்ப்ளஸ் அமைப்புகள்</string>
     <string name="advanced_settings_summary">உங்கள் சாதனத்திற்கான தனிப்பயன் அமைப்புகள்</string>
-    <!-- OnePlus - Gestures -->
-    <string name="touchscreen_camera_gesture_summary">கேமராவை இயக்க ஒரு வட்டத்தை வரையவும்</string>
-    <string name="touchscreen_flashlight_v_gesture_summary">ஃபிளாஷ்லைட்டை நிலைமாற்ற ஒரு \'V\' வரை</string>
     <!-- OnePlus - Alert slider settings -->
+    <string name="notification_slider_category_title">Alert slider</string>
+    <string name="notification_slider_selection_dialog_title">Action</string>
+    <string name="notification_slider_top_position">Top position</string>
+    <string name="notification_slider_middle_position">Middle position</string>
+    <string name="notification_slider_bottom_position">Bottom position</string>
+    <string name="notification_slider_mode_total_silence">Total silence</string>
+    <string name="notification_slider_mode_alarms_only">Alarms only</string>
+    <string name="notification_slider_mode_priority_only">Priority only</string>
+    <string name="notification_slider_mode_silent">Silent</string>
+    <string name="notification_slider_mode_vibrate">Vibrate</string>
+    <string name="notification_slider_mode_none">Normal</string>
+    <!-- Thermal profiles -->
+    <string name="thermal_title">Thermal profiles</string>
+    <string name="thermal_summary">Adjust per-app thermal profiles for optimum performance</string>
+    <string name="thermal_default">Default</string>
+    <string name="thermal_benchmark">Benchmark</string>
+    <string name="thermal_browser">Browser</string>
+    <string name="thermal_camera">Camera</string>
+    <string name="thermal_dialer">Dialer</string>
+    <string name="thermal_gaming">Gaming</string>
+    <string name="thermal_streaming">Streaming</string>
 </resources>

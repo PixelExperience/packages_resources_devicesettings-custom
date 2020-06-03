@@ -15,6 +15,10 @@
      limitations under the License.
 -->
 <resources>
+    <!-- DC Dimming settings -->
+    <string name="display_title">Display</string>
+    <string name="dc_dimming_enable_title">Anti-Flicker Mode</string>
+    <string name="dc_dimming_enable_summary">DC Dimming reduces eye strain in low light conditions</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi 사운드 강화</string>
     <string name="dirac_summary">음질 최적화</string>
@@ -138,21 +142,26 @@
     <!-- OnePlus - General -->
     <string name="advanced_settings">OnePlus 설정</string>
     <string name="advanced_settings_summary">기기의 맞춤 설정</string>
-    <!-- OnePlus - Gestures -->
-    <string name="touchscreen_camera_gesture_summary">원을 그려 카메라 열기</string>
-    <string name="touchscreen_flashlight_v_gesture_summary">\'V\'를 그려 손전등 전환</string>
-    <string name="touchscreen_music_gesture_summary">제스처를 사용하여 음악 재생 제어 \n
-    • 두 손가락으로 수직으로 \"||\"를 그려 재생/일시 정지\n
-    • 왼쪽 화살표 \"&#60;\"를 그려 이전 트랙\n
-    • 오른쪽 화살표 \"&#62;\"를 그려 다음 트랙</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="slider_dashboard_summary">슬라이더 제어</string>
+    <string name="notification_slider_category_title">Alert slider</string>
     <string name="notification_slider_selection_dialog_title">작업</string>
     <string name="notification_slider_top_position">상단 위치</string>
     <string name="notification_slider_middle_position">중간 위치</string>
     <string name="notification_slider_bottom_position">하단 위치</string>
     <string name="notification_slider_mode_total_silence">모두 차단</string>
+    <string name="notification_slider_mode_alarms_only">Alarms only</string>
     <string name="notification_slider_mode_priority_only">중요 알림만</string>
-    <string name="notification_slider_mode_vibration">진동</string>
-    <string name="notification_slider_mode_none">없음</string>
+    <string name="notification_slider_mode_silent">Silent</string>
+    <string name="notification_slider_mode_vibrate">Vibrate</string>
+    <string name="notification_slider_mode_none">Normal</string>
+    <!-- Thermal profiles -->
+    <string name="thermal_title">Thermal profiles</string>
+    <string name="thermal_summary">Adjust per-app thermal profiles for optimum performance</string>
+    <string name="thermal_default">Default</string>
+    <string name="thermal_benchmark">Benchmark</string>
+    <string name="thermal_browser">Browser</string>
+    <string name="thermal_camera">Camera</string>
+    <string name="thermal_dialer">Dialer</string>
+    <string name="thermal_gaming">Gaming</string>
+    <string name="thermal_streaming">Streaming</string>
 </resources>

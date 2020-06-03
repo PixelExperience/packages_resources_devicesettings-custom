@@ -15,6 +15,10 @@
      limitations under the License.
 -->
 <resources>
+    <!-- DC Dimming settings -->
+    <string name="display_title">Display</string>
+    <string name="dc_dimming_enable_title">Anti-Flicker Mode</string>
+    <string name="dc_dimming_enable_summary">DC Dimming reduces eye strain in low light conditions</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Dirac HD Sound</string>
     <string name="dirac_summary">Vylepšiť kvalitu zvuku</string>
@@ -138,21 +142,26 @@
     <!-- OnePlus - General -->
     <string name="advanced_settings">OnePlus nastavenia</string>
     <string name="advanced_settings_summary">Vlastné nastavenia pre vaše zariadenie</string>
-    <!-- OnePlus - Gestures -->
-    <string name="touchscreen_camera_gesture_summary">Nakreslením kruhu spustíte fotoaparát</string>
-    <string name="touchscreen_flashlight_v_gesture_summary">Nakreslite V pre zapnutie/vypnutie baterky</string>
-    <string name="touchscreen_music_gesture_summary">Používať gestá pre ovládanie prehrávania hudby \n
-    • Dva prsty zvisle \"||\" -  prehrať/pozastaviť\n
-    • Nakreslenie šípky doľava \"&#60;\" - predchádzajúca skladba\n
-    • Nakreslenie šípky doprava \"&#62;\" - nasledujúca skladba</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="slider_dashboard_summary">Posuvné ovládanie</string>
+    <string name="notification_slider_category_title">Alert slider</string>
     <string name="notification_slider_selection_dialog_title">Akcia</string>
     <string name="notification_slider_top_position">Umiestnenie hore</string>
     <string name="notification_slider_middle_position">Umiestnenie uprostred</string>
     <string name="notification_slider_bottom_position">Umiestnenie dolu</string>
     <string name="notification_slider_mode_total_silence">Absolútne ticho</string>
+    <string name="notification_slider_mode_alarms_only">Alarms only</string>
     <string name="notification_slider_mode_priority_only">Iba prioritné</string>
-    <string name="notification_slider_mode_vibration">Vibrácie</string>
-    <string name="notification_slider_mode_none">Žiadne</string>
+    <string name="notification_slider_mode_silent">Silent</string>
+    <string name="notification_slider_mode_vibrate">Vibrate</string>
+    <string name="notification_slider_mode_none">Normal</string>
+    <!-- Thermal profiles -->
+    <string name="thermal_title">Thermal profiles</string>
+    <string name="thermal_summary">Adjust per-app thermal profiles for optimum performance</string>
+    <string name="thermal_default">Default</string>
+    <string name="thermal_benchmark">Benchmark</string>
+    <string name="thermal_browser">Browser</string>
+    <string name="thermal_camera">Camera</string>
+    <string name="thermal_dialer">Dialer</string>
+    <string name="thermal_gaming">Gaming</string>
+    <string name="thermal_streaming">Streaming</string>
 </resources>

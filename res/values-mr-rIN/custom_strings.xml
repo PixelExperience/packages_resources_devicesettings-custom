@@ -15,6 +15,10 @@
      limitations under the License.
 -->
 <resources>
+    <!-- DC Dimming settings -->
+    <string name="display_title">Display</string>
+    <string name="dc_dimming_enable_title">Anti-Flicker Mode</string>
+    <string name="dc_dimming_enable_summary">DC Dimming reduces eye strain in low light conditions</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi ध्वनी वर्धक</string>
     <string name="dirac_summary">अॉडिओ गुणवत्ता अनुकूल करा</string>
@@ -72,20 +76,30 @@
     <string name="popup_camera_tip">लक्ष द्या</string>
     <string name="popup_camera_takeback_failed_times_calibrate">फ्रंट कॅमेरा अधिक वेळा बंद करता आला नाही. कॅमेरा कॅलिब्रेट करण्याचा प्रयत्न करा.</string>
     <string name="popup_camera_popup_failed_times_calibrate">फ्रंट कॅमेरा अधिक वेळा उघडू शकत नाही. कॅमेरा कॅलिब्रेट करण्याचा प्रयत्न करा.</string>
+    <string name="popup_camera_calibrate_running">Front camera cannot be used during calibration.</string>
     <string name="popup_camera_calibrate_now">कॅलिब्रेट</string>
     <string name="popup_camera_calibrate_failed">कॅलिब्रेट करु शकत नाही</string>
     <string name="popup_camera_calibrate_success">यशस्वीपणे कॅलिब्रेट केला. तुम्ही आता फ्रंट कॅमेरा उघडू शकता.</string>
     <string name="stop_operate_camera_frequently">तुम्ही खूप वेळा फ्रंट कॅमेरा सुरु करत आहात.</string>
     <string name="takeback_camera_front_failed">फ्रंट कॅमेरा बंद करता आला नाही. पुन्हा प्रयत्न करा.</string>
     <string name="popup_camera_front_failed">फ्रंट कॅमेरा उघडता आला नाही. पुन्हा प्रयत्न करा.</string>
+    <string name="popup_camera_proximity_obstructed">Remove your hand from the proximity sensor to open the front camera...</string>
     <!-- Title and summary -->
     <string name="moto_actions_title">मोटो क्रिया</string>
     <!-- Device gestures -->
+    <string name="device_gestures_title">Device gestures</string>
+    <string name="device_gestures_summary">Manage device gestures</string>
     <!-- Ambient display gestures -->
+    <string name="ambient_display_manage_summary">Manage ambient display gestures</string>
     <!-- Fingerprint gestures -->
+    <string name="fingerprint_gestures_title">Fingerprint gestures</string>
+    <string name="fingerprint_gestures_summary">Use fingerprint gestures</string>
     <string name="fingerprint_gestures_manage_summary">बोटांचे ठसे मॅनेज करा</string>
     <string name="fingerprint_actions_screenon">स्क्रीन सुरू असताना कार्य </string>
     <!-- Fingerprint gestures screen off -->
+    <string name="fingerprint_gestures_screenoff_title">Fingerprint gestures when screen off</string>
+    <string name="fingerprint_gestures_screenoff_summary">Use fingerprint gestures when screen off.\n\nFingerprint unlocking must be disabled to use this feature.</string>
+    <string name="fingerprint_actions_screenoff">Actions with screen off</string>
     <!-- Actions -->
     <string name="action_home">घर</string>
     <string name="action_power">स्क्रीन चालू/बंद</string>
@@ -107,16 +121,47 @@
     <string name="action_email">ईमेल ऑप उघडा </string>
     <string name="action_messages">मेसेज ऑप उघडा </string>
     <!-- Screen off gestures -->
+    <string name="screen_off_gestures_manage_summary">Manage gestures when screen is off</string>
     <!-- Swipe/tap/long tap -->
     <string name="swipe_left_dlg_title">डाव्या Swipe साठी कार्य निवाडा </string>
     <string name="swipe_right_dlg_title">उजव्या swipe साठी कार्य निवाडा </string>
+    <string name="swipe_up_dlg_title">Select action for swipe up</string>
+    <string name="swipe_down_dlg_title">Select action for swipe down</string>
+    <string name="tap_title">Single tap</string>
+    <string name="double_tap_title">Double tap</string>
+    <string name="long_tap_title">Long tap</string>
+    <string name="tap_dlg_title">Select action for single tap</string>
+    <string name="double_tap_dlg_title">Select action for double tap</string>
+    <string name="long_tap_dlg_title">Select action for long tap</string>
     <!-- Double tap to wake -->
     <string name="tap_to_wake">सक्रिय करण्यासाठी टॅप करा</string>
     <string name="tap_to_wake_summary">डिव्हाइस सक्रिय करण्यासाठी स्क्रीनवर कुठेही दोनदा टॅप करा</string>
     <!-- Proximity sensor -->
+    <string name="allow_proximity_sensor_title">Allow proximity sensor</string>
+    <string name="allow_proximity_sensor_summary">Check the proximity sensor before performing the action</string>
     <!-- OnePlus - General -->
     <string name="advanced_settings">वन प्लस सेटिंग</string>
     <string name="advanced_settings_summary">फोन करता कस्टम सेटिंग</string>
-    <!-- OnePlus - Gestures -->
     <!-- OnePlus - Alert slider settings -->
+    <string name="notification_slider_category_title">Alert slider</string>
+    <string name="notification_slider_selection_dialog_title">Action</string>
+    <string name="notification_slider_top_position">Top position</string>
+    <string name="notification_slider_middle_position">Middle position</string>
+    <string name="notification_slider_bottom_position">Bottom position</string>
+    <string name="notification_slider_mode_total_silence">Total silence</string>
+    <string name="notification_slider_mode_alarms_only">Alarms only</string>
+    <string name="notification_slider_mode_priority_only">Priority only</string>
+    <string name="notification_slider_mode_silent">Silent</string>
+    <string name="notification_slider_mode_vibrate">Vibrate</string>
+    <string name="notification_slider_mode_none">Normal</string>
+    <!-- Thermal profiles -->
+    <string name="thermal_title">Thermal profiles</string>
+    <string name="thermal_summary">Adjust per-app thermal profiles for optimum performance</string>
+    <string name="thermal_default">Default</string>
+    <string name="thermal_benchmark">Benchmark</string>
+    <string name="thermal_browser">Browser</string>
+    <string name="thermal_camera">Camera</string>
+    <string name="thermal_dialer">Dialer</string>
+    <string name="thermal_gaming">Gaming</string>
+    <string name="thermal_streaming">Streaming</string>
 </resources>

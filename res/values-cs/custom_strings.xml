@@ -16,9 +16,9 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="display_title">Display</string>
-    <string name="dc_dimming_enable_title">Anti-Flicker Mode</string>
-    <string name="dc_dimming_enable_summary">DC Dimming reduces eye strain in low light conditions</string>
+    <string name="display_title">Displej</string>
+    <string name="dc_dimming_enable_title">Režim bez mihotání</string>
+    <string name="dc_dimming_enable_summary">Funkce DC stmívání pomůže vašim unaveným očím lépe relaxovat</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Vylepšení Mi Sound</string>
     <string name="dirac_summary">Optimalizovat kvalitu zvuku</string>
@@ -63,9 +63,9 @@
     <string name="dirac_preset_dance">Taneční</string>
     <string name="dirac_preset_metal">Metal</string>
     <!-- Popup camera settings -->
-    <string name="popup_led_title">Vizuální efekty</string>
-    <string name="popup_led_summary">Zobrazit animaci při vysunutí a zasunutí předního fotoaparátu</string>
-    <string name="popup_title">Efekty předního fotoaparátu</string>
+    <string name="popup_led_title">LED fotoaparátu</string>
+    <string name="popup_led_summary">Zablikat LED kontrolkou při vysunutí a zasunutí předního fotoaparátu</string>
+    <string name="popup_title">Zvukové efekty předního fotoaparátu</string>
     <string name="popup_title_muqin">Xylofon</string>
     <string name="popup_title_yingyan">Kondor</string>
     <string name="popup_title_mofa">Kouzlo</string>
@@ -143,25 +143,25 @@
     <string name="advanced_settings">OnePlus nastavení</string>
     <string name="advanced_settings_summary">Vlastní nastavení pro vaše zařízení</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_category_title">Alert slider</string>
+    <string name="notification_slider_category_title">Posuvník oznámení</string>
     <string name="notification_slider_selection_dialog_title">Akce</string>
     <string name="notification_slider_top_position">Pozice nahoře</string>
     <string name="notification_slider_middle_position">Pozice uprostřed</string>
     <string name="notification_slider_bottom_position">Pozice dole</string>
     <string name="notification_slider_mode_total_silence">Úplné ticho</string>
-    <string name="notification_slider_mode_alarms_only">Alarms only</string>
+    <string name="notification_slider_mode_alarms_only">Pouze budíky</string>
     <string name="notification_slider_mode_priority_only">Pouze prioritní</string>
-    <string name="notification_slider_mode_silent">Silent</string>
-    <string name="notification_slider_mode_vibrate">Vibrate</string>
-    <string name="notification_slider_mode_none">Normal</string>
+    <string name="notification_slider_mode_silent">Ticho</string>
+    <string name="notification_slider_mode_vibrate">Vibrace</string>
+    <string name="notification_slider_mode_none">Normální</string>
     <!-- Thermal profiles -->
-    <string name="thermal_title">Thermal profiles</string>
-    <string name="thermal_summary">Adjust per-app thermal profiles for optimum performance</string>
-    <string name="thermal_default">Default</string>
-    <string name="thermal_benchmark">Benchmark</string>
-    <string name="thermal_browser">Browser</string>
-    <string name="thermal_camera">Camera</string>
-    <string name="thermal_dialer">Dialer</string>
-    <string name="thermal_gaming">Gaming</string>
-    <string name="thermal_streaming">Streaming</string>
+    <string name="thermal_title">Profily optimalizace</string>
+    <string name="thermal_summary">Upravte profily podle aplikací pro optimální výkon</string>
+    <string name="thermal_default">Žádná optimalizace</string>
+    <string name="thermal_benchmark">Výkon</string>
+    <string name="thermal_browser">Prohlížeč</string>
+    <string name="thermal_camera">Fotoaparát</string>
+    <string name="thermal_dialer">Vytáčení</string>
+    <string name="thermal_gaming">Hry</string>
+    <string name="thermal_streaming">Aplikace pro streamování</string>
 </resources>

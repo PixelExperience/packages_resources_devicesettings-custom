@@ -16,9 +16,9 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="display_title">Display</string>
-    <string name="dc_dimming_enable_title">Anti-Flicker Mode</string>
-    <string name="dc_dimming_enable_summary">DC Dimming reduces eye strain in low light conditions</string>
+    <string name="display_title">پیشاندان</string>
+    <string name="dc_dimming_enable_title">دۆخی دژە لێڵی</string>
+    <string name="dc_dimming_enable_summary">ڕووناککردنی نووسین و دەقەکان لە شوێنی تاریکەکاندا</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Sound Enhancer</string>
     <string name="dirac_summary">یاشترکردنی جۆرێتی دەنگ</string>
@@ -63,9 +63,9 @@
     <string name="dirac_preset_dance">سه‌ما</string>
     <string name="dirac_preset_metal">Metal</string>
     <!-- Popup camera settings -->
-    <string name="popup_led_title">Visual effect</string>
-    <string name="popup_led_summary">پیشاندانی ئەنیمەیشن کاتێ کامێرای پێشەوە دەردەکەوێ </string>
-    <string name="popup_title">کاریگەرییەکانی کامێرای پێشەوە</string>
+    <string name="popup_led_title">Camera LED</string>
+    <string name="popup_led_summary">Show LED light when the front camera appears and retracts</string>
+    <string name="popup_title">Front camera sound effects</string>
     <string name="popup_title_muqin">Xylophone</string>
     <string name="popup_title_yingyan">Condor</string>
     <string name="popup_title_mofa">Magic</string>
@@ -143,25 +143,25 @@
     <string name="advanced_settings">ڕێکخستنەکانی وەنپڵەس</string>
     <string name="advanced_settings_summary">ڕێکخستنی دەستی بۆ ئامێرەکەت</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_category_title">Alert slider</string>
+    <string name="notification_slider_category_title">ئاگادارکردنەوەی ڕاکێشان</string>
     <string name="notification_slider_selection_dialog_title">کردار</string>
     <string name="notification_slider_top_position">شوێنی سەرەوە</string>
     <string name="notification_slider_middle_position">شوێنی ناوەند</string>
     <string name="notification_slider_bottom_position">شوێنی خوارەوە</string>
     <string name="notification_slider_mode_total_silence">بێدەنگکردنی گشتی</string>
-    <string name="notification_slider_mode_alarms_only">Alarms only</string>
+    <string name="notification_slider_mode_alarms_only">تەنها ووریاکەرەوەکان</string>
     <string name="notification_slider_mode_priority_only">تەنها پێشەیی</string>
-    <string name="notification_slider_mode_silent">Silent</string>
-    <string name="notification_slider_mode_vibrate">Vibrate</string>
-    <string name="notification_slider_mode_none">Normal</string>
+    <string name="notification_slider_mode_silent">بێدەنگ</string>
+    <string name="notification_slider_mode_vibrate">لەرزین</string>
+    <string name="notification_slider_mode_none">ئاسایی</string>
     <!-- Thermal profiles -->
-    <string name="thermal_title">Thermal profiles</string>
-    <string name="thermal_summary">Adjust per-app thermal profiles for optimum performance</string>
-    <string name="thermal_default">Default</string>
-    <string name="thermal_benchmark">Benchmark</string>
-    <string name="thermal_browser">Browser</string>
-    <string name="thermal_camera">Camera</string>
-    <string name="thermal_dialer">Dialer</string>
-    <string name="thermal_gaming">Gaming</string>
-    <string name="thermal_streaming">Streaming</string>
+    <string name="thermal_title">فرمانەکانی کارایی کردن</string>
+    <string name="thermal_summary">ڕێکخستنی تایبەتی کاراییکردنی بۆ هەر بەرنامەیەک</string>
+    <string name="thermal_default">جێبەجێنەکراو</string>
+    <string name="thermal_benchmark">جێبەجێکردن</string>
+    <string name="thermal_browser">وێبگەڕ</string>
+    <string name="thermal_camera">کامێرا</string>
+    <string name="thermal_dialer">پەیوەندیکردن</string>
+    <string name="thermal_gaming">یارییەکان</string>
+    <string name="thermal_streaming">لێدانی لەسەرهێڵ</string>
 </resources>

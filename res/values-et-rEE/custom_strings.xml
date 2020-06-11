@@ -16,9 +16,9 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="display_title">Display</string>
-    <string name="dc_dimming_enable_title">Anti-Flicker Mode</string>
-    <string name="dc_dimming_enable_summary">DC Dimming reduces eye strain in low light conditions</string>
+    <string name="display_title">Ekraan</string>
+    <string name="dc_dimming_enable_title">Vilkumisvastane režiim</string>
+    <string name="dc_dimming_enable_summary">Rakendage silma koormuse vähendamiseks alalisvärvimist</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Heli Parandaja</string>
     <string name="dirac_summary">Optimeerige heli kvaliteeti</string>
@@ -63,9 +63,9 @@
     <string name="dirac_preset_dance">Tants</string>
     <string name="dirac_preset_metal">Metral</string>
     <!-- Popup camera settings -->
-    <string name="popup_led_title">Visuaalefekt</string>
-    <string name="popup_led_summary">Näita animatsiooni, kui esikaamera ilmub ja sisse tõmbub</string>
-    <string name="popup_title">Esikaamera efektid</string>
+    <string name="popup_led_title">Camera LED</string>
+    <string name="popup_led_summary">Show LED light when the front camera appears and retracts</string>
+    <string name="popup_title">Front camera sound effects</string>
     <string name="popup_title_muqin">Ksülofon</string>
     <string name="popup_title_yingyan">Kondor</string>
     <string name="popup_title_mofa">Maagia</string>
@@ -143,25 +143,25 @@
     <string name="advanced_settings">OnePlus\'i seaded</string>
     <string name="advanced_settings_summary">Kohandatud seaded sinu seadmele</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_category_title">Alert slider</string>
+    <string name="notification_slider_category_title">Teatise lüliti</string>
     <string name="notification_slider_selection_dialog_title">Tegevus</string>
     <string name="notification_slider_top_position">Ülemine positsioon</string>
     <string name="notification_slider_middle_position">Keskmine positsioon</string>
     <string name="notification_slider_bottom_position">Alumine positsioon</string>
     <string name="notification_slider_mode_total_silence">Täielik vaikus</string>
-    <string name="notification_slider_mode_alarms_only">Alarms only</string>
+    <string name="notification_slider_mode_alarms_only">Ainult äratused</string>
     <string name="notification_slider_mode_priority_only">Ainult prioriteetsed</string>
-    <string name="notification_slider_mode_silent">Silent</string>
-    <string name="notification_slider_mode_vibrate">Vibrate</string>
-    <string name="notification_slider_mode_none">Normal</string>
+    <string name="notification_slider_mode_silent">Hääletu</string>
+    <string name="notification_slider_mode_vibrate">Vibreering</string>
+    <string name="notification_slider_mode_none">Tavaline</string>
     <!-- Thermal profiles -->
-    <string name="thermal_title">Thermal profiles</string>
-    <string name="thermal_summary">Adjust per-app thermal profiles for optimum performance</string>
-    <string name="thermal_default">Default</string>
-    <string name="thermal_benchmark">Benchmark</string>
-    <string name="thermal_browser">Browser</string>
-    <string name="thermal_camera">Camera</string>
-    <string name="thermal_dialer">Dialer</string>
-    <string name="thermal_gaming">Gaming</string>
-    <string name="thermal_streaming">Streaming</string>
+    <string name="thermal_title">Optimeerimise profiil</string>
+    <string name="thermal_summary">Reguleerige profiile rakenduse optimaalse jõudluse saavutamiseks</string>
+    <string name="thermal_default">Optimeeritud puudub</string>
+    <string name="thermal_benchmark">Jõudlus</string>
+    <string name="thermal_browser">Veebilehitseja</string>
+    <string name="thermal_camera">Kaamera</string>
+    <string name="thermal_dialer">Valija</string>
+    <string name="thermal_gaming">Mängud</string>
+    <string name="thermal_streaming">Rakenduste voogesitus</string>
 </resources>

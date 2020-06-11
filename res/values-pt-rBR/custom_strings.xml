@@ -16,9 +16,9 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="display_title">Display</string>
-    <string name="dc_dimming_enable_title">Anti-Flicker Mode</string>
-    <string name="dc_dimming_enable_summary">DC Dimming reduces eye strain in low light conditions</string>
+    <string name="display_title">Tela</string>
+    <string name="dc_dimming_enable_title">Modo Anti-oscilação</string>
+    <string name="dc_dimming_enable_summary">Aplicar DC Dimming para reduzir cansaço visual</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Sound Enhancer</string>
     <string name="dirac_summary">Otimizar qualidade de áudio</string>
@@ -63,9 +63,9 @@
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metal</string>
     <!-- Popup camera settings -->
-    <string name="popup_led_title">Efeito visual</string>
-    <string name="popup_led_summary">Mostrar animação quando a câmera frontal surgir e retrair</string>
-    <string name="popup_title">Efeitos da câmera frontal</string>
+    <string name="popup_led_title">LED da câmera</string>
+    <string name="popup_led_summary">Acender a luz quando a câmera frontal surgir e retrair</string>
+    <string name="popup_title">Efeitos sonoros da câmera frontal</string>
     <string name="popup_title_muqin">Xilofone</string>
     <string name="popup_title_yingyan">Condor</string>
     <string name="popup_title_mofa">Mágica</string>
@@ -143,25 +143,25 @@
     <string name="advanced_settings">Configurações OnePlus</string>
     <string name="advanced_settings_summary">Configurações personalizadas para o seu dispositivo</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_category_title">Alert slider</string>
+    <string name="notification_slider_category_title">Botão deslizante</string>
     <string name="notification_slider_selection_dialog_title">Ação</string>
     <string name="notification_slider_top_position">Posição superior</string>
     <string name="notification_slider_middle_position">Posição central</string>
     <string name="notification_slider_bottom_position">Posição inferior</string>
     <string name="notification_slider_mode_total_silence">Silêncio total</string>
-    <string name="notification_slider_mode_alarms_only">Alarms only</string>
+    <string name="notification_slider_mode_alarms_only">Somente alarmes</string>
     <string name="notification_slider_mode_priority_only">Somente prioridade</string>
-    <string name="notification_slider_mode_silent">Silent</string>
-    <string name="notification_slider_mode_vibrate">Vibrate</string>
+    <string name="notification_slider_mode_silent">Silêncio</string>
+    <string name="notification_slider_mode_vibrate">Vibrar</string>
     <string name="notification_slider_mode_none">Normal</string>
     <!-- Thermal profiles -->
-    <string name="thermal_title">Thermal profiles</string>
-    <string name="thermal_summary">Adjust per-app thermal profiles for optimum performance</string>
-    <string name="thermal_default">Default</string>
-    <string name="thermal_benchmark">Benchmark</string>
-    <string name="thermal_browser">Browser</string>
-    <string name="thermal_camera">Camera</string>
-    <string name="thermal_dialer">Dialer</string>
-    <string name="thermal_gaming">Gaming</string>
-    <string name="thermal_streaming">Streaming</string>
+    <string name="thermal_title">Perfil de otimização</string>
+    <string name="thermal_summary">Ajuste de perfil de cada aplicativo para melhor desempenho</string>
+    <string name="thermal_default">Não otimizar</string>
+    <string name="thermal_benchmark">Desempenho</string>
+    <string name="thermal_browser">Navegador</string>
+    <string name="thermal_camera">Câmera</string>
+    <string name="thermal_dialer">Discador</string>
+    <string name="thermal_gaming">Jogos</string>
+    <string name="thermal_streaming">Aplicativos de transmissão</string>
 </resources>

@@ -17,8 +17,8 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">Display</string>
-    <string name="dc_dimming_enable_title">Anti-Flicker Mode</string>
-    <string name="dc_dimming_enable_summary">DC Dimming reduces eye strain in low light conditions</string>
+    <string name="dc_dimming_enable_title">چاقناشتىن ساقلىنىش ھالىتى</string>
+    <string name="dc_dimming_enable_summary">ئومۈميۈزلۈك بىۋاستە نۇر تەڭشەپ،تۆۋەن يورۇقلۇقتا كۆزنىڭ چاقنىشىنى توسۇپ كۆزنى قوغدايدۇ</string>
     <!-- Dirac settings -->
     <string name="dirac_title">مى ئاۋاز ئاۋاز سۈپىتىنى كۆتۈرگۈچنى ئىشلىتىش</string>
     <string name="dirac_summary">مى ئاۋاز</string>
@@ -63,9 +63,9 @@
     <string name="dirac_preset_dance">ئۇسۇل مۇزىكىسى</string>
     <string name="dirac_preset_metal">مېتال</string>
     <!-- Popup camera settings -->
-    <string name="popup_led_title">كامېرا چىراغ ئۈنۈمى</string>
-    <string name="popup_led_summary">كامېرا چىقىپ چۈشكەندىكى چىراغ ئۈنۈمى</string>
-    <string name="popup_title">چىقىپ چۈشىدىغان كامېرا</string>
+    <string name="popup_led_title">Camera LED</string>
+    <string name="popup_led_summary">Show LED light when the front camera appears and retracts</string>
+    <string name="popup_title">Front camera sound effects</string>
     <string name="popup_title_muqin">ياغاچ ساز</string>
     <string name="popup_title_yingyan">بۈركۈت كۆز</string>
     <string name="popup_title_mofa">سېھىرلىك</string>
@@ -155,13 +155,13 @@
     <string name="notification_slider_mode_vibrate">Vibrate</string>
     <string name="notification_slider_mode_none">Normal</string>
     <!-- Thermal profiles -->
-    <string name="thermal_title">Thermal profiles</string>
-    <string name="thermal_summary">Adjust per-app thermal profiles for optimum performance</string>
-    <string name="thermal_default">Default</string>
-    <string name="thermal_benchmark">Benchmark</string>
+    <string name="thermal_title">Optimization profiles</string>
+    <string name="thermal_summary">Adjust per-app profiles for optimum performance</string>
+    <string name="thermal_default">No optimization</string>
+    <string name="thermal_benchmark">Performance</string>
     <string name="thermal_browser">Browser</string>
     <string name="thermal_camera">Camera</string>
     <string name="thermal_dialer">Dialer</string>
-    <string name="thermal_gaming">Gaming</string>
-    <string name="thermal_streaming">Streaming</string>
+    <string name="thermal_gaming">Games</string>
+    <string name="thermal_streaming">Streaming applications</string>
 </resources>

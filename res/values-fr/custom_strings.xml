@@ -16,9 +16,9 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="display_title">Display</string>
-    <string name="dc_dimming_enable_title">Anti-Flicker Mode</string>
-    <string name="dc_dimming_enable_summary">DC Dimming reduces eye strain in low light conditions</string>
+    <string name="display_title">Affichage</string>
+    <string name="dc_dimming_enable_title">Mode anti-scintillement</string>
+    <string name="dc_dimming_enable_summary">Appliquez une gradation CC pour réduire la fatigue oculaire</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Amélioration audio Mi</string>
     <string name="dirac_summary">Optimiser la qualité audio</string>
@@ -63,9 +63,9 @@
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Métal</string>
     <!-- Popup camera settings -->
-    <string name="popup_led_title">Effet visuel</string>
-    <string name="popup_led_summary">Afficher l\'animation lorsque la caméra frontale apparaît et se rétracte</string>
-    <string name="popup_title">Effets de la caméra frontale</string>
+    <string name="popup_led_title">Camera LED</string>
+    <string name="popup_led_summary">Show LED light when the front camera appears and retracts</string>
+    <string name="popup_title">Front camera sound effects</string>
     <string name="popup_title_muqin">Xylophone</string>
     <string name="popup_title_yingyan">Condor</string>
     <string name="popup_title_mofa">Magique</string>
@@ -143,25 +143,25 @@
     <string name="advanced_settings">Paramètres OnePlus</string>
     <string name="advanced_settings_summary">Paramètres personnalisés pour votre appareil</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_category_title">Alert slider</string>
+    <string name="notification_slider_category_title">Le curseur d\'alerte</string>
     <string name="notification_slider_selection_dialog_title">Action</string>
     <string name="notification_slider_top_position">Position haute</string>
     <string name="notification_slider_middle_position">Position intermédiaire</string>
     <string name="notification_slider_bottom_position">Position basse</string>
     <string name="notification_slider_mode_total_silence">Aucune interruption</string>
-    <string name="notification_slider_mode_alarms_only">Alarms only</string>
+    <string name="notification_slider_mode_alarms_only">Alarmes uniquement</string>
     <string name="notification_slider_mode_priority_only">Prioritaires uniquement</string>
-    <string name="notification_slider_mode_silent">Silent</string>
-    <string name="notification_slider_mode_vibrate">Vibrate</string>
+    <string name="notification_slider_mode_silent">Silencieux</string>
+    <string name="notification_slider_mode_vibrate">Vibreur</string>
     <string name="notification_slider_mode_none">Normal</string>
     <!-- Thermal profiles -->
-    <string name="thermal_title">Thermal profiles</string>
-    <string name="thermal_summary">Adjust per-app thermal profiles for optimum performance</string>
-    <string name="thermal_default">Default</string>
-    <string name="thermal_benchmark">Benchmark</string>
-    <string name="thermal_browser">Browser</string>
-    <string name="thermal_camera">Camera</string>
-    <string name="thermal_dialer">Dialer</string>
-    <string name="thermal_gaming">Gaming</string>
-    <string name="thermal_streaming">Streaming</string>
+    <string name="thermal_title">Profil d\'optimisation</string>
+    <string name="thermal_summary">Ajustez les profils pour chaque application pour des performances optimales</string>
+    <string name="thermal_default">Aucune optimisation</string>
+    <string name="thermal_benchmark">Performance</string>
+    <string name="thermal_browser">Internet</string>
+    <string name="thermal_camera">Appareil photo</string>
+    <string name="thermal_dialer">Téléphone</string>
+    <string name="thermal_gaming">Jeux</string>
+    <string name="thermal_streaming">Flux des applications</string>
 </resources>

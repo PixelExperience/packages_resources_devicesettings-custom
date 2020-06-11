@@ -16,9 +16,9 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="display_title">Display</string>
-    <string name="dc_dimming_enable_title">Anti-Flicker Mode</string>
-    <string name="dc_dimming_enable_summary">DC Dimming reduces eye strain in low light conditions</string>
+    <string name="display_title">Képernyő</string>
+    <string name="dc_dimming_enable_title">Csíkozódáscsökkentő mód</string>
+    <string name="dc_dimming_enable_summary">Az egyenáramú halványítás engedélyezése a szemterhelés csökkentése érdekében</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Hangjavítás</string>
     <string name="dirac_summary">Hangminőség optimalizálása</string>
@@ -63,9 +63,9 @@
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metál</string>
     <!-- Popup camera settings -->
-    <string name="popup_led_title">Vizuális hatások</string>
-    <string name="popup_led_summary">Animáció-megjelenítés az első kamera kinyitásakor és bezárásakor</string>
-    <string name="popup_title">Előlapi kamerahatások</string>
+    <string name="popup_led_title">Camera LED</string>
+    <string name="popup_led_summary">Show LED light when the front camera appears and retracts</string>
+    <string name="popup_title">Front camera sound effects</string>
     <string name="popup_title_muqin">Xilofon</string>
     <string name="popup_title_yingyan">Keselyű</string>
     <string name="popup_title_mofa">Varázslat</string>
@@ -143,25 +143,25 @@
     <string name="advanced_settings">OnePlus beállítások</string>
     <string name="advanced_settings_summary">Haladó beállítások az Ön készülékéhez</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_category_title">Alert slider</string>
+    <string name="notification_slider_category_title">Csúszka-figyelmeztetés</string>
     <string name="notification_slider_selection_dialog_title">Művelet</string>
     <string name="notification_slider_top_position">Felső pozíció</string>
     <string name="notification_slider_middle_position">Középső pozíció</string>
     <string name="notification_slider_bottom_position">Alsó pozíció</string>
     <string name="notification_slider_mode_total_silence">Teljes némítás</string>
-    <string name="notification_slider_mode_alarms_only">Alarms only</string>
+    <string name="notification_slider_mode_alarms_only">Csak az ébresztések</string>
     <string name="notification_slider_mode_priority_only">Csak a fontosak</string>
-    <string name="notification_slider_mode_silent">Silent</string>
-    <string name="notification_slider_mode_vibrate">Vibrate</string>
-    <string name="notification_slider_mode_none">Normal</string>
+    <string name="notification_slider_mode_silent">Néma</string>
+    <string name="notification_slider_mode_vibrate">Rezgés</string>
+    <string name="notification_slider_mode_none">Szokásos</string>
     <!-- Thermal profiles -->
-    <string name="thermal_title">Thermal profiles</string>
-    <string name="thermal_summary">Adjust per-app thermal profiles for optimum performance</string>
-    <string name="thermal_default">Default</string>
-    <string name="thermal_benchmark">Benchmark</string>
-    <string name="thermal_browser">Browser</string>
-    <string name="thermal_camera">Camera</string>
-    <string name="thermal_dialer">Dialer</string>
-    <string name="thermal_gaming">Gaming</string>
-    <string name="thermal_streaming">Streaming</string>
+    <string name="thermal_title">Optimalizálási profilok</string>
+    <string name="thermal_summary">Alkalmazásonkét állíthatja be a profilokat az optimális teljesítmény elérése érdekében</string>
+    <string name="thermal_default">Nincs optimalizálás</string>
+    <string name="thermal_benchmark">Teljesítménycentrikus</string>
+    <string name="thermal_browser">Böngésző</string>
+    <string name="thermal_camera">Kamera</string>
+    <string name="thermal_dialer">Tárcsázó</string>
+    <string name="thermal_gaming">Játékokhoz</string>
+    <string name="thermal_streaming">Sztreamelő alkalmazáshoz</string>
 </resources>

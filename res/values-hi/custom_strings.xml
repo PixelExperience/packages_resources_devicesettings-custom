@@ -17,8 +17,8 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">Display</string>
-    <string name="dc_dimming_enable_title">Anti-Flicker Mode</string>
-    <string name="dc_dimming_enable_summary">DC Dimming reduces eye strain in low light conditions</string>
+    <string name="dc_dimming_enable_title">एंटी-फ़्लिकर मोड</string>
+    <string name="dc_dimming_enable_summary">आंखों के तनाव को कम करने के लिए डीसी डिमिंग लगाएं</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi ध्वनि एन्हांसर</string>
     <string name="dirac_summary">ऑडियो गुणवत्ता ऑप्टिमाइज़ करें</string>
@@ -63,9 +63,9 @@
     <string name="dirac_preset_dance">डांस</string>
     <string name="dirac_preset_metal">मेटल</string>
     <!-- Popup camera settings -->
-    <string name="popup_led_title">विज़ुअल ईफेक्ट</string>
-    <string name="popup_led_summary">सामने वाले कैमरे के दिखाई देने और पीछे हटने पर एनिमेशन दिखाएं</string>
-    <string name="popup_title">सामने के कैमरे के ईफेक्ट</string>
+    <string name="popup_led_title">Camera LED</string>
+    <string name="popup_led_summary">Show LED light when the front camera appears and retracts</string>
+    <string name="popup_title">Front camera sound effects</string>
     <string name="popup_title_muqin">ज़ाइलोफ़ोन</string>
     <string name="popup_title_yingyan">कंडर</string>
     <string name="popup_title_mofa">जादू</string>
@@ -155,13 +155,13 @@
     <string name="notification_slider_mode_vibrate">Vibrate</string>
     <string name="notification_slider_mode_none">Normal</string>
     <!-- Thermal profiles -->
-    <string name="thermal_title">Thermal profiles</string>
-    <string name="thermal_summary">Adjust per-app thermal profiles for optimum performance</string>
-    <string name="thermal_default">Default</string>
-    <string name="thermal_benchmark">Benchmark</string>
-    <string name="thermal_browser">Browser</string>
-    <string name="thermal_camera">Camera</string>
-    <string name="thermal_dialer">Dialer</string>
-    <string name="thermal_gaming">Gaming</string>
-    <string name="thermal_streaming">Streaming</string>
+    <string name="thermal_title">Profil pengoptimalan</string>
+    <string name="thermal_summary">Adjust per-app profiles for optimum performance</string>
+    <string name="thermal_default">Tidak ada optimasi</string>
+    <string name="thermal_benchmark">Performa</string>
+    <string name="thermal_browser">Peramban</string>
+    <string name="thermal_camera">Kamera</string>
+    <string name="thermal_dialer">Telepon</string>
+    <string name="thermal_gaming">Permainan</string>
+    <string name="thermal_streaming">Streaming applications</string>
 </resources>

@@ -16,9 +16,9 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="display_title">Display</string>
-    <string name="dc_dimming_enable_title">Anti-Flicker Mode</string>
-    <string name="dc_dimming_enable_summary">DC Dimming reduces eye strain in low light conditions</string>
+    <string name="display_title">Görüntü</string>
+    <string name="dc_dimming_enable_title">Titreşim önleme modu</string>
+    <string name="dc_dimming_enable_summary">DC Karartma, düşük ışık koşullarında göz yorgunluğunu azaltır</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Ses Yükseltici</string>
     <string name="dirac_summary">Ses kalitesini optimize eder</string>
@@ -63,9 +63,9 @@
     <string name="dirac_preset_dance">Dans</string>
     <string name="dirac_preset_metal">Metal</string>
     <!-- Popup camera settings -->
-    <string name="popup_led_title">Görsel efekt</string>
-    <string name="popup_led_summary">Ön kamera belirip geri çekildiğinde animasyonu göster</string>
-    <string name="popup_title">Ön kamera efektleri</string>
+    <string name="popup_led_title">Kamera LED\'i</string>
+    <string name="popup_led_summary">Ön kamera yuvadan çıkıp geri girdiğinde LED\'i yak</string>
+    <string name="popup_title">Ön kameranın ses efektleri</string>
     <string name="popup_title_muqin">Ksilofon</string>
     <string name="popup_title_yingyan">Akbaba</string>
     <string name="popup_title_mofa">Sihir</string>
@@ -143,25 +143,25 @@
     <string name="advanced_settings">OnePlus Ayarları</string>
     <string name="advanced_settings_summary">Cihazınız için özelleştirilmiş ayarlar</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_category_title">Alert slider</string>
+    <string name="notification_slider_category_title">Uyarı kaydırıcı</string>
     <string name="notification_slider_selection_dialog_title">Eylem</string>
     <string name="notification_slider_top_position">Üst konum</string>
     <string name="notification_slider_middle_position">Orta konum</string>
     <string name="notification_slider_bottom_position">Alt konum</string>
     <string name="notification_slider_mode_total_silence">Tamamen sessiz</string>
-    <string name="notification_slider_mode_alarms_only">Alarms only</string>
+    <string name="notification_slider_mode_alarms_only">Sadece alarmlar</string>
     <string name="notification_slider_mode_priority_only">Sadece öncelikli olanlar</string>
-    <string name="notification_slider_mode_silent">Silent</string>
-    <string name="notification_slider_mode_vibrate">Vibrate</string>
+    <string name="notification_slider_mode_silent">Sessiz</string>
+    <string name="notification_slider_mode_vibrate">Titreşim</string>
     <string name="notification_slider_mode_none">Normal</string>
     <!-- Thermal profiles -->
-    <string name="thermal_title">Thermal profiles</string>
-    <string name="thermal_summary">Adjust per-app thermal profiles for optimum performance</string>
-    <string name="thermal_default">Default</string>
-    <string name="thermal_benchmark">Benchmark</string>
-    <string name="thermal_browser">Browser</string>
-    <string name="thermal_camera">Camera</string>
-    <string name="thermal_dialer">Dialer</string>
-    <string name="thermal_gaming">Gaming</string>
-    <string name="thermal_streaming">Streaming</string>
+    <string name="thermal_title">Optimizasyon profili</string>
+    <string name="thermal_summary">En uygun performans için uygulama başına profilleri ayarla</string>
+    <string name="thermal_default">Optimizasyon yok</string>
+    <string name="thermal_benchmark">Performans</string>
+    <string name="thermal_browser">Tarayıcı</string>
+    <string name="thermal_camera">Kamera</string>
+    <string name="thermal_dialer">Çevirici</string>
+    <string name="thermal_gaming">Oyunlar</string>
+    <string name="thermal_streaming">Akış uygulamaları</string>
 </resources>

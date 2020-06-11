@@ -16,9 +16,9 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="display_title">Display</string>
-    <string name="dc_dimming_enable_title">Anti-Flicker Mode</string>
-    <string name="dc_dimming_enable_summary">DC Dimming reduces eye strain in low light conditions</string>
+    <string name="display_title">Näyttö</string>
+    <string name="dc_dimming_enable_title">Vilkkumisen esto</string>
+    <string name="dc_dimming_enable_summary">Käytä DC-himmennystä vähentääksesi silmien rasitusta</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Sound Enhancer</string>
     <string name="dirac_summary">Optimoi äänenlaatua</string>
@@ -63,9 +63,9 @@
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metalli</string>
     <!-- Popup camera settings -->
-    <string name="popup_led_title">Visuaaliset tehosteet</string>
-    <string name="popup_led_summary">Näytä animaatio, kun etukamera tulee näkyviin ja vetäytyy</string>
-    <string name="popup_title">Etukameran tehosteet</string>
+    <string name="popup_led_title">Kameran LED</string>
+    <string name="popup_led_summary">Näytä LED valo kun etukamera ilmestyy ja reakoi</string>
+    <string name="popup_title">Etu kameran ääni efektit</string>
     <string name="popup_title_muqin">Ksylofoni</string>
     <string name="popup_title_yingyan">Korppikotka</string>
     <string name="popup_title_mofa">Taika</string>
@@ -143,25 +143,25 @@
     <string name="advanced_settings">OnePlus Asetukset</string>
     <string name="advanced_settings_summary">Muokatut asetukset laitteellesi</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_category_title">Alert slider</string>
+    <string name="notification_slider_category_title">Hälytys säädin</string>
     <string name="notification_slider_selection_dialog_title">Toiminto</string>
     <string name="notification_slider_top_position">Yläasento</string>
     <string name="notification_slider_middle_position">Keskiasento</string>
     <string name="notification_slider_bottom_position">Ala-asento</string>
     <string name="notification_slider_mode_total_silence">Täysin äänetön</string>
-    <string name="notification_slider_mode_alarms_only">Alarms only</string>
+    <string name="notification_slider_mode_alarms_only">Vain hälytykset</string>
     <string name="notification_slider_mode_priority_only">Vain tärkeät</string>
-    <string name="notification_slider_mode_silent">Silent</string>
-    <string name="notification_slider_mode_vibrate">Vibrate</string>
-    <string name="notification_slider_mode_none">Normal</string>
+    <string name="notification_slider_mode_silent">Hiljainen</string>
+    <string name="notification_slider_mode_vibrate">Värinä</string>
+    <string name="notification_slider_mode_none">Normaali</string>
     <!-- Thermal profiles -->
-    <string name="thermal_title">Thermal profiles</string>
-    <string name="thermal_summary">Adjust per-app thermal profiles for optimum performance</string>
-    <string name="thermal_default">Default</string>
-    <string name="thermal_benchmark">Benchmark</string>
-    <string name="thermal_browser">Browser</string>
-    <string name="thermal_camera">Camera</string>
-    <string name="thermal_dialer">Dialer</string>
-    <string name="thermal_gaming">Gaming</string>
-    <string name="thermal_streaming">Streaming</string>
+    <string name="thermal_title">Optimointi profiili</string>
+    <string name="thermal_summary">Adjust per-app profiles for optimum performance</string>
+    <string name="thermal_default">Ei optimointia</string>
+    <string name="thermal_benchmark">Suorituskyky</string>
+    <string name="thermal_browser">Selain</string>
+    <string name="thermal_camera">Kamera</string>
+    <string name="thermal_dialer">Puhelin</string>
+    <string name="thermal_gaming">Pelit</string>
+    <string name="thermal_streaming">Streaming applications</string>
 </resources>

@@ -16,9 +16,9 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="display_title">Display</string>
-    <string name="dc_dimming_enable_title">Anti-Flicker Mode</string>
-    <string name="dc_dimming_enable_summary">DC Dimming reduces eye strain in low light conditions</string>
+    <string name="display_title">Ekranas</string>
+    <string name="dc_dimming_enable_title">Nemirksėjimo režimas</string>
+    <string name="dc_dimming_enable_summary">Pritaikyti DC pritemdymą, siekiant sumažinti akių įtampą</string>
     <!-- Dirac settings -->
     <string name="dirac_title">„Mi garso pagerinimas“</string>
     <string name="dirac_summary">Optimizuoti garso kokybę</string>
@@ -63,9 +63,9 @@
     <string name="dirac_preset_dance">Šokių</string>
     <string name="dirac_preset_metal">Metalas</string>
     <!-- Popup camera settings -->
-    <string name="popup_led_title">Vaizdiniai efektai</string>
-    <string name="popup_led_summary">Rodyti animaciją, kai priekinis fotoaparatas priartėja ir atitolsta</string>
-    <string name="popup_title">Priekinio fotoaparato efektai</string>
+    <string name="popup_led_title">Camera LED</string>
+    <string name="popup_led_summary">Show LED light when the front camera appears and retracts</string>
+    <string name="popup_title">Front camera sound effects</string>
     <string name="popup_title_muqin">Ksilofonas</string>
     <string name="popup_title_yingyan">Kondoras</string>
     <string name="popup_title_mofa">Magija</string>
@@ -143,25 +143,25 @@
     <string name="advanced_settings">OnePlus nustatymai</string>
     <string name="advanced_settings_summary">Pasirinktiniai nustatymai jūsų įrenginiui</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_category_title">Alert slider</string>
+    <string name="notification_slider_category_title">Įspėjimo slankiklis</string>
     <string name="notification_slider_selection_dialog_title">Veiksmas</string>
     <string name="notification_slider_top_position">Viršutinė pozicija</string>
     <string name="notification_slider_middle_position">Vidurinė pozicija</string>
     <string name="notification_slider_bottom_position">Apatinė pozicija</string>
     <string name="notification_slider_mode_total_silence">Visiška tyla</string>
-    <string name="notification_slider_mode_alarms_only">Alarms only</string>
+    <string name="notification_slider_mode_alarms_only">Tik žadintuvo signalai</string>
     <string name="notification_slider_mode_priority_only">Tik prioritetiniai</string>
-    <string name="notification_slider_mode_silent">Silent</string>
-    <string name="notification_slider_mode_vibrate">Vibrate</string>
-    <string name="notification_slider_mode_none">Normal</string>
+    <string name="notification_slider_mode_silent">Tylus</string>
+    <string name="notification_slider_mode_vibrate">Vibruoti</string>
+    <string name="notification_slider_mode_none">Normalus</string>
     <!-- Thermal profiles -->
-    <string name="thermal_title">Thermal profiles</string>
-    <string name="thermal_summary">Adjust per-app thermal profiles for optimum performance</string>
-    <string name="thermal_default">Default</string>
-    <string name="thermal_benchmark">Benchmark</string>
-    <string name="thermal_browser">Browser</string>
-    <string name="thermal_camera">Camera</string>
-    <string name="thermal_dialer">Dialer</string>
-    <string name="thermal_gaming">Gaming</string>
-    <string name="thermal_streaming">Streaming</string>
+    <string name="thermal_title">Optimizavimo profilis</string>
+    <string name="thermal_summary">Norėdami optimaliausio našumo, sureguliuokite kiekvienos programos profilius</string>
+    <string name="thermal_default">Nėra optimizavimo</string>
+    <string name="thermal_benchmark">Našumas</string>
+    <string name="thermal_browser">Naršyklė</string>
+    <string name="thermal_camera">Fotoaparatas</string>
+    <string name="thermal_dialer">Rinkiklis</string>
+    <string name="thermal_gaming">Žaidimai</string>
+    <string name="thermal_streaming">Streaming applications</string>
 </resources>

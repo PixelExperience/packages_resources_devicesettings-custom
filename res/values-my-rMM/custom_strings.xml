@@ -17,8 +17,8 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">Display</string>
-    <string name="dc_dimming_enable_title">Anti-Flicker Mode</string>
-    <string name="dc_dimming_enable_summary">DC Dimming reduces eye strain in low light conditions</string>
+    <string name="dc_dimming_enable_title">ဖလက်ရှ် တားဆီးမုဒ်</string>
+    <string name="dc_dimming_enable_summary">မျက်စိ ပင်ပန်းမှု လျော့ကျစေရန် DC အလင်းမှိန်ခြင်းအား အသုံးချပါ</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi အသံကောင်းမွန်စေသူ</string>
     <string name="dirac_summary">အသံ အရည်အသွေးကို မြှင့်တင်မည်</string>
@@ -63,9 +63,9 @@
     <string name="dirac_preset_dance">ဒန့်စ်</string>
     <string name="dirac_preset_metal">မက်တယ်လ် ဂီတ</string>
     <!-- Popup camera settings -->
-    <string name="popup_led_title">ကင်မရာရှေ့မီး ဖန်တီးချက်</string>
-    <string name="popup_led_summary">အရှေ့ ကင်မရာ ပေါ်လာ/ပိတ်သွားသောအခါ လှုပ်ရှားမှု ပြပါ</string>
-    <string name="popup_title">အရှေ့ကင်မရာ အထူးဖန်တီးချက်များ</string>
+    <string name="popup_led_title">Camera LED</string>
+    <string name="popup_led_summary">Show LED light when the front camera appears and retracts</string>
+    <string name="popup_title">Front camera sound effects</string>
     <string name="popup_title_muqin">ပတ္တလား</string>
     <string name="popup_title_yingyan">လင်းယုန် မျက်လုံး</string>
     <string name="popup_title_mofa">မျက်လှည့်</string>
@@ -155,13 +155,13 @@
     <string name="notification_slider_mode_vibrate">Vibrate</string>
     <string name="notification_slider_mode_none">Normal</string>
     <!-- Thermal profiles -->
-    <string name="thermal_title">Thermal profiles</string>
-    <string name="thermal_summary">Adjust per-app thermal profiles for optimum performance</string>
-    <string name="thermal_default">Default</string>
-    <string name="thermal_benchmark">Benchmark</string>
-    <string name="thermal_browser">Browser</string>
-    <string name="thermal_camera">Camera</string>
-    <string name="thermal_dialer">Dialer</string>
-    <string name="thermal_gaming">Gaming</string>
-    <string name="thermal_streaming">Streaming</string>
+    <string name="thermal_title">ဖုန်းကို ပိုမိုကောင်းမွန်အောင် ပြုလုပ်ပေးခြင်း အချက်အလက်များ</string>
+    <string name="thermal_summary">Adjust per-app profiles for optimum performance</string>
+    <string name="thermal_default">ပိုမိုကောင်းမွန်အောင် ပြုလုပ်ထားခြင်း မရှိ</string>
+    <string name="thermal_benchmark">ဖုန်းအသုံးပြုမှု အချက်အလက်များ</string>
+    <string name="thermal_browser">ဘရောက်ဇာ</string>
+    <string name="thermal_camera">ကင်မရာ</string>
+    <string name="thermal_dialer">ဖုန်းခေါ်ဆိုရန်</string>
+    <string name="thermal_gaming">ဂိမ်းများ</string>
+    <string name="thermal_streaming">Streaming applications</string>
 </resources>

@@ -17,8 +17,8 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">Display</string>
-    <string name="dc_dimming_enable_title">Anti-Flicker Mode</string>
-    <string name="dc_dimming_enable_summary">DC Dimming reduces eye strain in low light conditions</string>
+    <string name="dc_dimming_enable_title">ម៉ូដប្រឆាំងនឹងការញាក់អេក្រង់</string>
+    <string name="dc_dimming_enable_summary">ប្រើការពង្ងឹត DC ដើម្បីកាត់បន្ថយភាពស្រវាំងភ្នែក</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Sound Enhancer</string>
     <string name="dirac_summary">បង្កើនប្រសិទ្ធភាពគុណភាពសម្លេង</string>
@@ -63,9 +63,9 @@
     <string name="dirac_preset_dance">រាំ</string>
     <string name="dirac_preset_metal">តន្ត្រីលោហៈ</string>
     <!-- Popup camera settings -->
-    <string name="popup_led_title">បែបផែនចខុ</string>
-    <string name="popup_led_summary">បង្ហាញចលនានៅពេលដែលកាមេរ៉ាខាងមុខលេចឡើងនិងលិចចូល</string>
-    <string name="popup_title">បែបផែនកាម៉េរាមុខ</string>
+    <string name="popup_led_title">Camera LED</string>
+    <string name="popup_led_summary">Show LED light when the front camera appears and retracts</string>
+    <string name="popup_title">Front camera sound effects</string>
     <string name="popup_title_muqin">Xylophone</string>
     <string name="popup_title_yingyan">ខុនដូ</string>
     <string name="popup_title_mofa">វេទមន្ត</string>
@@ -155,13 +155,13 @@
     <string name="notification_slider_mode_vibrate">Vibrate</string>
     <string name="notification_slider_mode_none">Normal</string>
     <!-- Thermal profiles -->
-    <string name="thermal_title">Thermal profiles</string>
-    <string name="thermal_summary">Adjust per-app thermal profiles for optimum performance</string>
-    <string name="thermal_default">Default</string>
-    <string name="thermal_benchmark">Benchmark</string>
+    <string name="thermal_title">Optimization profiles</string>
+    <string name="thermal_summary">Adjust per-app profiles for optimum performance</string>
+    <string name="thermal_default">No optimization</string>
+    <string name="thermal_benchmark">Performance</string>
     <string name="thermal_browser">Browser</string>
     <string name="thermal_camera">Camera</string>
     <string name="thermal_dialer">Dialer</string>
-    <string name="thermal_gaming">Gaming</string>
-    <string name="thermal_streaming">Streaming</string>
+    <string name="thermal_gaming">Games</string>
+    <string name="thermal_streaming">Streaming applications</string>
 </resources>

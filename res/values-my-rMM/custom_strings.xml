@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="display_title">Display</string>
     <string name="dc_dimming_enable_title">ဖလက်ရှ် တားဆီးမုဒ်</string>
     <string name="dc_dimming_enable_summary">မျက်စိ ပင်ပန်းမှု လျော့ကျစေရန် DC အလင်းမှိန်ခြင်းအား အသုံးချပါ</string>
     <!-- Dirac settings -->
@@ -63,9 +62,6 @@
     <string name="dirac_preset_dance">ဒန့်စ်</string>
     <string name="dirac_preset_metal">မက်တယ်လ် ဂီတ</string>
     <!-- Popup camera settings -->
-    <string name="popup_led_title">Camera LED</string>
-    <string name="popup_led_summary">Show LED light when the front camera appears and retracts</string>
-    <string name="popup_title">Front camera sound effects</string>
     <string name="popup_title_muqin">ပတ္တလား</string>
     <string name="popup_title_yingyan">လင်းယုန် မျက်လုံး</string>
     <string name="popup_title_mofa">မျက်လှည့်</string>
@@ -76,14 +72,12 @@
     <string name="popup_camera_tip">သတိပြုရန်</string>
     <string name="popup_camera_takeback_failed_times_calibrate">အရှေ့ကင်မရာ ပိတ်ရာတွင် မအောင်မြင်ပါ။ ချိန်ညှိပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="popup_camera_popup_failed_times_calibrate">အရှေ့ကင်မရာ ဖွင့်ရာတွင် မအောင်မြင်ပါ။ ချိန်ညှိပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
-    <string name="popup_camera_calibrate_running">Front camera cannot be used during calibration.</string>
     <string name="popup_camera_calibrate_now">ချိန်ညှိပါ</string>
     <string name="popup_camera_calibrate_failed">ချိန်ညှိ၍ မရခဲ့ပါ</string>
     <string name="popup_camera_calibrate_success">ချိန်ညှိပြီးပါပြီ။ အရှေ့ကင်မရာအား ယခု ဖွင့်နိုင်ပါပြီ။</string>
     <string name="stop_operate_camera_frequently">အရှေ့ကင်မရာအား ခဏခဏ ဖွင့်နေသည်။</string>
     <string name="takeback_camera_front_failed">အရှေ့ကင်မရာအား ပိတ်၍ မရပါ။ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="popup_camera_front_failed">အရှေ့ကင်မရာအား ဖွင့်၍ မရပါ။ ပြန်ကြိုးစားကြည့်ပါ။</string>
-    <string name="popup_camera_proximity_obstructed">Remove your hand from the proximity sensor to open the front camera...</string>
     <!-- Title and summary -->
     <string name="moto_actions_title">Moto လုပ်ဆောင်ချက်များ</string>
     <!-- Device gestures -->
@@ -143,25 +137,12 @@
     <string name="advanced_settings">OnePlus ချိန်ညှိမှုများ</string>
     <string name="advanced_settings_summary">သင့်ဖုန်းအတွက် သင့်စိတ်ကြိုက်ချိန်ညှိမှုများ</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_category_title">Alert slider</string>
-    <string name="notification_slider_selection_dialog_title">Action</string>
-    <string name="notification_slider_top_position">Top position</string>
-    <string name="notification_slider_middle_position">Middle position</string>
-    <string name="notification_slider_bottom_position">Bottom position</string>
-    <string name="notification_slider_mode_total_silence">Total silence</string>
-    <string name="notification_slider_mode_alarms_only">Alarms only</string>
-    <string name="notification_slider_mode_priority_only">Priority only</string>
-    <string name="notification_slider_mode_silent">Silent</string>
-    <string name="notification_slider_mode_vibrate">Vibrate</string>
-    <string name="notification_slider_mode_none">Normal</string>
     <!-- Thermal profiles -->
     <string name="thermal_title">ဖုန်းကို ပိုမိုကောင်းမွန်အောင် ပြုလုပ်ပေးခြင်း အချက်အလက်များ</string>
-    <string name="thermal_summary">Adjust per-app profiles for optimum performance</string>
     <string name="thermal_default">ပိုမိုကောင်းမွန်အောင် ပြုလုပ်ထားခြင်း မရှိ</string>
     <string name="thermal_benchmark">ဖုန်းအသုံးပြုမှု အချက်အလက်များ</string>
     <string name="thermal_browser">ဘရောက်ဇာ</string>
     <string name="thermal_camera">ကင်မရာ</string>
     <string name="thermal_dialer">ဖုန်းခေါ်ဆိုရန်</string>
     <string name="thermal_gaming">ဂိမ်းများ</string>
-    <string name="thermal_streaming">Streaming applications</string>
 </resources>

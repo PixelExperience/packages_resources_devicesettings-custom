@@ -63,9 +63,8 @@
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metál</string>
     <!-- Popup camera settings -->
-    <string name="popup_led_title">Camera LED</string>
-    <string name="popup_led_summary">Show LED light when the front camera appears and retracts</string>
-    <string name="popup_title">Front camera sound effects</string>
+    <string name="popup_led_title">Kamera-LED</string>
+    <string name="popup_led_summary">A LED-fény megjelenítése az első kamera kinyitásakor és bezárásakor</string>
     <string name="popup_title_muqin">Xilofon</string>
     <string name="popup_title_yingyan">Keselyű</string>
     <string name="popup_title_mofa">Varázslat</string>

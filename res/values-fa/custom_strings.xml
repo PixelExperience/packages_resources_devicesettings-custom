@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="display_title">Display</string>
     <string name="dc_dimming_enable_title">حالت ضد سوسو زدن</string>
     <string name="dc_dimming_enable_summary">نوردهی جریان مستقیم را به‌کار برده تا آسیب به چشمان خود را کاهش دهید</string>
     <!-- Dirac settings -->
@@ -63,9 +62,6 @@
     <string name="dirac_preset_dance">رقص</string>
     <string name="dirac_preset_metal">متال</string>
     <!-- Popup camera settings -->
-    <string name="popup_led_title">Camera LED</string>
-    <string name="popup_led_summary">Show LED light when the front camera appears and retracts</string>
-    <string name="popup_title">Front camera sound effects</string>
     <string name="popup_title_muqin">سنتور چوبی</string>
     <string name="popup_title_yingyan">کرکس</string>
     <string name="popup_title_mofa">جادو</string>
@@ -143,25 +139,18 @@
     <string name="advanced_settings">تنظیمات وان پلاس</string>
     <string name="advanced_settings_summary">تنظیمات سفارشی برای دستگاه شما</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_category_title">Alert slider</string>
     <string name="notification_slider_selection_dialog_title">عملکرد</string>
     <string name="notification_slider_top_position">بالاترین موقعیت</string>
     <string name="notification_slider_middle_position">موقعیت میانی</string>
     <string name="notification_slider_bottom_position">موقعیت پایین</string>
     <string name="notification_slider_mode_total_silence">سکوت کامل</string>
-    <string name="notification_slider_mode_alarms_only">Alarms only</string>
     <string name="notification_slider_mode_priority_only">فقط اولویت ها</string>
-    <string name="notification_slider_mode_silent">Silent</string>
-    <string name="notification_slider_mode_vibrate">Vibrate</string>
-    <string name="notification_slider_mode_none">Normal</string>
     <!-- Thermal profiles -->
     <string name="thermal_title">پروفایل بهینه سازی</string>
-    <string name="thermal_summary">Adjust per-app profiles for optimum performance</string>
     <string name="thermal_default">بدون بهینه سازی</string>
     <string name="thermal_benchmark">کارآیی</string>
     <string name="thermal_browser">مرورگر</string>
     <string name="thermal_camera">دوربین</string>
     <string name="thermal_dialer">شماره گیر</string>
     <string name="thermal_gaming">بازی ها</string>
-    <string name="thermal_streaming">Streaming applications</string>
 </resources>

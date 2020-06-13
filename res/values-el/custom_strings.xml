@@ -63,9 +63,10 @@
     <string name="dirac_preset_dance">Χορός</string>
     <string name="dirac_preset_metal">Μέταλ</string>
     <!-- Popup camera settings -->
-    <string name="popup_led_title">Camera LED</string>
-    <string name="popup_led_summary">Show LED light when the front camera appears and retracts</string>
-    <string name="popup_title">Front camera sound effects</string>
+    <string name="popup_settings_title">Ρυθμίσεις εμφανιζόμενης κάμερας</string>
+    <string name="popup_led_title">LED φωτογραφικής μηχανής</string>
+    <string name="popup_led_summary">Άναψε το LED όταν η εμπρόσθια κάμερα εμφανίζεται και κλείνει</string>
+    <string name="popup_sound_title">Ηχητικά εφέ</string>
     <string name="popup_title_muqin">Ξυλόφωνο</string>
     <string name="popup_title_yingyan">Condor</string>
     <string name="popup_title_mofa">Μαγεία</string>
@@ -143,7 +144,6 @@
     <string name="advanced_settings">Ρυθμίσεις OnePlus</string>
     <string name="advanced_settings_summary">Προσαρμοσμένες ρυθμίσεις για την συσκευή σας</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_category_title">Alert slider</string>
     <string name="notification_slider_selection_dialog_title">Ενέργεια</string>
     <string name="notification_slider_top_position">Πάνω θέση</string>
     <string name="notification_slider_middle_position">Μεσαία θέση</string>

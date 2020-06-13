@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="display_title">Display</string>
     <string name="dc_dimming_enable_title">অ্যান্টি-ফ্লিকার মোড</string>
     <string name="dc_dimming_enable_summary">চোখের স্ট্রেন কমাতে DC ডিমিং প্রয়োগ করুন</string>
     <!-- Dirac settings -->
@@ -63,9 +62,6 @@
     <string name="dirac_preset_dance">নাচ</string>
     <string name="dirac_preset_metal">মেটাল</string>
     <!-- Popup camera settings -->
-    <string name="popup_led_title">Camera LED</string>
-    <string name="popup_led_summary">Show LED light when the front camera appears and retracts</string>
-    <string name="popup_title">Front camera sound effects</string>
     <string name="popup_title_muqin">জাইলোফেন</string>
     <string name="popup_title_yingyan">কন্ডর</string>
     <string name="popup_title_mofa">জাদু</string>
@@ -76,14 +72,12 @@
     <string name="popup_camera_tip">খেয়াল রাখবেন</string>
     <string name="popup_camera_takeback_failed_times_calibrate">সামনের ক্যামেরা একাধিক বার বন্ধ করা যায় নি।ক্যামেরা ক্যালিব্রেট করে দেখুন।</string>
     <string name="popup_camera_popup_failed_times_calibrate">সামনের ক্যামেরা একাধিক বার খোলা যায় নি।ক্যামেরা ক্যালিব্রেট করে দেখুন।</string>
-    <string name="popup_camera_calibrate_running">Front camera cannot be used during calibration.</string>
     <string name="popup_camera_calibrate_now">ক্যালিব্রেট করুন</string>
     <string name="popup_camera_calibrate_failed">ক্যালিব্রেট করা গেল না</string>
     <string name="popup_camera_calibrate_success">সফলভাবে ক্যালিব্রেট করা হচ্ছে। আপনি এখন সামনের ক্যামেরা খুলতে পারেন।</string>
     <string name="stop_operate_camera_frequently">আপনি সামনের ক্যামেরা মাঝে মধ্যেই খুলছেন।</string>
     <string name="takeback_camera_front_failed">সামনের ক্যামেরা বন্ধ করা যায় নি।আবার চেষ্টা করুন।</string>
     <string name="popup_camera_front_failed">সামনের ক্যামেরা খোলা যায় নি।আবার চেষ্টা করুন।</string>
-    <string name="popup_camera_proximity_obstructed">Remove your hand from the proximity sensor to open the front camera...</string>
     <!-- Title and summary -->
     <string name="moto_actions_title">মোটো অ্যাকশন</string>
     <!-- Device gestures -->
@@ -143,25 +137,16 @@
     <string name="advanced_settings">ওয়ানপ্লাস সেটিংস</string>
     <string name="advanced_settings_summary">আপনার ডিভাইসের জন্য পছন্দসই নিয়ন্ত্রণ</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_category_title">Alert slider</string>
     <string name="notification_slider_selection_dialog_title">আচরণ</string>
     <string name="notification_slider_top_position">উপরের স্থান</string>
     <string name="notification_slider_middle_position">মধ্য স্থান</string>
     <string name="notification_slider_bottom_position">নিচের স্থান</string>
     <string name="notification_slider_mode_total_silence">সম্পূর্ণ নিশ্চুপ</string>
-    <string name="notification_slider_mode_alarms_only">Alarms only</string>
     <string name="notification_slider_mode_priority_only">শুধু অগ্রাধিকার</string>
-    <string name="notification_slider_mode_silent">Silent</string>
-    <string name="notification_slider_mode_vibrate">Vibrate</string>
-    <string name="notification_slider_mode_none">Normal</string>
     <!-- Thermal profiles -->
-    <string name="thermal_title">Optimization profiles</string>
-    <string name="thermal_summary">Adjust per-app profiles for optimum performance</string>
-    <string name="thermal_default">No optimization</string>
     <string name="thermal_benchmark">পারফরম্যান্স</string>
     <string name="thermal_browser">ব্রাউজার</string>
     <string name="thermal_camera">ক্যামেরা</string>
     <string name="thermal_dialer">ডায়ালার</string>
     <string name="thermal_gaming">গেমস</string>
-    <string name="thermal_streaming">Streaming applications</string>
 </resources>

@@ -63,9 +63,10 @@
     <string name="dirac_preset_dance">Taneční</string>
     <string name="dirac_preset_metal">Metal</string>
     <!-- Popup camera settings -->
+    <string name="popup_settings_title">Nastavení vyskakovacího fotoaparátu</string>
     <string name="popup_led_title">LED fotoaparátu</string>
     <string name="popup_led_summary">Zablikat LED kontrolkou při vysunutí a zasunutí předního fotoaparátu</string>
-    <string name="popup_title">Zvukové efekty předního fotoaparátu</string>
+    <string name="popup_sound_title">Zvukové efekty</string>
     <string name="popup_title_muqin">Xylofon</string>
     <string name="popup_title_yingyan">Kondor</string>
     <string name="popup_title_mofa">Kouzlo</string>

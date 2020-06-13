@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="display_title">Display</string>
     <string name="dc_dimming_enable_title">Modo anti-chiscado</string>
     <string name="dc_dimming_enable_summary">Aplicar atenuación DC para reducir o cansazo visual</string>
     <!-- Dirac settings -->
@@ -63,9 +62,6 @@
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metal</string>
     <!-- Popup camera settings -->
-    <string name="popup_led_title">Camera LED</string>
-    <string name="popup_led_summary">Show LED light when the front camera appears and retracts</string>
-    <string name="popup_title">Front camera sound effects</string>
     <string name="popup_title_muqin">Xilófono</string>
     <string name="popup_title_yingyan">Cóndor</string>
     <string name="popup_title_mofa">Maxia</string>
@@ -76,14 +72,12 @@
     <string name="popup_camera_tip">Atención</string>
     <string name="popup_camera_takeback_failed_times_calibrate">Non se puido pechar a cámara frontal varias veces. Tenta calibrar a cámara.</string>
     <string name="popup_camera_popup_failed_times_calibrate">Non se puido abrir a cámara frontal varias veces. Tenta calibrar a cámara.</string>
-    <string name="popup_camera_calibrate_running">Front camera cannot be used during calibration.</string>
     <string name="popup_camera_calibrate_now">Calibrar</string>
     <string name="popup_camera_calibrate_failed">Non foi posible calibrar</string>
     <string name="popup_camera_calibrate_success">Calibrada correctamente. Agora podes abrir a cámara frontal.</string>
     <string name="stop_operate_camera_frequently">Estás abrindo a cámara frontal con moita frecuencia.</string>
     <string name="takeback_camera_front_failed">Non foi posible pechar a cámara frontal. Téntao de novo.</string>
     <string name="popup_camera_front_failed">Non foi posible abrir a cámara frontal. Téntao de novo.</string>
-    <string name="popup_camera_proximity_obstructed">Remove your hand from the proximity sensor to open the front camera...</string>
     <!-- Title and summary -->
     <string name="moto_actions_title">Accións Moto</string>
     <!-- Device gestures -->
@@ -143,25 +137,14 @@
     <string name="advanced_settings">Opcións OnePlus</string>
     <string name="advanced_settings_summary">Opcións personalizadas para o teu dispistivo</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_category_title">Alert slider</string>
-    <string name="notification_slider_selection_dialog_title">Action</string>
-    <string name="notification_slider_top_position">Top position</string>
-    <string name="notification_slider_middle_position">Middle position</string>
-    <string name="notification_slider_bottom_position">Bottom position</string>
     <string name="notification_slider_mode_total_silence">Silencio total</string>
-    <string name="notification_slider_mode_alarms_only">Alarms only</string>
     <string name="notification_slider_mode_priority_only">Só prioridade</string>
-    <string name="notification_slider_mode_silent">Silent</string>
-    <string name="notification_slider_mode_vibrate">Vibrate</string>
-    <string name="notification_slider_mode_none">Normal</string>
     <!-- Thermal profiles -->
     <string name="thermal_title">Optimizacion de perfil</string>
-    <string name="thermal_summary">Adjust per-app profiles for optimum performance</string>
     <string name="thermal_default">No optimizacion</string>
     <string name="thermal_benchmark">Desempeño</string>
     <string name="thermal_browser">Navegador</string>
     <string name="thermal_camera">Camara</string>
     <string name="thermal_dialer">Marcador</string>
     <string name="thermal_gaming">Xogos</string>
-    <string name="thermal_streaming">Streaming applications</string>
 </resources>

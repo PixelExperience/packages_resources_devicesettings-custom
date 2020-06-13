@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="display_title">Display</string>
     <string name="dc_dimming_enable_title">Flimmerfri tilstand</string>
     <string name="dc_dimming_enable_summary">Anvend DC-dæmpning for at reducere overanstrengelse af øjnene</string>
     <!-- Dirac settings -->
@@ -63,9 +62,6 @@
     <string name="dirac_preset_dance">Dans</string>
     <string name="dirac_preset_metal">Metal</string>
     <!-- Popup camera settings -->
-    <string name="popup_led_title">Camera LED</string>
-    <string name="popup_led_summary">Show LED light when the front camera appears and retracts</string>
-    <string name="popup_title">Front camera sound effects</string>
     <string name="popup_title_muqin">Xylofon</string>
     <string name="popup_title_yingyan">Condor</string>
     <string name="popup_title_mofa">Magi</string>
@@ -76,14 +72,12 @@
     <string name="popup_camera_tip">Giv agt</string>
     <string name="popup_camera_takeback_failed_times_calibrate">Kunne ikke lukke frontkameraet flere gange. Prøv at kalibrere kameraet.</string>
     <string name="popup_camera_popup_failed_times_calibrate">Kunne ikke åbne frontkameraet flere gange. Prøv at kalibrere kameraet.</string>
-    <string name="popup_camera_calibrate_running">Front camera cannot be used during calibration.</string>
     <string name="popup_camera_calibrate_now">Kalibrer</string>
     <string name="popup_camera_calibrate_failed">Kunne ikke kalibrere</string>
     <string name="popup_camera_calibrate_success">Kalibrering lykkedes. Du kan nu åbne frontkameraet.</string>
     <string name="stop_operate_camera_frequently">Du åbner frontkameraet for ofte.</string>
     <string name="takeback_camera_front_failed">Kunne ikke lukke frontkamera. Prøv igen.</string>
     <string name="popup_camera_front_failed">Kunne ikke åbne frontkamera. Prøv igen.</string>
-    <string name="popup_camera_proximity_obstructed">Remove your hand from the proximity sensor to open the front camera...</string>
     <!-- Title and summary -->
     <string name="moto_actions_title">Moto-handlinger</string>
     <!-- Device gestures -->
@@ -141,27 +135,6 @@
     <string name="allow_proximity_sensor_summary">Tjek nærhedssensoren før handlingen udføres</string>
     <!-- OnePlus - General -->
     <string name="advanced_settings">Oneplus Indstillinger</string>
-    <string name="advanced_settings_summary">Custom settings for your device</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_category_title">Alert slider</string>
-    <string name="notification_slider_selection_dialog_title">Action</string>
-    <string name="notification_slider_top_position">Top position</string>
-    <string name="notification_slider_middle_position">Middle position</string>
-    <string name="notification_slider_bottom_position">Bottom position</string>
-    <string name="notification_slider_mode_total_silence">Total silence</string>
-    <string name="notification_slider_mode_alarms_only">Alarms only</string>
-    <string name="notification_slider_mode_priority_only">Priority only</string>
-    <string name="notification_slider_mode_silent">Silent</string>
-    <string name="notification_slider_mode_vibrate">Vibrate</string>
-    <string name="notification_slider_mode_none">Normal</string>
     <!-- Thermal profiles -->
-    <string name="thermal_title">Optimization profiles</string>
-    <string name="thermal_summary">Adjust per-app profiles for optimum performance</string>
-    <string name="thermal_default">No optimization</string>
-    <string name="thermal_benchmark">Performance</string>
-    <string name="thermal_browser">Browser</string>
-    <string name="thermal_camera">Camera</string>
-    <string name="thermal_dialer">Dialer</string>
-    <string name="thermal_gaming">Games</string>
-    <string name="thermal_streaming">Streaming applications</string>
 </resources>

@@ -65,7 +65,6 @@
     <!-- Popup camera settings -->
     <string name="popup_led_title">Kamera LED\'i</string>
     <string name="popup_led_summary">Ön kamera yuvadan çıkıp geri girdiğinde LED\'i yak</string>
-    <string name="popup_title">Ön kameranın ses efektleri</string>
     <string name="popup_title_muqin">Ksilofon</string>
     <string name="popup_title_yingyan">Akbaba</string>
     <string name="popup_title_mofa">Sihir</string>

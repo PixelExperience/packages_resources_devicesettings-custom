@@ -63,9 +63,6 @@
     <string name="dirac_preset_dance">Танцювальна</string>
     <string name="dirac_preset_metal">Метал</string>
     <!-- Popup camera settings -->
-    <string name="popup_led_title">Camera LED</string>
-    <string name="popup_led_summary">Show LED light when the front camera appears and retracts</string>
-    <string name="popup_title">Front camera sound effects</string>
     <string name="popup_title_muqin">Ксилофон</string>
     <string name="popup_title_yingyan">Кондор</string>
     <string name="popup_title_mofa">Магія</string>

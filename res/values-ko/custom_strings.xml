@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="display_title">Display</string>
     <string name="dc_dimming_enable_title">깜빡임 방지 모드</string>
     <string name="dc_dimming_enable_summary">눈 피로 감소를 위해 DC 디밍 적용</string>
     <!-- Dirac settings -->
@@ -63,9 +62,8 @@
     <string name="dirac_preset_dance">댄스</string>
     <string name="dirac_preset_metal">메탈</string>
     <!-- Popup camera settings -->
-    <string name="popup_led_title">Camera LED</string>
-    <string name="popup_led_summary">Show LED light when the front camera appears and retracts</string>
-    <string name="popup_title">Front camera sound effects</string>
+    <string name="popup_led_title">카메라 LED</string>
+    <string name="popup_led_summary">전면 카메라를 열고 닫을 때 애니메이션 표시</string>
     <string name="popup_title_muqin">실로폰</string>
     <string name="popup_title_yingyan">콘도르</string>
     <string name="popup_title_mofa">매직</string>
@@ -143,25 +141,18 @@
     <string name="advanced_settings">OnePlus 설정</string>
     <string name="advanced_settings_summary">기기의 맞춤 설정</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_category_title">Alert slider</string>
     <string name="notification_slider_selection_dialog_title">작업</string>
     <string name="notification_slider_top_position">상단 위치</string>
     <string name="notification_slider_middle_position">중간 위치</string>
     <string name="notification_slider_bottom_position">하단 위치</string>
     <string name="notification_slider_mode_total_silence">모두 차단</string>
-    <string name="notification_slider_mode_alarms_only">Alarms only</string>
     <string name="notification_slider_mode_priority_only">중요 알림만</string>
-    <string name="notification_slider_mode_silent">Silent</string>
-    <string name="notification_slider_mode_vibrate">Vibrate</string>
-    <string name="notification_slider_mode_none">Normal</string>
     <!-- Thermal profiles -->
     <string name="thermal_title">최적화 프로필</string>
-    <string name="thermal_summary">Adjust per-app profiles for optimum performance</string>
     <string name="thermal_default">최적화 안 함</string>
     <string name="thermal_benchmark">성능</string>
     <string name="thermal_browser">브라우저</string>
     <string name="thermal_camera">카메라</string>
     <string name="thermal_dialer">전화</string>
     <string name="thermal_gaming">게임</string>
-    <string name="thermal_streaming">Streaming applications</string>
 </resources>

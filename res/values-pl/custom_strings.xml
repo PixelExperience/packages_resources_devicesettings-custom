@@ -63,9 +63,10 @@
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metal</string>
     <!-- Popup camera settings -->
-    <string name="popup_led_title">Camera LED</string>
-    <string name="popup_led_summary">Show LED light when the front camera appears and retracts</string>
-    <string name="popup_title">Front camera sound effects</string>
+    <string name="popup_settings_title">Ustawienia Pop-up aparatu</string>
+    <string name="popup_led_title">LED Aparatu</string>
+    <string name="popup_led_summary">Pokaż LED podczas wysuwania i zamykania przedniego aparatu</string>
+    <string name="popup_sound_title">Efekty dźwiękowe</string>
     <string name="popup_title_muqin">Ksylofon</string>
     <string name="popup_title_yingyan">Kondor</string>
     <string name="popup_title_mofa">Magia</string>

@@ -63,9 +63,8 @@
     <string name="dirac_preset_dance">Šokių</string>
     <string name="dirac_preset_metal">Metalas</string>
     <!-- Popup camera settings -->
-    <string name="popup_led_title">Camera LED</string>
-    <string name="popup_led_summary">Show LED light when the front camera appears and retracts</string>
-    <string name="popup_title">Front camera sound effects</string>
+    <string name="popup_led_title">LED kamera</string>
+    <string name="popup_led_summary">Blykstės šviesos diodas, kai priekinė kamera yra išstumiama ir įtraukiama</string>
     <string name="popup_title_muqin">Ksilofonas</string>
     <string name="popup_title_yingyan">Kondoras</string>
     <string name="popup_title_mofa">Magija</string>
@@ -163,5 +162,4 @@
     <string name="thermal_camera">Fotoaparatas</string>
     <string name="thermal_dialer">Rinkiklis</string>
     <string name="thermal_gaming">Žaidimai</string>
-    <string name="thermal_streaming">Streaming applications</string>
 </resources>

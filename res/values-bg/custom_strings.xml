@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="display_title">Display</string>
     <string name="dc_dimming_enable_title">Режим Анти трептене</string>
     <string name="dc_dimming_enable_summary">Приложи режим Затъмнение за коригиране на светлинни дефекти в очите</string>
     <!-- Dirac settings -->
@@ -63,9 +62,6 @@
     <string name="dirac_preset_dance">Танцувална</string>
     <string name="dirac_preset_metal">Метъл</string>
     <!-- Popup camera settings -->
-    <string name="popup_led_title">Camera LED</string>
-    <string name="popup_led_summary">Show LED light when the front camera appears and retracts</string>
-    <string name="popup_title">Front camera sound effects</string>
     <string name="popup_title_muqin">Ксилофон</string>
     <string name="popup_title_yingyan">Кондор</string>
     <string name="popup_title_mofa">Магия</string>
@@ -143,25 +139,18 @@
     <string name="advanced_settings">OnePlus настройки</string>
     <string name="advanced_settings_summary">Потребителски настройки за устройството ви</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_category_title">Alert slider</string>
     <string name="notification_slider_selection_dialog_title">Действие</string>
     <string name="notification_slider_top_position">Най-горна позиция</string>
     <string name="notification_slider_middle_position">Средна позиция</string>
     <string name="notification_slider_bottom_position">Най-ниска позиция</string>
     <string name="notification_slider_mode_total_silence">Пълна тишина</string>
-    <string name="notification_slider_mode_alarms_only">Alarms only</string>
     <string name="notification_slider_mode_priority_only">Само с приоритет</string>
-    <string name="notification_slider_mode_silent">Silent</string>
-    <string name="notification_slider_mode_vibrate">Vibrate</string>
-    <string name="notification_slider_mode_none">Normal</string>
     <!-- Thermal profiles -->
     <string name="thermal_title">Профил за оптимизация</string>
-    <string name="thermal_summary">Adjust per-app profiles for optimum performance</string>
     <string name="thermal_default">Без оптимизация</string>
     <string name="thermal_benchmark">Производителност</string>
     <string name="thermal_browser">Браузър</string>
     <string name="thermal_camera">Камера</string>
     <string name="thermal_dialer">Телефон</string>
     <string name="thermal_gaming">Игри</string>
-    <string name="thermal_streaming">Streaming applications</string>
 </resources>

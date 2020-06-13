@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="display_title">Display</string>
     <string name="dc_dimming_enable_title">འཁྱུག་འགོག་དཔེ་ཚུལ།</string>
     <string name="dc_dimming_enable_summary">ཁྱོན་ཡོངས་ཐད་རྒྱུགས་འོད་ལེགས་སྒྲིག འོད་དམའ་བའི་སྐབས་མིག་ལ་སྲུང་སྐྱོབ་བྱེད།</string>
     <!-- Dirac settings -->
@@ -63,9 +62,6 @@
     <string name="dirac_preset_dance">གར་དབྱངས།</string>
     <string name="dirac_preset_metal">ལྕགས་རིགས།</string>
     <!-- Popup camera settings -->
-    <string name="popup_led_title">Camera LED</string>
-    <string name="popup_led_summary">Show LED light when the front camera appears and retracts</string>
-    <string name="popup_title">Front camera sound effects</string>
     <string name="popup_title_muqin">ཤིང་གི་སྒྲ་སྙན།</string>
     <string name="popup_title_yingyan">རྒོད་མིག</string>
     <string name="popup_title_mofa">རྫུ་འཕྲུལ།</string>
@@ -76,14 +72,12 @@
     <string name="popup_camera_tip">གསལ་འདེབས།</string>
     <string name="popup_camera_takeback_failed_times_calibrate">མདུན་སྒྲིག་པར་ཆས་ཐེངས་མང་བསྡུ་ཐུབ་མ་སོང་བས། པར་ཆས་སྙོམས་སྒྲིག་བྱས་ན་ཡག</string>
     <string name="popup_camera_popup_failed_times_calibrate">མདུན་སྒྲིག་པར་ཆས་ཐེངས་མང་འདོན་ཐུབ་མ་སོང་བས། པར་ཆས་སྙོམས་སྒྲིག་བྱས་ན་ཡག</string>
-    <string name="popup_camera_calibrate_running">Front camera cannot be used during calibration.</string>
     <string name="popup_camera_calibrate_now">མྱུར་ཏུ་སྒྲིག་བཅོས།</string>
     <string name="popup_camera_calibrate_failed">དག་བཅོས་མི་ཐུབ།</string>
     <string name="popup_camera_calibrate_success">སྒྲིག་བཅོས་ཐུབ་སོང་། མདུན་སྒྲིག་པར་ཆས་བསྐྱར་དུ་ཁ་འབྱེད་རོགས།</string>
     <string name="stop_operate_camera_frequently">མདུན་འཇོག་བརྙན་མིག་བསྟུད་མར་བསད་སྤར་མ་བྱེད་རོགས།</string>
     <string name="takeback_camera_front_failed">མདུན་སྒྲིག་པར་ཆས་བསྡུ་ཐུབ་མ་སོང་། བསྐྱར་དུ་ཚོད་ལྟ་གནང་རོགས།</string>
     <string name="popup_camera_front_failed">མདུན་སྒྲིག་པར་ཆས་འདོན་ཐུབ་མ་སོང་། བསྐྱར་དུ་ཚོད་ལྟ་གནང་རོགས།</string>
-    <string name="popup_camera_proximity_obstructed">Remove your hand from the proximity sensor to open the front camera...</string>
     <!-- Title and summary -->
     <string name="moto_actions_title">Moto བྱ་སྤྱོད།</string>
     <!-- Device gestures -->
@@ -143,25 +137,12 @@
     <string name="advanced_settings">OnePlus ཡི་སྒྲིག་བཀོད།</string>
     <string name="advanced_settings_summary">རང་ཉིད་ཀྱི་སྒྲིག་བཀོད།</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_category_title">Alert slider</string>
-    <string name="notification_slider_selection_dialog_title">Action</string>
-    <string name="notification_slider_top_position">Top position</string>
-    <string name="notification_slider_middle_position">Middle position</string>
-    <string name="notification_slider_bottom_position">Bottom position</string>
-    <string name="notification_slider_mode_total_silence">Total silence</string>
-    <string name="notification_slider_mode_alarms_only">Alarms only</string>
-    <string name="notification_slider_mode_priority_only">Priority only</string>
-    <string name="notification_slider_mode_silent">Silent</string>
-    <string name="notification_slider_mode_vibrate">Vibrate</string>
-    <string name="notification_slider_mode_none">Normal</string>
     <!-- Thermal profiles -->
     <string name="thermal_title">སྒྲིག་འགོད་ཀྱི་ཡིག་ཆ་ལེགས་བཅོས་བྱེད།</string>
-    <string name="thermal_summary">Adjust per-app profiles for optimum performance</string>
     <string name="thermal_default">ལེགས་བཅོས་མི་བྱེད།</string>
     <string name="thermal_benchmark">བྱེད་ལས།</string>
     <string name="thermal_browser">དྲ་བཤེར་ཆས།</string>
     <string name="thermal_camera">པར་ཆས།</string>
     <string name="thermal_dialer">ཁ་པར།</string>
     <string name="thermal_gaming">རོལ་རྩེད།</string>
-    <string name="thermal_streaming">Streaming applications</string>
 </resources>

@@ -18,7 +18,7 @@
     <!-- DC Dimming settings -->
     <string name="display_title">Näyttö</string>
     <string name="dc_dimming_enable_title">Vilkkumisen esto</string>
-    <string name="dc_dimming_enable_summary">Käytä DC-himmennystä vähentääksesi silmien rasitusta</string>
+    <string name="dc_dimming_enable_summary">Käytä DC-himmennystä vähentääksesi silmien rasitusta vähäisessä valossa</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Sound Enhancer</string>
     <string name="dirac_summary">Optimoi äänenlaatua</string>
@@ -63,9 +63,10 @@
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metalli</string>
     <!-- Popup camera settings -->
+    <string name="popup_settings_title">Ponnahdus kameran asetukset</string>
     <string name="popup_led_title">Kameran LED</string>
-    <string name="popup_led_summary">Näytä LED valo kun etukamera ilmestyy ja reakoi</string>
-    <string name="popup_title">Etu kameran ääni efektit</string>
+    <string name="popup_led_summary">Näytä LED valo kun etukamera ilmestyy ja vetäytyy</string>
+    <string name="popup_sound_title">Äänitehosteet</string>
     <string name="popup_title_muqin">Ksylofoni</string>
     <string name="popup_title_yingyan">Korppikotka</string>
     <string name="popup_title_mofa">Taika</string>
@@ -151,17 +152,17 @@
     <string name="notification_slider_mode_total_silence">Täysin äänetön</string>
     <string name="notification_slider_mode_alarms_only">Vain hälytykset</string>
     <string name="notification_slider_mode_priority_only">Vain tärkeät</string>
-    <string name="notification_slider_mode_silent">Hiljainen</string>
+    <string name="notification_slider_mode_silent">Äänetön</string>
     <string name="notification_slider_mode_vibrate">Värinä</string>
     <string name="notification_slider_mode_none">Normaali</string>
     <!-- Thermal profiles -->
     <string name="thermal_title">Optimointi profiili</string>
-    <string name="thermal_summary">Adjust per-app profiles for optimum performance</string>
+    <string name="thermal_summary">Säädä ohjelmakohtasia profiileja optimaaliselle suorituskyvylle</string>
     <string name="thermal_default">Ei optimointia</string>
     <string name="thermal_benchmark">Suorituskyky</string>
     <string name="thermal_browser">Selain</string>
     <string name="thermal_camera">Kamera</string>
     <string name="thermal_dialer">Puhelin</string>
     <string name="thermal_gaming">Pelit</string>
-    <string name="thermal_streaming">Streaming applications</string>
+    <string name="thermal_streaming">Suoratoistosovellukset</string>
 </resources>

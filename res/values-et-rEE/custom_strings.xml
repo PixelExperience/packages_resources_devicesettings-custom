@@ -63,9 +63,10 @@
     <string name="dirac_preset_dance">Tants</string>
     <string name="dirac_preset_metal">Metral</string>
     <!-- Popup camera settings -->
-    <string name="popup_led_title">Camera LED</string>
-    <string name="popup_led_summary">Show LED light when the front camera appears and retracts</string>
-    <string name="popup_title">Front camera sound effects</string>
+    <string name="popup_settings_title">Pop-up kaamera seaded</string>
+    <string name="popup_led_title">Kaamera LED</string>
+    <string name="popup_led_summary">Esikaamera ilmumisel ja tagasitõmbumisel näidake LED-valgust</string>
+    <string name="popup_sound_title">Heliefektid</string>
     <string name="popup_title_muqin">Ksülofon</string>
     <string name="popup_title_yingyan">Kondor</string>
     <string name="popup_title_mofa">Maagia</string>

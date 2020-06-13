@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="display_title">Display</string>
     <string name="dc_dimming_enable_title">Anti-flicker ռեժիմ</string>
     <string name="dc_dimming_enable_summary">Օգտագործեք DC Dimming-ը աչքի լարվածությունը նվազեցնելու համար:</string>
     <!-- Dirac settings -->
@@ -63,9 +62,6 @@
     <string name="dirac_preset_dance">Պար</string>
     <string name="dirac_preset_metal">Մետալ</string>
     <!-- Popup camera settings -->
-    <string name="popup_led_title">Camera LED</string>
-    <string name="popup_led_summary">Show LED light when the front camera appears and retracts</string>
-    <string name="popup_title">Front camera sound effects</string>
     <string name="popup_title_muqin">Քսիլոֆոն</string>
     <string name="popup_title_yingyan">Կատարյալ</string>
     <string name="popup_title_mofa">Կախարդանք</string>
@@ -83,27 +79,13 @@
     <string name="stop_operate_camera_frequently">Դուք շատ հաճախ եք բացում առջեւի տեսախցիկը:</string>
     <string name="takeback_camera_front_failed">Հնարավոր չէ փակել առջեւի տեսախցիկը: Կրկին փորձեք:</string>
     <string name="popup_camera_front_failed">Հնարավոր չէ բացել առջեւի տեսախցիկը: Կրկին փորձեք:</string>
-    <string name="popup_camera_proximity_obstructed">Remove your hand from the proximity sensor to open the front camera...</string>
     <!-- Title and summary -->
     <string name="moto_actions_title">Մոտո գործողություններ</string>
     <!-- Device gestures -->
-    <string name="device_gestures_title">Device gestures</string>
-    <string name="device_gestures_summary">Manage device gestures</string>
     <!-- Ambient display gestures -->
-    <string name="ambient_display_manage_summary">Manage ambient display gestures</string>
     <!-- Fingerprint gestures -->
-    <string name="fingerprint_gestures_title">Fingerprint gestures</string>
-    <string name="fingerprint_gestures_summary">Use fingerprint gestures</string>
-    <string name="fingerprint_gestures_manage_summary">Manage fingerprint gestures</string>
-    <string name="fingerprint_actions_screenon">Actions with screen on</string>
     <!-- Fingerprint gestures screen off -->
-    <string name="fingerprint_gestures_screenoff_title">Fingerprint gestures when screen off</string>
-    <string name="fingerprint_gestures_screenoff_summary">Use fingerprint gestures when screen off.\n\nFingerprint unlocking must be disabled to use this feature.</string>
-    <string name="fingerprint_actions_screenoff">Actions with screen off</string>
     <!-- Actions -->
-    <string name="action_home">Home</string>
-    <string name="action_power">Screen on/off</string>
-    <string name="action_wake">Wake</string>
     <string name="action_back">Հետ</string>
     <string name="action_recents">Վերջին</string>
     <string name="action_last_app">Վերջին հավելվածը</string>
@@ -121,47 +103,22 @@
     <string name="action_email">Բացել էլ․ փոստի հավելվածը</string>
     <string name="action_messages">Բացել նամակների հավելվածը</string>
     <!-- Screen off gestures -->
-    <string name="screen_off_gestures_manage_summary">Manage gestures when screen is off</string>
     <!-- Swipe/tap/long tap -->
-    <string name="swipe_left_dlg_title">Select action for swipe left</string>
-    <string name="swipe_right_dlg_title">Select action for swipe right</string>
-    <string name="swipe_up_dlg_title">Select action for swipe up</string>
-    <string name="swipe_down_dlg_title">Select action for swipe down</string>
-    <string name="tap_title">Single tap</string>
-    <string name="double_tap_title">Double tap</string>
-    <string name="long_tap_title">Long tap</string>
-    <string name="tap_dlg_title">Select action for single tap</string>
-    <string name="double_tap_dlg_title">Select action for double tap</string>
-    <string name="long_tap_dlg_title">Select action for long tap</string>
     <!-- Double tap to wake -->
-    <string name="tap_to_wake">Tap to wake</string>
-    <string name="tap_to_wake_summary">Double-tap anywhere on the screen to wake device</string>
     <!-- Proximity sensor -->
-    <string name="allow_proximity_sensor_title">Allow proximity sensor</string>
-    <string name="allow_proximity_sensor_summary">Check the proximity sensor before performing the action</string>
     <!-- OnePlus - General -->
     <string name="advanced_settings">OnePlus Կարգավորումներ</string>
     <string name="advanced_settings_summary">Ձեր սարքի անհատական կարգավորումները</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_category_title">Alert slider</string>
     <string name="notification_slider_selection_dialog_title">Գործողություն</string>
     <string name="notification_slider_top_position">Վերին դիրք</string>
     <string name="notification_slider_middle_position">Միջին դիրք</string>
     <string name="notification_slider_bottom_position">Ներքին դիրք</string>
     <string name="notification_slider_mode_total_silence">Լիակատար լռություն</string>
-    <string name="notification_slider_mode_alarms_only">Alarms only</string>
     <string name="notification_slider_mode_priority_only">Միայն կարևորները</string>
-    <string name="notification_slider_mode_silent">Silent</string>
-    <string name="notification_slider_mode_vibrate">Vibrate</string>
-    <string name="notification_slider_mode_none">Normal</string>
     <!-- Thermal profiles -->
-    <string name="thermal_title">Optimization profiles</string>
-    <string name="thermal_summary">Adjust per-app profiles for optimum performance</string>
-    <string name="thermal_default">No optimization</string>
-    <string name="thermal_benchmark">Performance</string>
     <string name="thermal_browser">Դիտարկիչ</string>
     <string name="thermal_camera">Ֆոտոխցիկ</string>
     <string name="thermal_dialer">Համարհավաքիչ</string>
     <string name="thermal_gaming">Խաղեր</string>
-    <string name="thermal_streaming">Streaming applications</string>
 </resources>

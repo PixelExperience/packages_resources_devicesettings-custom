@@ -63,9 +63,8 @@
     <string name="dirac_preset_dance">رقص</string>
     <string name="dirac_preset_metal">معدن</string>
     <!-- Popup camera settings -->
-    <string name="popup_led_title">Camera LED</string>
-    <string name="popup_led_summary">Show LED light when the front camera appears and retracts</string>
-    <string name="popup_title">Front camera sound effects</string>
+    <string name="popup_led_title">ضوء الكاميرا</string>
+    <string name="popup_led_summary">تشغيل ضوء التنبيهات عند ظهور واختفاء الكاميرا الأمامية</string>
     <string name="popup_title_muqin">سيلوفون</string>
     <string name="popup_title_yingyan">كندور</string>
     <string name="popup_title_mofa">سحر</string>
@@ -156,12 +155,12 @@
     <string name="notification_slider_mode_none">عادي</string>
     <!-- Thermal profiles -->
     <string name="thermal_title">وضع التحسين</string>
-    <string name="thermal_summary">Adjust per-app profiles for optimum performance</string>
+    <string name="thermal_summary">تعديل الإعدادات بحسب نوع التطبيق لأفضل أداء</string>
     <string name="thermal_default">بدون تحسين</string>
     <string name="thermal_benchmark">الأداء</string>
     <string name="thermal_browser">المتصفح</string>
     <string name="thermal_camera">الكاميرا</string>
     <string name="thermal_dialer">الإتصال</string>
     <string name="thermal_gaming">الألعاب</string>
-    <string name="thermal_streaming">Streaming applications</string>
+    <string name="thermal_streaming">تطبيقات البث</string>
 </resources>

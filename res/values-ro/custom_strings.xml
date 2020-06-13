@@ -64,8 +64,7 @@
     <string name="dirac_preset_metal">Metal</string>
     <!-- Popup camera settings -->
     <string name="popup_led_title">Camera LED</string>
-    <string name="popup_led_summary">Show LED light when the front camera appears and retracts</string>
-    <string name="popup_title">Front camera sound effects</string>
+    <string name="popup_led_summary">Afișează lumina LED, atunci când aparatul foto apare și se retrage</string>
     <string name="popup_title_muqin">Xylophone</string>
     <string name="popup_title_yingyan">Condor</string>
     <string name="popup_title_mofa">Magic</string>
@@ -143,25 +142,25 @@
     <string name="advanced_settings">Setări OnePlus</string>
     <string name="advanced_settings_summary">Setări personalizate pentru dispozitivul dvs.</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_category_title">Alert slider</string>
+    <string name="notification_slider_category_title">Slider de alertă</string>
     <string name="notification_slider_selection_dialog_title">Acţiune</string>
     <string name="notification_slider_top_position">Poziția de sus</string>
     <string name="notification_slider_middle_position">Poziția de mijloc</string>
     <string name="notification_slider_bottom_position">Poziția de jos</string>
     <string name="notification_slider_mode_total_silence">Niciun sunet</string>
-    <string name="notification_slider_mode_alarms_only">Alarms only</string>
+    <string name="notification_slider_mode_alarms_only">Doar alarme</string>
     <string name="notification_slider_mode_priority_only">Doar cu prioritate</string>
-    <string name="notification_slider_mode_silent">Silent</string>
-    <string name="notification_slider_mode_vibrate">Vibrate</string>
+    <string name="notification_slider_mode_silent">Silențios</string>
+    <string name="notification_slider_mode_vibrate">Vibrare</string>
     <string name="notification_slider_mode_none">Normal</string>
     <!-- Thermal profiles -->
     <string name="thermal_title">Profil optimizare</string>
-    <string name="thermal_summary">Adjust per-app profiles for optimum performance</string>
+    <string name="thermal_summary">Ajustare profiluri per-aplicație pentru performanță optimă</string>
     <string name="thermal_default">Nicio optimizare</string>
     <string name="thermal_benchmark">Performanță</string>
     <string name="thermal_browser">Browser</string>
     <string name="thermal_camera">Cameră</string>
     <string name="thermal_dialer">Telefon</string>
     <string name="thermal_gaming">Jocuri</string>
-    <string name="thermal_streaming">Streaming applications</string>
+    <string name="thermal_streaming">Aplicații streaming</string>
 </resources>

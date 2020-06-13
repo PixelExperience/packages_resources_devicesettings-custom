@@ -63,9 +63,6 @@
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metal</string>
     <!-- Popup camera settings -->
-    <string name="popup_led_title">Camera LED</string>
-    <string name="popup_led_summary">Show LED light when the front camera appears and retracts</string>
-    <string name="popup_title">Front camera sound effects</string>
     <string name="popup_title_muqin">Xylofón</string>
     <string name="popup_title_yingyan">Kondor</string>
     <string name="popup_title_mofa">Mágia</string>
@@ -143,25 +140,18 @@
     <string name="advanced_settings">OnePlus nastavenia</string>
     <string name="advanced_settings_summary">Vlastné nastavenia pre vaše zariadenie</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_category_title">Alert slider</string>
     <string name="notification_slider_selection_dialog_title">Akcia</string>
     <string name="notification_slider_top_position">Umiestnenie hore</string>
     <string name="notification_slider_middle_position">Umiestnenie uprostred</string>
     <string name="notification_slider_bottom_position">Umiestnenie dolu</string>
     <string name="notification_slider_mode_total_silence">Absolútne ticho</string>
-    <string name="notification_slider_mode_alarms_only">Alarms only</string>
     <string name="notification_slider_mode_priority_only">Iba prioritné</string>
-    <string name="notification_slider_mode_silent">Silent</string>
-    <string name="notification_slider_mode_vibrate">Vibrate</string>
-    <string name="notification_slider_mode_none">Normal</string>
     <!-- Thermal profiles -->
     <string name="thermal_title">Profil optimalizácie</string>
-    <string name="thermal_summary">Adjust per-app profiles for optimum performance</string>
     <string name="thermal_default">Žiadna optimalizácia</string>
     <string name="thermal_benchmark">Výkon</string>
     <string name="thermal_browser">Prehliadač</string>
     <string name="thermal_camera">Fotoaparát</string>
     <string name="thermal_dialer">Vytáčanie</string>
     <string name="thermal_gaming">Hry</string>
-    <string name="thermal_streaming">Streaming applications</string>
 </resources>

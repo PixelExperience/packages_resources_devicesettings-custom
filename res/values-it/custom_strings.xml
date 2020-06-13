@@ -63,9 +63,8 @@
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metal</string>
     <!-- Popup camera settings -->
-    <string name="popup_led_title">Camera LED</string>
-    <string name="popup_led_summary">Show LED light when the front camera appears and retracts</string>
-    <string name="popup_title">Front camera sound effects</string>
+    <string name="popup_led_title">Luce lampeggiante</string>
+    <string name="popup_led_summary">Lampeggia la luce quando la fotocamera anteriore viene aperta o chiusa</string>
     <string name="popup_title_muqin">Xilofono</string>
     <string name="popup_title_yingyan">Condor</string>
     <string name="popup_title_mofa">Magia</string>
@@ -153,10 +152,10 @@
     <string name="notification_slider_mode_priority_only">Solo con priorità</string>
     <string name="notification_slider_mode_silent">Silenzioso</string>
     <string name="notification_slider_mode_vibrate">Vibrazione</string>
-    <string name="notification_slider_mode_none">Normal</string>
+    <string name="notification_slider_mode_none">Normale</string>
     <!-- Thermal profiles -->
     <string name="thermal_title">Profilo di ottimizzazione</string>
-    <string name="thermal_summary">Adjust per-app profiles for optimum performance</string>
+    <string name="thermal_summary">Regola per-app profile per prestazioni ottimale</string>
     <string name="thermal_default">Nessuna ottimizzazione</string>
     <string name="thermal_benchmark">Prestazioni massime</string>
     <string name="thermal_browser">Browser</string>

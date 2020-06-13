@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="display_title">Display</string>
     <string name="dc_dimming_enable_title">โหมดป้องกันภาพสั่นไหว</string>
     <string name="dc_dimming_enable_summary">ใช้ระบบลดแสง DC dimming เพื่อลดความเหนื่อยล้าของดวงตา</string>
     <!-- Dirac settings -->
@@ -63,9 +62,6 @@
     <string name="dirac_preset_dance">แด๊นซ์</string>
     <string name="dirac_preset_metal">เมทัล</string>
     <!-- Popup camera settings -->
-    <string name="popup_led_title">Camera LED</string>
-    <string name="popup_led_summary">Show LED light when the front camera appears and retracts</string>
-    <string name="popup_title">Front camera sound effects</string>
     <string name="popup_title_muqin">ไซโลโฟน</string>
     <string name="popup_title_yingyan">อีแร้ง</string>
     <string name="popup_title_mofa">เมจิค</string>
@@ -143,25 +139,18 @@
     <string name="advanced_settings">การตั้งค่า OnePlus</string>
     <string name="advanced_settings_summary">การตั้งค่าแบบกำหนดเองสำหรับอุปกรณ์ของคุณ</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_category_title">Alert slider</string>
     <string name="notification_slider_selection_dialog_title">ดำเนินการ</string>
     <string name="notification_slider_top_position">ตำแหน่งบนสุด</string>
     <string name="notification_slider_middle_position">ตำแหน่งกึ่งกลาง</string>
     <string name="notification_slider_bottom_position">ตำแหน่งล่างสุด</string>
     <string name="notification_slider_mode_total_silence">ความเงียบรวม</string>
-    <string name="notification_slider_mode_alarms_only">Alarms only</string>
     <string name="notification_slider_mode_priority_only">เฉพาะระดับความสำคัญ</string>
-    <string name="notification_slider_mode_silent">Silent</string>
-    <string name="notification_slider_mode_vibrate">Vibrate</string>
-    <string name="notification_slider_mode_none">Normal</string>
     <!-- Thermal profiles -->
     <string name="thermal_title">โปรไฟล์การปรับปรุง</string>
-    <string name="thermal_summary">Adjust per-app profiles for optimum performance</string>
     <string name="thermal_default">ไม่มีการปรับปรุง</string>
     <string name="thermal_benchmark">ประสิทธิภาพ</string>
     <string name="thermal_browser">บราวเซอร์</string>
     <string name="thermal_camera">กล้องถ่ายรูป</string>
     <string name="thermal_dialer">โทรศัพท์</string>
     <string name="thermal_gaming">เกมส์</string>
-    <string name="thermal_streaming">Streaming applications</string>
 </resources>

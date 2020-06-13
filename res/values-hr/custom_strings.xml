@@ -63,9 +63,10 @@
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metal</string>
     <!-- Popup camera settings -->
+    <string name="popup_settings_title">Postavke Pop-up kamere</string>
     <string name="popup_led_title">LED kamere</string>
     <string name="popup_led_summary">Prikažite LED svjetlo kada se prednja kamera pojavi i povuče</string>
-    <string name="popup_title">Zvučni efekti prednje kamere</string>
+    <string name="popup_sound_title">Zvučni efekti</string>
     <string name="popup_title_muqin">Xylophone</string>
     <string name="popup_title_yingyan">Kondor</string>
     <string name="popup_title_mofa">Magija</string>

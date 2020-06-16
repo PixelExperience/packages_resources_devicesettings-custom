@@ -63,8 +63,10 @@
     <string name="dirac_preset_dance">Šokių</string>
     <string name="dirac_preset_metal">Metalas</string>
     <!-- Popup camera settings -->
+    <string name="popup_settings_title">Iššokančiųjų fotoaparatų nustatymai</string>
     <string name="popup_led_title">LED kamera</string>
     <string name="popup_led_summary">Blykstės šviesos diodas, kai priekinė kamera yra išstumiama ir įtraukiama</string>
+    <string name="popup_sound_title">Garso efektai</string>
     <string name="popup_title_muqin">Ksilofonas</string>
     <string name="popup_title_yingyan">Kondoras</string>
     <string name="popup_title_mofa">Magija</string>

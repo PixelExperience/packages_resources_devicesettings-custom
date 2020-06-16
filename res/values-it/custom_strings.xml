@@ -63,8 +63,10 @@
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metal</string>
     <!-- Popup camera settings -->
+    <string name="popup_settings_title">Impostazioni fotocamera anteriore</string>
     <string name="popup_led_title">Luce lampeggiante</string>
     <string name="popup_led_summary">Lampeggia la luce quando la fotocamera anteriore viene aperta o chiusa</string>
+    <string name="popup_sound_title">Effetto musicale</string>
     <string name="popup_title_muqin">Xilofono</string>
     <string name="popup_title_yingyan">Condor</string>
     <string name="popup_title_mofa">Magia</string>

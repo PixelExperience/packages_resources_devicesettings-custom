@@ -63,8 +63,10 @@
     <string name="dirac_preset_dance">舞曲</string>
     <string name="dirac_preset_metal">金屬</string>
     <!-- Popup camera settings -->
+    <string name="popup_settings_title">彈出式相機設定</string>
     <string name="popup_led_title">相機LED提示燈</string>
     <string name="popup_led_summary">在前置鏡頭升起及下降時開啟LED提示燈</string>
+    <string name="popup_sound_title">音效</string>
     <string name="popup_title_muqin">木琴</string>
     <string name="popup_title_yingyan">鷹眼</string>
     <string name="popup_title_mofa">魔法</string>

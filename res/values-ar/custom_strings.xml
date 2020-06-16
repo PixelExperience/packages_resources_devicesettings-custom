@@ -63,8 +63,10 @@
     <string name="dirac_preset_dance">رقص</string>
     <string name="dirac_preset_metal">معدن</string>
     <!-- Popup camera settings -->
+    <string name="popup_settings_title">خيارات الكاميرا المنبثقة</string>
     <string name="popup_led_title">ضوء الكاميرا</string>
     <string name="popup_led_summary">تشغيل ضوء التنبيهات عند ظهور واختفاء الكاميرا الأمامية</string>
+    <string name="popup_sound_title">المؤثرات الصوتية</string>
     <string name="popup_title_muqin">سيلوفون</string>
     <string name="popup_title_yingyan">كندور</string>
     <string name="popup_title_mofa">سحر</string>

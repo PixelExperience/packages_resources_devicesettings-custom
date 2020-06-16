@@ -63,7 +63,7 @@
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metalli</string>
     <!-- Popup camera settings -->
-    <string name="popup_settings_title">Ponnahdus kameran asetukset</string>
+    <string name="popup_settings_title">Popup-kameran asetukset</string>
     <string name="popup_led_title">Kameran LED</string>
     <string name="popup_led_summary">Näytä LED valo kun etukamera ilmestyy ja vetäytyy</string>
     <string name="popup_sound_title">Äänitehosteet</string>

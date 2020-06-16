@@ -62,8 +62,10 @@
     <string name="dirac_preset_dance">댄스</string>
     <string name="dirac_preset_metal">메탈</string>
     <!-- Popup camera settings -->
+    <string name="popup_settings_title">팝업 카메라 설정</string>
     <string name="popup_led_title">카메라 LED</string>
     <string name="popup_led_summary">전면 카메라를 열고 닫을 때 애니메이션 표시</string>
+    <string name="popup_sound_title">음향 효과</string>
     <string name="popup_title_muqin">실로폰</string>
     <string name="popup_title_yingyan">콘도르</string>
     <string name="popup_title_mofa">매직</string>

@@ -63,6 +63,7 @@
     <string name="dirac_preset_dance">ダンス</string>
     <string name="dirac_preset_metal">メタル</string>
     <!-- Popup camera settings -->
+    <string name="popup_settings_title">ポップアップカメラの設定</string>
     <string name="popup_led_title">カメラ LED</string>
     <string name="popup_led_summary">フロントカメラを上げ下げするときに LED ライトを表示する</string>
     <string name="popup_sound_title">サウンド効果</string>

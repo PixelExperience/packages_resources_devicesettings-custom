@@ -161,6 +161,14 @@
     <string name="advanced_settings">OnePlus Settings</string>
     <string name="advanced_settings_summary">Custom settings for your device</string>
 
+    <!-- OnePlus - Gestures -->
+    <string name="touchscreen_camera_gesture_summary">Draw a circle to activate camera</string>
+    <string name="touchscreen_flashlight_v_gesture_summary">Draw a \'V\' to toggle flashlight</str$
+    <string name="touchscreen_music_gesture_summary">Use gestures to control music playback \n
+    • Two fingers vertically \"||\" to play/pause\n
+    • Draw left arrow \"&#60;\" for previous track\n
+    • Draw right arrow \"&#62;\" for next track</string>
+
     <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_category_title">Alert slider</string>
     <string name="notification_slider_selection_dialog_title">Action</string>

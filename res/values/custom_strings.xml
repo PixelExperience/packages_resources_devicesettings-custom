@@ -17,7 +17,7 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">Display</string>
-    <string name="dc_dimming_enable_title">DC Dimming</string>
+    <string name="dc_dimming_enable_title" translatable="false">DC Dimming</string>
     <string name="dc_dimming_enable_summary">DC Dimming reduces eye strain in low light conditions</string>
 
     <!-- Dirac settings -->

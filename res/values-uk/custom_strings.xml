@@ -17,7 +17,6 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">Відобразити</string>
-    <string name="dc_dimming_enable_title">Усунення мерехтіння</string>
     <string name="dc_dimming_enable_summary">Використовувати DC Dimming для зниження навантаження на очі</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Покращення звуку \"Мі Sound\"</string>

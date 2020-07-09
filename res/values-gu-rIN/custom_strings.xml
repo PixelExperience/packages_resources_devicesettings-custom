@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="dc_dimming_enable_title">એન્ટી-ફ્લિકર મોડ</string>
     <string name="dc_dimming_enable_summary">આંખોના ખેંચાણને ઓછું કરવા માટે DC ડિમિંગ લગાવો</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi સાઉન્ડ એન્હાંસર</string>

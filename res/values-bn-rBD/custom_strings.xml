@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="dc_dimming_enable_title">অ্যান্টি-ফ্লিকার মোড</string>
     <string name="dc_dimming_enable_summary">চোখের স্ট্রেন কমাতে DC ডিমিং প্রয়োগ করুন</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi সাউন্ড বিবর্ধক</string>

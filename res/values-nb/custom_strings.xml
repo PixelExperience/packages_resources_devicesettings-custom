@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="dc_dimming_enable_title">Antiflimmer-modus</string>
     <string name="dc_dimming_enable_summary">Bruk DC-nedtoning for å redusere øyeanstrengelse</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Lydforbedrer</string>

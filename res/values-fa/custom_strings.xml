@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="dc_dimming_enable_title">حالت ضد سوسو زدن</string>
     <string name="dc_dimming_enable_summary">نوردهی جریان مستقیم را به‌کار برده تا آسیب به چشمان خود را کاهش دهید</string>
     <!-- Dirac settings -->
     <string name="dirac_title">تقویت‌کننده صدای Mi</string>

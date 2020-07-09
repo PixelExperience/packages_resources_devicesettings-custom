@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="dc_dimming_enable_title">Режим Анти трептене</string>
     <string name="dc_dimming_enable_summary">Приложи режим Затъмнение за коригиране на светлинни дефекти в очите</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Използване на MiSound enhancer</string>

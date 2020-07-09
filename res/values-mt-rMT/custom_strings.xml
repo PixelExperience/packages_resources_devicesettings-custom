@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="dc_dimming_enable_title">Modalita kontra d-dija</string>
     <string name="dc_dimming_enable_summary">Baxxi d-dawl DC biex tnaqqas il-pressjoni fuq l-għajn</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Sound Enhancer</string>

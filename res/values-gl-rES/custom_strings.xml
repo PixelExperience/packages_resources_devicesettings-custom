@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="dc_dimming_enable_title">Modo anti-chiscado</string>
     <string name="dc_dimming_enable_summary">Aplicar atenuación DC para reducir o cansazo visual</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Potenciador Mi Sound</string>

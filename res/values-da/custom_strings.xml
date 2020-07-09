@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="dc_dimming_enable_title">Flimmerfri tilstand</string>
     <string name="dc_dimming_enable_summary">Anvend DC-dæmpning for at reducere overanstrengelse af øjnene</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Sound Enhancer</string>

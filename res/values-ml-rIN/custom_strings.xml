@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="dc_dimming_enable_title">ആന്റി ഫ്ലിക്കർ മോഡ്</string>
     <string name="dc_dimming_enable_summary">കണ്ണിന്റെ ആയാസം കുറയ്ക്കാൻ DC ഡിമ്മിംഗ് പ്രയോഗിക്കുക</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi ശബ്ദ എൻഹാൻസർ</string>

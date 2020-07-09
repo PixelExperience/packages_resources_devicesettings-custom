@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="dc_dimming_enable_title">깜빡임 방지 모드</string>
     <string name="dc_dimming_enable_summary">눈 피로 감소를 위해 DC 디밍 적용</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi 사운드 강화</string>

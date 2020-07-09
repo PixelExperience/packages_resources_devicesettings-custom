@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="dc_dimming_enable_title">एंटी-फ़्लिकर मोड</string>
     <string name="dc_dimming_enable_summary">आंखों के तनाव को कम करने के लिए डीसी डिमिंग लगाएं</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi ध्वनि एन्हांसर</string>

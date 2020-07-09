@@ -17,7 +17,6 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">Görüntü</string>
-    <string name="dc_dimming_enable_title">Titreşim önleme modu</string>
     <string name="dc_dimming_enable_summary">DC Karartma, düşük ışık koşullarında göz yorgunluğunu azaltır</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Ses Yükseltici</string>

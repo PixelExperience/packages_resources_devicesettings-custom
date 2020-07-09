@@ -17,7 +17,6 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">Ekraan</string>
-    <string name="dc_dimming_enable_title">Vilkumisvastane režiim</string>
     <string name="dc_dimming_enable_summary">Rakendage silma koormuse vähendamiseks alalisvärvimist</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Heli Parandaja</string>

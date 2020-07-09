@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="dc_dimming_enable_title">अँटी-फ्लिकर मोड</string>
     <string name="dc_dimming_enable_summary">डोळ्यावरील ताण कमी करण्यासाठी DC dimming लागू करा</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi ध्वनी वर्धक</string>

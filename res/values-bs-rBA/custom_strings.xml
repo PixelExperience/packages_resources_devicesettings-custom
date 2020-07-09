@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="dc_dimming_enable_title">Limitiranje treperenja</string>
     <string name="dc_dimming_enable_summary">Primijeni DC zamagljivanje za smanjenje naprezanja očiju</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Sound pojačivač</string>

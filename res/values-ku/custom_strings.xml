@@ -17,7 +17,6 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">پیشاندان</string>
-    <string name="dc_dimming_enable_title">دۆخی دژە لێڵی</string>
     <string name="dc_dimming_enable_summary">ڕووناککردنی نووسین و دەقەکان لە شوێنی تاریکەکاندا</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Sound Enhancer</string>
@@ -63,8 +62,10 @@
     <string name="dirac_preset_dance">سه‌ما</string>
     <string name="dirac_preset_metal">Metal</string>
     <!-- Popup camera settings -->
+    <string name="popup_settings_title">ڕێکخستنەکانی کامێرای دەرکەوتە</string>
     <string name="popup_led_title">فلاشی کامێرا</string>
     <string name="popup_led_summary">پیشاندانی فلاش کاتێ کامێرای پێشەوە بەکارهات یان  و لابرا</string>
+    <string name="popup_sound_title">کاریگەرییەکانی دەنگ</string>
     <string name="popup_title_muqin">Xylophone</string>
     <string name="popup_title_yingyan">Condor</string>
     <string name="popup_title_mofa">Magic</string>

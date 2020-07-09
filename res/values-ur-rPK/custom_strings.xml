@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="dc_dimming_enable_title">اینٹی-فلیکر موڈ</string>
     <string name="dc_dimming_enable_summary">آنکھوں کی کشیدگی کم کرنے کے لیے ڈی سی ڈمنگ لگائیں</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi ساؤنڈ انہینسر</string>

@@ -17,7 +17,6 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">Οθόνη</string>
-    <string name="dc_dimming_enable_title">Λειτουργία anti-flicker</string>
     <string name="dc_dimming_enable_summary">Εφαρμογή μείωσης φωτεινότητας DC για μείωση εξάντλησης των ματιών</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Ενισχυτής Mi Ήχου</string>

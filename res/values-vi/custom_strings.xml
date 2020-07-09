@@ -17,7 +17,6 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">Hiển thị</string>
-    <string name="dc_dimming_enable_title">Chế độ Chống nhấp nháy</string>
     <string name="dc_dimming_enable_summary">Sử dụng tính năng giảm độ sáng DC để giảm mỏi mắt</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Tăng cường Mi Sound</string>
@@ -63,8 +62,10 @@
     <string name="dirac_preset_dance">Khiêu vũ</string>
     <string name="dirac_preset_metal">Kim loại</string>
     <!-- Popup camera settings -->
+    <string name="popup_settings_title">Cài đặt camera pop-up</string>
     <string name="popup_led_title">Đèn LED máy ảnh</string>
     <string name="popup_led_summary">Hiển thị đèn LED khi máy ảnh trước khởi chạy và trượt lên</string>
+    <string name="popup_sound_title">Hiệu ứng âm thanh</string>
     <string name="popup_title_muqin">Mộc cầm</string>
     <string name="popup_title_yingyan">Chim ưng</string>
     <string name="popup_title_mofa">Ma thuật</string>
@@ -162,4 +163,5 @@
     <string name="thermal_camera">Máy ảnh</string>
     <string name="thermal_dialer">Trình quay số</string>
     <string name="thermal_gaming">Trò chơi</string>
+    <string name="thermal_streaming">Ứng dụng truyền phát</string>
 </resources>

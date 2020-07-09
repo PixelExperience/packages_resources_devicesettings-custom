@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="dc_dimming_enable_title">ஃபிளிக்கர் எதிர்ப்பு பயன்முறை</string>
     <string name="dc_dimming_enable_summary">கண்களில் சிரமம் ஏற்படுவதைக் குறைக்க DC டிம்மிங்கைப் பயன்படுத்தவும்</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi சவுண்ட் என்ஹேன்சர்</string>

@@ -17,7 +17,6 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">Zaslon</string>
-    <string name="dc_dimming_enable_title">Način rada protiv treperenja</string>
     <string name="dc_dimming_enable_summary">Nanesite DC dimming kako biste smanjili naprezanje očiju</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Sound Enhancer</string>

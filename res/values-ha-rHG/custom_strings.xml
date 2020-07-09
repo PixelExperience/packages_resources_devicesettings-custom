@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="dc_dimming_enable_title">Yanayin Hana juyawa</string>
     <string name="dc_dimming_enable_summary">Yi amfani da duhu na DC don rage gajiyar ido</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Kyautata Sautin Mi</string>

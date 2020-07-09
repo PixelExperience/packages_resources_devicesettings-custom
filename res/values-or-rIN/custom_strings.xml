@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="dc_dimming_enable_title">ଏଣ୍ଟି-ଫ୍ଲିକର୍ ମୋଡ୍</string>
     <string name="dc_dimming_enable_summary">ଆଖିରେ ଚାପ ହ୍ରାସ କରିବାକୁ DC ଡିମିଂ ପ୍ରୟୋଗ କରନ୍ତୁ</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi ଧ୍ୱନୀ ବର୍ଦ୍ଧକ</string>

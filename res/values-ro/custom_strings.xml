@@ -17,7 +17,6 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">Afişare</string>
-    <string name="dc_dimming_enable_title">Mod anti-pâlpâire</string>
     <string name="dc_dimming_enable_summary">Aplică DC pentru reglarea intensității luminoase pentru a reduce stresul asupra ochilor</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Sound Amplificator</string>

@@ -17,7 +17,6 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">Displej</string>
-    <string name="dc_dimming_enable_title">Režim bez preblikávania</string>
     <string name="dc_dimming_enable_summary">Použiť DC stlmenie chráni zrak v podmienkach so slabým osvetlením</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Dirac HD Sound</string>
@@ -65,6 +64,7 @@
     <!-- Popup camera settings -->
     <string name="popup_settings_title">Nastavenie vysúvacej kamery</string>
     <string name="popup_led_title">Blesk</string>
+    <string name="popup_led_summary">Zablikať LED pri vysunutí a zasunutí predného fotoaparátu</string>
     <string name="popup_sound_title">Zvukové efekty</string>
     <string name="popup_title_muqin">Xylofón</string>
     <string name="popup_title_yingyan">Kondor</string>

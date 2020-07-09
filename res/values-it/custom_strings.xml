@@ -17,7 +17,6 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">Display</string>
-    <string name="dc_dimming_enable_title">Modalità anti-sfarfallio</string>
     <string name="dc_dimming_enable_summary">L\'attenuazione DC previene lo sfarfallio prolungato e riduce l\'affaticamento degli occhi in condizioni di scarsa illuminazione. Tuttavia, la qualità dell\'immagine potrebbe essere compromessa quando questa funzionalità è attiva.</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Ottimizzazione Mi Sound</string>

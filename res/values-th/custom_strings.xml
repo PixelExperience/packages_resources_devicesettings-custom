@@ -16,7 +16,7 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="dc_dimming_enable_title">โหมดป้องกันภาพสั่นไหว</string>
+    <string name="display_title">จอแสดงผล</string>
     <string name="dc_dimming_enable_summary">ใช้ระบบลดแสง DC dimming เพื่อลดความเหนื่อยล้าของดวงตา</string>
     <!-- Dirac settings -->
     <string name="dirac_title">ตัวเพิ่มประสิทธิภาพเสียง Mi</string>
@@ -62,6 +62,7 @@
     <string name="dirac_preset_dance">แด๊นซ์</string>
     <string name="dirac_preset_metal">เมทัล</string>
     <!-- Popup camera settings -->
+    <string name="popup_sound_title">เสียง</string>
     <string name="popup_title_muqin">ไซโลโฟน</string>
     <string name="popup_title_yingyan">อีแร้ง</string>
     <string name="popup_title_mofa">เมจิค</string>
@@ -145,6 +146,7 @@
     <string name="notification_slider_bottom_position">ตำแหน่งล่างสุด</string>
     <string name="notification_slider_mode_total_silence">ความเงียบรวม</string>
     <string name="notification_slider_mode_priority_only">เฉพาะระดับความสำคัญ</string>
+    <string name="notification_slider_mode_none">ทั่วไป</string>
     <!-- Thermal profiles -->
     <string name="thermal_title">โปรไฟล์การปรับปรุง</string>
     <string name="thermal_default">ไม่มีการปรับปรุง</string>

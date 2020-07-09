@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="dc_dimming_enable_title">ម៉ូដប្រឆាំងនឹងការញាក់អេក្រង់</string>
     <string name="dc_dimming_enable_summary">ប្រើការពង្ងឹត DC ដើម្បីកាត់បន្ថយភាពស្រវាំងភ្នែក</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Sound Enhancer</string>

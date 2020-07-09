@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="dc_dimming_enable_title">מצב למניעת ריצוד Anti-flicker</string>
     <string name="dc_dimming_enable_summary">הפעל את מעמעם DC להפחתת מאמץ העיניים</string>
     <!-- Dirac settings -->
     <string name="dirac_title">מגבר צלילים Mi</string>

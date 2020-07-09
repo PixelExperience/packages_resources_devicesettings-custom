@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="dc_dimming_enable_title">Mode anti-parpelleig</string>
     <string name="dc_dimming_enable_summary">Aplicar atenuació de CC per reduir la tensió ocular</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Potenciador de so Mi</string>

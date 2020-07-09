@@ -17,7 +17,6 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">显示</string>
-    <string name="dc_dimming_enable_title">防闪烁模式</string>
     <string name="dc_dimming_enable_summary">全局直流调光，低亮度下防闪烁护眼</string>
     <!-- Dirac settings -->
     <string name="dirac_title">使用米音提升音质</string>
@@ -63,6 +62,10 @@
     <string name="dirac_preset_dance">舞曲</string>
     <string name="dirac_preset_metal">金属</string>
     <!-- Popup camera settings -->
+    <string name="popup_settings_title">升降摄像头设置</string>
+    <string name="popup_led_title">摄像头闪光灯</string>
+    <string name="popup_led_summary">前置摄像头升降时亮起闪光灯</string>
+    <string name="popup_sound_title">音效</string>
     <string name="popup_title_muqin">木琴</string>
     <string name="popup_title_yingyan">鹰眼</string>
     <string name="popup_title_mofa">魔法</string>
@@ -153,10 +156,12 @@
     <string name="notification_slider_mode_none">普通</string>
     <!-- Thermal profiles -->
     <string name="thermal_title">优化配置文件</string>
+    <string name="thermal_summary">分应用程序调整配置文件以获得最佳性能</string>
     <string name="thermal_default">不优化</string>
     <string name="thermal_benchmark">性能</string>
     <string name="thermal_browser">浏览器</string>
     <string name="thermal_camera">相机</string>
     <string name="thermal_dialer">电话</string>
     <string name="thermal_gaming">游戏</string>
+    <string name="thermal_streaming">流媒体应用程序</string>
 </resources>

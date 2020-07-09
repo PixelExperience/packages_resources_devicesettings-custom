@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="dc_dimming_enable_title">Modaliteti anti-ndriçim</string>
     <string name="dc_dimming_enable_summary">Cakto zbehtësinë DC për të pakësuar lodhjen e syrit</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Përmirësues zëri Mi</string>

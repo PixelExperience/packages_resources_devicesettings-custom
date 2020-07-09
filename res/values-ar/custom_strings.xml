@@ -17,7 +17,6 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">الشاشة</string>
-    <string name="dc_dimming_enable_title">وضع إزالة الوميض</string>
     <string name="dc_dimming_enable_summary">تعيين تعتيم DC لتقليل إجهاد العين</string>
     <!-- Dirac settings -->
     <string name="dirac_title">محسن صوت Mi</string>

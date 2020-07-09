@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="dc_dimming_enable_title">འཁྱུག་འགོག་དཔེ་ཚུལ།</string>
     <string name="dc_dimming_enable_summary">ཁྱོན་ཡོངས་ཐད་རྒྱུགས་འོད་ལེགས་སྒྲིག འོད་དམའ་བའི་སྐབས་མིག་ལ་སྲུང་སྐྱོབ་བྱེད།</string>
     <!-- Dirac settings -->
     <string name="dirac_title">མཱི་སྒྲ་བེད་སྤྱད་དེ་སྒྲ་གཤིས་མཐོར་འདེགས་བྱེད་པ།</string>

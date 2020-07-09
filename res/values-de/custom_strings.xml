@@ -17,7 +17,6 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">Display</string>
-    <string name="dc_dimming_enable_title">Anti-Flacker-Modus</string>
     <string name="dc_dimming_enable_summary">DC-Dimmen anwenden, um die Augenbelastung zu reduzieren</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Klangverbesserung</string>

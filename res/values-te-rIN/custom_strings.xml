@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="dc_dimming_enable_title">యాంటీ-ఫ్లికర్ మోడ్</string>
     <string name="dc_dimming_enable_summary">కంటిపై ఒత్తిడిని తగ్గించేందుకు DC డిమ్మింగ్ వర్తింపజేస్తుంది</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi శబ్ద మెరుగుదల సాధనం</string>

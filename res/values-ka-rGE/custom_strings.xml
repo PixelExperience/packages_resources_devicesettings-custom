@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="dc_dimming_enable_title">განათების რეჟიმი</string>
     <string name="dc_dimming_enable_summary">გამოიყენეთ DC რეჟიმი თვალის ირგვლივ სიშავეების შესამცირებლად</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi ხმის გამაუმჯობესებელი</string>

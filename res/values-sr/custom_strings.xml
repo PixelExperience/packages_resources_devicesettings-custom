@@ -16,7 +16,7 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="dc_dimming_enable_title">Ограничење треперења</string>
+    <string name="display_title">Екран</string>
     <string name="dc_dimming_enable_summary">Примени DC замагљење ради мањег напрезања очију</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Sound Enhancer</string>
@@ -62,6 +62,8 @@
     <string name="dirac_preset_dance">Денс</string>
     <string name="dirac_preset_metal">Метал</string>
     <!-- Popup camera settings -->
+    <string name="popup_led_title">Светло камере</string>
+    <string name="popup_sound_title">Звучни ефекти</string>
     <string name="popup_title_muqin">Ксилофон</string>
     <string name="popup_title_yingyan">Кондор</string>
     <string name="popup_title_mofa">Магијa</string>
@@ -144,7 +146,11 @@
     <string name="notification_slider_middle_position">Средња позиција</string>
     <string name="notification_slider_bottom_position">Доња позиција</string>
     <string name="notification_slider_mode_total_silence">Потпуна тишина</string>
+    <string name="notification_slider_mode_alarms_only">Само аларми</string>
     <string name="notification_slider_mode_priority_only">Само приоритет</string>
+    <string name="notification_slider_mode_silent">Нечујно</string>
+    <string name="notification_slider_mode_vibrate">Вибрација</string>
+    <string name="notification_slider_mode_none">Нормално</string>
     <!-- Thermal profiles -->
     <string name="thermal_title">Профил за оптимизацију</string>
     <string name="thermal_default">Нема оптимизације</string>

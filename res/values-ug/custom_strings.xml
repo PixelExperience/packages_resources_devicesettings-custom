@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="dc_dimming_enable_title">چاقناشتىن ساقلىنىش ھالىتى</string>
     <string name="dc_dimming_enable_summary">ئومۈميۈزلۈك بىۋاستە نۇر تەڭشەپ،تۆۋەن يورۇقلۇقتا كۆزنىڭ چاقنىشىنى توسۇپ كۆزنى قوغدايدۇ</string>
     <!-- Dirac settings -->
     <string name="dirac_title">مى ئاۋاز ئاۋاز سۈپىتىنى كۆتۈرگۈچنى ئىشلىتىش</string>

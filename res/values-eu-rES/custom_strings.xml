@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="dc_dimming_enable_title">Kliskatzearen kontrako modua</string>
     <string name="dc_dimming_enable_summary">DC moteltzea aplikatu begi-nekea murrizteko</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Soinu indartzailea</string>

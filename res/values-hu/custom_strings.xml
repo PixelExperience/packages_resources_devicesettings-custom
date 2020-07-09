@@ -17,7 +17,6 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">Képernyő</string>
-    <string name="dc_dimming_enable_title">Csíkozódáscsökkentő mód</string>
     <string name="dc_dimming_enable_summary">Az egyenáramú halványítás engedélyezése a szemterhelés csökkentése érdekében</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Hangjavítás</string>
@@ -63,8 +62,10 @@
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metál</string>
     <!-- Popup camera settings -->
+    <string name="popup_settings_title">A felugró kamera beállításai</string>
     <string name="popup_led_title">Kamera-LED</string>
     <string name="popup_led_summary">A LED-fény megjelenítése az első kamera kinyitásakor és bezárásakor</string>
+    <string name="popup_sound_title">Hangjelzések</string>
     <string name="popup_title_muqin">Xilofon</string>
     <string name="popup_title_yingyan">Keselyű</string>
     <string name="popup_title_mofa">Varázslat</string>

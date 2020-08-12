@@ -184,10 +184,4 @@
     <string name="thermal_dialer">Dialer</string>
     <string name="thermal_gaming">Games</string>
     <string name="thermal_streaming">Streaming applications</string>
-
-    <!-- Refresh rate -->
-    <string name="refresh_rate_title">Screen refresh rate</string>
-    <string name="refresh_rate_auto">Automatic</string>
-    <string name="refresh_rate_60">60Hz (saves battery)</string>
-
 </resources>

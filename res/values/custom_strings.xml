@@ -17,8 +17,8 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">Display</string>
-    <string name="dc_dimming_enable_title">Anti flicker</string>
-    <string name="dc_dimming_enable_summary">Anti flicker mode helps reducing eyestrain in low light conditions by using "DC dimming" feature. It might degrade color accuracy and affect the way some items are displayed.</string>
+    <string name="dc_dimming_enable_title" translatable="false">DC Dimming</string>
+    <string name="dc_dimming_enable_summary">DC Dimming reduces eye strain in low light conditions</string>
 
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Sound Enhancer</string>
@@ -184,10 +184,4 @@
     <string name="thermal_dialer">Dialer</string>
     <string name="thermal_gaming">Games</string>
     <string name="thermal_streaming">Streaming applications</string>
-
-    <!-- Refresh rate -->
-    <string name="refresh_rate_title">Screen refresh rate</string>
-    <string name="refresh_rate_auto">Automatic</string>
-    <string name="refresh_rate_60">60Hz (saves battery)</string>
-
 </resources>

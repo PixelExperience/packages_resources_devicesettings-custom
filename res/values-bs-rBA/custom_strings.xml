@@ -16,7 +16,7 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="dc_dimming_enable_summary">Primijeni DC zamagljivanje za smanjenje naprezanja očiju</string>
+    <string name="display_title">Ekran</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Sound pojačivač</string>
     <string name="dirac_summary">Optimizovanje kvaliteta zvuka</string>
@@ -61,6 +61,10 @@
     <string name="dirac_preset_dance">Dens</string>
     <string name="dirac_preset_metal">Metal</string>
     <!-- Popup camera settings -->
+    <string name="popup_settings_title">Podešavanje Pop-Up kamere</string>
+    <string name="popup_led_title">LED kamere</string>
+    <string name="popup_led_summary">Prikaži LED svjetlo kad se prednja kamera uzdiže ili spušta</string>
+    <string name="popup_sound_title">Zvučni efekti</string>
     <string name="popup_title_muqin">Ksilofon</string>
     <string name="popup_title_yingyan">Kondor</string>
     <string name="popup_title_mofa">Magija</string>
@@ -138,18 +142,25 @@
     <string name="advanced_settings">OnePlus Podešavanja</string>
     <string name="advanced_settings_summary">Dodatna podešavanja za vaš uređaj</string>
     <!-- OnePlus - Alert slider settings -->
+    <string name="notification_slider_category_title">Klizač upozorenja</string>
     <string name="notification_slider_selection_dialog_title">Akcija</string>
     <string name="notification_slider_top_position">Pozicija na vrhu</string>
     <string name="notification_slider_middle_position">Pozicija u sredini</string>
     <string name="notification_slider_bottom_position">Pozicija dole</string>
     <string name="notification_slider_mode_total_silence">Potpuna tišina</string>
+    <string name="notification_slider_mode_alarms_only">Samo alarmi</string>
     <string name="notification_slider_mode_priority_only">Samo prioritetno</string>
+    <string name="notification_slider_mode_silent">Nečujno</string>
+    <string name="notification_slider_mode_vibrate">Vibracija</string>
+    <string name="notification_slider_mode_none">Normalno</string>
     <!-- Thermal profiles -->
     <string name="thermal_title">Profil optimizacije</string>
+    <string name="thermal_summary">Podesi profile za svaku aplikaciju pojedinačno za optimalne performanse</string>
     <string name="thermal_default">Bez optimizacije</string>
     <string name="thermal_benchmark">Performanse</string>
     <string name="thermal_browser">Preglednik</string>
     <string name="thermal_camera">Kamera</string>
     <string name="thermal_dialer">Pozivač</string>
     <string name="thermal_gaming">Igre</string>
+    <string name="thermal_streaming">Aplikacije za strimovanje</string>
 </resources>

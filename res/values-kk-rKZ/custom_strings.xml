@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="dc_dimming_enable_summary">Көздің зақымдануын азайту үшін DC dimming режимін қосыңыз</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi дыбыс жақсарту</string>
     <string name="dirac_summary">Mi дыбыс жақсарту</string>

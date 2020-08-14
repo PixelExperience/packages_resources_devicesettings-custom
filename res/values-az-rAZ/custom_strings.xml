@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="dc_dimming_enable_summary">Göz yorğunluğunuzu azaltmaq üçün DC qaraltma tətbiq edin</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Səs Gücləndirici</string>
     <string name="dirac_summary">Səs keyfiyyətini optimallaşdır</string>

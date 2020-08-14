@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="dc_dimming_enable_summary">Примени DC затемнување за да се намали оптеретувањето за очи</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Sound засилувач</string>
     <string name="dirac_summary">Оптимизирај квалитет на звук</string>

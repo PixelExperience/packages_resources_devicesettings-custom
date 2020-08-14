@@ -17,7 +17,6 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">Wyświetlacz</string>
-    <string name="dc_dimming_enable_summary">Zastosuj ściemnianie DC, aby ograniczyć męczenie się oczu</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Ulepszanie dźwięku Mi</string>
     <string name="dirac_summary">Optymalizuj jakość dźwięku</string>

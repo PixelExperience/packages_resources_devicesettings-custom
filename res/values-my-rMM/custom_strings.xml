@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="dc_dimming_enable_summary">မျက်စိ ပင်ပန်းမှု လျော့ကျစေရန် DC အလင်းမှိန်ခြင်းအား အသုံးချပါ</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi အသံကောင်းမွန်စေသူ</string>
     <string name="dirac_summary">အသံ အရည်အသွေးကို မြှင့်တင်မည်</string>

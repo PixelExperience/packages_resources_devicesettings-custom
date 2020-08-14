@@ -17,7 +17,6 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">画面</string>
-    <string name="dc_dimming_enable_summary">DC調光を適用して目の疲れを軽減する</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi サウンドエンハンサー</string>
     <string name="dirac_summary">オーディオ品質を最適化</string>

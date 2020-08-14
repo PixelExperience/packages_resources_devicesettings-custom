@@ -17,7 +17,8 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">Ekranas</string>
-    <string name="dc_dimming_enable_summary">Pritaikyti DC pritemdymą, siekiant sumažinti akių įtampą</string>
+    <string name="dc_dimming_enable_title">Nemirksėjimo režimas</string>
+    <string name="dc_dimming_enable_summary">Apsaugos nuo mirgėjimo režimas padeda sumažinti akių nuovargį esant silpnam apšvietimui, naudojant „DC diling“ funkciją. Tai gali pabloginti spalvų tikslumą ir paveikti kai kurių elementų rodymą.</string>
     <!-- Dirac settings -->
     <string name="dirac_title">„Mi garso pagerinimas“</string>
     <string name="dirac_summary">Optimizuoti garso kokybę</string>

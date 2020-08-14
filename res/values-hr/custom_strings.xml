@@ -17,7 +17,6 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">Zaslon</string>
-    <string name="dc_dimming_enable_summary">Nanesite DC dimming kako biste smanjili naprezanje očiju</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Sound Enhancer</string>
     <string name="dirac_summary">Optimiziranje kvalitete zvuka</string>
@@ -143,7 +142,7 @@
     <string name="advanced_settings">OnePlus postavke</string>
     <string name="advanced_settings_summary">Prilagođene postavke za Vaš uređaj</string>
     <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_category_title">Klizač obavijesti</string>
+    <string name="notification_slider_category_title">Klizač upozorenja</string>
     <string name="notification_slider_selection_dialog_title">Radnja</string>
     <string name="notification_slider_top_position">Na vrhu</string>
     <string name="notification_slider_middle_position">U sredini</string>
@@ -163,5 +162,5 @@
     <string name="thermal_camera">Kamera</string>
     <string name="thermal_dialer">Birač broja</string>
     <string name="thermal_gaming">Igre</string>
-    <string name="thermal_streaming">Aplikacije strujanja</string>
+    <string name="thermal_streaming">Aplikacije za strimovanje</string>
 </resources>

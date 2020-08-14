@@ -16,7 +16,7 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="dc_dimming_enable_summary">눈 피로 감소를 위해 DC 디밍 적용</string>
+    <string name="display_title">디스플레이</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi 사운드 강화</string>
     <string name="dirac_summary">음질 최적화</string>
@@ -142,18 +142,25 @@
     <string name="advanced_settings">OnePlus 설정</string>
     <string name="advanced_settings_summary">기기의 맞춤 설정</string>
     <!-- OnePlus - Alert slider settings -->
+    <string name="notification_slider_category_title">경고 슬라이더</string>
     <string name="notification_slider_selection_dialog_title">작업</string>
     <string name="notification_slider_top_position">상단 위치</string>
     <string name="notification_slider_middle_position">중간 위치</string>
     <string name="notification_slider_bottom_position">하단 위치</string>
     <string name="notification_slider_mode_total_silence">모두 차단</string>
+    <string name="notification_slider_mode_alarms_only">알람만 허용</string>
     <string name="notification_slider_mode_priority_only">중요 알림만</string>
+    <string name="notification_slider_mode_silent">무음</string>
+    <string name="notification_slider_mode_vibrate">진동</string>
+    <string name="notification_slider_mode_none">보통</string>
     <!-- Thermal profiles -->
     <string name="thermal_title">최적화 프로필</string>
+    <string name="thermal_summary">최적의 성능을 위해 앱별 프로파일 조정</string>
     <string name="thermal_default">최적화 안 함</string>
     <string name="thermal_benchmark">성능</string>
     <string name="thermal_browser">브라우저</string>
     <string name="thermal_camera">카메라</string>
     <string name="thermal_dialer">전화</string>
     <string name="thermal_gaming">게임</string>
+    <string name="thermal_streaming">스트리밍 애플리케이션</string>
 </resources>

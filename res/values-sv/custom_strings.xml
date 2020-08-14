@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="dc_dimming_enable_summary">Tillämpa DC-dimning för minska ansträngda ögon</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi ljudförstärkare</string>
     <string name="dirac_summary">Optimera ljudkvalitet</string>

@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="dc_dimming_enable_summary">ਅੱਖਾਂ ਦੇ ਤਨਾਅ ਨੂੰ ਘੱਟ ਕਰਨ ਲਈ DC ਡੀਮਿੰਗ ਲਾਗੂ ਕਰੋ</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi ਧੁਨੀ ਵਰਧਕ</string>
     <string name="dirac_summary">ਆਡੀਓ ਗੁਣਵੱਤਾ ਅਨੁਕੂਲਿਤ ਕਰੋ</string>

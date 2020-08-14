@@ -17,7 +17,7 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">显示</string>
-    <string name="dc_dimming_enable_summary">全局直流调光，低亮度下防闪烁护眼</string>
+    <string name="dc_dimming_enable_title">防震动</string>
     <!-- Dirac settings -->
     <string name="dirac_title">使用米音提升音质</string>
     <string name="dirac_summary">米音</string>
@@ -63,8 +63,8 @@
     <string name="dirac_preset_metal">金属</string>
     <!-- Popup camera settings -->
     <string name="popup_settings_title">升降摄像头设置</string>
-    <string name="popup_led_title">摄像头闪光灯</string>
-    <string name="popup_led_summary">前置摄像头升降时亮起闪光灯</string>
+    <string name="popup_led_title">升降摄像头灯效</string>
+    <string name="popup_led_summary">前置摄像头升降时亮起</string>
     <string name="popup_sound_title">音效</string>
     <string name="popup_title_muqin">木琴</string>
     <string name="popup_title_yingyan">鹰眼</string>

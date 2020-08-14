@@ -17,7 +17,8 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">Tela</string>
-    <string name="dc_dimming_enable_summary">Aplicar DC Dimming para reduzir cansaço visual</string>
+    <string name="dc_dimming_enable_title">Modo anti cintilação</string>
+    <string name="dc_dimming_enable_summary">O modo anti cintilação ajuda a reduzir a fadiga ocular em condições de pouca luz usando o recurso \"DC dimming\". Isso pode degradar a precisão das cores e afetar a forma como alguns itens são exibidos.</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Sound Enhancer</string>
     <string name="dirac_summary">Otimizar qualidade de áudio</string>

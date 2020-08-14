@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="dc_dimming_enable_summary">Pas DC-dimmen toe om oog vermoeidheid te verminderen</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Geluid Verbeteraar</string>
     <string name="dirac_summary">Audiokwaliteit optimaliseren</string>

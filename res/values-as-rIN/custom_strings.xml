@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="dc_dimming_enable_summary">চকুত পৰা চাপ হ্ৰাসৰ বাবে DC অনুজ্জ্বলকৰণ প্ৰয়োগ কৰক</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi ধ্বনি পৰিবৰ্ধক</string>
     <string name="dirac_summary">অডিঅ\' গুণমান অনুকূলিত কৰক</string>

@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="dc_dimming_enable_summary">Ko‘zga zararni kamaytirish uchun DC dimming funksiyasini ishlatish</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Ovoz kuchaytirgichi</string>
     <string name="dirac_summary">Audio sifatini optimallashtirish</string>

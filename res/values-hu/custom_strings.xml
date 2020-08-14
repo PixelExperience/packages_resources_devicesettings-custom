@@ -17,7 +17,8 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">Képernyő</string>
-    <string name="dc_dimming_enable_summary">Az egyenáramú halványítás engedélyezése a szemterhelés csökkentése érdekében</string>
+    <string name="dc_dimming_enable_title">Vibrálásmentesítés</string>
+    <string name="dc_dimming_enable_summary">A vibrálásmentesítés (\"DC dimming\") csökkenti a szemfáradást gyenge fényviszonyok esetén. De sajnos a képminőséget, színhelyességet egy kicsit gyengíti.</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Hangjavítás</string>
     <string name="dirac_summary">Hangminőség optimalizálása</string>

@@ -17,7 +17,6 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">จอแสดงผล</string>
-    <string name="dc_dimming_enable_summary">ใช้ระบบลดแสง DC dimming เพื่อลดความเหนื่อยล้าของดวงตา</string>
     <!-- Dirac settings -->
     <string name="dirac_title">ตัวเพิ่มประสิทธิภาพเสียง Mi</string>
     <string name="dirac_summary">เพิ่มคุณภาพเสียง</string>

@@ -17,7 +17,6 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">پیشاندان</string>
-    <string name="dc_dimming_enable_summary">ڕووناککردنی نووسین و دەقەکان لە شوێنی تاریکەکاندا</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Sound Enhancer</string>
     <string name="dirac_summary">یاشترکردنی جۆرێتی دەنگ</string>

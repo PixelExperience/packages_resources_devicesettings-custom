@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="dc_dimming_enable_summary">आँखामा तनाव कम गर्न DC डिम गर्ने चलाउनुहोस्</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi आवाज एन्हान्सर</string>
     <string name="dirac_summary">अडियोको गुणस्तरलाई अप्टिमाइज गर्नुहोस्</string>

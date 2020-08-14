@@ -17,7 +17,8 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">Οθόνη</string>
-    <string name="dc_dimming_enable_summary">Εφαρμογή μείωσης φωτεινότητας DC για μείωση εξάντλησης των ματιών</string>
+    <string name="dc_dimming_enable_title">Αντι-τρεμόσβυμα</string>
+    <string name="dc_dimming_enable_summary">ΤΟ αντι-τρεμόσβυμα βοηθά στη μείωση της καταπόνησης των ματιών σε συνθήκες χαμηλού φωτισμού, χρησιμοποιώντας τη λειτουργία \"DC Dimming\". Ίσως μειωθεί η ποιότητα της ακρίβειας των χρωμάτων και επηρεαστεί ο τρόπος με τον οποίο εμφανίζονται κάποια χαρακτηριστικά.</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Ενισχυτής Mi Ήχου</string>
     <string name="dirac_summary">Βελτιστοποίηση ποιότητας ήχου</string>
@@ -143,6 +144,7 @@
     <string name="advanced_settings">Ρυθμίσεις OnePlus</string>
     <string name="advanced_settings_summary">Προσαρμοσμένες ρυθμίσεις για την συσκευή σας</string>
     <!-- OnePlus - Alert slider settings -->
+    <string name="notification_slider_category_title">Διακόπτης ειδοποιήσεων</string>
     <string name="notification_slider_selection_dialog_title">Ενέργεια</string>
     <string name="notification_slider_top_position">Πάνω θέση</string>
     <string name="notification_slider_middle_position">Μεσαία θέση</string>

@@ -16,7 +16,6 @@
 -->
 <resources>
     <!-- DC Dimming settings -->
-    <string name="dc_dimming_enable_summary">ಕಣ್ಣುಗಳ ಮೇಲಿನ ಒತ್ತಡ ಕಡಿಮೆ ಮಾಡಲು ಡಿಸಿ ಕಡಿಮೆ ಮಾಡುವಿಕೆ ಅನ್ವಯಿಸಿ</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi ಧ್ವನಿ ಎನ್‌ಹ್ಯಾನ್ಸರ್‌‌</string>
     <string name="dirac_summary">ಆಡಿಯೊ ಗುಣಮಟ್ಟ ಆಪ್ಟಿಮೈಸ್ ಮಾಡಿ</string>

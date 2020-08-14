@@ -17,7 +17,8 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">Görüntü</string>
-    <string name="dc_dimming_enable_summary">DC Karartma, düşük ışık koşullarında göz yorgunluğunu azaltır</string>
+    <string name="dc_dimming_enable_title">Titreme önleme</string>
+    <string name="dc_dimming_enable_summary">Titreşim önleyici mod, \"DC karartma\" özelliğini kullanarak düşük ışık koşullarında göz yorgunluğunu azaltmaya yardımcı olur. Renk doğruluğunu düşürebilir ve bazı öğelerin görüntülenme şeklini etkileyebilir.</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Ses Yükseltici</string>
     <string name="dirac_summary">Ses kalitesini optimize eder</string>

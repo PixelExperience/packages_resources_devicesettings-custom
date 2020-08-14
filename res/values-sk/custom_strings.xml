@@ -17,7 +17,6 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">Displej</string>
-    <string name="dc_dimming_enable_summary">Použiť DC stlmenie chráni zrak v podmienkach so slabým osvetlením</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Dirac HD Sound</string>
     <string name="dirac_summary">Vylepšiť kvalitu zvuku</string>

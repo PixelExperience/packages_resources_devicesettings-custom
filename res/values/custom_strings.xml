@@ -29,6 +29,7 @@
     <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">Hi-Fi</string>
     <string name="dirac_hifi_summary">Decrease noise and Distortion and increase audio quality</string>
+    <string name="dirac_hifi_enable_title">Enable Hi-fi</string>
 
     <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_default">Default</string>
@@ -184,4 +185,7 @@
     <string name="thermal_dialer">Dialer</string>
     <string name="thermal_gaming">Games</string>
     <string name="thermal_streaming">Streaming applications</string>
+
+    <!-- Refresh Rate Settings -->
+    <string name="device_min_refresh_rate">Minimum refresh rate</string>
 </resources>

@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "f57cd31b_f83a2a70",
+        "filename": "res/values/custom_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 190,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2020-09-03T14:44:12Z",
+      "side": 1,
+      "message": "Change to \"Minimum refresh rate\"",
+      "revId": "e7e7dbd5167b622e76b215c1d468cd6b42eaade2",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "2d045e27_1f0d06ef",
+        "filename": "res/values/custom_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 192,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2020-09-03T14:44:12Z",
+      "side": 1,
+      "message": "Nuke that on source too. Remove that switch\n\nUse notch pill by default or don\u0027t use",
+      "revId": "e7e7dbd5167b622e76b215c1d468cd6b42eaade2",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "4481f0fe_da23feec",
+        "filename": "res/values/custom_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 197,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2020-09-03T14:44:12Z",
+      "side": 1,
+      "message": "Nuke that, use device_settings_app_name in source",
+      "revId": "e7e7dbd5167b622e76b215c1d468cd6b42eaade2",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a",
+      "unresolved": true
+    }
+  ]
+}

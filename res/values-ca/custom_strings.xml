@@ -151,4 +151,5 @@
     <string name="thermal_camera">Càmera</string>
     <string name="thermal_dialer">Marcador</string>
     <string name="thermal_gaming">Jocs</string>
+    <!-- Refresh Rate Settings -->
 </resources>

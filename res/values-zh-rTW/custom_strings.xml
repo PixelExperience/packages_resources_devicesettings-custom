@@ -17,6 +17,8 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">顯示</string>
+    <string name="dc_dimming_enable_title">防閃爍</string>
+    <string name="dc_dimming_enable_summary">防閃爍模式透過使用「DC 調光」功能來協助減少低光源環境下的眼睛疲勞。這可能會降機色彩準確性，並影響某些項目的顯示方式。</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Sound 加強器</string>
     <string name="dirac_summary">最佳化聲音品質</string>
@@ -163,4 +165,5 @@
     <string name="thermal_dialer">電話</string>
     <string name="thermal_gaming">遊戲</string>
     <string name="thermal_streaming">串流應用程式</string>
+    <!-- Refresh Rate Settings -->
 </resources>

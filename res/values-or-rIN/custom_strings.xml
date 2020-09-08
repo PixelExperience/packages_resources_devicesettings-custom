@@ -92,4 +92,5 @@
     <string name="notification_slider_mode_total_silence">ସମ୍ପୂର୍ଣ୍ଣ ନୀରବତା</string>
     <string name="notification_slider_mode_priority_only">କେବଳ ପ୍ରାଧାନ୍ୟ</string>
     <!-- Thermal profiles -->
+    <!-- Refresh Rate Settings -->
 </resources>

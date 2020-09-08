@@ -148,4 +148,5 @@
     <string name="thermal_camera">Camera</string>
     <string name="thermal_dialer">Telefoon</string>
     <string name="thermal_gaming">Games</string>
+    <!-- Refresh Rate Settings -->
 </resources>

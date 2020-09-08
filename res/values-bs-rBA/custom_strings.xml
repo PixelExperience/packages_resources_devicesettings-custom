@@ -163,4 +163,5 @@
     <string name="thermal_dialer">Pozivač</string>
     <string name="thermal_gaming">Igre</string>
     <string name="thermal_streaming">Aplikacije za strimovanje</string>
+    <!-- Refresh Rate Settings -->
 </resources>

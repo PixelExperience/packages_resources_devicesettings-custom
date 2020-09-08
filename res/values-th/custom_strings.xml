@@ -154,4 +154,5 @@
     <string name="thermal_camera">กล้องถ่ายรูป</string>
     <string name="thermal_dialer">โทรศัพท์</string>
     <string name="thermal_gaming">เกมส์</string>
+    <!-- Refresh Rate Settings -->
 </resources>

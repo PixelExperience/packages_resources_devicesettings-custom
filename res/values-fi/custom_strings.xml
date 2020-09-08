@@ -17,8 +17,8 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">Näyttö</string>
-    <string name="dc_dimming_enable_title">Vilkkumaton</string>
-    <string name="dc_dimming_enable_summary">Vilkkumaton moodi helpottaa silmien väsymistä vähässä valossa käyttämällä \"DC hämärrys\" ominaisuutta. Se voi vaikuttaa alentavasti värien tarkkuuteen ja voi vaikuttaa jollain tavalla käytettäviin kohteisiin näytöllä.</string>
+    <string name="dc_dimming_enable_title">Vilkkumisen esto</string>
+    <string name="dc_dimming_enable_summary">Vilkkumisen esto tila vähentää silmien väsymistä vähäisessä valossa käyttämällä \"DC hämärrys\" ominaisuutta. Se voi heikentää väritoiston tarkkuutta ja se voi vaikuttaa miten jotkin kohteet näkyvät näytöllä.</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Sound Enhancer</string>
     <string name="dirac_summary">Optimoi äänenlaatua</string>
@@ -165,4 +165,5 @@
     <string name="thermal_dialer">Puhelin</string>
     <string name="thermal_gaming">Pelit</string>
     <string name="thermal_streaming">Suoratoistosovellukset</string>
+    <!-- Refresh Rate Settings -->
 </resources>

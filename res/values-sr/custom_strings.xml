@@ -17,6 +17,8 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">Екран</string>
+    <string name="dc_dimming_enable_title">Анти фликер</string>
+    <string name="dc_dimming_enable_summary">Анти фликер режим помаже у смањењу напрезања очију у условима слабог осветљења користећи \"DC dimming\". Могуће је смањење тачности боја и другачије приказивање неких ставки.</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Sound Enhancer</string>
     <string name="dirac_summary">Оптимизовање квалитета звука</string>
@@ -163,4 +165,5 @@
     <string name="thermal_dialer">Телефон</string>
     <string name="thermal_gaming">Игре</string>
     <string name="thermal_streaming">Апликације за стримовање</string>
+    <!-- Refresh Rate Settings -->
 </resources>

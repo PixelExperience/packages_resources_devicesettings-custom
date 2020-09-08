@@ -17,6 +17,8 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">Skjerm</string>
+    <string name="dc_dimming_enable_title">Antiflimmer</string>
+    <string name="dc_dimming_enable_summary">Antiflimmer-modus reduserer belastning på øynene i mørke omgivelser ved bruk av \"DC dimming\". Det kan føre til dårligere fargegjengivelse og påvirke visningen av enkelte elementer.</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi lydforbedrer</string>
     <string name="dirac_summary">Optimaliser lydkvaliteten</string>
@@ -163,4 +165,5 @@
     <string name="thermal_dialer">Telefon</string>
     <string name="thermal_gaming">Spill</string>
     <string name="thermal_streaming">Strømmeapplikasjoner</string>
+    <!-- Refresh Rate Settings -->
 </resources>

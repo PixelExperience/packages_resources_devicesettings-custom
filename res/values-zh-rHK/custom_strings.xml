@@ -163,4 +163,5 @@
     <string name="thermal_dialer">電話</string>
     <string name="thermal_gaming">遊戲</string>
     <string name="thermal_streaming">串流中的應用程式</string>
+    <!-- Refresh Rate Settings -->
 </resources>

@@ -17,6 +17,8 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">Display</string>
+    <string name="dc_dimming_enable_title">Anti-Flimmern</string>
+    <string name="dc_dimming_enable_summary">Der Anti-Flimmer-Modus reduziert die Überanstrengung der Augen bei schlechten Lichtverhältnissen durch Verwendung der Funktion \"DC-Dimmen\". Dies kann die Farbgenauigkeit beeinträchtigen und die Anzeige einiger Elemente beeinträchtigen.</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Klangverbesserung</string>
     <string name="dirac_summary">Audioqualität optimieren</string>
@@ -61,6 +63,10 @@
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metal</string>
     <!-- Popup camera settings -->
+    <string name="popup_settings_title">Pop-up Camera Einstellungen</string>
+    <string name="popup_led_title">Kamera LED</string>
+    <string name="popup_led_summary">LED-Licht anzeigen, wenn die Frontkamera erscheint und einfährt</string>
+    <string name="popup_sound_title">Toneffekte</string>
     <string name="popup_title_muqin">Xylophon</string>
     <string name="popup_title_yingyan">Kondor</string>
     <string name="popup_title_mofa">Magisch</string>
@@ -151,10 +157,13 @@
     <string name="notification_slider_mode_none">Normal</string>
     <!-- Thermal profiles -->
     <string name="thermal_title">Optimierungs Profil</string>
+    <string name="thermal_summary">Passen Sie die Profile via App an, um eine optimale Leistung zu erzielen</string>
     <string name="thermal_default">Keine Optimierung</string>
     <string name="thermal_benchmark">Leistung</string>
     <string name="thermal_browser">Browser</string>
     <string name="thermal_camera">Kamera</string>
     <string name="thermal_dialer">Telefon</string>
     <string name="thermal_gaming">Spiele</string>
+    <string name="thermal_streaming">Streaming Programme</string>
+    <!-- Refresh Rate Settings -->
 </resources>

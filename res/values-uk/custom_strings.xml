@@ -17,6 +17,8 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">Відобразити</string>
+    <string name="dc_dimming_enable_title">Анти мерехтіння</string>
+    <string name="dc_dimming_enable_summary">Режим проти мерехтіння сприяє зменшенню напруги очей в умовах слабкої освітленості за допомогою функції \"DC dimming\". Це може погіршити точність кольорів і вплинути на спосіб відображення деяких елементів.</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Покращення звуку \"Мі Sound\"</string>
     <string name="dirac_summary">Оптимізувати якість звуку</string>
@@ -163,4 +165,5 @@
     <string name="thermal_dialer">Номеронабирач</string>
     <string name="thermal_gaming">Ігри</string>
     <string name="thermal_streaming">Потокові додатки</string>
+    <!-- Refresh Rate Settings -->
 </resources>

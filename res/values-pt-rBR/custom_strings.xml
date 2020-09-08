@@ -165,4 +165,5 @@
     <string name="thermal_dialer">Discador</string>
     <string name="thermal_gaming">Jogos</string>
     <string name="thermal_streaming">Aplicativos de transmissão</string>
+    <!-- Refresh Rate Settings -->
 </resources>

@@ -162,4 +162,5 @@
     <string name="thermal_dialer">חייגן</string>
     <string name="thermal_gaming">משחקים</string>
     <string name="thermal_streaming">אפליקציות הזרמה</string>
+    <!-- Refresh Rate Settings -->
 </resources>

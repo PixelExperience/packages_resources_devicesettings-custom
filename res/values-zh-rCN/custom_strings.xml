@@ -17,17 +17,18 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">显示</string>
-    <string name="dc_dimming_enable_title">防震动</string>
+    <string name="dc_dimming_enable_title">防闪烁</string>
+    <string name="dc_dimming_enable_summary">防闪烁模式可以通过”DC 调光“功能，减少暗光条件下的眼部疲劳。此模式可能降低色彩精度，并影响部分内容的显示效果。</string>
     <!-- Dirac settings -->
     <string name="dirac_title">使用米音提升音质</string>
-    <string name="dirac_summary">米音</string>
+    <string name="dirac_summary">优化音质</string>
     <string name="dirac_headset_title">耳机类型设置</string>
     <string name="dirac_preset_title">请选择预设效果</string>
     <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">使用Hi-Fi高保真播放</string>
     <string name="dirac_hifi_summary">高度还原音源信息，原汁原味</string>
     <!-- Dirac settings: Headset types -->
-    <string name="dirac_headset_default">默认应用</string>
+    <string name="dirac_headset_default">默认​​​​​</string>
     <string name="dirac_headset_earbuds">灵动耳塞式</string>
     <string name="dirac_headset_in_ear_2013">灵悦入耳式</string>
     <string name="dirac_headset_piston_1">小米活塞1</string>
@@ -50,13 +51,13 @@
     <string name="dirac_headset_earphone_basic">小米耳机基本款</string>
     <string name="dirac_headset_earphone">小米耳机</string>
     <!-- Dirac settings: Equalizer presets -->
-    <string name="dirac_preset_default">无</string>
+    <string name="dirac_preset_default">默认</string>
     <string name="dirac_preset_rock">摇滚</string>
     <string name="dirac_preset_jazz">爵士</string>
     <string name="dirac_preset_pop">流行</string>
     <string name="dirac_preset_classical">古典</string>
     <string name="dirac_preset_hiphop">嘻哈</string>
-    <string name="dirac_preset_blues">布鲁斯</string>
+    <string name="dirac_preset_blues">蓝调</string>
     <string name="dirac_preset_electronic">电子音乐</string>
     <string name="dirac_preset_country">乡村</string>
     <string name="dirac_preset_dance">舞曲</string>
@@ -90,7 +91,7 @@
     <string name="device_gestures_title">设备手势</string>
     <string name="device_gestures_summary">管理设备手势</string>
     <!-- Ambient display gestures -->
-    <string name="ambient_display_manage_summary">管理主动显示手势</string>
+    <string name="ambient_display_manage_summary">管理环境显示手势</string>
     <!-- Fingerprint gestures -->
     <string name="fingerprint_gestures_title">指纹手势</string>
     <string name="fingerprint_gestures_summary">使用指纹手势</string>
@@ -121,7 +122,7 @@
     <string name="action_email">打开电子邮件应用</string>
     <string name="action_messages">打开消息应用</string>
     <!-- Screen off gestures -->
-    <string name="screen_off_gestures_manage_summary">管理屏幕关闭时的手势</string>
+    <string name="screen_off_gestures_manage_summary">管理息屏手势</string>
     <!-- Swipe/tap/long tap -->
     <string name="swipe_left_dlg_title">选择向左滑动行为</string>
     <string name="swipe_right_dlg_title">选择向右滑动行为</string>
@@ -141,7 +142,7 @@
     <string name="allow_proximity_sensor_summary">在执行操作前检查距离传感器</string>
     <!-- OnePlus - General -->
     <string name="advanced_settings">一加设置</string>
-    <string name="advanced_settings_summary">自定义设置</string>
+    <string name="advanced_settings_summary">设备自定义设置</string>
     <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_category_title">三段式开关</string>
     <string name="notification_slider_selection_dialog_title">操作</string>
@@ -164,4 +165,5 @@
     <string name="thermal_dialer">电话</string>
     <string name="thermal_gaming">游戏</string>
     <string name="thermal_streaming">流媒体应用程序</string>
+    <!-- Refresh Rate Settings -->
 </resources>

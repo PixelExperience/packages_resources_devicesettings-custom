@@ -143,4 +143,5 @@
     <string name="thermal_camera">པར་ཆས།</string>
     <string name="thermal_dialer">ཁ་པར།</string>
     <string name="thermal_gaming">རོལ་རྩེད།</string>
+    <!-- Refresh Rate Settings -->
 </resources>

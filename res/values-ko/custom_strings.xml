@@ -17,6 +17,8 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">디스플레이</string>
+    <string name="dc_dimming_enable_title">깜박임 방지</string>
+    <string name="dc_dimming_enable_summary">깜박임 방지 모드는 \"DC 디밍\"기능을 사용하여 저조도 조건에서 눈의 피로를 줄이는 데 도움이됩니다.  색상 정확도가 떨어지고 일부 항목이 표시되는 방식에 영향을 미칠 수 있습니다.</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi 사운드 강화</string>
     <string name="dirac_summary">음질 최적화</string>
@@ -163,4 +165,5 @@
     <string name="thermal_dialer">전화</string>
     <string name="thermal_gaming">게임</string>
     <string name="thermal_streaming">스트리밍 애플리케이션</string>
+    <!-- Refresh Rate Settings -->
 </resources>

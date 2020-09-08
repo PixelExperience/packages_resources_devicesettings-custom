@@ -17,6 +17,8 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">Hiển thị</string>
+    <string name="dc_dimming_enable_title">Chống nháy ánh sáng</string>
+    <string name="dc_dimming_enable_summary">Chế độ chống nhấp nháy giúp giảm mỏi mắt trong điều kiện ánh sáng yếu bằng cách sử dụng tính năng \"DC dimming\". Nó có thể làm giảm độ chính xác của màu sắc và ảnh hưởng đến cách một số mục được hiển thị.</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Tăng cường Mi Sound</string>
     <string name="dirac_summary">Tối ưu chất lượng âm thanh</string>
@@ -163,4 +165,5 @@
     <string name="thermal_dialer">Trình quay số</string>
     <string name="thermal_gaming">Trò chơi</string>
     <string name="thermal_streaming">Ứng dụng truyền phát</string>
+    <!-- Refresh Rate Settings -->
 </resources>

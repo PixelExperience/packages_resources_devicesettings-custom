@@ -165,4 +165,5 @@
     <string name="thermal_dialer">Marcador de teléfono</string>
     <string name="thermal_gaming">Juegos</string>
     <string name="thermal_streaming">Aplicaciones de streaming</string>
+    <!-- Refresh Rate Settings -->
 </resources>

@@ -17,6 +17,8 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">Дисплей</string>
+    <string name="dc_dimming_enable_title">Фильтр мерцания</string>
+    <string name="dc_dimming_enable_summary">Режим фильтра мерцания помогает снизить утомляемость глаз в условиях низкой освещенности за счет использования функции «DC Dimming». Это может снизить точность цветопередачи и повлиять на отображение некоторых элементов.</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Улучшение звука Mi</string>
     <string name="dirac_summary">Улучшить качество звука</string>
@@ -163,4 +165,5 @@
     <string name="thermal_dialer">Телефон</string>
     <string name="thermal_gaming">Игры</string>
     <string name="thermal_streaming">Потоковые приложения</string>
+    <!-- Refresh Rate Settings -->
 </resources>

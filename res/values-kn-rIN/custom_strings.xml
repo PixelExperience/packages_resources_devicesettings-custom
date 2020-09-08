@@ -137,4 +137,5 @@
     <!-- OnePlus - Alert slider settings -->
     <!-- Thermal profiles -->
     <string name="thermal_title">Kannada</string>
+    <!-- Refresh Rate Settings -->
 </resources>

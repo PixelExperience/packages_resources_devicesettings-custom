@@ -17,6 +17,8 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">Zaslon</string>
+    <string name="dc_dimming_enable_title">Bez treperenja</string>
+    <string name="dc_dimming_enable_summary">Način rada bez treperenja pomaže smanjenju naprezanja očiju u uvjetima slabog osvjetljenja pomoću značajke \"DC zatamnjenja\". To može smanjiti točnost boje i utjecati na način prikazivanja pojedinih predmeta.</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Sound Enhancer</string>
     <string name="dirac_summary">Optimiziranje kvalitete zvuka</string>
@@ -163,4 +165,5 @@
     <string name="thermal_dialer">Birač broja</string>
     <string name="thermal_gaming">Igre</string>
     <string name="thermal_streaming">Aplikacije za strimovanje</string>
+    <!-- Refresh Rate Settings -->
 </resources>

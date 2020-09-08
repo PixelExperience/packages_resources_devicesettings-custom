@@ -17,6 +17,8 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">画面</string>
+    <string name="dc_dimming_enable_title">アンチフリッカー</string>
+    <string name="dc_dimming_enable_summary">アンチフリッカーモード「DC ディミング」によっては暗いライト環境での疲れ目の低減に役立ちます。色の正確性が低減し、いくつかの項目の画面表示に影響する可能性があります。</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi サウンドエンハンサー</string>
     <string name="dirac_summary">オーディオ品質を最適化</string>
@@ -163,4 +165,5 @@
     <string name="thermal_dialer">電話</string>
     <string name="thermal_gaming">ゲーム</string>
     <string name="thermal_streaming">ストリーミングアプリ</string>
+    <!-- Refresh Rate Settings -->
 </resources>

@@ -163,4 +163,5 @@
     <string name="thermal_dialer">الإتصال</string>
     <string name="thermal_gaming">الألعاب</string>
     <string name="thermal_streaming">تطبيقات البث</string>
+    <!-- Refresh Rate Settings -->
 </resources>

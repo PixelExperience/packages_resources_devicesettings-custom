@@ -17,6 +17,8 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">Wyświetlacz</string>
+    <string name="dc_dimming_enable_title">Przeciwdoblaskowy</string>
+    <string name="dc_dimming_enable_summary">Tryb Anti-flicker pomaga zmniejszyć zmęczenie oczu w warunkach słabego oświetlenia dzięki funkcji „DC Dimming”. Może to pogorszyć dokładność kolorów i wpłynąć na sposób wyświetlania niektórych elementów.</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Ulepszanie dźwięku Mi</string>
     <string name="dirac_summary">Optymalizuj jakość dźwięku</string>
@@ -163,4 +165,5 @@
     <string name="thermal_dialer">Telefon</string>
     <string name="thermal_gaming">Gry</string>
     <string name="thermal_streaming">Aplikacje strumieniowe</string>
+    <!-- Refresh Rate Settings -->
 </resources>

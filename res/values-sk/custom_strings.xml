@@ -163,4 +163,5 @@
     <string name="thermal_dialer">Vytáčanie</string>
     <string name="thermal_gaming">Hry</string>
     <string name="thermal_streaming">Streamovacie aplikácie</string>
+    <!-- Refresh Rate Settings -->
 </resources>

@@ -17,6 +17,8 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">Ekraan</string>
+    <string name="dc_dimming_enable_title">Virvendusfilter</string>
+    <string name="dc_dimming_enable_summary">Virvendusfiltri reziim aitab DC Dimm-i abil vähendada silmade väsimust hämaras. See võib vähendada värvide täpsust ja mõjutada mõne üksuse kuvamist.</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Heli Parandaja</string>
     <string name="dirac_summary">Optimeerige heli kvaliteeti</string>
@@ -163,4 +165,5 @@
     <string name="thermal_dialer">Valija</string>
     <string name="thermal_gaming">Mängud</string>
     <string name="thermal_streaming">Rakenduste voogesitus</string>
+    <!-- Refresh Rate Settings -->
 </resources>

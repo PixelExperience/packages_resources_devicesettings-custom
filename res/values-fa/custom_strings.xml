@@ -151,4 +151,5 @@
     <string name="thermal_camera">دوربین</string>
     <string name="thermal_dialer">شماره گیر</string>
     <string name="thermal_gaming">بازی ها</string>
+    <!-- Refresh Rate Settings -->
 </resources>

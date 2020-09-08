@@ -17,6 +17,8 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">Affichage</string>
+    <string name="dc_dimming_enable_title">Anti-scintillement</string>
+    <string name="dc_dimming_enable_summary">Le mode anti-scintillement aide à réduire la fatigue oculaire dans des conditions de faible lumière en utilisant la fonction \"DC dégradation\". Cela peut dégrader la précision des couleurs et affecter les éléments affichés à l\'écran.</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Amélioration audio Mi</string>
     <string name="dirac_summary">Optimiser la qualité audio</string>
@@ -163,4 +165,5 @@
     <string name="thermal_dialer">Téléphone</string>
     <string name="thermal_gaming">Jeux</string>
     <string name="thermal_streaming">Flux des applications</string>
+    <!-- Refresh Rate Settings -->
 </resources>

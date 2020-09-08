@@ -165,4 +165,5 @@
     <string name="thermal_dialer">Tárcsázó</string>
     <string name="thermal_gaming">Játékokhoz</string>
     <string name="thermal_streaming">Sztreamelő alkalmazáshoz</string>
+    <!-- Refresh Rate Settings -->
 </resources>

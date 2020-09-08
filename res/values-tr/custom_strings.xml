@@ -165,4 +165,5 @@
     <string name="thermal_dialer">Çevirici</string>
     <string name="thermal_gaming">Oyunlar</string>
     <string name="thermal_streaming">Akış uygulamaları</string>
+    <!-- Refresh Rate Settings -->
 </resources>

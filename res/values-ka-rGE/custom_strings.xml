@@ -96,4 +96,5 @@
     <string name="notification_slider_mode_total_silence">სრული სიჩუმე</string>
     <string name="notification_slider_mode_priority_only">მხოლოდ პრიორიტეტული</string>
     <!-- Thermal profiles -->
+    <!-- Refresh Rate Settings -->
 </resources>

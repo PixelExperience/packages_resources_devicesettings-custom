@@ -17,6 +17,8 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">Displej</string>
+    <string name="dc_dimming_enable_title">Eliminace blikání</string>
+    <string name="dc_dimming_enable_summary">Režim \"Eliminace blikání\" pomáhá omezit blikání při zhoršených světelných podmínkách pomocí funkce \"DC-Dimming. Může to snížit přesnost barev a ovlivnit způsob zobrazení některých položek.</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Vylepšení Mi Sound</string>
     <string name="dirac_summary">Optimalizovat kvalitu zvuku</string>
@@ -163,4 +165,5 @@
     <string name="thermal_dialer">Vytáčení</string>
     <string name="thermal_gaming">Hry</string>
     <string name="thermal_streaming">Aplikace pro streamování</string>
+    <!-- Refresh Rate Settings -->
 </resources>

@@ -165,4 +165,5 @@
     <string name="thermal_dialer">Rinkiklis</string>
     <string name="thermal_gaming">Žaidimai</string>
     <string name="thermal_streaming">Srautinės programos</string>
+    <!-- Refresh Rate Settings -->
 </resources>

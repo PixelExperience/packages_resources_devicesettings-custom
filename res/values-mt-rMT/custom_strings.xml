@@ -143,4 +143,5 @@
     <string name="thermal_camera">Kamera</string>
     <string name="thermal_dialer">Dialer</string>
     <string name="thermal_gaming">Logħob</string>
+    <!-- Refresh Rate Settings -->
 </resources>

@@ -27,6 +27,7 @@
     <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">Hi-Fi ääni</string>
     <string name="dirac_hifi_summary">Vähennä melua ja häiriöitä ja paranna äänenlaatua</string>
+    <string name="dirac_hifi_enable_title">Hi-fi päälle</string>
     <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_default">Oletus</string>
     <string name="dirac_headset_earbuds">Mi Earbuds</string>
@@ -166,4 +167,5 @@
     <string name="thermal_gaming">Pelit</string>
     <string name="thermal_streaming">Suoratoistosovellukset</string>
     <!-- Refresh Rate Settings -->
+    <string name="device_min_refresh_rate">Minimi virkistystaajuus</string>
 </resources>

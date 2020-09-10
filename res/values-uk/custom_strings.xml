@@ -27,6 +27,7 @@
     <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">Звук Hi-Fi</string>
     <string name="dirac_hifi_summary">Зниження шуму та ушкоджень для поліпшення якості звуку. Ця функція підвищує використання батареї.</string>
+    <string name="dirac_hifi_enable_title">Увімкнути Hi-fi</string>
     <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_default">За умовчанням</string>
     <string name="dirac_headset_earbuds">Mi навушники</string>
@@ -166,4 +167,5 @@
     <string name="thermal_gaming">Ігри</string>
     <string name="thermal_streaming">Потокові додатки</string>
     <!-- Refresh Rate Settings -->
+    <string name="device_min_refresh_rate">Найменша частота оновлння</string>
 </resources>

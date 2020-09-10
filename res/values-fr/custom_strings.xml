@@ -27,6 +27,7 @@
     <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">Audio Hi-Fi</string>
     <string name="dirac_hifi_summary">Réduire le bruit et la distorsion et augmenter la qualité audio</string>
+    <string name="dirac_hifi_enable_title">Activer le Hi-fi</string>
     <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_default">Par défaut</string>
     <string name="dirac_headset_earbuds">Écouteurs Mi</string>
@@ -166,4 +167,5 @@
     <string name="thermal_gaming">Jeux</string>
     <string name="thermal_streaming">Flux des applications</string>
     <!-- Refresh Rate Settings -->
+    <string name="device_min_refresh_rate">Taux de rafraîchissement minimum</string>
 </resources>

@@ -166,4 +166,5 @@
     <string name="thermal_gaming">Παιχνίδια</string>
     <string name="thermal_streaming">Εφαρμογές ροής βίντεο</string>
     <!-- Refresh Rate Settings -->
+    <string name="device_min_refresh_rate">Ελάχιστος ρυθμός ανανέωσης</string>
 </resources>

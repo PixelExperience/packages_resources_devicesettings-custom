@@ -27,6 +27,7 @@
     <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">Hi-Fi audio</string>
     <string name="dirac_hifi_summary">Triukšmų ir iškraipymų sumažinimas garso kokybei pagerinti</string>
+    <string name="dirac_hifi_enable_title">Įjungti „Hi-fi“</string>
     <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_default">Numatytieji</string>
     <string name="dirac_headset_earbuds">Mi Ausinės</string>
@@ -166,4 +167,5 @@
     <string name="thermal_gaming">Žaidimai</string>
     <string name="thermal_streaming">Srautinės programos</string>
     <!-- Refresh Rate Settings -->
+    <string name="device_min_refresh_rate">Mažiausias atnaujinimo dažnis</string>
 </resources>

@@ -27,6 +27,7 @@
     <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">Hi-Fiオーディオ</string>
     <string name="dirac_hifi_summary">ノイズやひずみを低減し、オーディオ品質を向上させる</string>
+    <string name="dirac_hifi_enable_title">HI-FI の有効化</string>
     <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_default">デフォルト</string>
     <string name="dirac_headset_earbuds">Mi イヤーバッド</string>
@@ -166,4 +167,5 @@
     <string name="thermal_gaming">ゲーム</string>
     <string name="thermal_streaming">ストリーミングアプリ</string>
     <!-- Refresh Rate Settings -->
+    <string name="device_min_refresh_rate">最小リフレッシュレート</string>
 </resources>

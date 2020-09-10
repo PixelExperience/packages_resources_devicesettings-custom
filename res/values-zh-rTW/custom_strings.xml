@@ -27,6 +27,7 @@
     <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">使用Hi-Fi高傳真播放</string>
     <string name="dirac_hifi_summary">高度還原音源資訊，原汁原味</string>
+    <string name="dirac_hifi_enable_title">啟用Hi-fi</string>
     <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_default">預設</string>
     <string name="dirac_headset_earbuds">小米耳塞式</string>
@@ -166,4 +167,5 @@
     <string name="thermal_gaming">遊戲</string>
     <string name="thermal_streaming">串流應用程式</string>
     <!-- Refresh Rate Settings -->
+    <string name="device_min_refresh_rate">最低更新率</string>
 </resources>

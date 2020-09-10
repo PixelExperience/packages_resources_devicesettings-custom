@@ -17,6 +17,8 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">Afişare</string>
+    <string name="dc_dimming_enable_title">Anti-pâlpâire</string>
+    <string name="dc_dimming_enable_summary">Modul anti-flicker ajută la reducerea oboselii ochilor în condiții de lumină slabă, utilizând funcția „DC dimming”. S-ar putea să degradeze precizia culorii și să afecteze modul în care sunt afișate unele elemente.</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Sound Amplificator</string>
     <string name="dirac_summary">Optimizare calitate audio</string>
@@ -25,6 +27,7 @@
     <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">Hi-Fi audio</string>
     <string name="dirac_hifi_summary">Reducerea zgomotului și a distorsiunilor și creșterea calității audio</string>
+    <string name="dirac_hifi_enable_title">Activaţi Hi-Fi</string>
     <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_default">Prestabilite</string>
     <string name="dirac_headset_earbuds">Căşti în ureche Mi</string>
@@ -164,4 +167,5 @@
     <string name="thermal_gaming">Jocuri</string>
     <string name="thermal_streaming">Aplicații streaming</string>
     <!-- Refresh Rate Settings -->
+    <string name="device_min_refresh_rate">Rata minimă de reîmprospătare</string>
 </resources>

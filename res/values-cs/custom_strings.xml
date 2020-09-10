@@ -27,6 +27,7 @@
     <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">Hi-Fi</string>
     <string name="dirac_hifi_summary">Snížit hlasitost, zkreslení a zvýšit tím kvalitu přehrávané hudby.</string>
+    <string name="dirac_hifi_enable_title">Zapnout Hi-Fi</string>
     <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_default">Výchozí</string>
     <string name="dirac_headset_earbuds">Mi pecky</string>
@@ -166,4 +167,5 @@
     <string name="thermal_gaming">Hry</string>
     <string name="thermal_streaming">Aplikace pro streamování</string>
     <!-- Refresh Rate Settings -->
+    <string name="device_min_refresh_rate">Minimální obnovovací frekvence</string>
 </resources>

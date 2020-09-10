@@ -27,6 +27,7 @@
     <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">Hi-Fi audio</string>
     <string name="dirac_hifi_summary">Vähenda müra ja moonutust ja suurenda audio kvaliteeti</string>
+    <string name="dirac_hifi_enable_title">Luba Hi-fi</string>
     <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_default">Vaikeseade</string>
     <string name="dirac_headset_earbuds">Mi Nööpkuularid</string>
@@ -166,4 +167,5 @@
     <string name="thermal_gaming">Mängud</string>
     <string name="thermal_streaming">Rakenduste voogesitus</string>
     <!-- Refresh Rate Settings -->
+    <string name="device_min_refresh_rate">Minimaalne värskendussagedus</string>
 </resources>

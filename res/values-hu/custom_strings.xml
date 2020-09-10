@@ -27,6 +27,7 @@
     <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">Hi-Fi audio</string>
     <string name="dirac_hifi_summary">Zaj és torzítás csökkentése, hangminőség javítása</string>
+    <string name="dirac_hifi_enable_title">A Hi-Fi engedélyezése</string>
     <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_default">Alapértelmezett</string>
     <string name="dirac_headset_earbuds">Mi Earbuds</string>
@@ -166,4 +167,5 @@
     <string name="thermal_gaming">Játékokhoz</string>
     <string name="thermal_streaming">Sztreamelő alkalmazáshoz</string>
     <!-- Refresh Rate Settings -->
+    <string name="device_min_refresh_rate">Minimális képernyőfrissítés</string>
 </resources>

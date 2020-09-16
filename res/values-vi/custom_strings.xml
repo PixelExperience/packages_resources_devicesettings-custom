@@ -27,6 +27,7 @@
     <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">Âm thanh Hi-Fi</string>
     <string name="dirac_hifi_summary">Giảm tiếng ồn và biến dạng để tăng chất lượng âm thanh</string>
+    <string name="dirac_hifi_enable_title">Bật Hi-fi</string>
     <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_default">Mặc định</string>
     <string name="dirac_headset_earbuds">Mi Earbud</string>
@@ -166,4 +167,5 @@
     <string name="thermal_gaming">Trò chơi</string>
     <string name="thermal_streaming">Ứng dụng truyền phát</string>
     <!-- Refresh Rate Settings -->
+    <string name="device_min_refresh_rate">Tốc độ làm mới tối thiểu</string>
 </resources>

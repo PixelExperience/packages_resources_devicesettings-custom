@@ -27,6 +27,7 @@
     <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">Hi-Fi</string>
     <string name="dirac_hifi_summary">Gürültüyü ve bozulmaları azaltır ve ses kalitesinin arttırır</string>
+    <string name="dirac_hifi_enable_title">Hi-fi\'yi etkinleştir</string>
     <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_default">Varsayılan</string>
     <string name="dirac_headset_earbuds">Mi Kulaklıklar</string>
@@ -166,4 +167,5 @@
     <string name="thermal_gaming">Oyunlar</string>
     <string name="thermal_streaming">Akış uygulamaları</string>
     <!-- Refresh Rate Settings -->
+    <string name="device_min_refresh_rate">Minimum yenileme hızı</string>
 </resources>

@@ -27,6 +27,7 @@
     <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">Hi-Fi zvuk</string>
     <string name="dirac_hifi_summary">Smanjite buku i izobličenje i povećajte kvalitetu zvuka.</string>
+    <string name="dirac_hifi_enable_title">Omogući Hi-Fi</string>
     <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_default">Zadano</string>
     <string name="dirac_headset_earbuds">Mi Earbuds</string>
@@ -166,4 +167,5 @@
     <string name="thermal_gaming">Igre</string>
     <string name="thermal_streaming">Aplikacije za strimovanje</string>
     <!-- Refresh Rate Settings -->
+    <string name="device_min_refresh_rate">Minimalna brzina osvježavanja</string>
 </resources>

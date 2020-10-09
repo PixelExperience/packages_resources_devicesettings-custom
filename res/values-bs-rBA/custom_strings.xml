@@ -17,6 +17,8 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">Ekran</string>
+    <string name="dc_dimming_enable_title">Bez treperenja</string>
+    <string name="dc_dimming_enable_summary">Način rada bez treperenja pomaže smanjenju naprezanja očiju u uvjetima slabog osvjetljenja pomoću značajke \"DC zatamnjenja\". To može smanjiti točnost boje i utjecati na način prikazivanja pojedinih predmeta.</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Sound pojačivač</string>
     <string name="dirac_summary">Optimizovanje kvaliteta zvuka</string>
@@ -25,6 +27,7 @@
     <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">Hi-Fi zvuk</string>
     <string name="dirac_hifi_summary">Smanjite buku i izobličenje i povećajte kvalitet zvuka</string>
+    <string name="dirac_hifi_enable_title">Omogući Hi-Fi</string>
     <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_default">Zadano</string>
     <string name="dirac_headset_earbuds">Mi Earbuds</string>
@@ -164,4 +167,5 @@
     <string name="thermal_gaming">Igre</string>
     <string name="thermal_streaming">Aplikacije za strimovanje</string>
     <!-- Refresh Rate Settings -->
+    <string name="device_min_refresh_rate">Minimalna brzina osvježavanja</string>
 </resources>

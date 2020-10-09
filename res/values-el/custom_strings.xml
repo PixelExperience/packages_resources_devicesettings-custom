@@ -27,6 +27,7 @@
     <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">Hi-Fi ήχος</string>
     <string name="dirac_hifi_summary">Μείωση θορύβου και αλλοίωσης και αύξηση ποιότητας ήχου</string>
+    <string name="dirac_hifi_enable_title">Ενεργοποίηση Hi-fi</string>
     <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_default">Προεπιλογή</string>
     <string name="dirac_headset_earbuds">Mi Earbuds</string>

@@ -15,20 +15,16 @@
      limitations under the License.
 -->
 <resources>
-    <!-- DC Dimming settings -->
     <string name="display_title">画面</string>
     <string name="dc_dimming_enable_title">アンチフリッカー</string>
-    <string name="dc_dimming_enable_summary">アンチフリッカーモード「DC ディミング」によっては暗いライト環境での疲れ目の低減に役立ちます。色の正確性が低減し、いくつかの項目の画面表示に影響する可能性があります。</string>
-    <!-- Dirac settings -->
+    <string name="dc_dimming_enable_summary">アンチフリッカーモード「DC 調光」によっては暗いライト環境での疲れ目の低減に役立ちます。色の正確性が低減し、いくつかの項目の画面表示に影響する可能性があります。</string>
     <string name="dirac_title">Mi サウンドエンハンサー</string>
     <string name="dirac_summary">オーディオ品質を最適化</string>
     <string name="dirac_headset_title">ヘッドフォンの種類を選択</string>
     <string name="dirac_preset_title">プリセットを選択してください</string>
-    <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">Hi-Fiオーディオ</string>
     <string name="dirac_hifi_summary">ノイズやひずみを低減し、オーディオ品質を向上させる</string>
     <string name="dirac_hifi_enable_title">HI-FI の有効化</string>
-    <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_default">デフォルト</string>
     <string name="dirac_headset_earbuds">Mi イヤーバッド</string>
     <string name="dirac_headset_in_ear_2013">Mi インイヤー (2013)</string>
@@ -51,7 +47,6 @@
     <string name="dirac_headset_in_ear2">Mi インイヤー2</string>
     <string name="dirac_headset_earphone_basic">Mi イヤフォン ベーシック</string>
     <string name="dirac_headset_earphone">Mi イヤホン</string>
-    <!-- Dirac settings: Equalizer presets -->
     <string name="dirac_preset_default">デフォルト</string>
     <string name="dirac_preset_rock">ロック</string>
     <string name="dirac_preset_jazz">ジャズ</string>
@@ -63,7 +58,6 @@
     <string name="dirac_preset_country">カントリー</string>
     <string name="dirac_preset_dance">ダンス</string>
     <string name="dirac_preset_metal">メタル</string>
-    <!-- Popup camera settings -->
     <string name="popup_settings_title">ポップアップカメラの設定</string>
     <string name="popup_led_title">カメラ LED</string>
     <string name="popup_led_summary">フロントカメラを上げ下げするときに LED ライトを表示する</string>
@@ -74,7 +68,6 @@
     <string name="popup_title_jijia">メカ</string>
     <string name="popup_title_chilun">歯車</string>
     <string name="popup_title_cangmen">キャビンドア</string>
-    <!-- Popup camera strings -->
     <string name="popup_camera_tip">注意</string>
     <string name="popup_camera_takeback_failed_times_calibrate">前面カメラを複数回終了することができませんでした。カメラのキャリブレーションを試してみてください。</string>
     <string name="popup_camera_popup_failed_times_calibrate">前面カメラを複数回開くことができませんでした。カメラのキャリブレーションを試してみてください。</string>
@@ -86,23 +79,17 @@
     <string name="takeback_camera_front_failed">前面カメラを閉じることができませんでした。もう一度お試しください。</string>
     <string name="popup_camera_front_failed">前面カメラを開けませんでした。もう一度お試しください。</string>
     <string name="popup_camera_proximity_obstructed">前面カメラを開くには近接センサーから手を放してください...</string>
-    <!-- Title and summary -->
     <string name="moto_actions_title">Moto アクション</string>
-    <!-- Device gestures -->
     <string name="device_gestures_title">端末ジェスチャー</string>
     <string name="device_gestures_summary">端末ジェスチャーの管理</string>
-    <!-- Ambient display gestures -->
     <string name="ambient_display_manage_summary">アンビエント表示ジェスチャーの管理</string>
-    <!-- Fingerprint gestures -->
     <string name="fingerprint_gestures_title">指紋ジェスチャー</string>
     <string name="fingerprint_gestures_summary">指紋ジェスチャーの管理</string>
     <string name="fingerprint_gestures_manage_summary">指紋ジェスチャーの管理</string>
     <string name="fingerprint_actions_screenon">画面点灯時アクション</string>
-    <!-- Fingerprint gestures screen off -->
     <string name="fingerprint_gestures_screenoff_title">画面消灯時の指紋ジェスチャー</string>
     <string name="fingerprint_gestures_screenoff_summary">画面消灯時は指紋ジェスチャーを使用して下さい。\n\nこの機能を使用するには指紋のロックを解除する必要があります。</string>
     <string name="fingerprint_actions_screenoff">画面消灯時アクション</string>
-    <!-- Actions -->
     <string name="action_home">ホーム</string>
     <string name="action_power">画面の ON/OFF</string>
     <string name="action_wake">起動</string>
@@ -122,9 +109,7 @@
     <string name="action_dialer">電話アプリを起動</string>
     <string name="action_email">メールアプリを起動</string>
     <string name="action_messages">メッセージアプリを起動</string>
-    <!-- Screen off gestures -->
     <string name="screen_off_gestures_manage_summary">画面消灯時のジェスチャーを管理</string>
-    <!-- Swipe/tap/long tap -->
     <string name="swipe_left_dlg_title">左へのスワイプのアクションを選択</string>
     <string name="swipe_right_dlg_title">右へのスワイプのアクションを選択</string>
     <string name="swipe_up_dlg_title">上へのスワイプのアクションを選択</string>
@@ -135,16 +120,12 @@
     <string name="tap_dlg_title">シングルタップアクションを選択</string>
     <string name="double_tap_dlg_title">ダブルタップアクションを選択</string>
     <string name="long_tap_dlg_title">長押しアクションを選択</string>
-    <!-- Double tap to wake -->
     <string name="tap_to_wake">タップして復帰</string>
     <string name="tap_to_wake_summary">画面をダブルタップすると端末が復帰します</string>
-    <!-- Proximity sensor -->
     <string name="allow_proximity_sensor_title">近接センサーを許可</string>
     <string name="allow_proximity_sensor_summary">アクションを実行する前に近接センサーを確認する</string>
-    <!-- OnePlus - General -->
     <string name="advanced_settings">OnePlus 設定</string>
     <string name="advanced_settings_summary">お使いの端末のカスタム設定</string>
-    <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_category_title">Alert Slider</string>
     <string name="notification_slider_selection_dialog_title">アクション</string>
     <string name="notification_slider_top_position">上部</string>
@@ -156,7 +137,6 @@
     <string name="notification_slider_mode_silent">サイレント</string>
     <string name="notification_slider_mode_vibrate">振動</string>
     <string name="notification_slider_mode_none">標準</string>
-    <!-- Thermal profiles -->
     <string name="thermal_title">最適化のプロファイル</string>
     <string name="thermal_summary">パフォーマンス最適化のためにアプリごとのプロファイルを調整する</string>
     <string name="thermal_default">最適化なし</string>
@@ -166,6 +146,5 @@
     <string name="thermal_dialer">電話</string>
     <string name="thermal_gaming">ゲーム</string>
     <string name="thermal_streaming">ストリーミングアプリ</string>
-    <!-- Refresh Rate Settings -->
     <string name="device_min_refresh_rate">最小リフレッシュレート</string>
 </resources>

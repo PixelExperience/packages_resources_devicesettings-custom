@@ -15,20 +15,16 @@
      limitations under the License.
 -->
 <resources>
-    <!-- DC Dimming settings -->
     <string name="display_title">Képernyő</string>
     <string name="dc_dimming_enable_title">Vibrálásmentesítés</string>
     <string name="dc_dimming_enable_summary">A vibrálásmentesítés (\"DC dimming\") csökkenti a szemfáradást gyenge fényviszonyok esetén. De sajnos a képminőséget, színhelyességet egy kicsit gyengíti.</string>
-    <!-- Dirac settings -->
     <string name="dirac_title">Mi Hangjavítás</string>
     <string name="dirac_summary">Hangminőség-optimalizálás</string>
     <string name="dirac_headset_title">Válasszon egy fülhallgatótípust</string>
     <string name="dirac_preset_title">Válasszon egy előbeállítást</string>
-    <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">Hi-Fi audio</string>
     <string name="dirac_hifi_summary">Zaj és torzítás csökkentése, hangminőség javítása</string>
     <string name="dirac_hifi_enable_title">A Hi-Fi engedélyezése</string>
-    <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_default">Alapértelmezett</string>
     <string name="dirac_headset_earbuds">Mi Earbuds</string>
     <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
@@ -51,7 +47,6 @@
     <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
     <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
     <string name="dirac_headset_earphone">Mi Earphones</string>
-    <!-- Dirac settings: Equalizer presets -->
     <string name="dirac_preset_default">Alapértelmezett</string>
     <string name="dirac_preset_rock">Rock</string>
     <string name="dirac_preset_jazz">Jazz</string>
@@ -63,7 +58,6 @@
     <string name="dirac_preset_country">Country</string>
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metál</string>
-    <!-- Popup camera settings -->
     <string name="popup_settings_title">A felugró kamera beállításai</string>
     <string name="popup_led_title">Kamera-LED</string>
     <string name="popup_led_summary">A LED-fény megjelenítése az első kamera kinyitásakor és bezárásakor</string>
@@ -74,7 +68,6 @@
     <string name="popup_title_jijia">Mechanikus</string>
     <string name="popup_title_chilun">Fogaskerék</string>
     <string name="popup_title_cangmen">Kabinajtó</string>
-    <!-- Popup camera strings -->
     <string name="popup_camera_tip">Figyelmeztetés</string>
     <string name="popup_camera_takeback_failed_times_calibrate">Az előlapi kamerát több alkalommal nem lehetett bezárni. Próbálja meg kalibrálni a kamerát.</string>
     <string name="popup_camera_popup_failed_times_calibrate">Az előlapi kamerát több alkalommal nem lehetett megnyitni. Próbálja meg kalibrálni a kamerát.</string>
@@ -86,23 +79,17 @@
     <string name="takeback_camera_front_failed">Az előlapi kamerát nem lehetett bezárni. Próbálja újra.</string>
     <string name="popup_camera_front_failed">Az előlapi kamerát nem lehetett megnyitni. Próbálja újra.</string>
     <string name="popup_camera_proximity_obstructed">Vegye el a kezét a közelségérzékelő elől, hogy akamera ki tudjon nyílni...</string>
-    <!-- Title and summary -->
     <string name="moto_actions_title">Moto-műveletek</string>
-    <!-- Device gestures -->
     <string name="device_gestures_title">Készülékvezérlő-mozdulatok</string>
     <string name="device_gestures_summary">Készülékvezérlő-mozdulatok beállítása</string>
-    <!-- Ambient display gestures -->
     <string name="ambient_display_manage_summary">Környezeti kijelző mozdulatok beállítása</string>
-    <!-- Fingerprint gestures -->
     <string name="fingerprint_gestures_title">Ujjlenyomatvezérlés</string>
     <string name="fingerprint_gestures_summary">Az ujjlenyomat-olvasót is használhaja vezérlésre</string>
     <string name="fingerprint_gestures_manage_summary">Mozdulatvezérlők beállítása az ujjlenyomat-olvasón</string>
     <string name="fingerprint_actions_screenon">Műveletek bekapcsolt kijelzőnél</string>
-    <!-- Fingerprint gestures screen off -->
     <string name="fingerprint_gestures_screenoff_title">A kikapcsolt képernyő ujjlenyomat-vezérlése</string>
     <string name="fingerprint_gestures_screenoff_summary">Ujjlenyomat-vezérlést használhat kikapcsolt képernyőnél.\n\nDe az ujjlenyomat-feloldást ki kell kapcsolni a szolgáltatás használatához.</string>
     <string name="fingerprint_actions_screenoff">Műveletek kikapcsolt kijelzőnél</string>
-    <!-- Actions -->
     <string name="action_home">Kezdőképernyő</string>
     <string name="action_power">Kijelző be/ki</string>
     <string name="action_wake">Felébresztés</string>
@@ -122,9 +109,7 @@
     <string name="action_dialer">Tárcsázóindítás</string>
     <string name="action_email">E-mail alkalmazás megnyitása</string>
     <string name="action_messages">Üzenet alkalmazás megnyitása</string>
-    <!-- Screen off gestures -->
     <string name="screen_off_gestures_manage_summary">Vezérlések beállítása kikapcsolt kijelző esetén</string>
-    <!-- Swipe/tap/long tap -->
     <string name="swipe_left_dlg_title">Balra húzás műveletének megadása</string>
     <string name="swipe_right_dlg_title">Jobbra húzás műveletének megadása</string>
     <string name="swipe_up_dlg_title">Felfelé csúsztatás műveletének megadása</string>
@@ -135,16 +120,12 @@
     <string name="tap_dlg_title">Egyszeri érintés műveletének megadása</string>
     <string name="double_tap_dlg_title">Dupla érintés műveletének megadása</string>
     <string name="long_tap_dlg_title">Nyomva tartás műveletének megadása</string>
-    <!-- Double tap to wake -->
     <string name="tap_to_wake">Duplakoppos ébresztés</string>
     <string name="tap_to_wake_summary">A készülék felébresztéséhez koppintson kétszer bárhol a képernyőre</string>
-    <!-- Proximity sensor -->
     <string name="allow_proximity_sensor_title">Közelségérzékelő engedélyezése</string>
     <string name="allow_proximity_sensor_summary">A művelet végrehajtása előtt ellenőrizze a közelségérzékelőt</string>
-    <!-- OnePlus - General -->
     <string name="advanced_settings">OnePlus beállítások</string>
     <string name="advanced_settings_summary">Egyéni beállítások az Ön készülékéhez</string>
-    <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_category_title">Csúszka-figyelmeztetés</string>
     <string name="notification_slider_selection_dialog_title">Művelet</string>
     <string name="notification_slider_top_position">Felső pozíció</string>
@@ -156,7 +137,6 @@
     <string name="notification_slider_mode_silent">Néma</string>
     <string name="notification_slider_mode_vibrate">Rezgés</string>
     <string name="notification_slider_mode_none">Szokásos</string>
-    <!-- Thermal profiles -->
     <string name="thermal_title">Optimalizálásprofilok</string>
     <string name="thermal_summary">Alkalmazásonkét állíthatja be a profilokat az optimális teljesítmény elérése érdekében</string>
     <string name="thermal_default">Nincs optimalizálás</string>
@@ -166,6 +146,5 @@
     <string name="thermal_dialer">Tárcsázóhoz</string>
     <string name="thermal_gaming">Játékokhoz</string>
     <string name="thermal_streaming">Sztreamelő alkalmazáshoz</string>
-    <!-- Refresh Rate Settings -->
     <string name="device_min_refresh_rate">Minimális képernyőfrissítés</string>
 </resources>

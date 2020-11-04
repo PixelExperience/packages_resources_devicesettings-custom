@@ -15,20 +15,16 @@
      limitations under the License.
 -->
 <resources>
-    <!-- DC Dimming settings -->
     <string name="display_title">Display</string>
     <string name="dc_dimming_enable_title">Anti-Flimmern</string>
     <string name="dc_dimming_enable_summary">Der Anti-Flimmer-Modus reduziert die Überanstrengung der Augen bei schlechten Lichtverhältnissen durch Verwendung der Funktion \"DC-Dimmen\". Dies kann die Farbgenauigkeit beeinträchtigen und die Anzeige einiger Elemente beeinträchtigen.</string>
-    <!-- Dirac settings -->
     <string name="dirac_title">Mi Klangverbesserung</string>
     <string name="dirac_summary">Audioqualität optimieren</string>
     <string name="dirac_headset_title">Kopfhörertyp auswählen</string>
     <string name="dirac_preset_title">Vorgabe auswählen</string>
-    <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">Hi-Fi audio</string>
     <string name="dirac_hifi_summary">Reduziert Rauschen und Verzerrung , um die  Audio Qualität zu erhöhen</string>
     <string name="dirac_hifi_enable_title">Hi-Fi Audio aktivieren</string>
-    <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_default">Standardeinstellung</string>
     <string name="dirac_headset_earbuds">Mi true wireless Kopfhörer</string>
     <string name="dirac_headset_in_ear_2013">Mi In Ear (2013)</string>
@@ -51,7 +47,6 @@
     <string name="dirac_headset_in_ear2">Mi In Ear 2</string>
     <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
     <string name="dirac_headset_earphone">Mi Earphones</string>
-    <!-- Dirac settings: Equalizer presets -->
     <string name="dirac_preset_default">Standard</string>
     <string name="dirac_preset_rock">Rock</string>
     <string name="dirac_preset_jazz">Jazz</string>
@@ -63,7 +58,6 @@
     <string name="dirac_preset_country">Country</string>
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metal</string>
-    <!-- Popup camera settings -->
     <string name="popup_settings_title">Pop-up Camera Einstellungen</string>
     <string name="popup_led_title">Kamera LED</string>
     <string name="popup_led_summary">LED-Licht anzeigen, wenn die Frontkamera erscheint und einfährt</string>
@@ -74,7 +68,6 @@
     <string name="popup_title_jijia">Mechanisch</string>
     <string name="popup_title_chilun">Zahnrad</string>
     <string name="popup_title_cangmen">Kabinentür</string>
-    <!-- Popup camera strings -->
     <string name="popup_camera_tip">Achtung</string>
     <string name="popup_camera_takeback_failed_times_calibrate">Die Frontkamera konnte mehrere Male nicht geschlossen werden. Versuchen Sie, die Kamera zu kalibrieren.</string>
     <string name="popup_camera_popup_failed_times_calibrate">Die Frontkamera konnte mehrere Male nicht geöffnet werden. Versuchen Sie, die Kamera zu kalibrieren.</string>
@@ -86,23 +79,17 @@
     <string name="takeback_camera_front_failed">Das schließen der Frontkamera ist fehlgeschlagen. Versuchen Sie es erneut.</string>
     <string name="popup_camera_front_failed">Das öffnen der Frontkamera ist fehlgeschlagen. Versuche es erneut.</string>
     <string name="popup_camera_proximity_obstructed">Entfernen Sie ihre Hand vom Näherungssensor, um die Frontkamera zu öffnen.</string>
-    <!-- Title and summary -->
     <string name="moto_actions_title">Moto-Aktionen</string>
-    <!-- Device gestures -->
     <string name="device_gestures_title">Gerätespezifische Gesten</string>
     <string name="device_gestures_summary">Gerätespezifische Gesten verwalten</string>
-    <!-- Ambient display gestures -->
     <string name="ambient_display_manage_summary">Inaktivitätsbildschirm Gesten verwalten</string>
-    <!-- Fingerprint gestures -->
     <string name="fingerprint_gestures_title">Fingerabdruck-Gesten</string>
     <string name="fingerprint_gestures_summary">Fingerabdruck-Gesten verwenden</string>
     <string name="fingerprint_gestures_manage_summary">Fingerabdruck-Gesten verwalten</string>
     <string name="fingerprint_actions_screenon">Aktionen bei aktivem Bildschirm</string>
-    <!-- Fingerprint gestures screen off -->
     <string name="fingerprint_gestures_screenoff_title">Fingerabdruck-Gesten bei ausgeschalteten Bildschirm</string>
     <string name="fingerprint_gestures_screenoff_summary">Verwenden Sie Fingerabdruck Gesten bei abgeschaltetem Bildschirm.\n\nFingerabdruck muss deaktiviert sein, um diese Funktion zu nutzen.</string>
     <string name="fingerprint_actions_screenoff">Aktionen bei ausgeschalteten Bildschirm</string>
-    <!-- Actions -->
     <string name="action_home">Startseite</string>
     <string name="action_power">Bildschirm ein-/ausschalten</string>
     <string name="action_wake">Aufwecken</string>
@@ -122,9 +109,7 @@
     <string name="action_dialer">Telefon-App öffnen</string>
     <string name="action_email">E-Mail-App öffnen</string>
     <string name="action_messages">Nachrichten-App öffnen</string>
-    <!-- Screen off gestures -->
     <string name="screen_off_gestures_manage_summary">Gesten verwalten, wenn der Bildschirm ausgeschaltet ist</string>
-    <!-- Swipe/tap/long tap -->
     <string name="swipe_left_dlg_title">Wählen Sie eine Aktion für die nach links wischen Gäste</string>
     <string name="swipe_right_dlg_title">Wählen Sie eine Aktion für die nach rechts wischen Gäste</string>
     <string name="swipe_up_dlg_title">Wählen Sie eine Aktion für die nach oben wischen Gäste</string>
@@ -135,16 +120,12 @@
     <string name="tap_dlg_title">Wählen Sie die Aktion für einfaches Tippen</string>
     <string name="double_tap_dlg_title">Wählen Sie Aktion für doppeltes Tippen</string>
     <string name="long_tap_dlg_title">Wählen Sie Aktion für langes drücken</string>
-    <!-- Double tap to wake -->
     <string name="tap_to_wake">Zum Aufwecken tippen</string>
     <string name="tap_to_wake_summary">Doppeltippen Sie auf den Bildschirm, um das Gerät aufzuwecken</string>
-    <!-- Proximity sensor -->
     <string name="allow_proximity_sensor_title">Näherungssensor aktivieren</string>
     <string name="allow_proximity_sensor_summary">Überprüfen Sie den Näherungssensor, bevor Sie diese Aktion ausführen</string>
-    <!-- OnePlus - General -->
     <string name="advanced_settings">OnePlus Einstellungen</string>
     <string name="advanced_settings_summary">Benutzerdefinierte Einstellungen für das Gerät</string>
-    <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_category_title">Alarm-Schieberegler</string>
     <string name="notification_slider_selection_dialog_title">Aktion</string>
     <string name="notification_slider_top_position">Obere Position</string>
@@ -156,7 +137,6 @@
     <string name="notification_slider_mode_silent">Lautlos</string>
     <string name="notification_slider_mode_vibrate">Vibrieren</string>
     <string name="notification_slider_mode_none">Normal</string>
-    <!-- Thermal profiles -->
     <string name="thermal_title">Optimierungs Profil</string>
     <string name="thermal_summary">Passen Sie die Profile via App an, um eine optimale Leistung zu erzielen</string>
     <string name="thermal_default">Keine Optimierung</string>
@@ -166,6 +146,5 @@
     <string name="thermal_dialer">Telefon</string>
     <string name="thermal_gaming">Spiele</string>
     <string name="thermal_streaming">Streaming Programme</string>
-    <!-- Refresh Rate Settings -->
     <string name="device_min_refresh_rate">Minimale Aktualisierungsrate</string>
 </resources>

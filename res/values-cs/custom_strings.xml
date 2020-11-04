@@ -15,20 +15,16 @@
      limitations under the License.
 -->
 <resources>
-    <!-- DC Dimming settings -->
     <string name="display_title">Displej</string>
     <string name="dc_dimming_enable_title">Eliminace blikání</string>
     <string name="dc_dimming_enable_summary">Režim \"Eliminace blikání\" pomáhá omezit blikání při zhoršených světelných podmínkách pomocí funkce \"DC-Dimming. Může to snížit přesnost barev a ovlivnit způsob zobrazení některých položek.</string>
-    <!-- Dirac settings -->
     <string name="dirac_title">Vylepšení Mi Sound</string>
     <string name="dirac_summary">Optimalizovat kvalitu zvuku</string>
     <string name="dirac_headset_title">Vyberte typ sluchátek</string>
     <string name="dirac_preset_title">Zvolit přednastavené</string>
-    <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">Hi-Fi</string>
     <string name="dirac_hifi_summary">Snížit hlasitost, zkreslení a zvýšit tím kvalitu přehrávané hudby.</string>
     <string name="dirac_hifi_enable_title">Zapnout Hi-Fi</string>
-    <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_default">Výchozí</string>
     <string name="dirac_headset_earbuds">Mi pecky</string>
     <string name="dirac_headset_in_ear_2013">Mi špunty (2013)</string>
@@ -51,7 +47,6 @@
     <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
     <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
     <string name="dirac_headset_earphone">Mi Earphones</string>
-    <!-- Dirac settings: Equalizer presets -->
     <string name="dirac_preset_default">Výchozí</string>
     <string name="dirac_preset_rock">Rock</string>
     <string name="dirac_preset_jazz">Jazz</string>
@@ -63,7 +58,6 @@
     <string name="dirac_preset_country">Country</string>
     <string name="dirac_preset_dance">Taneční</string>
     <string name="dirac_preset_metal">Metal</string>
-    <!-- Popup camera settings -->
     <string name="popup_settings_title">Nastavení vyskakovacího fotoaparátu</string>
     <string name="popup_led_title">LED fotoaparátu</string>
     <string name="popup_led_summary">Zablikat LED kontrolkou při vysunutí a zasunutí předního fotoaparátu</string>
@@ -74,7 +68,6 @@
     <string name="popup_title_jijia">Mecha</string>
     <string name="popup_title_chilun">Ozubené kolo</string>
     <string name="popup_title_cangmen">Dveře lodní kabiny</string>
-    <!-- Popup camera strings -->
     <string name="popup_camera_tip">Upozornění</string>
     <string name="popup_camera_takeback_failed_times_calibrate">Zavření předního fotoaparátu se již několikrát nezdařilo. Zkuste fotoaparát zkalibrovat.</string>
     <string name="popup_camera_popup_failed_times_calibrate">Otevření předního fotoaparátu se již několikrát nezdařilo. Zkuste fotoaparát zkalibrovat.</string>
@@ -86,23 +79,17 @@
     <string name="takeback_camera_front_failed">Zavření předního fotoaparátu se nezdařilo. Zkuste to znovu.</string>
     <string name="popup_camera_front_failed">Otevření předního fotoaparátu se nezdařilo. Zkuste to znovu.</string>
     <string name="popup_camera_proximity_obstructed">Chcete-li spustit přední fotoaparát, sejměte ruku ze snímače přiblížení...</string>
-    <!-- Title and summary -->
     <string name="moto_actions_title">Moto Akce</string>
-    <!-- Device gestures -->
     <string name="device_gestures_title">Gesta zařízení</string>
     <string name="device_gestures_summary">Spravovat gesta zařízení</string>
-    <!-- Ambient display gestures -->
     <string name="ambient_display_manage_summary">Spravovat gesta ambientního displeje</string>
-    <!-- Fingerprint gestures -->
     <string name="fingerprint_gestures_title">Gesta pomocí otisků prstů</string>
     <string name="fingerprint_gestures_summary">Použít gesta otisků prstů</string>
     <string name="fingerprint_gestures_manage_summary">Spravovat gesta otisků prstů</string>
     <string name="fingerprint_actions_screenon">Akce při zapnuté obrazovce</string>
-    <!-- Fingerprint gestures screen off -->
     <string name="fingerprint_gestures_screenoff_title">Gesta otisků prstů při vypnuté obrazovce</string>
     <string name="fingerprint_gestures_screenoff_summary">Použít gesta otisků prstů při vypnuté obrazovce.\n\nOdemknutí pomocí otisků prstů musí být pro použití této funkce zakázáno.</string>
     <string name="fingerprint_actions_screenoff">Akce při vypnuté obrazovce</string>
-    <!-- Actions -->
     <string name="action_home">Domů</string>
     <string name="action_power">Zapnout/vypnout obrazovku</string>
     <string name="action_wake">Probudit</string>
@@ -122,9 +109,7 @@
     <string name="action_dialer">Spustit vytáčení</string>
     <string name="action_email">Otevřít emailový klient</string>
     <string name="action_messages">Otevřít aplikaci SMS</string>
-    <!-- Screen off gestures -->
     <string name="screen_off_gestures_manage_summary">Spravovat gesta při vypnuté obrazovce</string>
-    <!-- Swipe/tap/long tap -->
     <string name="swipe_left_dlg_title">Vyberte akci přejetím doleva</string>
     <string name="swipe_right_dlg_title">Vyberte akci přejetím doprava</string>
     <string name="swipe_up_dlg_title">Vyberte akci přejetím nahoru</string>
@@ -135,16 +120,12 @@
     <string name="tap_dlg_title">Vyberte akci jedním klepnutím</string>
     <string name="double_tap_dlg_title">Vyberte akci dvojitým poklepáním</string>
     <string name="long_tap_dlg_title">Vyberte akci dlouhým stiskem</string>
-    <!-- Double tap to wake -->
     <string name="tap_to_wake">Probudit klepnutím</string>
     <string name="tap_to_wake_summary">Dvojitým klepnutím kamkoli na obrazovku zařízení probudíte</string>
-    <!-- Proximity sensor -->
     <string name="allow_proximity_sensor_title">Povolit senzor přiblížení</string>
     <string name="allow_proximity_sensor_summary">Zkontrolovat senzor přiblížení před provedením akce</string>
-    <!-- OnePlus - General -->
     <string name="advanced_settings">OnePlus nastavení</string>
     <string name="advanced_settings_summary">Vlastní nastavení pro vaše zařízení</string>
-    <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_category_title">Posuvník oznámení</string>
     <string name="notification_slider_selection_dialog_title">Akce</string>
     <string name="notification_slider_top_position">Pozice nahoře</string>
@@ -156,7 +137,6 @@
     <string name="notification_slider_mode_silent">Ticho</string>
     <string name="notification_slider_mode_vibrate">Vibrace</string>
     <string name="notification_slider_mode_none">Normální</string>
-    <!-- Thermal profiles -->
     <string name="thermal_title">Profily optimalizace</string>
     <string name="thermal_summary">Upravte profily podle aplikací pro optimální výkon</string>
     <string name="thermal_default">Žádná optimalizace</string>
@@ -166,6 +146,5 @@
     <string name="thermal_dialer">Vytáčení</string>
     <string name="thermal_gaming">Hry</string>
     <string name="thermal_streaming">Aplikace pro streamování</string>
-    <!-- Refresh Rate Settings -->
     <string name="device_min_refresh_rate">Minimální obnovovací frekvence</string>
 </resources>

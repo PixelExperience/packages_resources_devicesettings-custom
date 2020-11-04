@@ -15,16 +15,12 @@
      limitations under the License.
 -->
 <resources>
-    <!-- DC Dimming settings -->
-    <!-- Dirac settings -->
     <string name="dirac_title">Mi Geluid Verbeteraar</string>
     <string name="dirac_summary">Audiokwaliteit optimaliseren</string>
     <string name="dirac_headset_title">Kies type hoofdtelefoon</string>
     <string name="dirac_preset_title">Kies voorinstellingen</string>
-    <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">Hi-Fi audio</string>
     <string name="dirac_hifi_summary">Verminder ruis en vervorming en verhoog audiokwaliteit</string>
-    <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_default">Standaard</string>
     <string name="dirac_headset_earbuds">Mi oordoppen</string>
     <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
@@ -47,7 +43,6 @@
     <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
     <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
     <string name="dirac_headset_earphone">Mi Earphones</string>
-    <!-- Dirac settings: Equalizer presets -->
     <string name="dirac_preset_default">Standaard</string>
     <string name="dirac_preset_rock">Rock</string>
     <string name="dirac_preset_jazz">Jazz</string>
@@ -59,14 +54,12 @@
     <string name="dirac_preset_country">Country</string>
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metal</string>
-    <!-- Popup camera settings -->
     <string name="popup_title_muqin">Xylofoon</string>
     <string name="popup_title_yingyan">Condor</string>
     <string name="popup_title_mofa">Magie</string>
     <string name="popup_title_jijia">Mecha</string>
     <string name="popup_title_chilun">Tandwiel</string>
     <string name="popup_title_cangmen">Cabinedeur</string>
-    <!-- Popup camera strings -->
     <string name="popup_camera_tip">Let op</string>
     <string name="popup_camera_takeback_failed_times_calibrate">Kon de voorkant camera meerdere keren niet sluiten. Probeer de camera te kalibreren.</string>
     <string name="popup_camera_popup_failed_times_calibrate">Kon de voorkant camera meerdere keren niet openen. Probeer de camera te kalibreren.</string>
@@ -77,23 +70,17 @@
     <string name="stop_operate_camera_frequently">U opent de voorkant camera te vaak.</string>
     <string name="takeback_camera_front_failed">Kon de voorkant camera niet sluiten. Probeer het opnieuw.</string>
     <string name="popup_camera_front_failed">Kon de voorkant camera niet openen. Probeer het opnieuw.</string>
-    <!-- Title and summary -->
     <string name="moto_actions_title">Moto acties</string>
-    <!-- Device gestures -->
     <string name="device_gestures_title">Apparaatgebaren</string>
     <string name="device_gestures_summary">Apparaatgebaren beheren</string>
-    <!-- Ambient display gestures -->
     <string name="ambient_display_manage_summary">Ambient Display gebaren beheren</string>
-    <!-- Fingerprint gestures -->
     <string name="fingerprint_gestures_title">Vingerafdrukgebaren</string>
     <string name="fingerprint_gestures_summary">Vingerafdrukgebaren gebruiken</string>
     <string name="fingerprint_gestures_manage_summary">Vingerafdrukgebaren beheren</string>
     <string name="fingerprint_actions_screenon">Acties met scherm aan</string>
-    <!-- Fingerprint gestures screen off -->
     <string name="fingerprint_gestures_screenoff_title">Vingerafdruk gebaren wanneer scherm uit is</string>
     <string name="fingerprint_gestures_screenoff_summary">Gebruik vingerafdruk gebaren wanneer scherm uit is.\n\nVingerafdruk ontgrendelen moet uitgeschakeld zijn om deze functie te gebruiken.</string>
     <string name="fingerprint_actions_screenoff">Acties met scherm uit</string>
-    <!-- Actions -->
     <string name="action_home">Thuis</string>
     <string name="action_power">Scherm aan/uit</string>
     <string name="action_wake">Ontwaken</string>
@@ -111,9 +98,7 @@
     <string name="action_dialer">Telefoon-app openen</string>
     <string name="action_email">Openen email app</string>
     <string name="action_messages">Open berichten app</string>
-    <!-- Screen off gestures -->
     <string name="screen_off_gestures_manage_summary">Gebaren wanneer scherm uit is beheren</string>
-    <!-- Swipe/tap/long tap -->
     <string name="swipe_left_dlg_title">Selecteer actie voor veeg naar links</string>
     <string name="swipe_right_dlg_title">Selecteer actie voor veeg naar rechts</string>
     <string name="swipe_up_dlg_title">Selecteer actie voor veeg omhoog</string>
@@ -124,23 +109,19 @@
     <string name="tap_dlg_title">Selecteer actie voor enkele aanraking</string>
     <string name="double_tap_dlg_title">Selecteer actie voor dubbele aanraking</string>
     <string name="long_tap_dlg_title">Selecteer actie voor lange aanraking</string>
-    <!-- Double tap to wake -->
     <string name="tap_to_wake">Tikken om te ontwaken</string>
     <string name="tap_to_wake_summary">Dubbeltikken op het scherm om het apparaat te ontwaken</string>
-    <!-- Proximity sensor -->
     <string name="allow_proximity_sensor_title">Nabijheidsensor gebruiken</string>
     <string name="allow_proximity_sensor_summary">Nabijheidsensor checken voordat actie wordt uitgevoerd</string>
-    <!-- OnePlus - General -->
     <string name="advanced_settings">OnePlus Instellingen</string>
     <string name="advanced_settings_summary">Aangepaste instellingen voor uw apparaat</string>
-    <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_selection_dialog_title">Actie</string>
     <string name="notification_slider_top_position">Boven positie</string>
     <string name="notification_slider_middle_position">Midden positie</string>
     <string name="notification_slider_bottom_position">Onder positie</string>
     <string name="notification_slider_mode_total_silence">Totale stilte</string>
     <string name="notification_slider_mode_priority_only">Alleen prioriteiten</string>
-    <!-- Thermal profiles -->
+    <string name="notification_slider_mode_none">Normaal</string>
     <string name="thermal_title">Optimalisatie profiel</string>
     <string name="thermal_default">Niet optimaliseren</string>
     <string name="thermal_benchmark">Prestatie</string>
@@ -148,5 +129,4 @@
     <string name="thermal_camera">Camera</string>
     <string name="thermal_dialer">Telefoon</string>
     <string name="thermal_gaming">Games</string>
-    <!-- Refresh Rate Settings -->
 </resources>

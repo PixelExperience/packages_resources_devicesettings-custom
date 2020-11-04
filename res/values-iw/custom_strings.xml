@@ -15,18 +15,14 @@
      limitations under the License.
 -->
 <resources>
-    <!-- DC Dimming settings -->
     <string name="display_title">תצוגה</string>
     <string name="dc_dimming_enable_title">אנטי-הבהוב</string>
-    <!-- Dirac settings -->
     <string name="dirac_title">מגבר צלילים Mi</string>
     <string name="dirac_summary">ייעול איכות השמע</string>
     <string name="dirac_headset_title">בחר סוג אוזניות</string>
     <string name="dirac_preset_title">בחר הגדרה</string>
-    <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">שמע Hi-Fi</string>
     <string name="dirac_hifi_summary">הפחת רעשים והפרעות והגבר את איכות השמע</string>
-    <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_default">ברירת מחדל</string>
     <string name="dirac_headset_earbuds">Mi Earbuds</string>
     <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
@@ -49,7 +45,6 @@
     <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
     <string name="dirac_headset_earphone_basic">Mi מיקרופון בסיסי</string>
     <string name="dirac_headset_earphone">אוזניות Mi</string>
-    <!-- Dirac settings: Equalizer presets -->
     <string name="dirac_preset_default">ברירת מחדל</string>
     <string name="dirac_preset_rock">רוק</string>
     <string name="dirac_preset_jazz">ג\'אז</string>
@@ -61,7 +56,6 @@
     <string name="dirac_preset_country">קאנטרי</string>
     <string name="dirac_preset_dance">דאנס</string>
     <string name="dirac_preset_metal">מטאל</string>
-    <!-- Popup camera settings -->
     <string name="popup_settings_title">הגדרות מצלמה נשלפת</string>
     <string name="popup_led_title">לד של המצלמה</string>
     <string name="popup_led_summary">הצג פנס לד כאשר המצלמה הקדמית מופיעה וממוקדת</string>
@@ -72,7 +66,6 @@
     <string name="popup_title_jijia">מכני</string>
     <string name="popup_title_chilun">הילוכים</string>
     <string name="popup_title_cangmen">דלת תא</string>
-    <!-- Popup camera strings -->
     <string name="popup_camera_tip">שים לב</string>
     <string name="popup_camera_takeback_failed_times_calibrate">לא ניתן היה לסגור את המצלמה הקדמית מספר פעמים. נסה לכייל את המצלמה.</string>
     <string name="popup_camera_popup_failed_times_calibrate">לא ניתן היה לפתוח את המצלמה הקדמית מספר פעמים. נסה לכייל את המצלמה.</string>
@@ -84,23 +77,17 @@
     <string name="takeback_camera_front_failed">לא ניתן היה לסגור את המצלמה. נסה שוב.</string>
     <string name="popup_camera_front_failed">לא ניתן היה לפתוח את המצלמה הקדמית. נסה שוב.</string>
     <string name="popup_camera_proximity_obstructed">הסר את היד שלך מחיישן הקרבה כדי לפתוח את המצלמה הקדמית ...</string>
-    <!-- Title and summary -->
     <string name="moto_actions_title">פעולות מוטו</string>
-    <!-- Device gestures -->
     <string name="device_gestures_title">מחוות מכשיר</string>
     <string name="device_gestures_summary">נהל מחוות מכשיר</string>
-    <!-- Ambient display gestures -->
     <string name="ambient_display_manage_summary">מנהל מחוות התראות</string>
-    <!-- Fingerprint gestures -->
     <string name="fingerprint_gestures_title">מחוות טביעת אצבע</string>
     <string name="fingerprint_gestures_summary">השתמש במחוות טביעת אצבע</string>
     <string name="fingerprint_gestures_manage_summary">נהל מחוות טביעות אצבע</string>
     <string name="fingerprint_actions_screenon">פעולות כאשר המסך מופעל</string>
-    <!-- Fingerprint gestures screen off -->
     <string name="fingerprint_gestures_screenoff_title">מחוות טביעת אצבע כאשר המסך כבוי</string>
     <string name="fingerprint_gestures_screenoff_summary">השתמש במחוות טביעת אצבע כאשר המסך כבוי. ביטול נעילה על ידי טביעת אצבע יהיה מושבת.</string>
     <string name="fingerprint_actions_screenoff">פעולות כאשר המסך כבוי</string>
-    <!-- Actions -->
     <string name="action_home">בית</string>
     <string name="action_power">מסך דלוק/כבוי</string>
     <string name="action_wake">הער</string>
@@ -120,9 +107,7 @@
     <string name="action_dialer">פתח את החייגן</string>
     <string name="action_email">פתח את הדואר האלקטרני</string>
     <string name="action_messages">פתח את אפליקציית ההודעות</string>
-    <!-- Screen off gestures -->
     <string name="screen_off_gestures_manage_summary">ניהול מחוות כאשר המסך כבוי</string>
-    <!-- Swipe/tap/long tap -->
     <string name="swipe_left_dlg_title">בחר פעולה עבור החלקה לשמאל</string>
     <string name="swipe_right_dlg_title">בחר פעולה עבור החלקה ימינה</string>
     <string name="swipe_up_dlg_title">בחר פעולה עבור החלקה למעלה</string>
@@ -133,16 +118,12 @@
     <string name="tap_dlg_title">בחר פעולה עבור לחיצה בודדת</string>
     <string name="double_tap_dlg_title">בחר פעולה עבור לחיצה כפולה</string>
     <string name="long_tap_dlg_title">בחר פעולה עבור לחיצה ארוכה</string>
-    <!-- Double tap to wake -->
     <string name="tap_to_wake">הקש כדי להעיר</string>
     <string name="tap_to_wake_summary">הקש פעמיים בנקודה כלשהי במסך כדי להעיר את המכשיר</string>
-    <!-- Proximity sensor -->
     <string name="allow_proximity_sensor_title">אפשר חיישן קרבה</string>
     <string name="allow_proximity_sensor_summary">בדוק את חיישן הקרבה לפני ביצוע הפעולה</string>
-    <!-- OnePlus - General -->
     <string name="advanced_settings">הגדרות OnePlus</string>
     <string name="advanced_settings_summary">הגדרות אישיות למכשיר שלך</string>
-    <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_selection_dialog_title">פעולה</string>
     <string name="notification_slider_top_position">מיקום עליון</string>
     <string name="notification_slider_middle_position">מיקום אמצעי</string>
@@ -153,7 +134,6 @@
     <string name="notification_slider_mode_silent">שקט</string>
     <string name="notification_slider_mode_vibrate">רטט</string>
     <string name="notification_slider_mode_none">רגיל</string>
-    <!-- Thermal profiles -->
     <string name="thermal_title">אופטימיזציית פרופיל</string>
     <string name="thermal_summary">התאם פרופילים לכל אפליקציה כדי להגיע לביצועים מיטביים</string>
     <string name="thermal_default">אין אופטימיזציה</string>
@@ -163,5 +143,4 @@
     <string name="thermal_dialer">חייגן</string>
     <string name="thermal_gaming">משחקים</string>
     <string name="thermal_streaming">אפליקציות הזרמה</string>
-    <!-- Refresh Rate Settings -->
 </resources>

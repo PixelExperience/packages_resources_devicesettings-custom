@@ -15,20 +15,16 @@
      limitations under the License.
 -->
 <resources>
-    <!-- DC Dimming settings -->
     <string name="display_title">Hiển thị</string>
     <string name="dc_dimming_enable_title">Chống nháy ánh sáng</string>
     <string name="dc_dimming_enable_summary">Chế độ chống nhấp nháy giúp giảm mỏi mắt trong điều kiện ánh sáng yếu bằng cách sử dụng tính năng \"DC dimming\". Nó có thể làm giảm độ chính xác của màu sắc và ảnh hưởng đến cách một số mục được hiển thị.</string>
-    <!-- Dirac settings -->
     <string name="dirac_title">Tăng cường Mi Sound</string>
     <string name="dirac_summary">Tối ưu chất lượng âm thanh</string>
     <string name="dirac_headset_title">Chọn loại tai nghe</string>
     <string name="dirac_preset_title">Chọn hiệu chỉnh sẵn có</string>
-    <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">Âm thanh Hi-Fi</string>
     <string name="dirac_hifi_summary">Giảm tiếng ồn và biến dạng để tăng chất lượng âm thanh</string>
     <string name="dirac_hifi_enable_title">Bật Hi-fi</string>
-    <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_default">Mặc định</string>
     <string name="dirac_headset_earbuds">Mi Earbud</string>
     <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
@@ -51,7 +47,6 @@
     <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
     <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
     <string name="dirac_headset_earphone">Tai nghe Mi</string>
-    <!-- Dirac settings: Equalizer presets -->
     <string name="dirac_preset_default">Mặc định</string>
     <string name="dirac_preset_rock">Rock</string>
     <string name="dirac_preset_jazz">Jazz</string>
@@ -63,7 +58,6 @@
     <string name="dirac_preset_country">Quê hương</string>
     <string name="dirac_preset_dance">Khiêu vũ</string>
     <string name="dirac_preset_metal">Kim loại</string>
-    <!-- Popup camera settings -->
     <string name="popup_settings_title">Cài đặt camera pop-up</string>
     <string name="popup_led_title">Đèn LED máy ảnh</string>
     <string name="popup_led_summary">Hiển thị đèn LED khi máy ảnh trước khởi chạy và trượt lên</string>
@@ -74,7 +68,6 @@
     <string name="popup_title_jijia">Mecha</string>
     <string name="popup_title_chilun">Bánh răng</string>
     <string name="popup_title_cangmen">Cửa cabin</string>
-    <!-- Popup camera strings -->
     <string name="popup_camera_tip">Chú ý</string>
     <string name="popup_camera_takeback_failed_times_calibrate">Không thể đóng máy ảnh trước nhiều lần. Thử hiệu chỉnh máy ảnh.</string>
     <string name="popup_camera_popup_failed_times_calibrate">Không thể mở máy ảnh trước nhiều lần. Thử hiệu chỉnh máy ảnh.</string>
@@ -86,23 +79,17 @@
     <string name="takeback_camera_front_failed">Không thể đóng máy ảnh trước. Thử lại.</string>
     <string name="popup_camera_front_failed">Không thể mở máy ảnh trước. Thử lại.</string>
     <string name="popup_camera_proximity_obstructed">Bỏ tay ra khỏi cảm biến tiệm cận để mở camera trước...</string>
-    <!-- Title and summary -->
     <string name="moto_actions_title">Hành động Moto</string>
-    <!-- Device gestures -->
     <string name="device_gestures_title">Cử chỉ của thiết bị</string>
     <string name="device_gestures_summary">Quản lý các cử chỉ của thiết bị</string>
-    <!-- Ambient display gestures -->
     <string name="ambient_display_manage_summary">Quản lý cử chỉ của màn hình xem nhanh</string>
-    <!-- Fingerprint gestures -->
     <string name="fingerprint_gestures_title">Cử chỉ vân tay</string>
     <string name="fingerprint_gestures_summary">Dùng cử chỉ vân tay</string>
     <string name="fingerprint_gestures_manage_summary">Quản lý cử chỉ vân tay</string>
     <string name="fingerprint_actions_screenon">Hành động khi màn hình bật</string>
-    <!-- Fingerprint gestures screen off -->
     <string name="fingerprint_gestures_screenoff_title">Cử chỉ vân tay khi màn hình tắt</string>
     <string name="fingerprint_gestures_screenoff_summary">Dùng cử chỉn vân tay khi màn hình tắt.\n\nPhải tắt mở khóa vân tay để dùng tính năng này.</string>
     <string name="fingerprint_actions_screenoff">Hành động khi màn hình tắt</string>
-    <!-- Actions -->
     <string name="action_home">Trang chủ</string>
     <string name="action_power">Bật/tắt màn hình</string>
     <string name="action_wake">Đánh thức</string>
@@ -122,9 +109,7 @@
     <string name="action_dialer">Mở trình quay số</string>
     <string name="action_email">Mở ứng dụng email</string>
     <string name="action_messages">Mở ứng dụng nhắn tin</string>
-    <!-- Screen off gestures -->
     <string name="screen_off_gestures_manage_summary">Quản lý cử chỉ khi màn hình đã tắt</string>
-    <!-- Swipe/tap/long tap -->
     <string name="swipe_left_dlg_title">Chọn hành động cho vuốt trái</string>
     <string name="swipe_right_dlg_title">Chọn hành động cho vuốt phải</string>
     <string name="swipe_up_dlg_title">Chọn hành động cho vuốt lên</string>
@@ -135,16 +120,12 @@
     <string name="tap_dlg_title">Chọn hành động cho một chạm</string>
     <string name="double_tap_dlg_title">Chọn hành động cho chạm hai lần</string>
     <string name="long_tap_dlg_title">Chọn hành động cho chạm giữ</string>
-    <!-- Double tap to wake -->
     <string name="tap_to_wake">Chạm để đánh thức</string>
     <string name="tap_to_wake_summary">Chạm hai lần bất cứ đâu trên màn hình để đánh thức thiết bị</string>
-    <!-- Proximity sensor -->
     <string name="allow_proximity_sensor_title">Cho phép cảm biến tiệm cận</string>
     <string name="allow_proximity_sensor_summary">Kiểm tra cảm biến tiệm cận trước khi thực hiện hành động</string>
-    <!-- OnePlus - General -->
     <string name="advanced_settings">Thiết đặt OnePlus</string>
     <string name="advanced_settings_summary">Thiết lập tuỳ chỉnh cho thiết bị của bạn</string>
-    <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_category_title">Thanh trượt cảnh báo</string>
     <string name="notification_slider_selection_dialog_title">Hành động</string>
     <string name="notification_slider_top_position">Vị trí trên cùng</string>
@@ -156,7 +137,6 @@
     <string name="notification_slider_mode_silent">Im lặng</string>
     <string name="notification_slider_mode_vibrate">Rung</string>
     <string name="notification_slider_mode_none">Bình thường</string>
-    <!-- Thermal profiles -->
     <string name="thermal_title">Hồ sơ tối ưu hóa</string>
     <string name="thermal_summary">Điều chỉnh cấu hình trên mỗi ứng dụng để có hiệu suất tối ưu</string>
     <string name="thermal_default">Không tối ưu hóa</string>
@@ -166,6 +146,5 @@
     <string name="thermal_dialer">Trình quay số</string>
     <string name="thermal_gaming">Trò chơi</string>
     <string name="thermal_streaming">Ứng dụng truyền phát</string>
-    <!-- Refresh Rate Settings -->
     <string name="device_min_refresh_rate">Tốc độ làm mới tối thiểu</string>
 </resources>

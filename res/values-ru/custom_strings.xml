@@ -15,20 +15,16 @@
      limitations under the License.
 -->
 <resources>
-    <!-- DC Dimming settings -->
     <string name="display_title">Дисплей</string>
     <string name="dc_dimming_enable_title">Фильтр мерцания</string>
     <string name="dc_dimming_enable_summary">Режим фильтра мерцания помогает снизить утомляемость глаз в условиях низкой освещенности за счет использования функции «DC Dimming». Это может снизить точность цветопередачи и повлиять на отображение некоторых элементов.</string>
-    <!-- Dirac settings -->
     <string name="dirac_title">Улучшение звука Mi</string>
     <string name="dirac_summary">Улучшить качество звука</string>
     <string name="dirac_headset_title">Тип наушников</string>
     <string name="dirac_preset_title">Выберите настройку</string>
-    <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">Звук Hi-Fi</string>
     <string name="dirac_hifi_summary">Уменьшить шумы и искажения для улучшения качества звука</string>
     <string name="dirac_hifi_enable_title">Включить Hi-Fi</string>
-    <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_default">По умолчанию</string>
     <string name="dirac_headset_earbuds">Mi Earbuds</string>
     <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
@@ -51,7 +47,6 @@
     <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
     <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
     <string name="dirac_headset_earphone">Mi Earphones</string>
-    <!-- Dirac settings: Equalizer presets -->
     <string name="dirac_preset_default">По умолчанию</string>
     <string name="dirac_preset_rock">Рок</string>
     <string name="dirac_preset_jazz">Джаз</string>
@@ -63,7 +58,6 @@
     <string name="dirac_preset_country">Кантри</string>
     <string name="dirac_preset_dance">Танцевальная</string>
     <string name="dirac_preset_metal">Металл</string>
-    <!-- Popup camera settings -->
     <string name="popup_settings_title">Всплывающие настройки камеры</string>
     <string name="popup_led_title">LED индикация камеры</string>
     <string name="popup_led_summary">Показывать LED индикацию при открытии и закрытии фронтальной камеры</string>
@@ -74,7 +68,6 @@
     <string name="popup_title_jijia">Механика</string>
     <string name="popup_title_chilun">Шестерня</string>
     <string name="popup_title_cangmen">Дверь каюты</string>
-    <!-- Popup camera strings -->
     <string name="popup_camera_tip">Внимание</string>
     <string name="popup_camera_takeback_failed_times_calibrate">Не удалось закрыть переднюю камеру несколько раз. Попробуйте откалибровать камеру.</string>
     <string name="popup_camera_popup_failed_times_calibrate">Не удалось открыть переднюю камеру несколько раз. Попробуйте откалибровать камеру.</string>
@@ -86,23 +79,17 @@
     <string name="takeback_camera_front_failed">Не удалось закрыть переднюю камеру. Повторите попытку.</string>
     <string name="popup_camera_front_failed">Не удалось открыть переднюю камеру. Повторите попытку.</string>
     <string name="popup_camera_proximity_obstructed">Уберите руку с датчика приближения, чтобы открыть фронтальную камеру...</string>
-    <!-- Title and summary -->
     <string name="moto_actions_title">Дополнительные жесты</string>
-    <!-- Device gestures -->
     <string name="device_gestures_title">Жесты устройства</string>
     <string name="device_gestures_summary">Управление жестами</string>
-    <!-- Ambient display gestures -->
     <string name="ambient_display_manage_summary">Управление жестами экрана</string>
-    <!-- Fingerprint gestures -->
     <string name="fingerprint_gestures_title">Жесты сканера отпечатка</string>
     <string name="fingerprint_gestures_summary">Использовать жесты сканера отпечатков пальцев</string>
     <string name="fingerprint_gestures_manage_summary">Управление жестами сканера отпечатков пальцев</string>
     <string name="fingerprint_actions_screenon">Действия при включенном экране</string>
-    <!-- Fingerprint gestures screen off -->
     <string name="fingerprint_gestures_screenoff_title">Жесты сканера отпечатков при выключенном экране</string>
     <string name="fingerprint_gestures_screenoff_summary">Использовать жесты сканера отпечатков при выключенном экране.\n\nРазблокировка экрана по отпечатку пальца должна быть отключена.</string>
     <string name="fingerprint_actions_screenoff">Действия при выключенном экране</string>
-    <!-- Actions -->
     <string name="action_home">Домой</string>
     <string name="action_power">Экран вкл/выкл</string>
     <string name="action_wake">Пробуждение</string>
@@ -122,9 +109,7 @@
     <string name="action_dialer">Открыть номеронабиратель</string>
     <string name="action_email">Открыть почтовый клиент</string>
     <string name="action_messages">Открыть приложение «Сообщения»</string>
-    <!-- Screen off gestures -->
     <string name="screen_off_gestures_manage_summary">Управление жестами при выключенном экране</string>
-    <!-- Swipe/tap/long tap -->
     <string name="swipe_left_dlg_title">Выбрать действие для свайпа влево</string>
     <string name="swipe_right_dlg_title">Выбрать действие для свайпа вправо</string>
     <string name="swipe_up_dlg_title">Выбрать действие для свайпа вверх</string>
@@ -135,16 +120,12 @@
     <string name="tap_dlg_title">Выбрать действие для одиночного нажатия</string>
     <string name="double_tap_dlg_title">Выбрать действие для двойного нажатия</string>
     <string name="long_tap_dlg_title">Выбрать действие для длительного касания</string>
-    <!-- Double tap to wake -->
     <string name="tap_to_wake">Пробуждать двойным касанием</string>
     <string name="tap_to_wake_summary">Дважды нажмите в любом месте экрана, чтобы включить устройство</string>
-    <!-- Proximity sensor -->
     <string name="allow_proximity_sensor_title">Включить датчик приближения</string>
     <string name="allow_proximity_sensor_summary">Проверить датчик приближения перед выполнением действия</string>
-    <!-- OnePlus - General -->
     <string name="advanced_settings">Настройки OnePlus</string>
     <string name="advanced_settings_summary">Пользовательские настройки для вашего устройства</string>
-    <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_category_title">Переключатель уведомлений</string>
     <string name="notification_slider_selection_dialog_title">Действие</string>
     <string name="notification_slider_top_position">Верхнее положение</string>
@@ -156,7 +137,6 @@
     <string name="notification_slider_mode_silent">Тишина</string>
     <string name="notification_slider_mode_vibrate">Вибрация</string>
     <string name="notification_slider_mode_none">Нормальная</string>
-    <!-- Thermal profiles -->
     <string name="thermal_title">Профиль оптимизации</string>
     <string name="thermal_summary">Отрегулируйте профили для оптимальной производительности приложений</string>
     <string name="thermal_default">Без оптимизации</string>
@@ -166,6 +146,5 @@
     <string name="thermal_dialer">Телефон</string>
     <string name="thermal_gaming">Игры</string>
     <string name="thermal_streaming">Потоковые приложения</string>
-    <!-- Refresh Rate Settings -->
     <string name="device_min_refresh_rate">Минимальная частота обновления экрана</string>
 </resources>

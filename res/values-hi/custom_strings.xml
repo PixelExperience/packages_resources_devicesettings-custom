@@ -15,16 +15,12 @@
      limitations under the License.
 -->
 <resources>
-    <!-- DC Dimming settings -->
-    <!-- Dirac settings -->
     <string name="dirac_title">Mi ध्वनि एन्हांसर</string>
     <string name="dirac_summary">ऑडियो गुणवत्ता ऑप्टिमाइज़ करें</string>
     <string name="dirac_headset_title">हेडफ़ोन प्रकार चुनें</string>
     <string name="dirac_preset_title">पूर्व निर्धारित चुनें</string>
-    <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">हाई-फाई ऑडियो</string>
     <string name="dirac_hifi_summary">शोर तथा विरुपण कम करें और ऑडियो गुणवत्ता बढ़ाएं</string>
-    <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_default">डिफ़ॉल्ट</string>
     <string name="dirac_headset_earbuds">Mi इयरबड्स</string>
     <string name="dirac_headset_in_ear_2013">Mi इन-ईयर (2013)</string>
@@ -47,7 +43,6 @@
     <string name="dirac_headset_in_ear2">Mi इन-ईयर 2</string>
     <string name="dirac_headset_earphone_basic">Mi ईयरफ़ोन बेसिक</string>
     <string name="dirac_headset_earphone">Mi ईयरफ़ोन्स</string>
-    <!-- Dirac settings: Equalizer presets -->
     <string name="dirac_preset_default">डिफ़ॉल्ट</string>
     <string name="dirac_preset_rock">रॉक</string>
     <string name="dirac_preset_jazz">जैज़</string>
@@ -59,14 +54,12 @@
     <string name="dirac_preset_country">कंट्री</string>
     <string name="dirac_preset_dance">डांस</string>
     <string name="dirac_preset_metal">मेटल</string>
-    <!-- Popup camera settings -->
     <string name="popup_title_muqin">ज़ाइलोफ़ोन</string>
     <string name="popup_title_yingyan">कंडर</string>
     <string name="popup_title_mofa">जादू</string>
     <string name="popup_title_jijia">मेका</string>
     <string name="popup_title_chilun">गीयरव्हील</string>
     <string name="popup_title_cangmen">केबिन के दरवाजे</string>
-    <!-- Popup camera strings -->
     <string name="popup_camera_tip">ध्यान दें</string>
     <string name="popup_camera_takeback_failed_times_calibrate">सामने के कैमरे को एक से ज़्यादा बार बंद नहीं किया जा सका. कैमरा कैलिब्रेट करने की कोशिश करें.</string>
     <string name="popup_camera_popup_failed_times_calibrate">सामने के कैमरे को एक से ज़्यादा बार खोला नहीं जा सका. कैमरा कैलिब्रेट करने की कोशिश करें.</string>
@@ -77,23 +70,17 @@
     <string name="stop_operate_camera_frequently">आप सामने का कैमरा बहुत ज़्यादा बार खोल रहे हैं.</string>
     <string name="takeback_camera_front_failed">सामने का कैमरा बंद नहीं किया जा सका. फिर से कोशिश करें.</string>
     <string name="popup_camera_front_failed">सामने का कैमरा नहीं खोला जा सका. फिर से कोशिश करें.</string>
-    <!-- Title and summary -->
     <string name="moto_actions_title">मोटो क्रिया</string>
-    <!-- Device gestures -->
     <string name="device_gestures_title">उपकरण इसारे</string>
     <string name="device_gestures_summary">उपकरण के इशारों को संयोजित करे</string>
-    <!-- Ambient display gestures -->
     <string name="ambient_display_manage_summary">परिवेश प्रदर्शन इशारों का प्रबंधन करें</string>
-    <!-- Fingerprint gestures -->
     <string name="fingerprint_gestures_title">फिंगरप्रिंट इशारे</string>
     <string name="fingerprint_gestures_summary">अंगुली की छाप की इशारे</string>
     <string name="fingerprint_gestures_manage_summary">अंगुली की छाप की इशारों का प्रबंधन क्रे</string>
     <string name="fingerprint_actions_screenon">स्क्रीन ऑन रहते होने वाली क्रिया</string>
-    <!-- Fingerprint gestures screen off -->
     <string name="fingerprint_gestures_screenoff_title">स्क्रीन ऑफ के समय अंगुलांक संकेत</string>
     <string name="fingerprint_gestures_screenoff_summary">स्क्रीन बंद होने पर फिंगरप्रिंट जेस्चर का उपयोग करें। \ N \ n इस सुविधा का उपयोग करने के लिए फ़िंगरप्रिंट अनलॉकिंग अक्षम होना चाहिए।</string>
     <string name="fingerprint_actions_screenoff">स्क्रीन बंद के साथ क्रियाएँ</string>
-    <!-- Actions -->
     <string name="action_home">होम</string>
     <string name="action_power">स्क्रीन बंद/चालू</string>
     <string name="action_wake">जागना</string>
@@ -113,9 +100,7 @@
     <string name="action_dialer">डायलर खोले</string>
     <string name="action_email">ईमेल ऐप खोले</string>
     <string name="action_messages">संदेश ऐप खोले</string>
-    <!-- Screen off gestures -->
     <string name="screen_off_gestures_manage_summary">स्क्रीन बंद होने पर संकेतों को प्रबंधित करें</string>
-    <!-- Swipe/tap/long tap -->
     <string name="swipe_left_dlg_title">बाएं स्वाइप के लिए क्रिया का चयन करें</string>
     <string name="swipe_right_dlg_title">दाएं स्वाइप के लिए क्रिया का चयन करें</string>
     <string name="swipe_up_dlg_title">ऊपर स्वाइप के लिए क्रिया का चयन करें</string>
@@ -126,15 +111,10 @@
     <string name="tap_dlg_title">एकल टैप के लिए कार्रवाई का चयन करें</string>
     <string name="double_tap_dlg_title">दोहरा बार दबाने  के लिए कार्रवाई का चयन करें</string>
     <string name="long_tap_dlg_title">देर तक दबाने के लिए चयन करे</string>
-    <!-- Double tap to wake -->
     <string name="tap_to_wake">चालू करने के लिए दो बार दबाएं</string>
     <string name="tap_to_wake_summary">फोन को चालू करने के लिए स्क्रीन पर दो बार दबाएं</string>
-    <!-- Proximity sensor -->
     <string name="allow_proximity_sensor_title">निकटता सेंसर को मंज़ूरी दें</string>
     <string name="allow_proximity_sensor_summary">निकटता सेंसर को जांच लें</string>
-    <!-- OnePlus - General -->
-    <!-- OnePlus - Alert slider settings -->
-    <!-- Thermal profiles -->
     <string name="thermal_title">Profil pengoptimalan</string>
     <string name="thermal_default">Tidak ada optimasi</string>
     <string name="thermal_benchmark">Performa</string>
@@ -142,5 +122,4 @@
     <string name="thermal_camera">Kamera</string>
     <string name="thermal_dialer">Telepon</string>
     <string name="thermal_gaming">Permainan</string>
-    <!-- Refresh Rate Settings -->
 </resources>

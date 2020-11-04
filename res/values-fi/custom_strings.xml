@@ -15,20 +15,16 @@
      limitations under the License.
 -->
 <resources>
-    <!-- DC Dimming settings -->
     <string name="display_title">Näyttö</string>
     <string name="dc_dimming_enable_title">Vilkkumisen esto</string>
     <string name="dc_dimming_enable_summary">Vilkkumisen esto tila vähentää silmien väsymistä vähäisessä valossa käyttämällä \"DC hämärrys\" ominaisuutta. Se voi heikentää väritoiston tarkkuutta ja se voi vaikuttaa miten jotkin kohteet näkyvät näytöllä.</string>
-    <!-- Dirac settings -->
     <string name="dirac_title">Mi Sound Enhancer</string>
     <string name="dirac_summary">Optimoi äänenlaatua</string>
     <string name="dirac_headset_title">Valitse kuuloke tyyppi</string>
     <string name="dirac_preset_title">Valitse esiasetus</string>
-    <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">Hi-Fi ääni</string>
     <string name="dirac_hifi_summary">Vähennä melua ja häiriöitä ja paranna äänenlaatua</string>
     <string name="dirac_hifi_enable_title">Hi-fi päälle</string>
-    <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_default">Oletus</string>
     <string name="dirac_headset_earbuds">Mi Earbuds</string>
     <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
@@ -51,7 +47,6 @@
     <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
     <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
     <string name="dirac_headset_earphone">Mi Earphones</string>
-    <!-- Dirac settings: Equalizer presets -->
     <string name="dirac_preset_default">Oletus</string>
     <string name="dirac_preset_rock">Rock</string>
     <string name="dirac_preset_jazz">Jazz</string>
@@ -63,7 +58,6 @@
     <string name="dirac_preset_country">Kantri</string>
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metalli</string>
-    <!-- Popup camera settings -->
     <string name="popup_settings_title">Popup-kameran asetukset</string>
     <string name="popup_led_title">Kameran LED</string>
     <string name="popup_led_summary">Näytä LED valo kun etukamera ilmestyy ja vetäytyy</string>
@@ -74,7 +68,6 @@
     <string name="popup_title_jijia">Mecha</string>
     <string name="popup_title_chilun">Hammaspyörä</string>
     <string name="popup_title_cangmen">Mökin ovi</string>
-    <!-- Popup camera strings -->
     <string name="popup_camera_tip">Huomio</string>
     <string name="popup_camera_takeback_failed_times_calibrate">Etukameraa ei voitu sulkea useaan kertaan. Yritä kameran kalibrointia.</string>
     <string name="popup_camera_popup_failed_times_calibrate">Etukameraa ei voitu avata useaan kertaan. Yritä kameran kalibrointia.</string>
@@ -86,23 +79,17 @@
     <string name="takeback_camera_front_failed">Etukameraa ei voitu sulkea. Yritä uudelleen.</string>
     <string name="popup_camera_front_failed">Etukameraa ei voitu avata. Yritä uudelleen</string>
     <string name="popup_camera_proximity_obstructed">Poista kätesi etäisyysanturilta avataksesi etukameran...</string>
-    <!-- Title and summary -->
     <string name="moto_actions_title">Moto Toiminnot</string>
-    <!-- Device gestures -->
     <string name="device_gestures_title">Laite-eleet</string>
     <string name="device_gestures_summary">Hallitse laite-eleitä</string>
-    <!-- Ambient display gestures -->
     <string name="ambient_display_manage_summary">Hallitse ambient-näytön eleitä</string>
-    <!-- Fingerprint gestures -->
     <string name="fingerprint_gestures_title">Sormenjälkieleet</string>
     <string name="fingerprint_gestures_summary">Käytä sormenjälkieleitä</string>
     <string name="fingerprint_gestures_manage_summary">Hallitse sormenjälkieleitä</string>
     <string name="fingerprint_actions_screenon">Toiminnot näytön ollessa päällä</string>
-    <!-- Fingerprint gestures screen off -->
     <string name="fingerprint_gestures_screenoff_title">Sormenjälkieleet näytön ollessa suljettuna</string>
     <string name="fingerprint_gestures_screenoff_summary">Käytä sormenjälkieleitä, näytön ollessa suljettuna.\n\nSormenjälkiavauksen täytyy olla poistettuna käytöstä, jotta voit käyttää tätä ominaisuutta.</string>
     <string name="fingerprint_actions_screenoff">Toiminnot näytön ollessa suljettu</string>
-    <!-- Actions -->
     <string name="action_home">Etusivu</string>
     <string name="action_power">Näyttö päälle/pois</string>
     <string name="action_wake">Herätä</string>
@@ -122,9 +109,7 @@
     <string name="action_dialer">Avaa puhelinsovellus</string>
     <string name="action_email">Avaa sähköpostiohjelma</string>
     <string name="action_messages">Avaa viestisovellus</string>
-    <!-- Screen off gestures -->
     <string name="screen_off_gestures_manage_summary">Hallitse toimintoja, kun näyttö on pois päältä</string>
-    <!-- Swipe/tap/long tap -->
     <string name="swipe_left_dlg_title">Valitse toiminto vasemmalle pyyhkäisylle</string>
     <string name="swipe_right_dlg_title">Valitse toiminto oikealle pyyhkäisylle</string>
     <string name="swipe_up_dlg_title">Valitse toiminto ylöspäin pyyhkäisylle</string>
@@ -135,16 +120,12 @@
     <string name="tap_dlg_title">Valitse toiminto yhdelle napautukselle</string>
     <string name="double_tap_dlg_title">Valitse toiminto kaksoisnapautukselle</string>
     <string name="long_tap_dlg_title">Valitse toiminto pitkälle napautukselle</string>
-    <!-- Double tap to wake -->
     <string name="tap_to_wake">Herätä napauttamalla</string>
     <string name="tap_to_wake_summary">Herätä laite napauttamalla näyttöä kahdesti</string>
-    <!-- Proximity sensor -->
     <string name="allow_proximity_sensor_title">Ota etäisyysanturi käyttöön</string>
     <string name="allow_proximity_sensor_summary">Tarkista etäisyysanturi ennen toiminnon suorittamista</string>
-    <!-- OnePlus - General -->
     <string name="advanced_settings">OnePlus Asetukset</string>
     <string name="advanced_settings_summary">Muokatut asetukset laitteellesi</string>
-    <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_category_title">Hälytys säädin</string>
     <string name="notification_slider_selection_dialog_title">Toiminto</string>
     <string name="notification_slider_top_position">Yläasento</string>
@@ -156,7 +137,6 @@
     <string name="notification_slider_mode_silent">Äänetön</string>
     <string name="notification_slider_mode_vibrate">Värinä</string>
     <string name="notification_slider_mode_none">Normaali</string>
-    <!-- Thermal profiles -->
     <string name="thermal_title">Optimointi profiili</string>
     <string name="thermal_summary">Säädä ohjelmakohtasia profiileja optimaaliselle suorituskyvylle</string>
     <string name="thermal_default">Ei optimointia</string>
@@ -166,6 +146,5 @@
     <string name="thermal_dialer">Puhelin</string>
     <string name="thermal_gaming">Pelit</string>
     <string name="thermal_streaming">Suoratoistosovellukset</string>
-    <!-- Refresh Rate Settings -->
     <string name="device_min_refresh_rate">Minimi virkistystaajuus</string>
 </resources>

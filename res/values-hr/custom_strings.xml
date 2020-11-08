@@ -15,20 +15,16 @@
      limitations under the License.
 -->
 <resources>
-    <!-- DC Dimming settings -->
     <string name="display_title">Zaslon</string>
     <string name="dc_dimming_enable_title">Bez treperenja</string>
     <string name="dc_dimming_enable_summary">Način rada bez treperenja pomaže smanjenju naprezanja očiju u uvjetima slabog osvjetljenja pomoću značajke \"DC zatamnjenja\". To može smanjiti točnost boje i utjecati na način prikazivanja pojedinih predmeta.</string>
-    <!-- Dirac settings -->
     <string name="dirac_title">Mi Sound Enhancer</string>
     <string name="dirac_summary">Optimiziranje kvalitete zvuka</string>
     <string name="dirac_headset_title">Odaberite vrstu slušalica</string>
     <string name="dirac_preset_title">Odaberi podešenje</string>
-    <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">Hi-Fi zvuk</string>
     <string name="dirac_hifi_summary">Smanjite buku i izobličenje i povećajte kvalitetu zvuka.</string>
     <string name="dirac_hifi_enable_title">Omogući Hi-Fi</string>
-    <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_default">Zadano</string>
     <string name="dirac_headset_earbuds">Mi Earbuds</string>
     <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
@@ -51,7 +47,6 @@
     <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
     <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
     <string name="dirac_headset_earphone">Mi Earphones</string>
-    <!-- Dirac settings: Equalizer presets -->
     <string name="dirac_preset_default">Zadano</string>
     <string name="dirac_preset_rock">Rock</string>
     <string name="dirac_preset_jazz">Jazz</string>
@@ -63,7 +58,6 @@
     <string name="dirac_preset_country">Country</string>
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metal</string>
-    <!-- Popup camera settings -->
     <string name="popup_settings_title">Postavke Pop-up kamere</string>
     <string name="popup_led_title">LED kamere</string>
     <string name="popup_led_summary">Prikažite LED svjetlo kada se prednja kamera pojavi i povuče</string>
@@ -74,7 +68,6 @@
     <string name="popup_title_jijia">Mecha</string>
     <string name="popup_title_chilun">Gearwheel</string>
     <string name="popup_title_cangmen">Vrata kabine</string>
-    <!-- Popup camera strings -->
     <string name="popup_camera_tip">Pažnja</string>
     <string name="popup_camera_takeback_failed_times_calibrate">Ne mogu otvoriti prednju kameru više puta. Pokušajte kalibrirati kameru.</string>
     <string name="popup_camera_popup_failed_times_calibrate">Ne mogu otvoriti prednju kameru više puta. Pokušajte kalibrirati kameru.</string>
@@ -86,23 +79,17 @@
     <string name="takeback_camera_front_failed">Ne mogu zatvoriti prednju kameru. Pokušajte ponovno.</string>
     <string name="popup_camera_front_failed">Ne mogu otvoriti prednju kameru. Pokušajte ponovno.</string>
     <string name="popup_camera_proximity_obstructed">Pomjerite ruku sa senzora blizine za otvaranje prednje kamere...</string>
-    <!-- Title and summary -->
     <string name="moto_actions_title">Moto Akcije</string>
-    <!-- Device gestures -->
     <string name="device_gestures_title">Geste uređaja</string>
     <string name="device_gestures_summary">Upravljaj gestama</string>
-    <!-- Ambient display gestures -->
     <string name="ambient_display_manage_summary">Upravljaj gestama ambijentalnog zaslona</string>
-    <!-- Fingerprint gestures -->
     <string name="fingerprint_gestures_title">Geste čitača otiska prsta</string>
     <string name="fingerprint_gestures_summary">Koristi geste čitača otiska prsta</string>
     <string name="fingerprint_gestures_manage_summary">Upravljaj gestama čitača otiska prsta</string>
     <string name="fingerprint_actions_screenon">Geste kada je zaslon uključen</string>
-    <!-- Fingerprint gestures screen off -->
     <string name="fingerprint_gestures_screenoff_title">Geste čitača otiska prsta kada je zaslon isključen</string>
     <string name="fingerprint_gestures_screenoff_summary">Koristi geste čitača otiska prsta kada je zaslon isključen.\n\nOtključavanje otiskom prsta mora biti uključeno.</string>
     <string name="fingerprint_actions_screenoff">Geste kada je zaslon isključen</string>
-    <!-- Actions -->
     <string name="action_home">Početna stranica</string>
     <string name="action_power">Uključi/isključi zaslon</string>
     <string name="action_wake">Probudi uređaj</string>
@@ -122,9 +109,7 @@
     <string name="action_dialer">Otvori aplikaciju Telefon</string>
     <string name="action_email">Otvori aplikaciju za e-poštu</string>
     <string name="action_messages">Otvori aplikaciju Poruke</string>
-    <!-- Screen off gestures -->
     <string name="screen_off_gestures_manage_summary">Upravljajte gestama isključenog zaslona</string>
-    <!-- Swipe/tap/long tap -->
     <string name="swipe_left_dlg_title">Događaj nakon povlačenja ulijevo</string>
     <string name="swipe_right_dlg_title">Događaj nakon povlačenja udesno</string>
     <string name="swipe_up_dlg_title">Događaj nakon povlačenja gore</string>
@@ -135,16 +120,12 @@
     <string name="tap_dlg_title">Događaj nakon dodira</string>
     <string name="double_tap_dlg_title">Događaj nakon dvostrukog dodira</string>
     <string name="long_tap_dlg_title">Događaj nakon dodira i držanja</string>
-    <!-- Double tap to wake -->
     <string name="tap_to_wake">Dodirni za buđenje</string>
     <string name="tap_to_wake_summary">Dvaput dodirnite bilo gdje na zaslonu za buđenje uređaja</string>
-    <!-- Proximity sensor -->
     <string name="allow_proximity_sensor_title">Omogući senzor blizine</string>
     <string name="allow_proximity_sensor_summary">Provjeri senzor blizine prije obavljanja radnje</string>
-    <!-- OnePlus - General -->
     <string name="advanced_settings">OnePlus postavke</string>
     <string name="advanced_settings_summary">Prilagođene postavke za Vaš uređaj</string>
-    <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_category_title">Klizač upozorenja</string>
     <string name="notification_slider_selection_dialog_title">Radnja</string>
     <string name="notification_slider_top_position">Na vrhu</string>
@@ -156,7 +137,6 @@
     <string name="notification_slider_mode_silent">Tiho</string>
     <string name="notification_slider_mode_vibrate">Vibracija</string>
     <string name="notification_slider_mode_none">Normalno</string>
-    <!-- Thermal profiles -->
     <string name="thermal_title">Profil optimizacije</string>
     <string name="thermal_summary">Prilagodi profile po aplikaciji za optimalne performanse</string>
     <string name="thermal_default">Nema optimizacije</string>
@@ -166,6 +146,5 @@
     <string name="thermal_dialer">Birač broja</string>
     <string name="thermal_gaming">Igre</string>
     <string name="thermal_streaming">Aplikacije za strimovanje</string>
-    <!-- Refresh Rate Settings -->
     <string name="device_min_refresh_rate">Minimalna brzina osvježavanja</string>
 </resources>

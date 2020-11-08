@@ -15,25 +15,5 @@
      limitations under the License.
 -->
 <resources>
-    <!-- DC Dimming settings -->
-    <!-- Dirac settings -->
-    <!-- Dirac settings: Hi-Fi -->
-    <!-- Dirac settings: Headset types -->
-    <!-- Dirac settings: Equalizer presets -->
-    <!-- Popup camera settings -->
-    <!-- Popup camera strings -->
-    <!-- Title and summary -->
-    <!-- Device gestures -->
-    <!-- Ambient display gestures -->
-    <!-- Fingerprint gestures -->
-    <!-- Fingerprint gestures screen off -->
-    <!-- Actions -->
-    <!-- Screen off gestures -->
-    <!-- Swipe/tap/long tap -->
-    <!-- Double tap to wake -->
-    <!-- Proximity sensor -->
-    <!-- OnePlus - General -->
-    <!-- OnePlus - Alert slider settings -->
-    <!-- Thermal profiles -->
-    <!-- Refresh Rate Settings -->
+    <string name="notification_slider_mode_none">Normale</string>
 </resources>

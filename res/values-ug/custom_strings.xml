@@ -15,16 +15,12 @@
      limitations under the License.
 -->
 <resources>
-    <!-- DC Dimming settings -->
-    <!-- Dirac settings -->
     <string name="dirac_title">مى ئاۋاز ئاۋاز سۈپىتىنى كۆتۈرگۈچنى ئىشلىتىش</string>
     <string name="dirac_summary">مى ئاۋاز</string>
     <string name="dirac_headset_title">تىڭشىغۇچ تەڭشىكى</string>
     <string name="dirac_preset_title">ئالدىن تەسىس ئۈنۈمنى تاللاڭ</string>
-    <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">Hi-Fi ئىشلىتى يۇقىرى ئېنىقلىقتا قويۇش</string>
     <string name="dirac_hifi_summary">يۇقىرى ئېنىقلىقتىكى ئەسلى ئاۋاز ئۇچۇرى</string>
-    <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_default">سۈكۈتتىكى ئەپ</string>
     <string name="dirac_headset_earbuds">قۇلاققا كەيدۈرۈش شەكىللىك</string>
     <string name="dirac_headset_in_ear_2013">قۇلاققا سېلىش شەكىللىك</string>
@@ -47,7 +43,6 @@
     <string name="dirac_headset_in_ear2">شياۋمى چەمبىرەك2</string>
     <string name="dirac_headset_earphone_basic">شياۋمى تىڭشىغۇچى ئاساسىي نۇسخىسى</string>
     <string name="dirac_headset_earphone">شياۋمى تىڭشىغۇچى</string>
-    <!-- Dirac settings: Equalizer presets -->
     <string name="dirac_preset_default">سۈكۈتتىكى</string>
     <string name="dirac_preset_rock">روك</string>
     <string name="dirac_preset_jazz">جاز</string>
@@ -59,14 +54,12 @@
     <string name="dirac_preset_country">يېزا</string>
     <string name="dirac_preset_dance">ئۇسۇل مۇزىكىسى</string>
     <string name="dirac_preset_metal">مېتال</string>
-    <!-- Popup camera settings -->
     <string name="popup_title_muqin">ياغاچ ساز</string>
     <string name="popup_title_yingyan">بۈركۈت كۆز</string>
     <string name="popup_title_mofa">سېھىرلىك</string>
     <string name="popup_title_jijia">مېخانىك</string>
     <string name="popup_title_chilun">چاقلىق</string>
     <string name="popup_title_cangmen">ئىشىك</string>
-    <!-- Popup camera strings -->
     <string name="popup_camera_tip">ئەسكەرتىش</string>
     <string name="popup_camera_takeback_failed_times_calibrate">ئالدى كامېرانى چۈشۈرۈش كۆپ قېتىم مەغلۇپ بولدى، كامېرانى توغرىلىشىڭىزنى تەۋسىيە قىلىمىز</string>
     <string name="popup_camera_popup_failed_times_calibrate">ئالدى كامېرانى چىقىرىش كۆپ قېتىم مەغلۇپ بولدى، كامېرانى توغرىلىشىڭىزنى تەۋسىيە قىلىمىز</string>
@@ -76,18 +69,4 @@
     <string name="stop_operate_camera_frequently">ئالدى كامېرانى قايتا قايتا ئېچىپ تاقىماڭ</string>
     <string name="takeback_camera_front_failed">ئالدى كامېرانى چۈشۈرۈش مەغلۇپ بولدى، قايتا سىناڭ</string>
     <string name="popup_camera_front_failed">ئالدى كامېرا قاڭقىپ چىقمىدى،قايتا سىناڭ</string>
-    <!-- Title and summary -->
-    <!-- Device gestures -->
-    <!-- Ambient display gestures -->
-    <!-- Fingerprint gestures -->
-    <!-- Fingerprint gestures screen off -->
-    <!-- Actions -->
-    <!-- Screen off gestures -->
-    <!-- Swipe/tap/long tap -->
-    <!-- Double tap to wake -->
-    <!-- Proximity sensor -->
-    <!-- OnePlus - General -->
-    <!-- OnePlus - Alert slider settings -->
-    <!-- Thermal profiles -->
-    <!-- Refresh Rate Settings -->
 </resources>

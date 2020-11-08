@@ -15,20 +15,16 @@
      limitations under the License.
 -->
 <resources>
-    <!-- DC Dimming settings -->
     <string name="display_title">顯示</string>
     <string name="dc_dimming_enable_title">防閃爍</string>
     <string name="dc_dimming_enable_summary">防閃爍模式透過使用「DC 調光」功能來協助減少低光源環境下的眼睛疲勞。這可能會降機色彩準確性，並影響某些項目的顯示方式。</string>
-    <!-- Dirac settings -->
     <string name="dirac_title">Mi Sound 加強器</string>
     <string name="dirac_summary">最佳化聲音品質</string>
     <string name="dirac_headset_title">選擇耳機類型</string>
     <string name="dirac_preset_title">請選擇預設等化器</string>
-    <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">使用Hi-Fi高傳真播放</string>
     <string name="dirac_hifi_summary">高度還原音源資訊，原汁原味</string>
     <string name="dirac_hifi_enable_title">啟用Hi-fi</string>
-    <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_default">預設</string>
     <string name="dirac_headset_earbuds">小米耳塞式</string>
     <string name="dirac_headset_in_ear_2013">小米入耳式</string>
@@ -51,7 +47,6 @@
     <string name="dirac_headset_in_ear2">小米圈鐵耳機2</string>
     <string name="dirac_headset_earphone_basic">小米耳機基本款</string>
     <string name="dirac_headset_earphone">小米耳機</string>
-    <!-- Dirac settings: Equalizer presets -->
     <string name="dirac_preset_default">預設</string>
     <string name="dirac_preset_rock">搖滾</string>
     <string name="dirac_preset_jazz">爵士</string>
@@ -63,7 +58,6 @@
     <string name="dirac_preset_country">鄉村</string>
     <string name="dirac_preset_dance">舞曲</string>
     <string name="dirac_preset_metal">金屬</string>
-    <!-- Popup camera settings -->
     <string name="popup_settings_title">彈出式相機設定</string>
     <string name="popup_led_title">相機 LED</string>
     <string name="popup_led_summary">當前置相機升降時顯示 LED 燈</string>
@@ -74,7 +68,6 @@
     <string name="popup_title_jijia">機甲</string>
     <string name="popup_title_chilun">齒輪</string>
     <string name="popup_title_cangmen">艙門</string>
-    <!-- Popup camera strings -->
     <string name="popup_camera_tip">提醒</string>
     <string name="popup_camera_takeback_failed_times_calibrate">前置相機多次收回失敗，建議進行相機校正</string>
     <string name="popup_camera_popup_failed_times_calibrate">前置相機多次彈出失敗，建議進行相機校正</string>
@@ -86,23 +79,17 @@
     <string name="takeback_camera_front_failed">前置相機收回失敗，請重試</string>
     <string name="popup_camera_front_failed">前置相機彈出失敗，請重試</string>
     <string name="popup_camera_proximity_obstructed">請將您的手從近接感測器前移開以開啟前置鏡頭……</string>
-    <!-- Title and summary -->
     <string name="moto_actions_title">Moto Actions</string>
-    <!-- Device gestures -->
     <string name="device_gestures_title">裝置手勢</string>
     <string name="device_gestures_summary">管理裝置手勢</string>
-    <!-- Ambient display gestures -->
     <string name="ambient_display_manage_summary">管理環境顯示手勢</string>
-    <!-- Fingerprint gestures -->
     <string name="fingerprint_gestures_title">指紋手勢</string>
     <string name="fingerprint_gestures_summary">使用指紋手勢</string>
     <string name="fingerprint_gestures_manage_summary">管理指紋手勢</string>
     <string name="fingerprint_actions_screenon">螢幕開啟時依然啟用動作</string>
-    <!-- Fingerprint gestures screen off -->
     <string name="fingerprint_gestures_screenoff_title">螢幕關閉時的指紋手勢</string>
     <string name="fingerprint_gestures_screenoff_summary">螢幕關閉時使用指紋手勢。 \n\n指紋解鎖必須禁用才能使用此功能。</string>
     <string name="fingerprint_actions_screenoff">關閉螢幕時的動作</string>
-    <!-- Actions -->
     <string name="action_home">主畫面</string>
     <string name="action_power">螢幕開啟/關閉</string>
     <string name="action_wake">喚醒</string>
@@ -122,9 +109,7 @@
     <string name="action_dialer">開啟撥號程式</string>
     <string name="action_email">開啟電郵應用程式</string>
     <string name="action_messages">開啟訊息應用程式</string>
-    <!-- Screen off gestures -->
     <string name="screen_off_gestures_manage_summary">管理關閉螢幕時的手勢</string>
-    <!-- Swipe/tap/long tap -->
     <string name="swipe_left_dlg_title">選擇向左滑動的動作</string>
     <string name="swipe_right_dlg_title">選擇向右滑動的動作</string>
     <string name="swipe_up_dlg_title">選擇向上滑動的動作</string>
@@ -135,16 +120,12 @@
     <string name="tap_dlg_title">選擇輕觸一下的動作</string>
     <string name="double_tap_dlg_title">選擇點兩下的動作</string>
     <string name="long_tap_dlg_title">選擇長按的動作</string>
-    <!-- Double tap to wake -->
     <string name="tap_to_wake">輕觸即可喚醒</string>
     <string name="tap_to_wake_summary">在螢幕上任一處輕按兩下即可喚醒裝置</string>
-    <!-- Proximity sensor -->
     <string name="allow_proximity_sensor_title">開啟距離感應器</string>
     <string name="allow_proximity_sensor_summary">執行動作前檢查距離感應器</string>
-    <!-- OnePlus - General -->
     <string name="advanced_settings">OnePlus 設定</string>
     <string name="advanced_settings_summary">您裝置的自訂設定</string>
-    <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_category_title">三段式開關</string>
     <string name="notification_slider_selection_dialog_title">動作</string>
     <string name="notification_slider_top_position">頂部位置</string>
@@ -156,7 +137,6 @@
     <string name="notification_slider_mode_silent">靜音</string>
     <string name="notification_slider_mode_vibrate">震動</string>
     <string name="notification_slider_mode_none">正常</string>
-    <!-- Thermal profiles -->
     <string name="thermal_title">最佳化設定檔</string>
     <string name="thermal_summary">調整每個應用程式的設定檔以取得最佳效能</string>
     <string name="thermal_default">無最佳化</string>
@@ -166,6 +146,5 @@
     <string name="thermal_dialer">電話</string>
     <string name="thermal_gaming">遊戲</string>
     <string name="thermal_streaming">串流應用程式</string>
-    <!-- Refresh Rate Settings -->
     <string name="device_min_refresh_rate">最低更新率</string>
 </resources>

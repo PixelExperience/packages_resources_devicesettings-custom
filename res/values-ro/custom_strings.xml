@@ -15,20 +15,16 @@
      limitations under the License.
 -->
 <resources>
-    <!-- DC Dimming settings -->
     <string name="display_title">Afişare</string>
     <string name="dc_dimming_enable_title">Anti-pâlpâire</string>
     <string name="dc_dimming_enable_summary">Modul anti-flicker ajută la reducerea oboselii ochilor în condiții de lumină slabă, utilizând funcția „DC dimming”. S-ar putea să degradeze precizia culorii și să afecteze modul în care sunt afișate unele elemente.</string>
-    <!-- Dirac settings -->
     <string name="dirac_title">Mi Sound Amplificator</string>
     <string name="dirac_summary">Optimizare calitate audio</string>
     <string name="dirac_headset_title">Alege tipul de căști</string>
     <string name="dirac_preset_title">Alegeți o presetare</string>
-    <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">Hi-Fi audio</string>
     <string name="dirac_hifi_summary">Reducerea zgomotului și a distorsiunilor și creșterea calității audio</string>
     <string name="dirac_hifi_enable_title">Activaţi Hi-Fi</string>
-    <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_default">Prestabilite</string>
     <string name="dirac_headset_earbuds">Căşti în ureche Mi</string>
     <string name="dirac_headset_in_ear_2013">Căști în ureche Mi (2013)</string>
@@ -51,7 +47,6 @@
     <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
     <string name="dirac_headset_earphone_basic">Căști Mi Basic</string>
     <string name="dirac_headset_earphone">Căști Mi</string>
-    <!-- Dirac settings: Equalizer presets -->
     <string name="dirac_preset_default">Implicit</string>
     <string name="dirac_preset_rock">Rock</string>
     <string name="dirac_preset_jazz">Jazz</string>
@@ -63,7 +58,6 @@
     <string name="dirac_preset_country">Country</string>
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metal</string>
-    <!-- Popup camera settings -->
     <string name="popup_settings_title">Setări cameră pop-up</string>
     <string name="popup_led_title">Camera LED</string>
     <string name="popup_led_summary">Afișează lumina LED, atunci când aparatul foto apare și se retrage</string>
@@ -74,7 +68,6 @@
     <string name="popup_title_jijia">Mecha</string>
     <string name="popup_title_chilun">Roată dințată</string>
     <string name="popup_title_cangmen">Ușă cabină</string>
-    <!-- Popup camera strings -->
     <string name="popup_camera_tip">Atenție</string>
     <string name="popup_camera_takeback_failed_times_calibrate">Nu s-a putut închide camera frontală de mai multe ori. Încercați să calibrați camera.</string>
     <string name="popup_camera_popup_failed_times_calibrate">Nu s-a putut deschide camera frontală de mai multe ori. Încercați să calibrați camera.</string>
@@ -86,23 +79,17 @@
     <string name="takeback_camera_front_failed">Nu s-a putut închide camera frontală. Încercați din nou.</string>
     <string name="popup_camera_front_failed">Nu s-a putut deschide camera frontală. Încercați din nou.</string>
     <string name="popup_camera_proximity_obstructed">Înlăturați mâna de pe senzorul de proximitate pentru a deschide camera frontală...</string>
-    <!-- Title and summary -->
     <string name="moto_actions_title">Moto acțiuni</string>
-    <!-- Device gestures -->
     <string name="device_gestures_title">Gesturi</string>
     <string name="device_gestures_summary">Adinistrați gesturile</string>
-    <!-- Ambient display gestures -->
     <string name="ambient_display_manage_summary">Administrați gesturile ecranului ambiental</string>
-    <!-- Fingerprint gestures -->
     <string name="fingerprint_gestures_title">Gesturile scanerului de amprente</string>
     <string name="fingerprint_gestures_summary">Folosiți gesturile scanerului de amprente</string>
     <string name="fingerprint_gestures_manage_summary">Administrați gesturile scanerului de amprente</string>
     <string name="fingerprint_actions_screenon">Acțiuni cu ecranul pornit</string>
-    <!-- Fingerprint gestures screen off -->
     <string name="fingerprint_gestures_screenoff_title">Gesturile scanerului de amprente când ecranul e oprit</string>
     <string name="fingerprint_gestures_screenoff_summary">Utilizați gesturile scanrului de amprente când ecranul e oprit.\n\nScanerul de amprente trebuie să fie oprit pentru a folosi această funcție.</string>
     <string name="fingerprint_actions_screenoff">Acțiuni cu ecranul oprit</string>
-    <!-- Actions -->
     <string name="action_home">Acasă</string>
     <string name="action_power">Ecran pornit/oprit</string>
     <string name="action_wake">Trezește</string>
@@ -122,9 +109,7 @@
     <string name="action_dialer">Deschide telefonul</string>
     <string name="action_email">Deschide aplicația de email</string>
     <string name="action_messages">Deschide aplicația de mesaje</string>
-    <!-- Screen off gestures -->
     <string name="screen_off_gestures_manage_summary">Gestionați gesturi pe ecranul oprit</string>
-    <!-- Swipe/tap/long tap -->
     <string name="swipe_left_dlg_title">Selectați acțiunea pentru glisarea la stânga</string>
     <string name="swipe_right_dlg_title">Selectați acțiunea pentru glisarea la dreapta</string>
     <string name="swipe_up_dlg_title">Selectați acțiunea pentru glisarea în sus</string>
@@ -135,16 +120,12 @@
     <string name="tap_dlg_title">Selectați acțiunea pentru o singură atingere</string>
     <string name="double_tap_dlg_title">Selectați acțiunea pentru atingere dublă</string>
     <string name="long_tap_dlg_title">Selectați acțiunea pentru atingere îndelungată</string>
-    <!-- Double tap to wake -->
     <string name="tap_to_wake">Atingeți pentru trezire</string>
     <string name="tap_to_wake_summary">Atingeți de două ori oriunde pe ecran pentru a trezi dispozitivul</string>
-    <!-- Proximity sensor -->
     <string name="allow_proximity_sensor_title">Activează senzorul de proximitate</string>
     <string name="allow_proximity_sensor_summary">Verifică senzorul de proximitate înainte de a efectua acțiunea</string>
-    <!-- OnePlus - General -->
     <string name="advanced_settings">Setări OnePlus</string>
     <string name="advanced_settings_summary">Setări personalizate pentru dispozitivul dvs.</string>
-    <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_category_title">Slider de alertă</string>
     <string name="notification_slider_selection_dialog_title">Acţiune</string>
     <string name="notification_slider_top_position">Poziția de sus</string>
@@ -156,7 +137,6 @@
     <string name="notification_slider_mode_silent">Silențios</string>
     <string name="notification_slider_mode_vibrate">Vibrare</string>
     <string name="notification_slider_mode_none">Normal</string>
-    <!-- Thermal profiles -->
     <string name="thermal_title">Profil optimizare</string>
     <string name="thermal_summary">Ajustare profiluri per-aplicație pentru performanță optimă</string>
     <string name="thermal_default">Nicio optimizare</string>
@@ -166,6 +146,5 @@
     <string name="thermal_dialer">Telefon</string>
     <string name="thermal_gaming">Jocuri</string>
     <string name="thermal_streaming">Aplicații streaming</string>
-    <!-- Refresh Rate Settings -->
     <string name="device_min_refresh_rate">Rata minimă de reîmprospătare</string>
 </resources>

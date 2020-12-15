@@ -16,12 +16,15 @@
 -->
 <resources>
     <string name="display_title">الشاشة</string>
+    <string name="dc_dimming_enable_title">مضاد الوميض</string>
+    <string name="dc_dimming_enable_summary">وضع مضاد الوميض يساعد على تقليل إجهاد العيم في ظروف الإضاءة المنخفضة باستخدام خاصية \"التعتيم باستخدام التيار المستمر\". ربما يقلل ذلك من دقة الألوان ويؤثر في كيفية عرض بعض العناصر.</string>
     <string name="dirac_title">محسن صوت Mi</string>
     <string name="dirac_summary">تحسين جودة الصوت</string>
     <string name="dirac_headset_title">اختيار نوع سماعة الرأس</string>
     <string name="dirac_preset_title">اختر إعداد</string>
     <string name="dirac_hifi_title">صوت Hi-Fi</string>
     <string name="dirac_hifi_summary">تقليل الضوضاء والتشويش وزيادة جودة الصوت</string>
+    <string name="dirac_hifi_enable_title">تمكين Hi-fi</string>
     <string name="dirac_headset_default">التطبيقات التلقائية</string>
     <string name="dirac_headset_earbuds">Mi Earbuds</string>
     <string name="dirac_headset_in_ear_2013">(Mi In-Ear (2013</string>
@@ -143,4 +146,5 @@
     <string name="thermal_dialer">الإتصال</string>
     <string name="thermal_gaming">الألعاب</string>
     <string name="thermal_streaming">تطبيقات البث</string>
+    <string name="device_min_refresh_rate">معدل التحديث الأدنى</string>
 </resources>

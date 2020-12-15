@@ -15,12 +15,14 @@
      limitations under the License.
 -->
 <resources>
+    <string name="dc_dimming_enable_title">Anti-parpelleig</string>
     <string name="dirac_title">Potenciador de so Mi</string>
     <string name="dirac_summary">Optimitza la qualitat d\'àudio</string>
     <string name="dirac_headset_title">Seleccioneu el tipus d\'auriculars</string>
     <string name="dirac_preset_title">Trieu una configuració per defecte</string>
     <string name="dirac_hifi_title">Àudio Hi-Fi</string>
     <string name="dirac_hifi_summary">Redueix el soroll, la distorsió i augmenta la qualitat d\'àudio</string>
+    <string name="dirac_hifi_enable_title">Habilita el Hi-Fi</string>
     <string name="dirac_headset_default">Predeterminada</string>
     <string name="dirac_headset_earbuds">Mi</string>
     <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
@@ -54,6 +56,10 @@
     <string name="dirac_preset_country">Country</string>
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metall</string>
+    <string name="popup_settings_title">Configuració de la càmera Pop-up</string>
+    <string name="popup_led_title">LED de la càmera</string>
+    <string name="popup_led_summary">Mostra l\'animació LED quan la càmera frontal apareix i es retreu</string>
+    <string name="popup_sound_title">Efectes de so</string>
     <string name="popup_title_muqin">Xilòfon</string>
     <string name="popup_title_yingyan">Còndor</string>
     <string name="popup_title_mofa">Màgia</string>
@@ -124,6 +130,8 @@
     <string name="notification_slider_bottom_position">Posició inferior</string>
     <string name="notification_slider_mode_total_silence">Silenci total</string>
     <string name="notification_slider_mode_priority_only">Només prioritat</string>
+    <string name="notification_slider_mode_silent">Silenci</string>
+    <string name="notification_slider_mode_vibrate">Vibració</string>
     <string name="notification_slider_mode_none">Normal</string>
     <string name="thermal_title">Perfil d\'optimització</string>
     <string name="thermal_default">Sense optimització</string>
@@ -132,4 +140,5 @@
     <string name="thermal_camera">Càmera</string>
     <string name="thermal_dialer">Marcador</string>
     <string name="thermal_gaming">Jocs</string>
+    <string name="device_min_refresh_rate">Freqüència de refresc mínima</string>
 </resources>

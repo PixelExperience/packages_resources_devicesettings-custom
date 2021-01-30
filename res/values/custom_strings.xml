@@ -93,7 +93,7 @@
     <string name="popup_camera_front_failed">Couldn\'t open front camera. Try again.</string>
     <string name="popup_camera_proximity_obstructed">Remove your hand from the proximity sensor to open the front camera...</string>
 
-    <!-- Title and summary -->
+    <!-- Moto Actions - Title and summary -->
     <string name="moto_actions_title">Moto Actions</string>
 
     <!-- Device gestures -->
@@ -157,23 +157,6 @@
     <!-- Proximity sensor -->
     <string name="allow_proximity_sensor_title">Allow proximity sensor</string>
     <string name="allow_proximity_sensor_summary">Check the proximity sensor before performing the action</string>
-
-    <!-- OnePlus - General -->
-    <string name="oneplus_advanced_settings">OnePlus Settings</string>
-    <string name="oneplus_advanced_settings_summary">Custom settings for your device</string>
-
-    <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_category_title">Alert slider</string>
-    <string name="notification_slider_selection_dialog_title">Action</string>
-    <string name="notification_slider_top_position">Top position</string>
-    <string name="notification_slider_middle_position">Middle position</string>
-    <string name="notification_slider_bottom_position">Bottom position</string>
-    <string name="notification_slider_mode_total_silence">Total silence</string>
-    <string name="notification_slider_mode_alarms_only">Alarms only</string>
-    <string name="notification_slider_mode_priority_only">Priority only</string>
-    <string name="notification_slider_mode_silent">Silent</string>
-    <string name="notification_slider_mode_vibrate">Vibrate</string>
-    <string name="notification_slider_mode_none">Normal</string>
 
     <!-- Thermal profiles -->
     <string name="thermal_title">Optimization profiles</string>

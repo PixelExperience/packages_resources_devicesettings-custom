@@ -182,4 +182,8 @@
     <string name="touch_sensitivity_summary">Controls touch sensitivity for repeated taps</string>
     <string name="touch_resistant_title">Touch-resistant area</string>
     <string name="touch_resistant_summary">Reduce touch sensitivity near the edges to avoid triggering touch controls</string>
+
+    <!-- Home button settings -->
+    <string name="home_button_extra_settings">Customize home button behavior</string>
+
 </resources>

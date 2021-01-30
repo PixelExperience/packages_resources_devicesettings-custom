@@ -141,8 +141,8 @@
     <string name="allow_proximity_sensor_title">Yakınlık sensörüne izin ver</string>
     <string name="allow_proximity_sensor_summary">İşlemi gerçekleştirmeden önce yakınlık sensörünü kontrol eder</string>
     <!-- OnePlus - General -->
-    <string name="advanced_settings">OnePlus Ayarları</string>
-    <string name="advanced_settings_summary">Cihazınız için özelleştirilmiş ayarlar</string>
+    <string name="oneplus_advanced_settings">OnePlus Ayarları</string>
+    <string name="oneplus_advanced_settings_summary">Cihazınız için özelleştirilmiş ayarlar</string>
     <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_category_title">Uyarı kaydırıcı</string>
     <string name="notification_slider_selection_dialog_title">Eylem</string>

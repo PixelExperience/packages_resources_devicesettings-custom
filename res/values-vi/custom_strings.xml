@@ -141,8 +141,8 @@
     <string name="allow_proximity_sensor_title">Cho phép cảm biến tiệm cận</string>
     <string name="allow_proximity_sensor_summary">Kiểm tra cảm biến tiệm cận trước khi thực hiện hành động</string>
     <!-- OnePlus - General -->
-    <string name="advanced_settings">Thiết đặt OnePlus</string>
-    <string name="advanced_settings_summary">Thiết lập tuỳ chỉnh cho thiết bị của bạn</string>
+    <string name="oneplus_advanced_settings">Thiết đặt OnePlus</string>
+    <string name="oneplus_advanced_settings_summary">Thiết lập tuỳ chỉnh cho thiết bị của bạn</string>
     <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_category_title">Thanh trượt cảnh báo</string>
     <string name="notification_slider_selection_dialog_title">Hành động</string>

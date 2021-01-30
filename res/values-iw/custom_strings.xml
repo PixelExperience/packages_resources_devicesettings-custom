@@ -139,8 +139,8 @@
     <string name="allow_proximity_sensor_title">אפשר חיישן קרבה</string>
     <string name="allow_proximity_sensor_summary">בדוק את חיישן הקרבה לפני ביצוע הפעולה</string>
     <!-- OnePlus - General -->
-    <string name="advanced_settings">הגדרות OnePlus</string>
-    <string name="advanced_settings_summary">הגדרות אישיות למכשיר שלך</string>
+    <string name="oneplus_advanced_settings">הגדרות OnePlus</string>
+    <string name="oneplus_advanced_settings_summary">הגדרות אישיות למכשיר שלך</string>
     <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_selection_dialog_title">פעולה</string>
     <string name="notification_slider_top_position">מיקום עליון</string>

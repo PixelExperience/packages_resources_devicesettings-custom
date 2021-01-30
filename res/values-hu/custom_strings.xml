@@ -141,8 +141,8 @@
     <string name="allow_proximity_sensor_title">Közelségérzékelő engedélyezése</string>
     <string name="allow_proximity_sensor_summary">A művelet végrehajtása előtt ellenőrizze a közelségérzékelőt</string>
     <!-- OnePlus - General -->
-    <string name="advanced_settings">OnePlus beállítások</string>
-    <string name="advanced_settings_summary">Haladó beállítások az Ön készülékéhez</string>
+    <string name="oneplus_advanced_settings">OnePlus beállítások</string>
+    <string name="oneplus_advanced_settings_summary">Haladó beállítások az Ön készülékéhez</string>
     <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_category_title">Csúszka-figyelmeztetés</string>
     <string name="notification_slider_selection_dialog_title">Művelet</string>

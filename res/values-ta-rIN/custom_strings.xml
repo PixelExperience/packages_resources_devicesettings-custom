@@ -134,8 +134,8 @@
     <string name="allow_proximity_sensor_title">ப்ரோக்ஸிமிட்டி சென்சார் அனுமதி</string>
     <string name="allow_proximity_sensor_summary">செயலைச் செய்வதற்கு முன்னர் அலைபேசி சென்சார் சரிபார்க்கவும்</string>
     <!-- OnePlus - General -->
-    <string name="advanced_settings">ஒன்ப்ளஸ் அமைப்புகள்</string>
-    <string name="advanced_settings_summary">உங்கள் சாதனத்திற்கான தனிப்பயன் அமைப்புகள்</string>
+    <string name="oneplus_advanced_settings">ஒன்ப்ளஸ் அமைப்புகள்</string>
+    <string name="oneplus_advanced_settings_summary">உங்கள் சாதனத்திற்கான தனிப்பயன் அமைப்புகள்</string>
     <!-- OnePlus - Alert slider settings -->
     <!-- Thermal profiles -->
     <string name="thermal_benchmark">செயற்திறன்</string>

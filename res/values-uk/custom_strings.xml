@@ -141,8 +141,8 @@
     <string name="allow_proximity_sensor_title">Увімкнути датчик наближення</string>
     <string name="allow_proximity_sensor_summary">Перевірити датчик наближення перед виконанням дії</string>
     <!-- OnePlus - General -->
-    <string name="advanced_settings">Налаштування OnePlus</string>
-    <string name="advanced_settings_summary">Додаткові налаштування пристрою</string>
+    <string name="oneplus_advanced_settings">Налаштування OnePlus</string>
+    <string name="oneplus_advanced_settings_summary">Додаткові налаштування пристрою</string>
     <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_category_title">Перемикач сповіщень</string>
     <string name="notification_slider_selection_dialog_title">Дія</string>

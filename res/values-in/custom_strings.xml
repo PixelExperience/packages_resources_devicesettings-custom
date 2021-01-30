@@ -141,8 +141,8 @@
     <string name="allow_proximity_sensor_title">Izinkan sensor jarak</string>
     <string name="allow_proximity_sensor_summary">Periksa sensor jarak sebelum melakukan aksi</string>
     <!-- OnePlus - General -->
-    <string name="advanced_settings">Setelan OnePlus</string>
-    <string name="advanced_settings_summary">Setelan kustom untuk perangkat anda</string>
+    <string name="oneplus_advanced_settings">Setelan OnePlus</string>
+    <string name="oneplus_advanced_settings_summary">Setelan kustom untuk perangkat anda</string>
     <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_category_title">Slider pengingat</string>
     <string name="notification_slider_selection_dialog_title">Aksi</string>

@@ -132,8 +132,8 @@
     <string name="allow_proximity_sensor_title">প্রক্সিমিটি সেন্সর অনুমোদন করুন</string>
     <string name="allow_proximity_sensor_summary">কার্যটি শুরু করার আগে সান্নিধ্য পরীক্ষা করুন</string>
     <!-- OnePlus - General -->
-    <string name="advanced_settings">ওয়ানপ্লাস সেটিংস</string>
-    <string name="advanced_settings_summary">আপনার ডিভাইসের জন্য পছন্দসই নিয়ন্ত্রণ</string>
+    <string name="oneplus_advanced_settings">ওয়ানপ্লাস সেটিংস</string>
+    <string name="oneplus_advanced_settings_summary">আপনার ডিভাইসের জন্য পছন্দসই নিয়ন্ত্রণ</string>
     <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_selection_dialog_title">আচরণ</string>
     <string name="notification_slider_top_position">উপরের স্থান</string>

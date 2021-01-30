@@ -141,8 +141,8 @@
     <string name="allow_proximity_sensor_title">近接センサーを許可</string>
     <string name="allow_proximity_sensor_summary">アクションを実行する前に近接センサーを確認する</string>
     <!-- OnePlus - General -->
-    <string name="advanced_settings">OnePlus 設定</string>
-    <string name="advanced_settings_summary">お使いの端末のカスタム設定</string>
+    <string name="oneplus_advanced_settings">OnePlus 設定</string>
+    <string name="oneplus_advanced_settings_summary">お使いの端末のカスタム設定</string>
     <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_category_title">Alert Slider</string>
     <string name="notification_slider_selection_dialog_title">アクション</string>

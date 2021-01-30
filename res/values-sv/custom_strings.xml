@@ -132,8 +132,8 @@
     <string name="allow_proximity_sensor_title">Tillåt rörelsesensor</string>
     <string name="allow_proximity_sensor_summary">Kontrollera närhetssensorn innan du utför åtgärden</string>
     <!-- OnePlus - General -->
-    <string name="advanced_settings">OnePlus inställingar</string>
-    <string name="advanced_settings_summary">Speciella Inställningar för din mobil</string>
+    <string name="oneplus_advanced_settings">OnePlus inställingar</string>
+    <string name="oneplus_advanced_settings_summary">Speciella Inställningar för din mobil</string>
     <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_selection_dialog_title">Åtgärd</string>
     <!-- Thermal profiles -->

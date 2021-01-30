@@ -141,8 +141,8 @@
     <string name="allow_proximity_sensor_title">Włącz czujnik zbliżeniowy</string>
     <string name="allow_proximity_sensor_summary">Sprawdź czujnik zbliżeniowy, przed wykonaniem akcji</string>
     <!-- OnePlus - General -->
-    <string name="advanced_settings">Ustawienia OnePlus</string>
-    <string name="advanced_settings_summary">Niestandardowe ustawienia urządzenia</string>
+    <string name="oneplus_advanced_settings">Ustawienia OnePlus</string>
+    <string name="oneplus_advanced_settings_summary">Niestandardowe ustawienia urządzenia</string>
     <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_category_title">Przełącznik powiadomień</string>
     <string name="notification_slider_selection_dialog_title">Czynność</string>

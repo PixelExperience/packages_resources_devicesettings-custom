@@ -136,8 +136,8 @@
     <string name="allow_proximity_sensor_title">เปิดใช้ การตรวจจับแนบหน้า</string>
     <string name="allow_proximity_sensor_summary">ตรวจเช็ค การตรวจจับแนบหน้า ก่อนเริ่มใช้งาน</string>
     <!-- OnePlus - General -->
-    <string name="advanced_settings">การตั้งค่า OnePlus</string>
-    <string name="advanced_settings_summary">การตั้งค่าแบบกำหนดเองสำหรับอุปกรณ์ของคุณ</string>
+    <string name="oneplus_advanced_settings">การตั้งค่า OnePlus</string>
+    <string name="oneplus_advanced_settings_summary">การตั้งค่าแบบกำหนดเองสำหรับอุปกรณ์ของคุณ</string>
     <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_selection_dialog_title">ดำเนินการ</string>
     <string name="notification_slider_top_position">ตำแหน่งบนสุด</string>

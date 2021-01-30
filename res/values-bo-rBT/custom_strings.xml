@@ -132,8 +132,8 @@
     <string name="allow_proximity_sensor_title">བར་ཐག་བརྒྱུད་ཁྲིད་ཆས་ཀྱི་ཁ་འབྱེད་པ།</string>
     <string name="allow_proximity_sensor_summary">ལག་བསྟར་མ་བྱས་གོང་བར་ཐག་བརྒྱུད་ཁྲིད་ཆས་ལ་ཞིབ་བཤེར་བྱེད་པ།</string>
     <!-- OnePlus - General -->
-    <string name="advanced_settings">OnePlus ཡི་སྒྲིག་བཀོད།</string>
-    <string name="advanced_settings_summary">རང་ཉིད་ཀྱི་སྒྲིག་བཀོད།</string>
+    <string name="oneplus_advanced_settings">OnePlus ཡི་སྒྲིག་བཀོད།</string>
+    <string name="oneplus_advanced_settings_summary">རང་ཉིད་ཀྱི་སྒྲིག་བཀོད།</string>
     <!-- OnePlus - Alert slider settings -->
     <!-- Thermal profiles -->
     <string name="thermal_title">སྒྲིག་འགོད་ཀྱི་ཡིག་ཆ་ལེགས་བཅོས་བྱེད།</string>

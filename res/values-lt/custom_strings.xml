@@ -141,8 +141,8 @@
     <string name="allow_proximity_sensor_title">Įjungti artumo jutiklį</string>
     <string name="allow_proximity_sensor_summary">Prieš atlikdami veiksmą, patikrinkite artumo jutiklį</string>
     <!-- OnePlus - General -->
-    <string name="advanced_settings">OnePlus nustatymai</string>
-    <string name="advanced_settings_summary">Pasirinktiniai nustatymai jūsų įrenginiui</string>
+    <string name="oneplus_advanced_settings">OnePlus nustatymai</string>
+    <string name="oneplus_advanced_settings_summary">Pasirinktiniai nustatymai jūsų įrenginiui</string>
     <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_category_title">Įspėjimo slankiklis</string>
     <string name="notification_slider_selection_dialog_title">Veiksmas</string>

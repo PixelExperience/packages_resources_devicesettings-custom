@@ -141,8 +141,8 @@
     <string name="allow_proximity_sensor_title">Датчык прыбліжэння</string>
     <string name="allow_proximity_sensor_summary">Перад выкананнем дзеяння праверыць датчык прыбліжэння</string>
     <!-- OnePlus - General -->
-    <string name="advanced_settings">Налады OnePlus</string>
-    <string name="advanced_settings_summary">Карыстацкія налады для вашай прылады</string>
+    <string name="oneplus_advanced_settings">Налады OnePlus</string>
+    <string name="oneplus_advanced_settings_summary">Карыстацкія налады для вашай прылады</string>
     <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_category_title">Пераключальнік апавяшчэнняў</string>
     <string name="notification_slider_selection_dialog_title">Дзеянне</string>

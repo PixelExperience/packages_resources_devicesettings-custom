@@ -132,8 +132,8 @@
     <string name="allow_proximity_sensor_title">ಸಾಮೀಪ್ಯ ಸೆನ್ಸರ್ ಅನ್ನು ಅನುಮತಿಸಿ</string>
     <string name="allow_proximity_sensor_summary">ಕ್ರಿಯೆಯನ್ನು ಪ್ರಾರಂಭಿಸುವ ಮುನ್ನ ಸಾಮೀಪ್ಯ ಸೆನ್ಸರ್ ಅನ್ನು ಪರಿಶೀಲಿಸಿ</string>
     <!-- OnePlus - General -->
-    <string name="advanced_settings">ಒನ್‌ಪ್ಲಸ್ ಸಂಯೋಜನೆಗಳು</string>
-    <string name="advanced_settings_summary">ನಿಮ್ಮ ಸಾಧನಕ್ಕೆ ಕಸ್ಟಮ್ ಸಂಯೋಜನೆಗಳು</string>
+    <string name="oneplus_advanced_settings">ಒನ್‌ಪ್ಲಸ್ ಸಂಯೋಜನೆಗಳು</string>
+    <string name="oneplus_advanced_settings_summary">ನಿಮ್ಮ ಸಾಧನಕ್ಕೆ ಕಸ್ಟಮ್ ಸಂಯೋಜನೆಗಳು</string>
     <!-- OnePlus - Alert slider settings -->
     <!-- Thermal profiles -->
     <string name="thermal_title">Kannada</string>

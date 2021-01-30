@@ -139,8 +139,8 @@
     <string name="allow_proximity_sensor_title">Activează senzorul de proximitate</string>
     <string name="allow_proximity_sensor_summary">Verifică senzorul de proximitate înainte de a efectua acțiunea</string>
     <!-- OnePlus - General -->
-    <string name="advanced_settings">Setări OnePlus</string>
-    <string name="advanced_settings_summary">Setări personalizate pentru dispozitivul dvs.</string>
+    <string name="oneplus_advanced_settings">Setări OnePlus</string>
+    <string name="oneplus_advanced_settings_summary">Setări personalizate pentru dispozitivul dvs.</string>
     <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_category_title">Slider de alertă</string>
     <string name="notification_slider_selection_dialog_title">Acţiune</string>

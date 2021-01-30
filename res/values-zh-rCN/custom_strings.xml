@@ -142,8 +142,8 @@
     <string name="allow_proximity_sensor_title">打开距离传感器</string>
     <string name="allow_proximity_sensor_summary">在执行操作前检查距离传感器</string>
     <!-- OnePlus - General -->
-    <string name="advanced_settings">一加设置</string>
-    <string name="advanced_settings_summary">设备自定义设置</string>
+    <string name="oneplus_advanced_settings">一加设置</string>
+    <string name="oneplus_advanced_settings_summary">设备自定义设置</string>
     <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_category_title">三段式开关</string>
     <string name="notification_slider_selection_dialog_title">操作</string>

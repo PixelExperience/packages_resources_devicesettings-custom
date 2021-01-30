@@ -105,8 +105,8 @@
     <!-- Double tap to wake -->
     <!-- Proximity sensor -->
     <!-- OnePlus - General -->
-    <string name="advanced_settings">OnePlus Iestatījumi</string>
-    <string name="advanced_settings_summary">Iestatījumi īpaši tavai ierīcei</string>
+    <string name="oneplus_advanced_settings">OnePlus Iestatījumi</string>
+    <string name="oneplus_advanced_settings_summary">Iestatījumi īpaši tavai ierīcei</string>
     <!-- OnePlus - Alert slider settings -->
     <!-- Thermal profiles -->
     <!-- Refresh Rate Settings -->

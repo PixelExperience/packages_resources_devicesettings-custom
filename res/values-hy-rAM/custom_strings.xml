@@ -122,8 +122,8 @@
     <!-- Proximity sensor -->
     <string name="allow_proximity_sensor_title">Միացնել զգայուն սենսորը</string>
     <!-- OnePlus - General -->
-    <string name="advanced_settings">OnePlus Կարգավորումներ</string>
-    <string name="advanced_settings_summary">Ձեր սարքի անհատական կարգավորումները</string>
+    <string name="oneplus_advanced_settings">OnePlus Կարգավորումներ</string>
+    <string name="oneplus_advanced_settings_summary">Ձեր սարքի անհատական կարգավորումները</string>
     <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_category_title">Զգուշացման սահունակ</string>
     <string name="notification_slider_selection_dialog_title">Գործողություն</string>

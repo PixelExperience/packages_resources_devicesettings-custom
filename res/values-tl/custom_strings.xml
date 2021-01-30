@@ -68,7 +68,7 @@
     <string name="allow_proximity_sensor_title">Payagan ang proximity sensor</string>
     <string name="allow_proximity_sensor_summary">Tignan ang proximity sensor bago gumawa ng aksyon</string>
     <!-- OnePlus - General -->
-    <string name="advanced_settings_summary">Custom settings para sa iyong aparato</string>
+    <string name="oneplus_advanced_settings_summary">Custom settings para sa iyong aparato</string>
     <!-- OnePlus - Alert slider settings -->
     <!-- Thermal profiles -->
     <string name="thermal_title">Optimization profile</string>

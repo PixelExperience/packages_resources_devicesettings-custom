@@ -134,8 +134,8 @@
     <string name="allow_proximity_sensor_title">Habilita el sensor de proximitat</string>
     <string name="allow_proximity_sensor_summary">Comprovar el sensor de proximitat abans d\'executar l\'acció</string>
     <!-- OnePlus - General -->
-    <string name="advanced_settings">Configuració OnePlus</string>
-    <string name="advanced_settings_summary">Configuració personalitzada del dispositiu</string>
+    <string name="oneplus_advanced_settings">Configuració OnePlus</string>
+    <string name="oneplus_advanced_settings_summary">Configuració personalitzada del dispositiu</string>
     <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_selection_dialog_title">Acció</string>
     <string name="notification_slider_top_position">Posició superior</string>

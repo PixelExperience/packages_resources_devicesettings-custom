@@ -132,7 +132,7 @@
     <string name="allow_proximity_sensor_title">Aktivér nærhedssensor</string>
     <string name="allow_proximity_sensor_summary">Tjek nærhedssensoren før handlingen udføres</string>
     <!-- OnePlus - General -->
-    <string name="advanced_settings">Oneplus Indstillinger</string>
+    <string name="oneplus_advanced_settings">Oneplus Indstillinger</string>
     <!-- OnePlus - Alert slider settings -->
     <!-- Thermal profiles -->
     <!-- Refresh Rate Settings -->

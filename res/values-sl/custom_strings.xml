@@ -134,8 +134,8 @@
     <string name="allow_proximity_sensor_title">Dovoli tipalo bližine</string>
     <string name="allow_proximity_sensor_summary">Preveri tipalo bližine preden se izvede dejanje</string>
     <!-- OnePlus - General -->
-    <string name="advanced_settings">OnePlus nastavitve</string>
-    <string name="advanced_settings_summary">Nastavitve po meri za vašo napravo</string>
+    <string name="oneplus_advanced_settings">OnePlus nastavitve</string>
+    <string name="oneplus_advanced_settings_summary">Nastavitve po meri za vašo napravo</string>
     <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_selection_dialog_title">Dejanje</string>
     <string name="notification_slider_top_position">Zgornji položaj</string>

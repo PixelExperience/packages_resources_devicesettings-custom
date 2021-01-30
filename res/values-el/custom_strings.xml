@@ -141,8 +141,8 @@
     <string name="allow_proximity_sensor_title">Ενεργοποίηση αισθητήρα εγγύτητας</string>
     <string name="allow_proximity_sensor_summary">Ελέγξτε τον αισθητήρα εγγύτητας πριν από την εκτέλεση της δράσης</string>
     <!-- OnePlus - General -->
-    <string name="advanced_settings">Ρυθμίσεις OnePlus</string>
-    <string name="advanced_settings_summary">Προσαρμοσμένες ρυθμίσεις για την συσκευή σας</string>
+    <string name="oneplus_advanced_settings">Ρυθμίσεις OnePlus</string>
+    <string name="oneplus_advanced_settings_summary">Προσαρμοσμένες ρυθμίσεις για την συσκευή σας</string>
     <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_category_title">Διακόπτης ειδοποιήσεων</string>
     <string name="notification_slider_selection_dialog_title">Ενέργεια</string>

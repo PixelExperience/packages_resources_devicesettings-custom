@@ -132,8 +132,8 @@
     <string name="allow_proximity_sensor_title">Ħalli s-sensur tal-prossimità</string>
     <string name="allow_proximity_sensor_summary">Iċċekkja s-sensur tal-prossimità qabel ma tagħmel l-azzjoni</string>
     <!-- OnePlus - General -->
-    <string name="advanced_settings">Settings tal-OnePlus</string>
-    <string name="advanced_settings_summary">Ippersonalizza s-settings għal-apparat tiegħek</string>
+    <string name="oneplus_advanced_settings">Settings tal-OnePlus</string>
+    <string name="oneplus_advanced_settings_summary">Ippersonalizza s-settings għal-apparat tiegħek</string>
     <!-- OnePlus - Alert slider settings -->
     <!-- Thermal profiles -->
     <string name="thermal_title">Profil tal-ottimizzazzjoni</string>

@@ -141,8 +141,8 @@
     <string name="allow_proximity_sensor_title">근접 센서 사용</string>
     <string name="allow_proximity_sensor_summary">작업을 수행하기 전에 근접 센서 확인</string>
     <!-- OnePlus - General -->
-    <string name="advanced_settings">OnePlus 설정</string>
-    <string name="advanced_settings_summary">기기의 맞춤 설정</string>
+    <string name="oneplus_advanced_settings">OnePlus 설정</string>
+    <string name="oneplus_advanced_settings_summary">기기의 맞춤 설정</string>
     <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_category_title">경고 슬라이더</string>
     <string name="notification_slider_selection_dialog_title">작업</string>

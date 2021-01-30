@@ -141,8 +141,8 @@
     <string name="allow_proximity_sensor_title">Omogući senzor blizine</string>
     <string name="allow_proximity_sensor_summary">Provjeri senzor blizine prije obavljanja radnje</string>
     <!-- OnePlus - General -->
-    <string name="advanced_settings">OnePlus postavke</string>
-    <string name="advanced_settings_summary">Prilagođene postavke za Vaš uređaj</string>
+    <string name="oneplus_advanced_settings">OnePlus postavke</string>
+    <string name="oneplus_advanced_settings_summary">Prilagođene postavke za Vaš uređaj</string>
     <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_category_title">Klizač upozorenja</string>
     <string name="notification_slider_selection_dialog_title">Radnja</string>

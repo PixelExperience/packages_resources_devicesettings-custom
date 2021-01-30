@@ -136,8 +136,8 @@
     <string name="allow_proximity_sensor_title">Сензор за близост</string>
     <string name="allow_proximity_sensor_summary">Проверете сензора за близост, преди да извършите действието</string>
     <!-- OnePlus - General -->
-    <string name="advanced_settings">OnePlus настройки</string>
-    <string name="advanced_settings_summary">Потребителски настройки за устройството ви</string>
+    <string name="oneplus_advanced_settings">OnePlus настройки</string>
+    <string name="oneplus_advanced_settings_summary">Потребителски настройки за устройството ви</string>
     <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_selection_dialog_title">Действие</string>
     <string name="notification_slider_top_position">Най-горна позиция</string>

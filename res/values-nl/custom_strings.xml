@@ -131,8 +131,8 @@
     <string name="allow_proximity_sensor_title">Nabijheidsensor gebruiken</string>
     <string name="allow_proximity_sensor_summary">Nabijheidsensor checken voordat actie wordt uitgevoerd</string>
     <!-- OnePlus - General -->
-    <string name="advanced_settings">OnePlus Instellingen</string>
-    <string name="advanced_settings_summary">Aangepaste instellingen voor uw apparaat</string>
+    <string name="oneplus_advanced_settings">OnePlus Instellingen</string>
+    <string name="oneplus_advanced_settings_summary">Aangepaste instellingen voor uw apparaat</string>
     <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_selection_dialog_title">Actie</string>
     <string name="notification_slider_top_position">Boven positie</string>

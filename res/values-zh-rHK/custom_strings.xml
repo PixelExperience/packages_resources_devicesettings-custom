@@ -139,8 +139,8 @@
     <string name="allow_proximity_sensor_title">開啟距離感應器</string>
     <string name="allow_proximity_sensor_summary">執行動作前檢查距離感應器</string>
     <!-- OnePlus - General -->
-    <string name="advanced_settings">OnePlus 設定</string>
-    <string name="advanced_settings_summary">您裝置的自訂設定</string>
+    <string name="oneplus_advanced_settings">OnePlus 設定</string>
+    <string name="oneplus_advanced_settings_summary">您裝置的自訂設定</string>
     <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_category_title">三段式通知開關</string>
     <string name="notification_slider_selection_dialog_title">動作</string>

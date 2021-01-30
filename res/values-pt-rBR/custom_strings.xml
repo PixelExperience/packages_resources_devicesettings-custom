@@ -142,8 +142,8 @@
     <string name="allow_proximity_sensor_title">Habilitar o sensor de proximidade</string>
     <string name="allow_proximity_sensor_summary">Verificar o sensor de proximidade antes de executar a ação</string>
     <!-- OnePlus - General -->
-    <string name="advanced_settings">Configurações OnePlus</string>
-    <string name="advanced_settings_summary">Configurações personalizadas para o seu dispositivo</string>
+    <string name="oneplus_advanced_settings">Configurações OnePlus</string>
+    <string name="oneplus_advanced_settings_summary">Configurações personalizadas para o seu dispositivo</string>
     <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_category_title">Botão deslizante</string>
     <string name="notification_slider_selection_dialog_title">Ação</string>

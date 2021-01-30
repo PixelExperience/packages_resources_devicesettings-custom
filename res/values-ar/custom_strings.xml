@@ -139,8 +139,8 @@
     <string name="allow_proximity_sensor_title">تشغيل مستشعر التقارب</string>
     <string name="allow_proximity_sensor_summary">تحقق من مستشعر القرب قبل تنفيذ الإجراء</string>
     <!-- OnePlus - General -->
-    <string name="advanced_settings">إعدادات OnePlus</string>
-    <string name="advanced_settings_summary">إعدادات مخصصة لجهازك</string>
+    <string name="oneplus_advanced_settings">إعدادات OnePlus</string>
+    <string name="oneplus_advanced_settings_summary">إعدادات مخصصة لجهازك</string>
     <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_category_title">مزلاق التنبيه</string>
     <string name="notification_slider_selection_dialog_title">إجراء</string>

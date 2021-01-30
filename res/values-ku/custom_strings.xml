@@ -139,8 +139,8 @@
     <string name="allow_proximity_sensor_title">چالاککردنی هەستەوەری نزیکی</string>
     <string name="allow_proximity_sensor_summary">هەستەوەرەکە بپشکنە پێش ئەنجامدانی ئەو کردارە</string>
     <!-- OnePlus - General -->
-    <string name="advanced_settings">ڕێکخستنەکانی وەنپڵەس</string>
-    <string name="advanced_settings_summary">ڕێکخستنی دەستی بۆ ئامێرەکەت</string>
+    <string name="oneplus_advanced_settings">ڕێکخستنەکانی وەنپڵەس</string>
+    <string name="oneplus_advanced_settings_summary">ڕێکخستنی دەستی بۆ ئامێرەکەت</string>
     <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_category_title">ئاگادارکردنەوەی ڕاکێشان</string>
     <string name="notification_slider_selection_dialog_title">کردار</string>

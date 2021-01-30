@@ -141,8 +141,8 @@
     <string name="allow_proximity_sensor_title">Luba lähedussensor</string>
     <string name="allow_proximity_sensor_summary">Kontrollige lähedussensorit enne tegevuse sooritamist</string>
     <!-- OnePlus - General -->
-    <string name="advanced_settings">OnePlus\'i seaded</string>
-    <string name="advanced_settings_summary">Kohandatud seaded sinu seadmele</string>
+    <string name="oneplus_advanced_settings">OnePlus\'i seaded</string>
+    <string name="oneplus_advanced_settings_summary">Kohandatud seaded sinu seadmele</string>
     <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_category_title">Teatise lüliti</string>
     <string name="notification_slider_selection_dialog_title">Tegevus</string>

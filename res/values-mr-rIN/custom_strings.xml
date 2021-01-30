@@ -113,8 +113,8 @@
     <string name="tap_to_wake_summary">डिव्हाइस सक्रिय करण्यासाठी स्क्रीनवर कुठेही दोनदा टॅप करा</string>
     <!-- Proximity sensor -->
     <!-- OnePlus - General -->
-    <string name="advanced_settings">वन प्लस सेटिंग</string>
-    <string name="advanced_settings_summary">फोन करता कस्टम सेटिंग</string>
+    <string name="oneplus_advanced_settings">वन प्लस सेटिंग</string>
+    <string name="oneplus_advanced_settings_summary">फोन करता कस्टम सेटिंग</string>
     <!-- OnePlus - Alert slider settings -->
     <!-- Thermal profiles -->
     <!-- Refresh Rate Settings -->

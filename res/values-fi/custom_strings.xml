@@ -142,8 +142,8 @@
     <string name="allow_proximity_sensor_title">Ota etäisyysanturi käyttöön</string>
     <string name="allow_proximity_sensor_summary">Tarkista etäisyysanturi ennen toiminnon suorittamista</string>
     <!-- OnePlus - General -->
-    <string name="advanced_settings">OnePlus Asetukset</string>
-    <string name="advanced_settings_summary">Muokatut asetukset laitteellesi</string>
+    <string name="oneplus_advanced_settings">OnePlus Asetukset</string>
+    <string name="oneplus_advanced_settings_summary">Muokatut asetukset laitteellesi</string>
     <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_category_title">Hälytys säädin</string>
     <string name="notification_slider_selection_dialog_title">Toiminto</string>

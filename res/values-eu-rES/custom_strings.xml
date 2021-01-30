@@ -133,8 +133,8 @@
     <string name="allow_proximity_sensor_title">Gertutasun sentsorea gaitu</string>
     <string name="allow_proximity_sensor_summary">Gertutasun sentsorea egiaztatu ekintza egin bano lehen</string>
     <!-- OnePlus - General -->
-    <string name="advanced_settings">OnePlus ezarpenak</string>
-    <string name="advanced_settings_summary">Zure mugikorrentzako ezarpen pertsonalizatuak</string>
+    <string name="oneplus_advanced_settings">OnePlus ezarpenak</string>
+    <string name="oneplus_advanced_settings_summary">Zure mugikorrentzako ezarpen pertsonalizatuak</string>
     <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_selection_dialog_title">Ekintza</string>
     <string name="notification_slider_top_position">Goian</string>

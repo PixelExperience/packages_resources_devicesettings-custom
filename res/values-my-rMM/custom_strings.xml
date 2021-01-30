@@ -132,8 +132,8 @@
     <string name="allow_proximity_sensor_title">အကွာအ‌ဝေးအာရုံခံကိရိယာကို ခွင့်ပြုမည်</string>
     <string name="allow_proximity_sensor_summary">လုပ်ဆောင်ချက်တခုကို မပြုလုပ်မီ အကွာအ‌ဝေးအာရုံခံကိရိယာကို စစ်ဆေးပါ</string>
     <!-- OnePlus - General -->
-    <string name="advanced_settings">OnePlus ချိန်ညှိမှုများ</string>
-    <string name="advanced_settings_summary">သင့်ဖုန်းအတွက် သင့်စိတ်ကြိုက်ချိန်ညှိမှုများ</string>
+    <string name="oneplus_advanced_settings">OnePlus ချိန်ညှိမှုများ</string>
+    <string name="oneplus_advanced_settings_summary">သင့်ဖုန်းအတွက် သင့်စိတ်ကြိုက်ချိန်ညှိမှုများ</string>
     <!-- OnePlus - Alert slider settings -->
     <!-- Thermal profiles -->
     <string name="thermal_title">ဖုန်းကို ပိုမိုကောင်းမွန်အောင် ပြုလုပ်ပေးခြင်း အချက်အလက်များ</string>

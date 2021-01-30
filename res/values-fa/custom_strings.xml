@@ -134,8 +134,8 @@
     <string name="allow_proximity_sensor_title">اجازه دادن به سنسور مجاورت</string>
     <string name="allow_proximity_sensor_summary">قبل از انجام عمل، سنسور مجاورت را بررسی کن</string>
     <!-- OnePlus - General -->
-    <string name="advanced_settings">تنظیمات وان پلاس</string>
-    <string name="advanced_settings_summary">تنظیمات سفارشی برای دستگاه شما</string>
+    <string name="oneplus_advanced_settings">تنظیمات وان پلاس</string>
+    <string name="oneplus_advanced_settings_summary">تنظیمات سفارشی برای دستگاه شما</string>
     <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_selection_dialog_title">عملکرد</string>
     <string name="notification_slider_top_position">بالاترین موقعیت</string>

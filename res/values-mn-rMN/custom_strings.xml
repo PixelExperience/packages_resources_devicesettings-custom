@@ -48,7 +48,7 @@
     <string name="tap_to_wake_summary">Дэлгэц дээр 2 удаа дарж сэрээх</string>
     <!-- Proximity sensor -->
     <!-- OnePlus - General -->
-    <string name="advanced_settings">OnePlus тохиргоонууд</string>
+    <string name="oneplus_advanced_settings">OnePlus тохиргоонууд</string>
     <!-- OnePlus - Alert slider settings -->
     <!-- Thermal profiles -->
     <!-- Refresh Rate Settings -->

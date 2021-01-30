@@ -59,8 +59,8 @@
     <!-- Double tap to wake -->
     <!-- Proximity sensor -->
     <!-- OnePlus - General -->
-    <string name="advanced_settings">OnePlus සැකසුම්</string>
-    <string name="advanced_settings_summary">අභිරුචිය අනුව ඔබගේ උපාංගයේ සැකසුම්</string>
+    <string name="oneplus_advanced_settings">OnePlus සැකසුම්</string>
+    <string name="oneplus_advanced_settings_summary">අභිරුචිය අනුව ඔබගේ උපාංගයේ සැකසුම්</string>
     <!-- OnePlus - Alert slider settings -->
     <!-- Thermal profiles -->
     <!-- Refresh Rate Settings -->

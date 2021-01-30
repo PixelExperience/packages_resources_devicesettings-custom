@@ -122,8 +122,8 @@
     <string name="allow_proximity_sensor_title">പ്രോക്സിമിറ്റി സെൻസർ അനുവദിക്കുക</string>
     <string name="allow_proximity_sensor_summary">പ്രവർത്തനം നടത്തുന്നതിന് മുമ്പ് പ്രോക്സിമിറ്റി സെൻസർ പരിശോധിക്കുക</string>
     <!-- OnePlus - General -->
-    <string name="advanced_settings">വൺപ്ലസ് ക്രമീകരണങ്ങൾ</string>
-    <string name="advanced_settings_summary">നിങ്ങളുടെ ഉപകരണത്തിനായുള്ള ഇഷ്‌ടാനുസൃത ക്രമീകരണങ്ങൾ</string>
+    <string name="oneplus_advanced_settings">വൺപ്ലസ് ക്രമീകരണങ്ങൾ</string>
+    <string name="oneplus_advanced_settings_summary">നിങ്ങളുടെ ഉപകരണത്തിനായുള്ള ഇഷ്‌ടാനുസൃത ക്രമീകരണങ്ങൾ</string>
     <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_category_title">അലേർട്ട് സ്ലൈഡർ</string>
     <string name="notification_slider_selection_dialog_title">പ്രവർത്തനം</string>

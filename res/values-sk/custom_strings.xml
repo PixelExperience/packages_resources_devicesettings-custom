@@ -139,8 +139,8 @@
     <string name="allow_proximity_sensor_title">Povoliť senzor priblíženia</string>
     <string name="allow_proximity_sensor_summary">Skontrolovať senzor priblíženia pred vykonaním akcie</string>
     <!-- OnePlus - General -->
-    <string name="advanced_settings">OnePlus nastavenia</string>
-    <string name="advanced_settings_summary">Vlastné nastavenia pre vaše zariadenie</string>
+    <string name="oneplus_advanced_settings">OnePlus nastavenia</string>
+    <string name="oneplus_advanced_settings_summary">Vlastné nastavenia pre vaše zariadenie</string>
     <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_category_title">Posuvník upozornení</string>
     <string name="notification_slider_selection_dialog_title">Akcia</string>

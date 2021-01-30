@@ -141,8 +141,8 @@
     <string name="allow_proximity_sensor_title">Näherungssensor aktivieren</string>
     <string name="allow_proximity_sensor_summary">Überprüfen Sie den Näherungssensor, bevor Sie diese Aktion ausführen</string>
     <!-- OnePlus - General -->
-    <string name="advanced_settings">OnePlus Einstellungen</string>
-    <string name="advanced_settings_summary">Benutzerdefinierte Einstellungen für das Gerät</string>
+    <string name="oneplus_advanced_settings">OnePlus Einstellungen</string>
+    <string name="oneplus_advanced_settings_summary">Benutzerdefinierte Einstellungen für das Gerät</string>
     <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_category_title">Alarm-Schieberegler</string>
     <string name="notification_slider_selection_dialog_title">Aktion</string>

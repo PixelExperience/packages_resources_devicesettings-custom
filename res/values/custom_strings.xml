@@ -179,7 +179,7 @@
     <!-- Touch Control Settings -->
     <string name="touch_control_title">Touch Control</string>
     <string name="touch_game_mode_title">Enable game mode</string>
-    <string name="touch_game_mode_summary">Increases touch sampling rate to 180Hz</string>
+    <string name="touch_game_mode_summary">Activate manual touchscreen feature controls for a better gaming experience</string>
     <string name="touch_response_title">Touch response</string>
     <string name="touch_response_summary">Controls touch response</string>
     <string name="touch_sensitivity_title">Touch sensitivity</string>

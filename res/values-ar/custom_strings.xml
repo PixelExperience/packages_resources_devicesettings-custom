@@ -15,41 +15,24 @@
      limitations under the License.
 -->
 <resources>
-    <!-- DC Dimming settings -->
     <string name="display_title">الشاشة</string>
-    <!-- Dirac settings -->
+    <string name="dc_dimming_enable_title">مضاد الوميض</string>
+    <string name="dc_dimming_enable_summary">وضع مضاد الوميض يساعد على تقليل إجهاد العيم في ظروف الإضاءة المنخفضة باستخدام خاصية \"التعتيم باستخدام التيار المستمر\". ربما يقلل ذلك من دقة الألوان ويؤثر في كيفية عرض بعض العناصر.</string>
     <string name="dirac_title">محسن صوت Mi</string>
     <string name="dirac_summary">تحسين جودة الصوت</string>
     <string name="dirac_headset_title">اختيار نوع سماعة الرأس</string>
     <string name="dirac_preset_title">اختر إعداد</string>
-    <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">صوت Hi-Fi</string>
     <string name="dirac_hifi_summary">تقليل الضوضاء والتشويش وزيادة جودة الصوت</string>
-    <!-- Dirac settings: Headset types -->
+    <string name="dirac_hifi_enable_title">تمكين Hi-fi</string>
     <string name="dirac_headset_default">التطبيقات التلقائية</string>
-    <string name="dirac_headset_earbuds">Mi Earbuds</string>
     <string name="dirac_headset_in_ear_2013">(Mi In-Ear (2013</string>
-    <string name="dirac_headset_piston_1">Mi Piston-1</string>
-    <string name="dirac_headset_general">General</string>
-    <string name="dirac_headset_general_inear">General In-Ear</string>
     <string name="dirac_headset_piston_basic">الإصدار الرئيسي</string>
-    <string name="dirac_headset_piston_2">Mi Piston-2</string>
     <string name="dirac_headset_piston_standard">الإصدار القياسي</string>
     <string name="dirac_headset_headphone">سماعات رأس Mi</string>
     <string name="dirac_headset_piston_youth">الإصدار الشبابي</string>
     <string name="dirac_headset_piston_color">الإصدار الملون</string>
-    <string name="dirac_headset_in_ear">Mi In-Ear</string>
-    <string name="dirac_headset_capsule">Mi Capsule</string>
-    <string name="dirac_headset_in_ear_pro">Mi In-Ear Pro</string>
-    <string name="dirac_headset_comfort">Mi Comfort</string>
-    <string name="dirac_headset_reduction_noise">Mi Noise Cancelling Type-C</string>
-    <string name="dirac_headset_cancelling">Mi Noise Cancelling 3.5mm</string>
-    <string name="dirac_headset_half_in_ear">Mi Half In-Ear</string>
-    <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
-    <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
-    <string name="dirac_headset_earphone">Mi Earphones</string>
-    <!-- Dirac settings: Equalizer presets -->
-    <string name="dirac_preset_default">الافتراضي</string>
+    <string name="dirac_preset_default">التطبيقات التلقائية</string>
     <string name="dirac_preset_rock">روك</string>
     <string name="dirac_preset_jazz">جاز</string>
     <string name="dirac_preset_pop">بوب</string>
@@ -60,7 +43,6 @@
     <string name="dirac_preset_country">الريف</string>
     <string name="dirac_preset_dance">رقص</string>
     <string name="dirac_preset_metal">معدن</string>
-    <!-- Popup camera settings -->
     <string name="popup_settings_title">خيارات الكاميرا المنبثقة</string>
     <string name="popup_led_title">ضوء الكاميرا</string>
     <string name="popup_led_summary">تشغيل ضوء التنبيهات عند ظهور واختفاء الكاميرا الأمامية</string>
@@ -71,7 +53,6 @@
     <string name="popup_title_jijia">ميكا</string>
     <string name="popup_title_chilun">عجلة مسننة</string>
     <string name="popup_title_cangmen">باب مقصورة</string>
-    <!-- Popup camera strings -->
     <string name="popup_camera_tip">تنبيه</string>
     <string name="popup_camera_takeback_failed_times_calibrate">تعذر إغلاق الكاميرا الامامية عدة مرات. حاول معايرة الكاميرا.</string>
     <string name="popup_camera_popup_failed_times_calibrate">تعذر فتح الكاميرا الامامية عدة مرات. حاول معايرة الكاميرا.</string>
@@ -83,23 +64,17 @@
     <string name="takeback_camera_front_failed">تعذر فتح الكاميرا الامامية. حاول مجددا.</string>
     <string name="popup_camera_front_failed">تعذر فتح الكاميرا الامامية. حاول مجدداً.</string>
     <string name="popup_camera_proximity_obstructed">أبعد يدك عن مستشعر القرب لتشغيل الكاميرا الأمامية</string>
-    <!-- Title and summary -->
     <string name="moto_actions_title">إجراءات موتو</string>
-    <!-- Device gestures -->
     <string name="device_gestures_title">إيماءات الجهاز</string>
     <string name="device_gestures_summary">إدارة إيماءات الجهاز</string>
-    <!-- Ambient display gestures -->
     <string name="ambient_display_manage_summary">ادارة إيماءات العرض المحيطي</string>
-    <!-- Fingerprint gestures -->
     <string name="fingerprint_gestures_title">إيماءات البصمة</string>
     <string name="fingerprint_gestures_summary">استخدم إيماءات البصمة</string>
     <string name="fingerprint_gestures_manage_summary">ادارة إيماءات البصمة</string>
     <string name="fingerprint_actions_screenon">إجراءات مع الشاشة مشغلة</string>
-    <!-- Fingerprint gestures screen off -->
     <string name="fingerprint_gestures_screenoff_title">إيماءات البصمة عندما تكون الشاشة مغلقة</string>
     <string name="fingerprint_gestures_screenoff_summary">استخدم إيماءات البصمة عندما تكون الشاشة مغلقة، يجب الغاء الفتح عن طريق البصمة للاستفادة من هذه الميزة.</string>
     <string name="fingerprint_actions_screenoff">إجراءات مع الشاشة مغلقة</string>
-    <!-- Actions -->
     <string name="action_home">الصفحة الرئيسية</string>
     <string name="action_power">الشاشة تشغيل/إيقاف</string>
     <string name="action_wake">أيقظ</string>
@@ -119,41 +94,21 @@
     <string name="action_dialer">افتح لوحة مفاتيح الاتصال</string>
     <string name="action_email">افتح تطبيق البريد الإلكتروني</string>
     <string name="action_messages">افتح تطبيق الرسائل</string>
-    <!-- Screen off gestures -->
     <string name="screen_off_gestures_manage_summary">إدارة الإيماءات عندما تكون الشاشة مغلقة</string>
-    <!-- Swipe/tap/long tap -->
     <string name="swipe_left_dlg_title">حدد اجراء السحب الى اليسار</string>
     <string name="swipe_right_dlg_title">حدد إجراء السحب الى اليمين</string>
     <string name="swipe_up_dlg_title">حدد اجراء السحب الى الاعلى</string>
     <string name="swipe_down_dlg_title">حدد إجراء السحب الى الأسفل</string>
     <string name="tap_title">نقرة واحدة</string>
-    <string name="double_tap_title">نقرة مزدوجة</string>
-    <string name="long_tap_title">نقرة مطولة</string>
+    <string name="double_tap_title">نقرتين</string>
+    <string name="long_tap_title">لمس مع الإستمرار</string>
     <string name="tap_dlg_title">حدد إجراء للنقرة الواحدة</string>
     <string name="double_tap_dlg_title">حدد إجراء للنقرة المزدوجة</string>
     <string name="long_tap_dlg_title">حدد إجراء للنقر المطول</string>
-    <!-- Double tap to wake -->
     <string name="tap_to_wake">انقر للإيقاظ</string>
     <string name="tap_to_wake_summary">انقر نقرًا مزدوجًا على أي مكان بالشاشة لإيقاظ الجهاز من وضع السكون</string>
-    <!-- Proximity sensor -->
     <string name="allow_proximity_sensor_title">تشغيل مستشعر التقارب</string>
     <string name="allow_proximity_sensor_summary">تحقق من مستشعر القرب قبل تنفيذ الإجراء</string>
-    <!-- OnePlus - General -->
-    <string name="oneplus_advanced_settings">إعدادات OnePlus</string>
-    <string name="oneplus_advanced_settings_summary">إعدادات مخصصة لجهازك</string>
-    <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_category_title">مزلاق التنبيه</string>
-    <string name="notification_slider_selection_dialog_title">إجراء</string>
-    <string name="notification_slider_top_position">الموضع العلوي</string>
-    <string name="notification_slider_middle_position">الموضع الوسطي</string>
-    <string name="notification_slider_bottom_position">الموضع السفلي</string>
-    <string name="notification_slider_mode_total_silence">كتم الصوت تماماً</string>
-    <string name="notification_slider_mode_alarms_only">التنبيهات فقط</string>
-    <string name="notification_slider_mode_priority_only">الأولوية فقط</string>
-    <string name="notification_slider_mode_silent">صامت</string>
-    <string name="notification_slider_mode_vibrate">اهتزاز</string>
-    <string name="notification_slider_mode_none">عادي</string>
-    <!-- Thermal profiles -->
     <string name="thermal_title">وضع التحسين</string>
     <string name="thermal_summary">تعديل الإعدادات بحسب نوع التطبيق لأفضل أداء</string>
     <string name="thermal_default">بدون تحسين</string>
@@ -163,5 +118,5 @@
     <string name="thermal_dialer">الإتصال</string>
     <string name="thermal_gaming">الألعاب</string>
     <string name="thermal_streaming">تطبيقات البث</string>
-    <!-- Refresh Rate Settings -->
+    <string name="device_min_refresh_rate">معدل التحديث الأدنى</string>
 </resources>

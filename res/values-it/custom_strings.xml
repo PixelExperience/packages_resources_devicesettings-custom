@@ -15,19 +15,16 @@
      limitations under the License.
 -->
 <resources>
-    <!-- DC Dimming settings -->
     <string name="display_title">Display</string>
     <string name="dc_dimming_enable_title">Anti-sfarfallio</string>
     <string name="dc_dimming_enable_summary">La modalità anti-sfarfallio aiuta a ridurre l\'affaticamento degli occhi in condizioni di scarsa luminosità utilizzando la funzione \"DC dimming\". Essa potrebbe diminuire l\'accuratezza dei colori ed influire sul modo in cui alcuni elementi sono visualizzati.</string>
-    <!-- Dirac settings -->
     <string name="dirac_title">Ottimizzazione Mi Sound</string>
     <string name="dirac_summary">Ottimizza qualità audio</string>
     <string name="dirac_headset_title">Scegli il tipo di cuffie</string>
     <string name="dirac_preset_title">Scegli una regolazione audio predefinita</string>
-    <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">Audio ad alta fedeltà (Hi-Fi)</string>
     <string name="dirac_hifi_summary">Riduce disturbo e distorsione ed aumenta la qualità audio</string>
-    <!-- Dirac settings: Headset types -->
+    <string name="dirac_hifi_enable_title">Abilita Hi-fi</string>
     <string name="dirac_headset_default">Predefinite</string>
     <string name="dirac_headset_earbuds">Auricolari Mi</string>
     <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
@@ -46,12 +43,11 @@
     <string name="dirac_headset_comfort">Mi Comfort</string>
     <string name="dirac_headset_reduction_noise">Cancellazione Rumore Mi Type-C</string>
     <string name="dirac_headset_cancelling">Cancellazione Rumore Mi 3.5mm</string>
-    <string name="dirac_headset_half_in_ear">Mi Half In-Ear</string>
+    <string name="dirac_headset_half_in_ear">Mi In-ear parziale</string>
     <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
     <string name="dirac_headset_earphone_basic">Auricolari Mi Basic</string>
     <string name="dirac_headset_earphone">Auricolari Mi</string>
-    <!-- Dirac settings: Equalizer presets -->
-    <string name="dirac_preset_default">Predefinito</string>
+    <string name="dirac_preset_default">Predefinite</string>
     <string name="dirac_preset_rock">Rock</string>
     <string name="dirac_preset_jazz">Jazz</string>
     <string name="dirac_preset_pop">Pop</string>
@@ -62,7 +58,6 @@
     <string name="dirac_preset_country">Country</string>
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metal</string>
-    <!-- Popup camera settings -->
     <string name="popup_settings_title">Impostazioni fotocamera anteriore</string>
     <string name="popup_led_title">Luce lampeggiante</string>
     <string name="popup_led_summary">Lampeggia la luce quando la fotocamera anteriore viene aperta o chiusa</string>
@@ -73,7 +68,6 @@
     <string name="popup_title_jijia">Robot</string>
     <string name="popup_title_chilun">Ingranaggio</string>
     <string name="popup_title_cangmen">Portellone</string>
-    <!-- Popup camera strings -->
     <string name="popup_camera_tip">Attenzione</string>
     <string name="popup_camera_takeback_failed_times_calibrate">Impossibile chiudere la fotocamera anteriore più volte. Prova a calibrarla.</string>
     <string name="popup_camera_popup_failed_times_calibrate">Impossibile aprire la fotocamera anteriore più volte. Prova a calibrarla.</string>
@@ -85,23 +79,17 @@
     <string name="takeback_camera_front_failed">Impossibile chiudere la fotocamera anteriore. Riprova.</string>
     <string name="popup_camera_front_failed">Impossibile aprire la fotocamera anteriore. Riprova.</string>
     <string name="popup_camera_proximity_obstructed">Allontana la mano dal sensore di prossimità per aprire la fotocamera anteriore.</string>
-    <!-- Title and summary -->
     <string name="moto_actions_title">Azioni di movimento</string>
-    <!-- Device gestures -->
     <string name="device_gestures_title">Gestures del dispositivo</string>
     <string name="device_gestures_summary">Gestione delle gestures del dispositivo</string>
-    <!-- Ambient display gestures -->
     <string name="ambient_display_manage_summary">Gestisci i gesti del Display ambient</string>
-    <!-- Fingerprint gestures -->
     <string name="fingerprint_gestures_title">Gestures del sensore di impronte digitali</string>
     <string name="fingerprint_gestures_summary">Utilizza le gestures del sensore di impronte digitali</string>
     <string name="fingerprint_gestures_manage_summary">Gestisci le gestures del sensore di impronte digitali</string>
     <string name="fingerprint_actions_screenon">Azioni con schermo acceso</string>
-    <!-- Fingerprint gestures screen off -->
     <string name="fingerprint_gestures_screenoff_title">Gesti del sensore di impronte digitali quando lo schermo è spento</string>
     <string name="fingerprint_gestures_screenoff_summary">Utilizza i gesti del sensore di impronte digitali quando lo schermo è spento.\n\nLo sblocco tramite impronta digitale deve essere disattivato per poter utilizzare questa funzione.</string>
     <string name="fingerprint_actions_screenoff">Azioni con schermo spento</string>
-    <!-- Actions -->
     <string name="action_home">Pagina iniziale</string>
     <string name="action_power">Accendi/spegni schermo</string>
     <string name="action_wake">Riattiva</string>
@@ -121,41 +109,21 @@
     <string name="action_dialer">Apri l\'app Telefono</string>
     <string name="action_email">Apri l\'app e-mail</string>
     <string name="action_messages">Apri l\'app Messaggi</string>
-    <!-- Screen off gestures -->
     <string name="screen_off_gestures_manage_summary">Personalizza i gesti per quando lo schermo è spento</string>
-    <!-- Swipe/tap/long tap -->
     <string name="swipe_left_dlg_title">Seleziona l\'azione per lo scorrimento verso sinistra</string>
     <string name="swipe_right_dlg_title">Seleziona l\'azione per lo scorrimento verso destra</string>
     <string name="swipe_up_dlg_title">Seleziona l\'azione per lo scorrimento verso l\'alto</string>
     <string name="swipe_down_dlg_title">Seleziona l\'azione per lo scorrimento verso il basso</string>
     <string name="tap_title">Singolo tocco</string>
     <string name="double_tap_title">Doppio tocco</string>
-    <string name="long_tap_title">Pressione prolungata</string>
+    <string name="long_tap_title">Tocco prolungato</string>
     <string name="tap_dlg_title">Seleziona l\'azione per il singolo tocco</string>
     <string name="double_tap_dlg_title">Seleziona l\'azione per il doppio tocco</string>
     <string name="long_tap_dlg_title">Seleziona l\'azione per la pressione prolungata</string>
-    <!-- Double tap to wake -->
     <string name="tap_to_wake">Tocca per riattivare</string>
     <string name="tap_to_wake_summary">Tocca due volte un punto qualsiasi dello schermo per riattivare il dispositivo</string>
-    <!-- Proximity sensor -->
     <string name="allow_proximity_sensor_title">Autorizza il sensore di prossimità</string>
     <string name="allow_proximity_sensor_summary">Controlla il sensore di prossimità prima di eseguire l\'azione</string>
-    <!-- OnePlus - General -->
-    <string name="oneplus_advanced_settings">Impostazioni OnePlus</string>
-    <string name="oneplus_advanced_settings_summary">Impostazioni personalizzate per il tuo dispositivo</string>
-    <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_category_title">Dispositivo di scorrimento delle notifiche</string>
-    <string name="notification_slider_selection_dialog_title">Azione</string>
-    <string name="notification_slider_top_position">Silenzioso</string>
-    <string name="notification_slider_middle_position">Vibrazione</string>
-    <string name="notification_slider_bottom_position">Squillo</string>
-    <string name="notification_slider_mode_total_silence">Silenzio totale</string>
-    <string name="notification_slider_mode_alarms_only">Solo sveglie</string>
-    <string name="notification_slider_mode_priority_only">Solo con priorità</string>
-    <string name="notification_slider_mode_silent">Silenzioso</string>
-    <string name="notification_slider_mode_vibrate">Vibrazione</string>
-    <string name="notification_slider_mode_none">Normale</string>
-    <!-- Thermal profiles -->
     <string name="thermal_title">Profilo di ottimizzazione</string>
     <string name="thermal_summary">Regola per-app profile per prestazioni ottimale</string>
     <string name="thermal_default">Nessuna ottimizzazione</string>
@@ -165,5 +133,13 @@
     <string name="thermal_dialer">Telefono</string>
     <string name="thermal_gaming">Gioco</string>
     <string name="thermal_streaming">Streaming</string>
-    <!-- Refresh Rate Settings -->
+    <string name="raise_to_wake_gesture_title">Solleva il dispositivo per risvegliare</string>
+    <string name="raise_to_wake_gesture_summary">Sveglia il dispositivo al posto delle notifiche tramite pulsazioni</string>
+    <string name="device_min_refresh_rate">Refresh rate minimo</string>
+    <string name="touch_game_mode_title">Ablitia modalitá gioco</string>
+    <string name="touch_response_title">Responsività touch</string>
+    <string name="touch_response_summary">Controlla la risposta del touch</string>
+    <string name="touch_sensitivity_title">Sensibilità del touch</string>
+    <string name="touch_resistant_title">Area non-touch</string>
+    <string name="home_button_extra_settings">Personalizza il comportamento del tasto home</string>
 </resources>

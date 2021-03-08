@@ -15,66 +15,44 @@
      limitations under the License.
 -->
 <resources>
-    <!-- DC Dimming settings -->
     <string name="display_title">Affichage</string>
     <string name="dc_dimming_enable_title">Anti-scintillement</string>
     <string name="dc_dimming_enable_summary">Le mode anti-scintillement aide à réduire la fatigue oculaire dans des conditions de faible lumière en utilisant la fonction \"DC dégradation\". Cela peut dégrader la précision des couleurs et affecter les éléments affichés à l\'écran.</string>
-    <!-- Dirac settings -->
     <string name="dirac_title">Amélioration audio Mi</string>
     <string name="dirac_summary">Optimiser la qualité audio</string>
     <string name="dirac_headset_title">Sélectionnez le type d\'écouteurs</string>
     <string name="dirac_preset_title">Choisir une présélection</string>
-    <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">Audio Hi-Fi</string>
     <string name="dirac_hifi_summary">Réduire le bruit et la distorsion et augmenter la qualité audio</string>
-    <!-- Dirac settings: Headset types -->
+    <string name="dirac_hifi_enable_title">Activer le Hi-fi</string>
     <string name="dirac_headset_default">Par défaut</string>
     <string name="dirac_headset_earbuds">Écouteurs Mi</string>
     <string name="dirac_headset_in_ear_2013">Écouteurs intra Mi (2013)</string>
-    <string name="dirac_headset_piston_1">Mi Piston-1</string>
     <string name="dirac_headset_general">Général</string>
     <string name="dirac_headset_general_inear">Intra générique</string>
     <string name="dirac_headset_piston_basic">Édition basique</string>
-    <string name="dirac_headset_piston_2">Mi Piston-2</string>
     <string name="dirac_headset_piston_standard">Édition standard</string>
     <string name="dirac_headset_headphone">Casque Mi</string>
     <string name="dirac_headset_piston_youth">Édition Jeunesse</string>
     <string name="dirac_headset_piston_color">Édition colorée</string>
     <string name="dirac_headset_in_ear">Intra Mi</string>
-    <string name="dirac_headset_capsule">Mi Capsule</string>
     <string name="dirac_headset_in_ear_pro">Intra Mi Pro</string>
-    <string name="dirac_headset_comfort">Mi Comfort</string>
     <string name="dirac_headset_reduction_noise">Mi Annulation de bruit Type C</string>
     <string name="dirac_headset_cancelling">Mi Annulation de bruit 3,5 mm</string>
     <string name="dirac_headset_half_in_ear">Mi Half in-Ear</string>
     <string name="dirac_headset_in_ear2">Écouteurs intra Mi 2</string>
     <string name="dirac_headset_earphone_basic">Écouteurs Basiques Mi</string>
     <string name="dirac_headset_earphone">Écouteurs Mi</string>
-    <!-- Dirac settings: Equalizer presets -->
     <string name="dirac_preset_default">Par défaut</string>
-    <string name="dirac_preset_rock">Rock</string>
-    <string name="dirac_preset_jazz">Jazz</string>
-    <string name="dirac_preset_pop">Pop</string>
     <string name="dirac_preset_classical">Classique</string>
-    <string name="dirac_preset_hiphop">Hip Hop</string>
-    <string name="dirac_preset_blues">Blues</string>
-    <string name="dirac_preset_electronic">Electronic</string>
-    <string name="dirac_preset_country">Country</string>
-    <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Métal</string>
-    <!-- Popup camera settings -->
     <string name="popup_settings_title">Paramètres de caméra pop-up</string>
     <string name="popup_led_title">LED de la caméra</string>
     <string name="popup_led_summary">Allumer la LED lorsque la caméra frontale apparaît et se rétracte</string>
     <string name="popup_sound_title">Effets sonores</string>
-    <string name="popup_title_muqin">Xylophone</string>
-    <string name="popup_title_yingyan">Condor</string>
     <string name="popup_title_mofa">Magique</string>
-    <string name="popup_title_jijia">Mecha</string>
     <string name="popup_title_chilun">Roue dentée</string>
     <string name="popup_title_cangmen">Porte de cabine</string>
-    <!-- Popup camera strings -->
-    <string name="popup_camera_tip">Attention</string>
     <string name="popup_camera_takeback_failed_times_calibrate">Impossible de fermer l\'appareil photo frontale plusieurs fois. Essayez de calibrer l\'appareil photo.</string>
     <string name="popup_camera_popup_failed_times_calibrate">Impossible d\'ouvrir l\'appareil photo frontale plusieurs fois. Essayez de calibrer l\'appareil photo.</string>
     <string name="popup_camera_calibrate_running">La caméra frontale ne peut pas être utilisée pendant l\'étalonnage.</string>
@@ -85,23 +63,17 @@
     <string name="takeback_camera_front_failed">Impossible de fermer l\'appareil photo avant. Réessayer.</string>
     <string name="popup_camera_front_failed">Impossible d\'ouvrir l\'appareil photo frontale. Réessayer.</string>
     <string name="popup_camera_proximity_obstructed">Retirez votre main du capteur de proximité pour activer la caméra avant ...</string>
-    <!-- Title and summary -->
     <string name="moto_actions_title">Gestes Moto</string>
-    <!-- Device gestures -->
     <string name="device_gestures_title">Gestes de balayage</string>
     <string name="device_gestures_summary">Gérer les mouvements de l’appareil</string>
-    <!-- Ambient display gestures -->
     <string name="ambient_display_manage_summary">Gestes pour les options de réveil de l\'affichage en mode veille</string>
-    <!-- Fingerprint gestures -->
     <string name="fingerprint_gestures_title">Gestes d’empreintes</string>
     <string name="fingerprint_gestures_summary">Utiliser des gestes d’empreintes digitales</string>
     <string name="fingerprint_gestures_manage_summary">Gérer les gestes d’empreintes digitales</string>
     <string name="fingerprint_actions_screenon">Actions avec écran sur</string>
-    <!-- Fingerprint gestures screen off -->
     <string name="fingerprint_gestures_screenoff_title">D’empreintes digitales de gestes quand écran éteint</string>
     <string name="fingerprint_gestures_screenoff_summary">Utiliser les gestes d’empreintes digitales quand l’écran est éteint.\n\nL\'enpreinte de déverrouillage doit être désactivé pour utiliser cette fonctionnalité.</string>
     <string name="fingerprint_actions_screenoff">Actions avec écran sur</string>
-    <!-- Actions -->
     <string name="action_home">Accueil</string>
     <string name="action_power">Écran éteint</string>
     <string name="action_wake">Réveil</string>
@@ -121,49 +93,28 @@
     <string name="action_dialer">Ouvrir le composeur</string>
     <string name="action_email">Ouvrir l\'application d\'e-mail</string>
     <string name="action_messages">Ouvrir l\'application message</string>
-    <!-- Screen off gestures -->
     <string name="screen_off_gestures_manage_summary">Gérer les gestes lorsque l’écran est désactivé</string>
-    <!-- Swipe/tap/long tap -->
     <string name="swipe_left_dlg_title">Sélectionnez l’action de balayage gauche</string>
     <string name="swipe_right_dlg_title">Sélectionnez l’action de coup droit</string>
     <string name="swipe_up_dlg_title">Sélectionnez l’action de balayage gauche</string>
     <string name="swipe_down_dlg_title">Sélectionnez l’action de balayage gauche</string>
-    <string name="tap_title">Appui court</string>
-    <string name="double_tap_title">Appuyer deux fois</string>
+    <string name="tap_title">Appui simple</string>
+    <string name="double_tap_title">Appui double</string>
     <string name="long_tap_title">Appui long</string>
     <string name="tap_dlg_title">Sélectionnez action pour seul robinet</string>
     <string name="double_tap_dlg_title">Action de sélection pour le double robinet</string>
     <string name="long_tap_dlg_title">Sélectionnez l’action de clic long</string>
-    <!-- Double tap to wake -->
     <string name="tap_to_wake">Appuyez pour revenir en arrière</string>
     <string name="tap_to_wake_summary">Appuyez deux fois n\'importe où sur l\'écran pour réactiver l\'appareil.</string>
-    <!-- Proximity sensor -->
     <string name="allow_proximity_sensor_title">Afficher le Capteur de Proximité</string>
     <string name="allow_proximity_sensor_summary">Vérifiez le capteur de proximité avant d’exécuter l’action</string>
-    <!-- OnePlus - General -->
-    <string name="oneplus_advanced_settings">Paramètres OnePlus</string>
-    <string name="oneplus_advanced_settings_summary">Paramètres personnalisés pour votre appareil</string>
-    <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_category_title">Le curseur d\'alerte</string>
-    <string name="notification_slider_selection_dialog_title">Action</string>
-    <string name="notification_slider_top_position">Position haute</string>
-    <string name="notification_slider_middle_position">Position intermédiaire</string>
-    <string name="notification_slider_bottom_position">Position basse</string>
-    <string name="notification_slider_mode_total_silence">Aucune interruption</string>
-    <string name="notification_slider_mode_alarms_only">Alarmes uniquement</string>
-    <string name="notification_slider_mode_priority_only">Prioritaires uniquement</string>
-    <string name="notification_slider_mode_silent">Silencieux</string>
-    <string name="notification_slider_mode_vibrate">Vibreur</string>
-    <string name="notification_slider_mode_none">Normal</string>
-    <!-- Thermal profiles -->
     <string name="thermal_title">Profil d\'optimisation</string>
     <string name="thermal_summary">Ajustez les profils pour chaque application pour des performances optimales</string>
     <string name="thermal_default">Aucune optimisation</string>
-    <string name="thermal_benchmark">Performance</string>
     <string name="thermal_browser">Internet</string>
     <string name="thermal_camera">Appareil photo</string>
     <string name="thermal_dialer">Téléphone</string>
     <string name="thermal_gaming">Jeux</string>
     <string name="thermal_streaming">Flux des applications</string>
-    <!-- Refresh Rate Settings -->
+    <string name="device_min_refresh_rate">Taux de rafraîchissement minimum</string>
 </resources>

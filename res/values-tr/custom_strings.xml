@@ -15,27 +15,21 @@
      limitations under the License.
 -->
 <resources>
-    <!-- DC Dimming settings -->
     <string name="display_title">Görüntü</string>
     <string name="dc_dimming_enable_title">Titreme önleme</string>
     <string name="dc_dimming_enable_summary">Titreşim önleyici mod, \"DC karartma\" özelliğini kullanarak düşük ışık koşullarında göz yorgunluğunu azaltmaya yardımcı olur. Renk doğruluğunu düşürebilir ve bazı öğelerin görüntülenme şeklini etkileyebilir.</string>
-    <!-- Dirac settings -->
     <string name="dirac_title">Mi Ses Yükseltici</string>
     <string name="dirac_summary">Ses kalitesini optimize eder</string>
     <string name="dirac_headset_title">Kulaklık türünü seçin</string>
     <string name="dirac_preset_title">Bir ön ayar seçin</string>
-    <!-- Dirac settings: Hi-Fi -->
-    <string name="dirac_hifi_title">Hi-Fi</string>
     <string name="dirac_hifi_summary">Gürültüyü ve bozulmaları azaltır ve ses kalitesinin arttırır</string>
-    <!-- Dirac settings: Headset types -->
+    <string name="dirac_hifi_enable_title">Hi-fi\'yi etkinleştir</string>
     <string name="dirac_headset_default">Varsayılan</string>
     <string name="dirac_headset_earbuds">Mi Kulaklıklar</string>
     <string name="dirac_headset_in_ear_2013">Mi Kulak İçi (2013)</string>
-    <string name="dirac_headset_piston_1">Mi Piston-1</string>
     <string name="dirac_headset_general">Genel</string>
     <string name="dirac_headset_general_inear">Genel Kulak İçi</string>
     <string name="dirac_headset_piston_basic">Temel Sürüm</string>
-    <string name="dirac_headset_piston_2">Mi Piston-2</string>
     <string name="dirac_headset_piston_standard">Standart Sürüm</string>
     <string name="dirac_headset_headphone">Mi Kulaklıklar</string>
     <string name="dirac_headset_piston_youth">Gençlik Sürümü</string>
@@ -50,19 +44,12 @@
     <string name="dirac_headset_in_ear2">Mi Kulak İçi 2</string>
     <string name="dirac_headset_earphone_basic">Mi Kulaklık Temel</string>
     <string name="dirac_headset_earphone">Mi Kulaklıklar</string>
-    <!-- Dirac settings: Equalizer presets -->
     <string name="dirac_preset_default">Varsayılan</string>
-    <string name="dirac_preset_rock">Rock</string>
     <string name="dirac_preset_jazz">Caz</string>
-    <string name="dirac_preset_pop">Pop</string>
     <string name="dirac_preset_classical">Klasik</string>
-    <string name="dirac_preset_hiphop">Hip Hop</string>
-    <string name="dirac_preset_blues">Blues</string>
     <string name="dirac_preset_electronic">Elektronik</string>
     <string name="dirac_preset_country">Yerel</string>
     <string name="dirac_preset_dance">Dans</string>
-    <string name="dirac_preset_metal">Metal</string>
-    <!-- Popup camera settings -->
     <string name="popup_settings_title">Açılır kamera ayarları</string>
     <string name="popup_led_title">Kamera LED\'i</string>
     <string name="popup_led_summary">Ön kamera yuvadan çıkıp geri girdiğinde LED\'i yak</string>
@@ -73,7 +60,6 @@
     <string name="popup_title_jijia">Mekanik</string>
     <string name="popup_title_chilun">Dişli</string>
     <string name="popup_title_cangmen">Kabin kapısı</string>
-    <!-- Popup camera strings -->
     <string name="popup_camera_tip">Dikkat</string>
     <string name="popup_camera_takeback_failed_times_calibrate">Ön kamera birden çok denemede kapatılamadı. Kamerayı kalibre etmeyi deneyin.</string>
     <string name="popup_camera_popup_failed_times_calibrate">Ön kamera birden çok denemede açılamadı. Kamerayı kalibre etmeyi deneyin.</string>
@@ -85,23 +71,17 @@
     <string name="takeback_camera_front_failed">Ön kamera kapatılamadı. Tekrar deneyin.</string>
     <string name="popup_camera_front_failed">Ön kamera açılamadı. Tekrar deneyin.</string>
     <string name="popup_camera_proximity_obstructed">Ön kamerayı açmak için elinizi yakınlık sensöründen uzaklaştırın...</string>
-    <!-- Title and summary -->
     <string name="moto_actions_title">Moto Eylemleri</string>
-    <!-- Device gestures -->
     <string name="device_gestures_title">Cihaz hareketleri</string>
     <string name="device_gestures_summary">Cihaz hareketlerini yönetin</string>
-    <!-- Ambient display gestures -->
     <string name="ambient_display_manage_summary">Ortam ekranı hareketlerini yönetin</string>
-    <!-- Fingerprint gestures -->
     <string name="fingerprint_gestures_title">Parmak izi hareketleri</string>
     <string name="fingerprint_gestures_summary">Parmak izi hareketlerini kullanın</string>
     <string name="fingerprint_gestures_manage_summary">Parmak izi hareketlerini yönetin</string>
     <string name="fingerprint_actions_screenon">Açık ekran eylemleri</string>
-    <!-- Fingerprint gestures screen off -->
     <string name="fingerprint_gestures_screenoff_title">Ekran kapalıyken parmak izi hareketleri</string>
     <string name="fingerprint_gestures_screenoff_summary">Ekran kapalıyken parmak izi hareketlerini kullan.\n\nBu özelliği kullanmak için parmak izinin kilit açma özelliği devre dışı bırakılmalıdır.</string>
     <string name="fingerprint_actions_screenoff">Kapalı ekran etkinlikleri</string>
-    <!-- Actions -->
     <string name="action_home">Ana ekran</string>
     <string name="action_power">Ekranı aç/kapat</string>
     <string name="action_wake">Uyandır</string>
@@ -121,9 +101,7 @@
     <string name="action_dialer">Çeviriciyi aç</string>
     <string name="action_email">E-posta uygulamasını aç</string>
     <string name="action_messages">Mesaj uygulamasını aç</string>
-    <!-- Screen off gestures -->
     <string name="screen_off_gestures_manage_summary">Kapalı ekran hareketlerini yönetin</string>
-    <!-- Swipe/tap/long tap -->
     <string name="swipe_left_dlg_title">Sola kaydırma için eylem seçin</string>
     <string name="swipe_right_dlg_title">Sağa kaydırma için eylem seçin</string>
     <string name="swipe_up_dlg_title">Yukarı kaydırma için eylem seçin</string>
@@ -134,28 +112,10 @@
     <string name="tap_dlg_title">Tek dokunma için eylem seçin</string>
     <string name="double_tap_dlg_title">Çift dokunma için eylem seçin</string>
     <string name="long_tap_dlg_title">Uzun dokunma için eylem seçin</string>
-    <!-- Double tap to wake -->
     <string name="tap_to_wake">Uyandırmak için dokunun</string>
     <string name="tap_to_wake_summary">Cihazı uyandırmak için ekranda herhangi bir yere iki kez dokunun</string>
-    <!-- Proximity sensor -->
     <string name="allow_proximity_sensor_title">Yakınlık sensörüne izin ver</string>
     <string name="allow_proximity_sensor_summary">İşlemi gerçekleştirmeden önce yakınlık sensörünü kontrol eder</string>
-    <!-- OnePlus - General -->
-    <string name="oneplus_advanced_settings">OnePlus Ayarları</string>
-    <string name="oneplus_advanced_settings_summary">Cihazınız için özelleştirilmiş ayarlar</string>
-    <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_category_title">Uyarı kaydırıcı</string>
-    <string name="notification_slider_selection_dialog_title">Eylem</string>
-    <string name="notification_slider_top_position">Üst konum</string>
-    <string name="notification_slider_middle_position">Orta konum</string>
-    <string name="notification_slider_bottom_position">Alt konum</string>
-    <string name="notification_slider_mode_total_silence">Tamamen sessiz</string>
-    <string name="notification_slider_mode_alarms_only">Sadece alarmlar</string>
-    <string name="notification_slider_mode_priority_only">Sadece öncelikli olanlar</string>
-    <string name="notification_slider_mode_silent">Sessiz</string>
-    <string name="notification_slider_mode_vibrate">Titreşim</string>
-    <string name="notification_slider_mode_none">Normal</string>
-    <!-- Thermal profiles -->
     <string name="thermal_title">Optimizasyon profili</string>
     <string name="thermal_summary">En uygun performans için uygulama başına profilleri ayarla</string>
     <string name="thermal_default">Optimizasyon yok</string>
@@ -165,5 +125,5 @@
     <string name="thermal_dialer">Çevirici</string>
     <string name="thermal_gaming">Oyunlar</string>
     <string name="thermal_streaming">Akış uygulamaları</string>
-    <!-- Refresh Rate Settings -->
+    <string name="device_min_refresh_rate">Minimum yenileme hızı</string>
 </resources>

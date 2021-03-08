@@ -15,20 +15,16 @@
      limitations under the License.
 -->
 <resources>
-    <!-- DC Dimming settings -->
     <string name="display_title">Tela</string>
     <string name="dc_dimming_enable_title">Modo anti cintilação</string>
     <string name="dc_dimming_enable_summary">O modo anti cintilação ajuda a reduzir a fadiga ocular em condições de pouca luz usando o recurso \"DC dimming\". Isso pode degradar a precisão das cores e afetar a forma como alguns itens são exibidos.</string>
-    <!-- Dirac settings -->
     <string name="dirac_title">Mi Sound Enhancer</string>
     <string name="dirac_summary">Otimizar qualidade de áudio</string>
     <string name="dirac_headset_title">Escolher tipo de fone de ouvido</string>
     <string name="dirac_preset_title">Escolha uma predefinição</string>
-    <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">Áudio Hi-Fi</string>
     <string name="dirac_hifi_summary">Reduz o ruído e distorção e aumenta a qualidade do áudio</string>
     <string name="dirac_hifi_enable_title">Ativar Hi-fi</string>
-    <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_default">Padrão</string>
     <string name="dirac_headset_earbuds">Mi Earbuds</string>
     <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
@@ -51,7 +47,6 @@
     <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
     <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
     <string name="dirac_headset_earphone">Mi Earphones</string>
-    <!-- Dirac settings: Equalizer presets -->
     <string name="dirac_preset_default">Padrão</string>
     <string name="dirac_preset_rock">Rock</string>
     <string name="dirac_preset_jazz">Jazz</string>
@@ -63,7 +58,6 @@
     <string name="dirac_preset_country">Country</string>
     <string name="dirac_preset_dance">Dance</string>
     <string name="dirac_preset_metal">Metal</string>
-    <!-- Popup camera settings -->
     <string name="popup_settings_title">Configurações da camera pop-up</string>
     <string name="popup_led_title">LED da câmera</string>
     <string name="popup_led_summary">Acender a luz quando a câmera frontal surgir e retrair</string>
@@ -74,7 +68,6 @@
     <string name="popup_title_jijia">Robô</string>
     <string name="popup_title_chilun">Roda de engrenagem</string>
     <string name="popup_title_cangmen">Porta de cabine</string>
-    <!-- Popup camera strings -->
     <string name="popup_camera_tip">Atenção</string>
     <string name="popup_camera_takeback_failed_times_calibrate">Não foi possível fechar a câmera por diversas vezes. Tente calibrar a câmera.</string>
     <string name="popup_camera_popup_failed_times_calibrate">Não foi possível abrir a câmera frontal por diversas vezes. Tente calibrar a câmera.</string>
@@ -86,23 +79,17 @@
     <string name="takeback_camera_front_failed">Não foi possível fechar a câmera frontal. Tente novamente.</string>
     <string name="popup_camera_front_failed">Não foi possível abrir a câmera frontal. Tente novamente.</string>
     <string name="popup_camera_proximity_obstructed">Remova a mão do sensor de proximidade para abrir a câmera frontal ...</string>
-    <!-- Title and summary -->
     <string name="moto_actions_title">Moto Ações</string>
-    <!-- Device gestures -->
     <string name="device_gestures_title">Gestos do dispositivo</string>
     <string name="device_gestures_summary">Gerenciar os gestos do dispositivo</string>
-    <!-- Ambient display gestures -->
     <string name="ambient_display_manage_summary">Gerenciar os gestos da tela ambiente</string>
-    <!-- Fingerprint gestures -->
     <string name="fingerprint_gestures_title">Gestos no sensor biométrico</string>
     <string name="fingerprint_gestures_summary">Habilitar o uso de gestos no sensor biométrico</string>
     <string name="fingerprint_gestures_manage_summary">Gerenciar os gestos do sensor biométrico</string>
     <string name="fingerprint_actions_screenon">Ações com a tela ligada</string>
-    <!-- Fingerprint gestures screen off -->
     <string name="fingerprint_gestures_screenoff_title">Habilitar com a tela desligada</string>
     <string name="fingerprint_gestures_screenoff_summary">Habilitar os gestos no sensor biométrico quando a tela estiver desligada.\n\nO desbloqueio por impressão digital deve estar desativado para usar esse recurso.</string>
     <string name="fingerprint_actions_screenoff">Ações com a tela desligada</string>
-    <!-- Actions -->
     <string name="action_home">Início</string>
     <string name="action_power">Ligar/desligar tela</string>
     <string name="action_wake">Acordar o dispositivo</string>
@@ -122,9 +109,7 @@
     <string name="action_dialer">Abrir discador</string>
     <string name="action_email">Abrir app de email</string>
     <string name="action_messages">Abrir app de mensagens</string>
-    <!-- Screen off gestures -->
     <string name="screen_off_gestures_manage_summary">Gerenciar os gestos com a tela desligada</string>
-    <!-- Swipe/tap/long tap -->
     <string name="swipe_left_dlg_title">Selecione a ação para deslizar para a esquerda</string>
     <string name="swipe_right_dlg_title">Selecione a ação para deslizar para a direita</string>
     <string name="swipe_up_dlg_title">Selecione a ação para deslizar para cima</string>
@@ -135,28 +120,10 @@
     <string name="tap_dlg_title">Selecione a ação para toque único</string>
     <string name="double_tap_dlg_title">Selecione a ação para toque duplo</string>
     <string name="long_tap_dlg_title">Selecione a ação para toque longo</string>
-    <!-- Double tap to wake -->
     <string name="tap_to_wake">Tocar para ativar</string>
     <string name="tap_to_wake_summary">Toque duas vezes em qualquer parte da tela para ativar o dispositivo</string>
-    <!-- Proximity sensor -->
     <string name="allow_proximity_sensor_title">Habilitar o sensor de proximidade</string>
     <string name="allow_proximity_sensor_summary">Verificar o sensor de proximidade antes de executar a ação</string>
-    <!-- OnePlus - General -->
-    <string name="oneplus_advanced_settings">Configurações OnePlus</string>
-    <string name="oneplus_advanced_settings_summary">Configurações personalizadas para o seu dispositivo</string>
-    <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_category_title">Botão deslizante</string>
-    <string name="notification_slider_selection_dialog_title">Ação</string>
-    <string name="notification_slider_top_position">Posição superior</string>
-    <string name="notification_slider_middle_position">Posição central</string>
-    <string name="notification_slider_bottom_position">Posição inferior</string>
-    <string name="notification_slider_mode_total_silence">Silêncio total</string>
-    <string name="notification_slider_mode_alarms_only">Somente alarmes</string>
-    <string name="notification_slider_mode_priority_only">Somente prioridade</string>
-    <string name="notification_slider_mode_silent">Silêncio</string>
-    <string name="notification_slider_mode_vibrate">Vibrar</string>
-    <string name="notification_slider_mode_none">Normal</string>
-    <!-- Thermal profiles -->
     <string name="thermal_title">Perfil de otimização</string>
     <string name="thermal_summary">Ajuste de perfil de cada aplicativo para melhor desempenho</string>
     <string name="thermal_default">Não otimizar</string>
@@ -166,6 +133,15 @@
     <string name="thermal_dialer">Discador</string>
     <string name="thermal_gaming">Jogos</string>
     <string name="thermal_streaming">Aplicativos de transmissão</string>
-    <!-- Refresh Rate Settings -->
+    <string name="raise_to_wake_gesture_title">Levantar para acordar</string>
+    <string name="raise_to_wake_gesture_summary">Acender a tela do dispositivo ao invés de pulsar notificações</string>
     <string name="device_min_refresh_rate">Taxa de atualização mínima</string>
+    <string name="touch_control_title">Otimizações da tela de toque</string>
+    <string name="touch_game_mode_title">Ativar modo jogo</string>
+    <string name="touch_game_mode_summary">Ajuda a melhorar a experiência em jogos otimizando a tela de toque</string>
+    <string name="touch_response_title">Resposta de toque</string>
+    <string name="touch_response_summary">Controlar a resposta de toque</string>
+    <string name="touch_sensitivity_title">Sensibilidade do toque</string>
+    <string name="touch_resistant_title">Área resistente a toques</string>
+    <string name="home_button_extra_settings">Customizar o comportamento do botão de início</string>
 </resources>

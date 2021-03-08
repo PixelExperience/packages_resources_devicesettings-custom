@@ -15,16 +15,12 @@
      limitations under the License.
 -->
 <resources>
-    <!-- DC Dimming settings -->
-    <!-- Dirac settings -->
     <string name="dirac_title">تقویت‌کننده صدای Mi</string>
     <string name="dirac_summary">بهینه‌سازی کیفیت صدا</string>
     <string name="dirac_headset_title">نوع هدفون‌ها را انتخاب کنید</string>
     <string name="dirac_preset_title">یک مورد از پیش تعیین شده را انتخاب کنید</string>
-    <!-- Dirac settings: Hi-Fi -->
     <string name="dirac_hifi_title">صدای Hi-Fi</string>
     <string name="dirac_hifi_summary">صداهای اضافی و ناهموار را کم کنید و کیفیت صدا را بیشتر کنید</string>
-    <!-- Dirac settings: Headset types -->
     <string name="dirac_headset_default">پیش‌فرض</string>
     <string name="dirac_headset_earbuds">ریز هدفون Mi</string>
     <string name="dirac_headset_in_ear_2013">درون گوشی Mi (۲۰۱۳)</string>
@@ -47,7 +43,6 @@
     <string name="dirac_headset_in_ear2">درون گوشی Mi ۲</string>
     <string name="dirac_headset_earphone_basic">هندزفری‌های اصلی Mi</string>
     <string name="dirac_headset_earphone">هندزفری‌های Mi</string>
-    <!-- Dirac settings: Equalizer presets -->
     <string name="dirac_preset_default">پیش‌فرض</string>
     <string name="dirac_preset_rock">راک</string>
     <string name="dirac_preset_jazz">جاز</string>
@@ -59,14 +54,12 @@
     <string name="dirac_preset_country">روستایی</string>
     <string name="dirac_preset_dance">رقص</string>
     <string name="dirac_preset_metal">متال</string>
-    <!-- Popup camera settings -->
     <string name="popup_title_muqin">سنتور چوبی</string>
     <string name="popup_title_yingyan">کرکس</string>
     <string name="popup_title_mofa">جادو</string>
     <string name="popup_title_jijia">آدم آهنی</string>
     <string name="popup_title_chilun">چرخ‌دنده</string>
     <string name="popup_title_cangmen">درب کابین</string>
-    <!-- Popup camera strings -->
     <string name="popup_camera_tip">توجه</string>
     <string name="popup_camera_takeback_failed_times_calibrate">دوربین جلو چند بار بسته نشد. دوربین را درجه‌بندی کنید.</string>
     <string name="popup_camera_popup_failed_times_calibrate">دوربین جلو چند بار باز نشد. دوربین را درجه‌بندی کنید.</string>
@@ -78,23 +71,17 @@
     <string name="takeback_camera_front_failed">دوربین جلو بسته نشد. دوباره تلاش کنید.</string>
     <string name="popup_camera_front_failed">دوربین جلو باز نشد. دوباره تلاش کنید.</string>
     <string name="popup_camera_proximity_obstructed">دست خود را از حسگر مجاورت جدا کنید تا دوربین جلو باز شود ...</string>
-    <!-- Title and summary -->
     <string name="moto_actions_title">اقدامات Moto</string>
-    <!-- Device gestures -->
     <string name="device_gestures_title">ژست‌های دستگاه</string>
     <string name="device_gestures_summary">مدیریت ژست های دستگاه</string>
-    <!-- Ambient display gestures -->
     <string name="ambient_display_manage_summary">مدیریت حرکات نمایشگر محیطی</string>
-    <!-- Fingerprint gestures -->
     <string name="fingerprint_gestures_title">وضعیت های اثر انگشت</string>
     <string name="fingerprint_gestures_summary">استفاده از وضعیت های اثر انگشت</string>
     <string name="fingerprint_gestures_manage_summary">مدیریت وضعیت های اثر انگشت</string>
     <string name="fingerprint_actions_screenon">اقدامات هنگام روشن بودن صفحه</string>
-    <!-- Fingerprint gestures screen off -->
     <string name="fingerprint_gestures_screenoff_title">وضعیت های اثر انگشت هنگام خاموش بودن صفحه</string>
     <string name="fingerprint_gestures_screenoff_summary">از وضعیت های اثرانگشت هنگام خاموش بودن صفحه استفاده کن.\n\nبرای استفاده از این ویژگی باید باز کردن قفل با اثر انگشت غیر فعال باشد.</string>
     <string name="fingerprint_actions_screenoff">اقدامات هنگام خاموش بودن صفحه</string>
-    <!-- Actions -->
     <string name="action_home">خانه</string>
     <string name="action_power">صفحه نمایش خاموش/روشن</string>
     <string name="action_wake">بیدار شدن</string>
@@ -114,36 +101,21 @@
     <string name="action_dialer">باز کردن شماره گیر</string>
     <string name="action_email">باز کردن برنامه ی ایمیل</string>
     <string name="action_messages">باز کردن برنامه ی پیام رسانی</string>
-    <!-- Screen off gestures -->
     <string name="screen_off_gestures_manage_summary">مدیریت حرکت ها هنگام خاموش بودن صفحه</string>
-    <!-- Swipe/tap/long tap -->
     <string name="swipe_left_dlg_title">انتخاب عمل برای کشیدن به چپ</string>
     <string name="swipe_right_dlg_title">انتخاب عمل برای کشیدن به راست</string>
     <string name="swipe_up_dlg_title">انتخاب عمل برای کشیدن به بالا</string>
     <string name="swipe_down_dlg_title">انتخاب عمل برای کشیدن به پایین</string>
-    <string name="tap_title">یک ضربه</string>
+    <string name="tap_title">تک ضربه</string>
     <string name="double_tap_title">دو ضربه</string>
-    <string name="long_tap_title">ضربه ی طولانی</string>
+    <string name="long_tap_title">ضربه‌ی طولانی</string>
     <string name="tap_dlg_title">انتخاب عمل برای یک صربه</string>
     <string name="double_tap_dlg_title">انتخاب عمل برای دو صربه</string>
     <string name="long_tap_dlg_title">انتخاب عمل برای صربه ی طولانی</string>
-    <!-- Double tap to wake -->
     <string name="tap_to_wake">بیدار شدن با یک ضربه</string>
     <string name="tap_to_wake_summary">برای بیدار شدن دستگاه، هر جایی از صفحه را دوبار لمس کنید</string>
-    <!-- Proximity sensor -->
     <string name="allow_proximity_sensor_title">اجازه دادن به سنسور مجاورت</string>
     <string name="allow_proximity_sensor_summary">قبل از انجام عمل، سنسور مجاورت را بررسی کن</string>
-    <!-- OnePlus - General -->
-    <string name="oneplus_advanced_settings">تنظیمات وان پلاس</string>
-    <string name="oneplus_advanced_settings_summary">تنظیمات سفارشی برای دستگاه شما</string>
-    <!-- OnePlus - Alert slider settings -->
-    <string name="notification_slider_selection_dialog_title">عملکرد</string>
-    <string name="notification_slider_top_position">بالاترین موقعیت</string>
-    <string name="notification_slider_middle_position">موقعیت میانی</string>
-    <string name="notification_slider_bottom_position">موقعیت پایین</string>
-    <string name="notification_slider_mode_total_silence">سکوت کامل</string>
-    <string name="notification_slider_mode_priority_only">فقط اولویت ها</string>
-    <!-- Thermal profiles -->
     <string name="thermal_title">پروفایل بهینه سازی</string>
     <string name="thermal_default">بدون بهینه سازی</string>
     <string name="thermal_benchmark">کارآیی</string>
@@ -151,5 +123,4 @@
     <string name="thermal_camera">دوربین</string>
     <string name="thermal_dialer">شماره گیر</string>
     <string name="thermal_gaming">بازی ها</string>
-    <!-- Refresh Rate Settings -->
 </resources>

@@ -38,7 +38,7 @@
     <string name="dirac_headset_piston_color">Каляровае версія</string>
     <string name="dirac_headset_in_ear">Mi-укладышы</string>
     <string name="dirac_headset_half_in_ear">Mi-укладышы</string>
-    <string name="dirac_preset_default">Стандартныя</string>
+    <string name="dirac_preset_default">Па змаўчанні</string>
     <string name="dirac_preset_rock">Рок</string>
     <string name="dirac_preset_jazz">Джаз</string>
     <string name="dirac_preset_pop">Поп</string>
@@ -105,7 +105,7 @@
     <string name="swipe_right_dlg_title">Выберыце дзеянне для свайпа управа</string>
     <string name="swipe_up_dlg_title">Выберыце дзеянне для свайпа наверх</string>
     <string name="swipe_down_dlg_title">Выберыце дзеянне для свайпа ўніз</string>
-    <string name="tap_title">Адзіночны дотык</string>
+    <string name="tap_title">Адзіночны націск</string>
     <string name="double_tap_title">Падвойны націск</string>
     <string name="long_tap_title">Доўгі націск</string>
     <string name="tap_dlg_title">Выберыце дзеянне для адзіночнага націску</string>
@@ -115,6 +115,19 @@
     <string name="tap_to_wake_summary">Дакраніцеся двойчы ў любым месцы экрана, каб абудзіць прыладу</string>
     <string name="allow_proximity_sensor_title">Датчык прыбліжэння</string>
     <string name="allow_proximity_sensor_summary">Перад выкананнем дзеяння праверыць датчык прыбліжэння</string>
+    <string name="oneplus_advanced_settings">Налады OnePlus</string>
+    <string name="oneplus_advanced_settings_summary">Карыстацкія налады для вашай прылады</string>
+    <string name="notification_slider_category_title">Пераключальнік апавяшчэнняў</string>
+    <string name="notification_slider_selection_dialog_title">Дзеянне</string>
+    <string name="notification_slider_top_position">Верхняе становішча</string>
+    <string name="notification_slider_middle_position">Сярэдняе становішча</string>
+    <string name="notification_slider_bottom_position">Ніжняе становішча</string>
+    <string name="notification_slider_mode_total_silence">Поўная цішыня</string>
+    <string name="notification_slider_mode_alarms_only">Толькі будзільнікі</string>
+    <string name="notification_slider_mode_priority_only">Толькі важныя</string>
+    <string name="notification_slider_mode_silent">Без гуку</string>
+    <string name="notification_slider_mode_vibrate">Вібрацыя</string>
+    <string name="notification_slider_mode_none">Звычайная</string>
     <string name="thermal_title">Профіль аптымізацыі</string>
     <string name="thermal_summary">Наладзьце дадатковыя профілі для дасягнення аптымальнай прадукцыйнасці</string>
     <string name="thermal_default">Без аптымізацыі</string>

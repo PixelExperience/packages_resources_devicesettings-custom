@@ -58,7 +58,7 @@
     <string name="dirac_preset_country">Кантри</string>
     <string name="dirac_preset_dance">Танцевальная</string>
     <string name="dirac_preset_metal">Металл</string>
-    <string name="popup_settings_title">Всплывающие настройки камеры</string>
+    <string name="popup_settings_title">Настройки всплывающей камеры</string>
     <string name="popup_led_title">LED индикация камеры</string>
     <string name="popup_led_summary">Показывать LED индикацию при открытии и закрытии фронтальной камеры</string>
     <string name="popup_sound_title">Звуковые эффекты</string>
@@ -114,8 +114,8 @@
     <string name="swipe_right_dlg_title">Выбрать действие для свайпа вправо</string>
     <string name="swipe_up_dlg_title">Выбрать действие для свайпа вверх</string>
     <string name="swipe_down_dlg_title">Выбрать действие для свайпа вниз</string>
-    <string name="tap_title">Одиночное касание</string>
-    <string name="double_tap_title">Двойное касание</string>
+    <string name="tap_title">Одиночное нажатие</string>
+    <string name="double_tap_title">Двойное нажатие</string>
     <string name="long_tap_title">Долгое нажатие</string>
     <string name="tap_dlg_title">Выбрать действие для одиночного нажатия</string>
     <string name="double_tap_dlg_title">Выбрать действие для двойного нажатия</string>
@@ -124,6 +124,19 @@
     <string name="tap_to_wake_summary">Дважды нажмите в любом месте экрана, чтобы включить устройство</string>
     <string name="allow_proximity_sensor_title">Включить датчик приближения</string>
     <string name="allow_proximity_sensor_summary">Проверить датчик приближения перед выполнением действия</string>
+    <string name="oneplus_advanced_settings">Настройки OnePlus</string>
+    <string name="oneplus_advanced_settings_summary">Пользовательские настройки для вашего устройства</string>
+    <string name="notification_slider_category_title">Переключатель уведомлений</string>
+    <string name="notification_slider_selection_dialog_title">Действие</string>
+    <string name="notification_slider_top_position">Верхнее положение</string>
+    <string name="notification_slider_middle_position">Среднее положение</string>
+    <string name="notification_slider_bottom_position">Нижнее положение</string>
+    <string name="notification_slider_mode_total_silence">Полная тишина</string>
+    <string name="notification_slider_mode_alarms_only">Только будильник</string>
+    <string name="notification_slider_mode_priority_only">Только важные</string>
+    <string name="notification_slider_mode_silent">Тишина</string>
+    <string name="notification_slider_mode_vibrate">Вибрация</string>
+    <string name="notification_slider_mode_none">Нормальная</string>
     <string name="thermal_title">Профиль оптимизации</string>
     <string name="thermal_summary">Отрегулируйте профили для оптимальной производительности приложений</string>
     <string name="thermal_default">Без оптимизации</string>
@@ -142,8 +155,8 @@
     <string name="touch_response_title">Отклик сенсора</string>
     <string name="touch_response_summary">Управляет откликом на касание </string>
     <string name="touch_sensitivity_title">Чувствительность касания</string>
-    <string name="touch_sensitivity_summary">Управляет чувствительностью при повторных нажатиях</string>
+    <string name="touch_sensitivity_summary">Контролирует чувствительность при повторяющихся нажатиях</string>
     <string name="touch_resistant_title">Область, устойчивая к прикосновениям</string>
-    <string name="touch_resistant_summary">Снижает чувствительность по краям для предотвращения случайных прикосновений</string>
+    <string name="touch_resistant_summary">Снижает чувствительность по краям для предотвращения случайных нажатий</string>
     <string name="home_button_extra_settings">Настроить поведение кнопки \"Домой\"</string>
 </resources>

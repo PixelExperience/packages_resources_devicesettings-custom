@@ -37,7 +37,7 @@
     <string name="dirac_headset_reduction_noise">Mi ဆူညံသံလျှော့ချခြင်း Type-C</string>
     <string name="dirac_headset_cancelling">Mi ဆူညံသံလျှော့ချခြင်း 3.5mm</string>
     <string name="dirac_headset_earphone">Mi နားကြပ်</string>
-    <string name="dirac_preset_default">မူရင်း</string>
+    <string name="dirac_preset_default">ပုံသေ</string>
     <string name="dirac_preset_rock">ရော့ခ်</string>
     <string name="dirac_preset_jazz">ဂျတ်ဇ်ဂီတ</string>
     <string name="dirac_preset_pop">ပေါ့ပ်</string>
@@ -108,6 +108,8 @@
     <string name="tap_to_wake_summary">ဖုန်းမျက်နှာပြင် လင်းစေရန် မျက်နှာပြင်ပေါ်ရှိ မည်သည့်နေရာမဆိုအား နှစ်ကြိမ်-တို့ပါ</string>
     <string name="allow_proximity_sensor_title">အကွာအ‌ဝေးအာရုံခံကိရိယာကို ခွင့်ပြုမည်</string>
     <string name="allow_proximity_sensor_summary">လုပ်ဆောင်ချက်တခုကို မပြုလုပ်မီ အကွာအ‌ဝေးအာရုံခံကိရိယာကို စစ်ဆေးပါ</string>
+    <string name="oneplus_advanced_settings">OnePlus ချိန်ညှိမှုများ</string>
+    <string name="oneplus_advanced_settings_summary">သင့်ဖုန်းအတွက် သင့်စိတ်ကြိုက်ချိန်ညှိမှုများ</string>
     <string name="thermal_title">ဖုန်းကို ပိုမိုကောင်းမွန်အောင် ပြုလုပ်ပေးခြင်း အချက်အလက်များ</string>
     <string name="thermal_default">ပိုမိုကောင်းမွန်အောင် ပြုလုပ်ထားခြင်း မရှိ</string>
     <string name="thermal_benchmark">ဖုန်းအသုံးပြုမှု အချက်အလက်များ</string>

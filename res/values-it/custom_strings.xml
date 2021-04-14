@@ -47,7 +47,7 @@
     <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
     <string name="dirac_headset_earphone_basic">Auricolari Mi Basic</string>
     <string name="dirac_headset_earphone">Auricolari Mi</string>
-    <string name="dirac_preset_default">Predefinite</string>
+    <string name="dirac_preset_default">Predefinito</string>
     <string name="dirac_preset_rock">Rock</string>
     <string name="dirac_preset_jazz">Jazz</string>
     <string name="dirac_preset_pop">Pop</string>
@@ -116,7 +116,7 @@
     <string name="swipe_down_dlg_title">Seleziona l\'azione per lo scorrimento verso il basso</string>
     <string name="tap_title">Singolo tocco</string>
     <string name="double_tap_title">Doppio tocco</string>
-    <string name="long_tap_title">Tocco prolungato</string>
+    <string name="long_tap_title">Pressione prolungata</string>
     <string name="tap_dlg_title">Seleziona l\'azione per il singolo tocco</string>
     <string name="double_tap_dlg_title">Seleziona l\'azione per il doppio tocco</string>
     <string name="long_tap_dlg_title">Seleziona l\'azione per la pressione prolungata</string>
@@ -124,6 +124,19 @@
     <string name="tap_to_wake_summary">Tocca due volte un punto qualsiasi dello schermo per riattivare il dispositivo</string>
     <string name="allow_proximity_sensor_title">Autorizza il sensore di prossimità</string>
     <string name="allow_proximity_sensor_summary">Controlla il sensore di prossimità prima di eseguire l\'azione</string>
+    <string name="oneplus_advanced_settings">Impostazioni OnePlus</string>
+    <string name="oneplus_advanced_settings_summary">Impostazioni personalizzate per il tuo dispositivo</string>
+    <string name="notification_slider_category_title">Dispositivo di scorrimento delle notifiche</string>
+    <string name="notification_slider_selection_dialog_title">Azione</string>
+    <string name="notification_slider_top_position">Silenzioso</string>
+    <string name="notification_slider_middle_position">Vibrazione</string>
+    <string name="notification_slider_bottom_position">Squillo</string>
+    <string name="notification_slider_mode_total_silence">Silenzio totale</string>
+    <string name="notification_slider_mode_alarms_only">Solo sveglie</string>
+    <string name="notification_slider_mode_priority_only">Solo con priorità</string>
+    <string name="notification_slider_mode_silent">Silenzioso</string>
+    <string name="notification_slider_mode_vibrate">Vibrazione</string>
+    <string name="notification_slider_mode_none">Normale</string>
     <string name="thermal_title">Profilo di ottimizzazione</string>
     <string name="thermal_summary">Regola per-app profile per prestazioni ottimale</string>
     <string name="thermal_default">Nessuna ottimizzazione</string>

@@ -40,6 +40,7 @@
     <string name="dirac_headset_in_ear">Mi 이어폰</string>
     <string name="dirac_headset_capsule">Mi 캡슐</string>
     <string name="dirac_headset_in_ear_pro">Mi 인이어 프로</string>
+    <string name="dirac_headset_comfort">Mi 컴포트</string>
     <string name="dirac_headset_reduction_noise">Mi 노이즈 캔슬링 Type-C</string>
     <string name="dirac_headset_cancelling">Mi 노이즈 캔슬링 3.5mm</string>
     <string name="dirac_headset_half_in_ear">Mi 하프 인이어</string>
@@ -114,7 +115,7 @@
     <string name="swipe_up_dlg_title">위로 스와이프할 때의 작업 선택</string>
     <string name="swipe_down_dlg_title">아래로 스와이프할 때의 작업 선택</string>
     <string name="tap_title">한 번 탭</string>
-    <string name="double_tap_title">더블 탭</string>
+    <string name="double_tap_title">두 번 탭</string>
     <string name="long_tap_title">길게 탭</string>
     <string name="tap_dlg_title">한 번 탭할 때의 작업 선택</string>
     <string name="double_tap_dlg_title">두 번 탭할 때의 작업 선택</string>
@@ -123,6 +124,19 @@
     <string name="tap_to_wake_summary">화면 아무 곳이나 두 번 탭하여 기기 절전 모드 해제</string>
     <string name="allow_proximity_sensor_title">근접 센서 사용</string>
     <string name="allow_proximity_sensor_summary">작업을 수행하기 전에 근접 센서 확인</string>
+    <string name="oneplus_advanced_settings">OnePlus 설정</string>
+    <string name="oneplus_advanced_settings_summary">기기의 맞춤 설정</string>
+    <string name="notification_slider_category_title">경고 슬라이더</string>
+    <string name="notification_slider_selection_dialog_title">작업</string>
+    <string name="notification_slider_top_position">상단 위치</string>
+    <string name="notification_slider_middle_position">중간 위치</string>
+    <string name="notification_slider_bottom_position">하단 위치</string>
+    <string name="notification_slider_mode_total_silence">모두 차단</string>
+    <string name="notification_slider_mode_alarms_only">알람만 허용</string>
+    <string name="notification_slider_mode_priority_only">중요 알림만</string>
+    <string name="notification_slider_mode_silent">무음</string>
+    <string name="notification_slider_mode_vibrate">진동</string>
+    <string name="notification_slider_mode_none">보통</string>
     <string name="thermal_title">최적화 프로필</string>
     <string name="thermal_summary">최적의 성능을 위해 앱별 프로파일 조정</string>
     <string name="thermal_default">최적화 안 함</string>
@@ -132,5 +146,17 @@
     <string name="thermal_dialer">전화</string>
     <string name="thermal_gaming">게임</string>
     <string name="thermal_streaming">스트리밍 애플리케이션</string>
+    <string name="raise_to_wake_gesture_title">들어올려 깨우기</string>
+    <string name="raise_to_wake_gesture_summary">알림 대신 기기 깨우기</string>
     <string name="device_min_refresh_rate">최소 재생률</string>
+    <string name="touch_control_title">터치스크린 최적화</string>
+    <string name="touch_game_mode_title">게임 모드 활성화</string>
+    <string name="touch_game_mode_summary">터치스크린을 최적화하여 게이밍 경험 향상을 도와줌</string>
+    <string name="touch_response_title">터치 반응</string>
+    <string name="touch_response_summary">터치 반응 조절</string>
+    <string name="touch_sensitivity_title">터치 민감도</string>
+    <string name="touch_sensitivity_summary">반복 터치로 민감도 조절</string>
+    <string name="touch_resistant_title">터치 방지 영역</string>
+    <string name="touch_resistant_summary">가장자리의 잘못된 터치를 방지하기 위해 민감도를 줄임</string>
+    <string name="home_button_extra_settings">홈 버튼 동작 커스텀</string>
 </resources>

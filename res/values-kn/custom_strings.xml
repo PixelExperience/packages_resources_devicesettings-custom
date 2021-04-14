@@ -43,7 +43,7 @@
     <string name="dirac_headset_in_ear2">Mi ಇನ್‌-ಇಯರ್‌ 2</string>
     <string name="dirac_headset_earphone_basic">Mi ಇಯರ್ಫೋನ್ಸ್ ಬೇಸಿಕ್</string>
     <string name="dirac_headset_earphone">Mi ಇಯರ್‌ಫೋನ್‌ಗಳು</string>
-    <string name="dirac_preset_default">ಡಿಫಾಲ್ಟ್</string>
+    <string name="dirac_preset_default">ಡೀಫಾಲ್ಟ್‌</string>
     <string name="dirac_preset_rock">ರಾಕ್</string>
     <string name="dirac_preset_jazz">ಜಾಝ್</string>
     <string name="dirac_preset_pop">ಪಾಪ್</string>
@@ -114,5 +114,8 @@
     <string name="tap_to_wake_summary">ಸಾಧನವನ್ನು ಎಚ್ಚರಗೊಳಿಸಲು ಪರದೆಯ ಯಾವುದೇ ಭಾಗದಲ್ಲಿ ಎರಡು ಬಾರಿ ಟ್ಯಾಪ್ ಮಾಡಿ</string>
     <string name="allow_proximity_sensor_title">ಸಾಮೀಪ್ಯ ಸೆನ್ಸರ್ ಅನ್ನು ಅನುಮತಿಸಿ</string>
     <string name="allow_proximity_sensor_summary">ಕ್ರಿಯೆಯನ್ನು ಪ್ರಾರಂಭಿಸುವ ಮುನ್ನ ಸಾಮೀಪ್ಯ ಸೆನ್ಸರ್ ಅನ್ನು ಪರಿಶೀಲಿಸಿ</string>
+    <string name="oneplus_advanced_settings">ಒನ್‌ಪ್ಲಸ್ ಸಂಯೋಜನೆಗಳು</string>
+    <string name="oneplus_advanced_settings_summary">ನಿಮ್ಮ ಸಾಧನಕ್ಕೆ ಕಸ್ಟಮ್ ಸಂಯೋಜನೆಗಳು</string>
+    <string name="notification_slider_mode_none">ಸಾಧಾರಣ</string>
     <string name="thermal_title">Kannada</string>
 </resources>

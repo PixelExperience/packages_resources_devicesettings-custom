@@ -26,7 +26,9 @@
     <string name="action_voice_assistant">Дуут туслах</string>
     <string name="action_play_pause">Тоглуулах/Түр зогсоох</string>
     <string name="swipe_down_dlg_title">Доош шудрахад хийх үйлдлийг сонгох</string>
+    <string name="long_tap_title">Удаан дарах</string>
     <string name="long_tap_dlg_title">Удаан дарахад хийх үйлдлийг сонгох</string>
     <string name="tap_to_wake">Дарж сэрээх</string>
     <string name="tap_to_wake_summary">Дэлгэц дээр 2 удаа дарж сэрээх</string>
+    <string name="oneplus_advanced_settings">OnePlus тохиргоонууд</string>
 </resources>

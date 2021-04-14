@@ -52,6 +52,7 @@
     <string name="swipe_down_dlg_title">Fren tigawt n uzuɣeṛ s azelmaḍ</string>
     <string name="tap_title">Asenned aḥerfi</string>
     <string name="double_tap_title">Senned snat tikal</string>
+    <string name="long_tap_title">A senned i kra n wakud</string>
     <string name="tap_dlg_title">Fren tigawt usenned n yiwet tikkelt </string>
     <string name="double_tap_dlg_title">Fren tigawt n usenned snat tikal </string>
     <string name="long_tap_dlg_title">Fren tigawt n usenned i kra n wakud</string>

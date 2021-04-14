@@ -43,7 +43,7 @@
     <string name="dirac_headset_in_ear2">Mi இன்-இயர் 2</string>
     <string name="dirac_headset_earphone_basic">Mi இயர்ஃபோன் பேசிக்</string>
     <string name="dirac_headset_earphone">Mi இயர்போன்கள்</string>
-    <string name="dirac_preset_default">இயல்பு</string>
+    <string name="dirac_preset_default">இயல்புநிலை</string>
     <string name="dirac_preset_rock">ராக்</string>
     <string name="dirac_preset_jazz">ஜாஸ்</string>
     <string name="dirac_preset_pop">பாப்</string>
@@ -108,7 +108,7 @@
     <string name="swipe_down_dlg_title">ஒறுமுறை தட்டுதல் செயல்பாட்டைத் தேர்ந்தெடுக்கவும்</string>
     <string name="tap_title">ஒறுமுறை தட்டு</string>
     <string name="double_tap_title">இருமுறை தட்டவும்</string>
-    <string name="long_tap_title">நீண்ட நேரம் அழுத்தவும்</string>
+    <string name="long_tap_title">நீண்டமுனற தட்டு</string>
     <string name="tap_dlg_title">ஒறுமுறை தட்டுதல் செயல்பாட்டைத் தேர்ந்தெடுக்கவும்</string>
     <string name="double_tap_dlg_title">ஒறுமுறை தட்டுதல் செயல்பாட்டைத் தேர்ந்தெடுக்கவும்</string>
     <string name="long_tap_dlg_title">ஒறுமுறை தட்டுதல் செயல்பாட்டைத் தேர்ந்தெடுக்கவும்</string>
@@ -116,6 +116,8 @@
     <string name="tap_to_wake_summary">சாதனத்தை எடுப்பதற்கு திரையில் எங்கிருந்தும் இருமுறை தட்டவும்</string>
     <string name="allow_proximity_sensor_title">ப்ரோக்ஸிமிட்டி சென்சார் அனுமதி</string>
     <string name="allow_proximity_sensor_summary">செயலைச் செய்வதற்கு முன்னர் அலைபேசி சென்சார் சரிபார்க்கவும்</string>
+    <string name="oneplus_advanced_settings">ஒன்ப்ளஸ் அமைப்புகள்</string>
+    <string name="oneplus_advanced_settings_summary">உங்கள் சாதனத்திற்கான தனிப்பயன் அமைப்புகள்</string>
     <string name="thermal_benchmark">செயற்திறன்</string>
     <string name="thermal_browser">உலாவி</string>
     <string name="thermal_camera">கேமரா</string>

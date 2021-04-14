@@ -41,4 +41,6 @@
     <string name="tap_dlg_title">Single tap කිරීමේදී ක්‍රියාව</string>
     <string name="double_tap_dlg_title">Double tap කිරීමේදී ක්‍රියාව</string>
     <string name="long_tap_dlg_title">Long tap කිරීමේදී ක්‍රියාව</string>
+    <string name="oneplus_advanced_settings">OnePlus සැකසුම්</string>
+    <string name="oneplus_advanced_settings_summary">අභිරුචිය අනුව ඔබගේ උපාංගයේ සැකසුම්</string>
 </resources>

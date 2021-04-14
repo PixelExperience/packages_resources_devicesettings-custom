@@ -105,6 +105,15 @@
     <string name="tap_to_wake_summary">Sakatu birritan pantailako edozein puntu gailua aktibatzeko</string>
     <string name="allow_proximity_sensor_title">Gertutasun sentsorea gaitu</string>
     <string name="allow_proximity_sensor_summary">Gertutasun sentsorea egiaztatu ekintza egin bano lehen</string>
+    <string name="oneplus_advanced_settings">OnePlus ezarpenak</string>
+    <string name="oneplus_advanced_settings_summary">Zure mugikorrentzako ezarpen pertsonalizatuak</string>
+    <string name="notification_slider_selection_dialog_title">Ekintza</string>
+    <string name="notification_slider_top_position">Goian</string>
+    <string name="notification_slider_middle_position">Erdian</string>
+    <string name="notification_slider_bottom_position">Behean</string>
+    <string name="notification_slider_mode_total_silence">Isiltasun osoa</string>
+    <string name="notification_slider_mode_priority_only">Lehentasunak bakarrik</string>
+    <string name="notification_slider_mode_none">Arrunta</string>
     <string name="thermal_title">Optimizazio profila</string>
     <string name="thermal_default">Optimizaziorik gabe</string>
     <string name="thermal_benchmark">Errendimendua</string>

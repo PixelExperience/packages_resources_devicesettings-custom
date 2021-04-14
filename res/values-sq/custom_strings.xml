@@ -41,7 +41,7 @@
     <string name="dirac_headset_in_ear2">Mi në vesh 2</string>
     <string name="dirac_headset_earphone_basic">Mi Kufje Themelore</string>
     <string name="dirac_headset_earphone">Mi kufje</string>
-    <string name="dirac_preset_default">Të parazgjedhura</string>
+    <string name="dirac_preset_default">Paracaktuar</string>
     <string name="dirac_preset_rock">Rok</string>
     <string name="dirac_preset_jazz">Xhaz</string>
     <string name="dirac_preset_classical">Klasike</string>
@@ -86,7 +86,9 @@
     <string name="swipe_down_dlg_title">Zgjidh aksionin për rrëshqitje poshtë</string>
     <string name="tap_title">Një prekje</string>
     <string name="double_tap_title">Prekje e dyherëshme</string>
+    <string name="long_tap_title">Prekje e gjatë</string>
     <string name="tap_dlg_title">Zgjidh aksionin per prekje te vetme</string>
     <string name="double_tap_dlg_title">Zgjidh aksionin për prekje të dyherëshme</string>
     <string name="long_tap_dlg_title">Zgjedh aksionet për prekje të gjatë</string>
+    <string name="notification_slider_mode_none">Normal</string>
 </resources>

@@ -22,8 +22,10 @@
     <string name="dirac_preset_title">Избери предв. зададен</string>
     <string name="dirac_hifi_title">Hi-Fi аудио</string>
     <string name="dirac_hifi_summary">Намаляване на шума и изкривяването, за да се подобри качеството на звука</string>
+    <string name="dirac_hifi_enable_title">Включи Hi-fi</string>
     <string name="dirac_headset_default">По подразбиране</string>
     <string name="dirac_headset_earbuds">Mi слушалки</string>
+    <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
     <string name="dirac_headset_piston_1">Mi piston-1</string>
     <string name="dirac_headset_general">Обикновени</string>
     <string name="dirac_headset_general_inear">Обикновени \"тапи за уши\"</string>
@@ -35,6 +37,7 @@
     <string name="dirac_headset_piston_color">Цветно издание</string>
     <string name="dirac_headset_in_ear">Mi in-ear headphones</string>
     <string name="dirac_headset_capsule">Mi капсула</string>
+    <string name="dirac_headset_in_ear_pro">Mi In-Ear Pro</string>
     <string name="dirac_headset_comfort">Mi Комфорт</string>
     <string name="dirac_headset_reduction_noise">Mi шумопотискане Тип-C</string>
     <string name="dirac_headset_cancelling">Mi шумопотискане 3.5mm</string>
@@ -53,6 +56,8 @@
     <string name="dirac_preset_country">Кънтри</string>
     <string name="dirac_preset_dance">Танцувална</string>
     <string name="dirac_preset_metal">Метъл</string>
+    <string name="popup_settings_title">Настройки на изскачаща камера</string>
+    <string name="popup_led_title">Camera LED</string>
     <string name="popup_led_summary">Включи LED светлини, когато предната камера се показва и скрива</string>
     <string name="popup_sound_title">Звукови ефекти</string>
     <string name="popup_title_muqin">Ксилофон</string>
@@ -116,6 +121,18 @@
     <string name="tap_to_wake_summary">Чукнете два пъти където и да е чо екрана за да събудите устройството</string>
     <string name="allow_proximity_sensor_title">Сензор за близост</string>
     <string name="allow_proximity_sensor_summary">Проверете сензора за близост, преди да извършите действието</string>
+    <string name="oneplus_advanced_settings">OnePlus настройки</string>
+    <string name="oneplus_advanced_settings_summary">Потребителски настройки за устройството ви</string>
+    <string name="notification_slider_selection_dialog_title">Действие</string>
+    <string name="notification_slider_top_position">Най-горна позиция</string>
+    <string name="notification_slider_middle_position">Средна позиция</string>
+    <string name="notification_slider_bottom_position">Най-ниска позиция</string>
+    <string name="notification_slider_mode_total_silence">Пълна тишина</string>
+    <string name="notification_slider_mode_alarms_only">Само будилници</string>
+    <string name="notification_slider_mode_priority_only">Само с приоритет</string>
+    <string name="notification_slider_mode_silent">Без звук</string>
+    <string name="notification_slider_mode_vibrate">Вибрация</string>
+    <string name="notification_slider_mode_none">Нормално</string>
     <string name="thermal_title">Профил за оптимизация</string>
     <string name="thermal_default">Без оптимизация</string>
     <string name="thermal_benchmark">Производителност</string>
@@ -123,4 +140,7 @@
     <string name="thermal_camera">Камера</string>
     <string name="thermal_dialer">Телефон</string>
     <string name="thermal_gaming">Игри</string>
+    <string name="raise_to_wake_gesture_title">Повдигнете, за да се събудите</string>
+    <string name="touch_game_mode_title">Разреши режим игра</string>
+    <string name="touch_sensitivity_title">Чувствителност на докосване</string>
 </resources>

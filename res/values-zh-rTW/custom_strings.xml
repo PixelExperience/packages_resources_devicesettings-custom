@@ -79,6 +79,7 @@
     <string name="takeback_camera_front_failed">前置相機收回失敗，請重試</string>
     <string name="popup_camera_front_failed">前置相機彈出失敗，請重試</string>
     <string name="popup_camera_proximity_obstructed">請將您的手從近接感測器前移開以開啟前置鏡頭……</string>
+    <string name="moto_actions_title">Moto 動作</string>
     <string name="device_gestures_title">裝置手勢</string>
     <string name="device_gestures_summary">管理裝置手勢</string>
     <string name="ambient_display_manage_summary">管理環境顯示手勢</string>
@@ -113,8 +114,8 @@
     <string name="swipe_right_dlg_title">選擇向右滑動的動作</string>
     <string name="swipe_up_dlg_title">選擇向上滑動的動作</string>
     <string name="swipe_down_dlg_title">選擇向下滑動的動作</string>
-    <string name="tap_title">單點</string>
-    <string name="double_tap_title">雙點</string>
+    <string name="tap_title">輕觸一下</string>
+    <string name="double_tap_title">點兩下</string>
     <string name="long_tap_title">長按</string>
     <string name="tap_dlg_title">選擇輕觸一下的動作</string>
     <string name="double_tap_dlg_title">選擇點兩下的動作</string>
@@ -123,6 +124,19 @@
     <string name="tap_to_wake_summary">在螢幕上任一處輕按兩下即可喚醒裝置</string>
     <string name="allow_proximity_sensor_title">開啟距離感應器</string>
     <string name="allow_proximity_sensor_summary">執行動作前檢查距離感應器</string>
+    <string name="oneplus_advanced_settings">OnePlus 設定</string>
+    <string name="oneplus_advanced_settings_summary">您裝置的自訂設定</string>
+    <string name="notification_slider_category_title">三段式開關</string>
+    <string name="notification_slider_selection_dialog_title">動作</string>
+    <string name="notification_slider_top_position">頂部位置</string>
+    <string name="notification_slider_middle_position">中間位置</string>
+    <string name="notification_slider_bottom_position">底部位置</string>
+    <string name="notification_slider_mode_total_silence">完全靜音</string>
+    <string name="notification_slider_mode_alarms_only">僅允許鬧鐘</string>
+    <string name="notification_slider_mode_priority_only">僅限優先通知</string>
+    <string name="notification_slider_mode_silent">靜音</string>
+    <string name="notification_slider_mode_vibrate">震動</string>
+    <string name="notification_slider_mode_none">正常</string>
     <string name="thermal_title">最佳化設定檔</string>
     <string name="thermal_summary">調整每個應用程式的設定檔以取得最佳效能</string>
     <string name="thermal_default">無最佳化</string>
@@ -132,5 +146,17 @@
     <string name="thermal_dialer">電話</string>
     <string name="thermal_gaming">遊戲</string>
     <string name="thermal_streaming">串流應用程式</string>
+    <string name="raise_to_wake_gesture_title">拿起喚醒</string>
+    <string name="raise_to_wake_gesture_summary">喚醒設備而不是發出通知</string>
     <string name="device_min_refresh_rate">最低更新率</string>
+    <string name="touch_control_title">觸摸螢幕優化</string>
+    <string name="touch_game_mode_title">啟用遊戲模式</string>
+    <string name="touch_game_mode_summary">通過優化觸摸螢幕來幫助改善遊戲體驗</string>
+    <string name="touch_response_title">觸控回應</string>
+    <string name="touch_response_summary">控制觸摸響應</string>
+    <string name="touch_sensitivity_title">觸控靈敏度</string>
+    <string name="touch_sensitivity_summary">控制重複輕拍的靈敏度</string>
+    <string name="touch_resistant_title">防止接觸區域 </string>
+    <string name="touch_resistant_summary">降低邊緣附近的敏感度，以防止意外觸摸</string>
+    <string name="home_button_extra_settings">自定義主頁按鈕行為</string>
 </resources>

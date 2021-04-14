@@ -106,6 +106,7 @@
     <string name="swipe_down_dlg_title">తుడుపు డౌన్ కోసం చర్యను ఎంచుకోండి</string>
     <string name="tap_title">ఒకే ట్యాప్</string>
     <string name="double_tap_title">రెండుసార్లు నొక్కండి</string>
+    <string name="long_tap_title">లాంగ్ ట్యాప్</string>
     <string name="tap_dlg_title">సింగిల్ టాప్ కోసం చర్య సెట్ చెయ్యండి</string>
     <string name="double_tap_dlg_title">డబుల్ ట్యాప్ కోసం చర్యను ఎంచుకోండి</string>
     <string name="long_tap_dlg_title">దీర్ఘ పంపు కోసం చర్యను ఎంచుకోండి</string>

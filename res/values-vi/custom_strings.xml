@@ -27,6 +27,8 @@
     <string name="dirac_hifi_enable_title">Bật Hi-fi</string>
     <string name="dirac_headset_default">Mặc định</string>
     <string name="dirac_headset_earbuds">Mi Earbud</string>
+    <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
+    <string name="dirac_headset_piston_1">Mi Piston-1</string>
     <string name="dirac_headset_general">Thường</string>
     <string name="dirac_headset_general_inear">In-Ear thường</string>
     <string name="dirac_headset_piston_basic">Cơ bản</string>
@@ -35,11 +37,22 @@
     <string name="dirac_headset_headphone">Tai nghe Mi</string>
     <string name="dirac_headset_piston_youth">Phiên bản trẻ</string>
     <string name="dirac_headset_piston_color">Phiên bản sắc màu</string>
+    <string name="dirac_headset_in_ear">Mi In-Ear</string>
+    <string name="dirac_headset_capsule">Mi Capsule</string>
+    <string name="dirac_headset_in_ear_pro">Mi In-Ear Pro</string>
+    <string name="dirac_headset_comfort">Mi Comfort</string>
     <string name="dirac_headset_reduction_noise">Khử tiếng ồn Mi Type-C</string>
     <string name="dirac_headset_cancelling">Khử tiếng ồn Mi 3.5mm</string>
+    <string name="dirac_headset_half_in_ear">Mi Half In-Ear</string>
+    <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
+    <string name="dirac_headset_earphone_basic">Tai nghe Mi cơ bản</string>
     <string name="dirac_headset_earphone">Tai nghe Mi</string>
     <string name="dirac_preset_default">Mặc định</string>
+    <string name="dirac_preset_rock">Rock</string>
+    <string name="dirac_preset_jazz">Jazz</string>
+    <string name="dirac_preset_pop">Pop</string>
     <string name="dirac_preset_classical">Cổ điển</string>
+    <string name="dirac_preset_hiphop">Hip Hop</string>
     <string name="dirac_preset_blues">Blue</string>
     <string name="dirac_preset_electronic">Điện tử</string>
     <string name="dirac_preset_country">Quê hương</string>
@@ -52,6 +65,7 @@
     <string name="popup_title_muqin">Mộc cầm</string>
     <string name="popup_title_yingyan">Chim ưng</string>
     <string name="popup_title_mofa">Ma thuật</string>
+    <string name="popup_title_jijia">Mecha</string>
     <string name="popup_title_chilun">Bánh răng</string>
     <string name="popup_title_cangmen">Cửa cabin</string>
     <string name="popup_camera_tip">Chú ý</string>
@@ -110,6 +124,19 @@
     <string name="tap_to_wake_summary">Chạm hai lần bất cứ đâu trên màn hình để đánh thức thiết bị</string>
     <string name="allow_proximity_sensor_title">Cho phép cảm biến tiệm cận</string>
     <string name="allow_proximity_sensor_summary">Kiểm tra cảm biến tiệm cận trước khi thực hiện hành động</string>
+    <string name="oneplus_advanced_settings">Thiết đặt OnePlus</string>
+    <string name="oneplus_advanced_settings_summary">Thiết lập tuỳ chỉnh cho thiết bị của bạn</string>
+    <string name="notification_slider_category_title">Thanh trượt cảnh báo</string>
+    <string name="notification_slider_selection_dialog_title">Hành động</string>
+    <string name="notification_slider_top_position">Vị trí trên cùng</string>
+    <string name="notification_slider_middle_position">Vị trí giữa</string>
+    <string name="notification_slider_bottom_position">Vị trí dưới cùng</string>
+    <string name="notification_slider_mode_total_silence">Tắt tiếng hoàn toàn</string>
+    <string name="notification_slider_mode_alarms_only">Chỉ chuông báo</string>
+    <string name="notification_slider_mode_priority_only">Chỉ ưu tiên</string>
+    <string name="notification_slider_mode_silent">Im lặng</string>
+    <string name="notification_slider_mode_vibrate">Rung</string>
+    <string name="notification_slider_mode_none">Bình thường</string>
     <string name="thermal_title">Hồ sơ tối ưu hóa</string>
     <string name="thermal_summary">Điều chỉnh cấu hình trên mỗi ứng dụng để có hiệu suất tối ưu</string>
     <string name="thermal_default">Không tối ưu hóa</string>
@@ -119,5 +146,19 @@
     <string name="thermal_dialer">Trình quay số</string>
     <string name="thermal_gaming">Trò chơi</string>
     <string name="thermal_streaming">Ứng dụng truyền phát</string>
+    <string name="raise_to_wake_gesture_title">Nâng cao để đánh thức</string>
+    <string name="raise_to_wake_gesture_summary">Đánh thức thiết bị thay vì thông báo rung</string>
     <string name="device_min_refresh_rate">Tốc độ làm mới tối thiểu</string>
+    <string name="touch_control_title">Tối ưu hóa màn hình cảm ứng</string>
+    <string name="touch_game_mode_title">Bật chế độ chơi game</string>
+    <string name="touch_game_mode_summary">Giúp cải thiện trải nghiệm chơi game bằng cách tối ưu hóa màn hình cảm ứng</string>
+    <string name="touch_response_title">Phản hồi chạm</string>
+    <string name="touch_response_summary">VIỆT
+Điều khiển phản ứng chạm</string>
+    <string name="touch_sensitivity_title">Độ nhạy cao</string>
+    <string name="touch_sensitivity_summary">Kiểm soát độ nhạy cho các lần chạm lặp lại</string>
+    <string name="touch_resistant_title">Khu vực chống cảm ứng</string>
+    <string name="touch_resistant_summary">Giảm độ nhạy gần các cạnh để tránh chạm nhầm</string>
+    <string name="home_button_extra_settings">VIỆT
+Tùy chỉnh hành vi của nút trang chủ</string>
 </resources>

@@ -106,9 +106,9 @@
     <string name="swipe_right_dlg_title">انتخاب عمل برای کشیدن به راست</string>
     <string name="swipe_up_dlg_title">انتخاب عمل برای کشیدن به بالا</string>
     <string name="swipe_down_dlg_title">انتخاب عمل برای کشیدن به پایین</string>
-    <string name="tap_title">تک ضربه</string>
+    <string name="tap_title">یک ضربه</string>
     <string name="double_tap_title">دو ضربه</string>
-    <string name="long_tap_title">ضربه‌ی طولانی</string>
+    <string name="long_tap_title">ضربه ی طولانی</string>
     <string name="tap_dlg_title">انتخاب عمل برای یک صربه</string>
     <string name="double_tap_dlg_title">انتخاب عمل برای دو صربه</string>
     <string name="long_tap_dlg_title">انتخاب عمل برای صربه ی طولانی</string>
@@ -116,6 +116,15 @@
     <string name="tap_to_wake_summary">برای بیدار شدن دستگاه، هر جایی از صفحه را دوبار لمس کنید</string>
     <string name="allow_proximity_sensor_title">اجازه دادن به سنسور مجاورت</string>
     <string name="allow_proximity_sensor_summary">قبل از انجام عمل، سنسور مجاورت را بررسی کن</string>
+    <string name="oneplus_advanced_settings">تنظیمات وان پلاس</string>
+    <string name="oneplus_advanced_settings_summary">تنظیمات سفارشی برای دستگاه شما</string>
+    <string name="notification_slider_selection_dialog_title">عملکرد</string>
+    <string name="notification_slider_top_position">بالاترین موقعیت</string>
+    <string name="notification_slider_middle_position">موقعیت میانی</string>
+    <string name="notification_slider_bottom_position">موقعیت پایین</string>
+    <string name="notification_slider_mode_total_silence">سکوت کامل</string>
+    <string name="notification_slider_mode_priority_only">فقط اولویت ها</string>
+    <string name="notification_slider_mode_none">عادی</string>
     <string name="thermal_title">پروفایل بهینه سازی</string>
     <string name="thermal_default">بدون بهینه سازی</string>
     <string name="thermal_benchmark">کارآیی</string>

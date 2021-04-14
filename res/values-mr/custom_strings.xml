@@ -43,7 +43,7 @@
     <string name="dirac_headset_in_ear2">कान 2 मध्ये Mi</string>
     <string name="dirac_headset_earphone_basic">Mi इयरफोन्स बेसिक</string>
     <string name="dirac_headset_earphone">Mi इयरफोन्स</string>
-    <string name="dirac_preset_default">डीफॉल्ट</string>
+    <string name="dirac_preset_default">डिफॉल्ट</string>
     <string name="dirac_preset_rock">रॉक</string>
     <string name="dirac_preset_jazz">जाझ</string>
     <string name="dirac_preset_pop">पॉप</string>
@@ -95,4 +95,6 @@
     <string name="swipe_right_dlg_title">उजव्या swipe साठी कार्य निवाडा </string>
     <string name="tap_to_wake">सक्रिय करण्यासाठी टॅप करा</string>
     <string name="tap_to_wake_summary">डिव्हाइस सक्रिय करण्यासाठी स्क्रीनवर कुठेही दोनदा टॅप करा</string>
+    <string name="oneplus_advanced_settings">वन प्लस सेटिंग</string>
+    <string name="oneplus_advanced_settings_summary">फोन करता कस्टम सेटिंग</string>
 </resources>

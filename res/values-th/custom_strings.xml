@@ -98,7 +98,7 @@
     <string name="swipe_down_dlg_title">ปัดหน้าจอลง เพื่อสั่งเครื่อง</string>
     <string name="tap_title">ใช้ปลายนิ้วมือ แตะเพียงครั้งเดียว</string>
     <string name="double_tap_title">ใช้ปลายนิ้วมือ แตะสองครั้ง</string>
-    <string name="long_tap_title">แตะค้างไว้</string>
+    <string name="long_tap_title">ใช้ปลายนิ้วมือ แตะค้างไว้</string>
     <string name="tap_dlg_title">ใช้ปลายนิ้วมือ แตะเพียงครั้งเดียว เพื่อสั่งการเครื่อง</string>
     <string name="double_tap_dlg_title">ใช้ปลายนิ้วมือ แตะเสองครั้ง เพื่อสั่งการเครื่อง</string>
     <string name="long_tap_dlg_title">ใช้ปลายนิ้วมือ แตะค้างไว้ เพื่อสั่งการเครื่อง</string>
@@ -106,6 +106,15 @@
     <string name="tap_to_wake_summary">แตะสองครั้งบนจอ เพื่อปลุกให้เครื่องเริ่มทำงาน</string>
     <string name="allow_proximity_sensor_title">เปิดใช้ การตรวจจับแนบหน้า</string>
     <string name="allow_proximity_sensor_summary">ตรวจเช็ค การตรวจจับแนบหน้า ก่อนเริ่มใช้งาน</string>
+    <string name="oneplus_advanced_settings">การตั้งค่า OnePlus</string>
+    <string name="oneplus_advanced_settings_summary">การตั้งค่าแบบกำหนดเองสำหรับอุปกรณ์ของคุณ</string>
+    <string name="notification_slider_selection_dialog_title">ดำเนินการ</string>
+    <string name="notification_slider_top_position">ตำแหน่งบนสุด</string>
+    <string name="notification_slider_middle_position">ตำแหน่งกึ่งกลาง</string>
+    <string name="notification_slider_bottom_position">ตำแหน่งล่างสุด</string>
+    <string name="notification_slider_mode_total_silence">ความเงียบรวม</string>
+    <string name="notification_slider_mode_priority_only">เฉพาะระดับความสำคัญ</string>
+    <string name="notification_slider_mode_none">ทั่วไป</string>
     <string name="thermal_title">โปรไฟล์การปรับปรุง</string>
     <string name="thermal_default">ไม่มีการปรับปรุง</string>
     <string name="thermal_benchmark">ประสิทธิภาพ</string>

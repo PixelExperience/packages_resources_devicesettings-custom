@@ -67,4 +67,5 @@
     <string name="stop_operate_camera_frequently">Премногу често ја отварате предната камера.</string>
     <string name="takeback_camera_front_failed">Не може да се отвори предната камера. Обидете се повторно.</string>
     <string name="popup_camera_front_failed">Не може да се отвори предната камера. Обидете се повторно.</string>
+    <string name="notification_slider_mode_none">Нормален</string>
 </resources>

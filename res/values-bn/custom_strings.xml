@@ -104,9 +104,9 @@
     <string name="swipe_right_dlg_title">ডানে সোয়াইপের জন্য ক্রিয়া নির্বাচন করুন</string>
     <string name="swipe_up_dlg_title">উপরে সোয়াইপের জন্য ক্রিয়া নির্বাচন করুন</string>
     <string name="swipe_down_dlg_title">নিচে সোয়াইপের জন্য ক্রিয়া নির্বাচন করুন</string>
-    <string name="tap_title">একবার টোকা মারুন</string>
-    <string name="double_tap_title">দুইবার টোকা মারুন</string>
-    <string name="long_tap_title">দীর্ঘ স্পর্শ</string>
+    <string name="tap_title">একটি ট্যাপ করুন</string>
+    <string name="double_tap_title">ডাবল ট্যাপ</string>
+    <string name="long_tap_title">দীর্ঘায়িত ট্যাপ</string>
     <string name="tap_dlg_title">একটি ট্যাপের জন্য ক্রিয়া নির্বাচন করুন</string>
     <string name="double_tap_dlg_title">ডাবল ট্যাপের জন্য ক্রিয়া নির্বাচন করুন</string>
     <string name="long_tap_dlg_title">দীর্ঘায়িত ট্যাপের জন্য ক্রিয়া নির্বাচন করুন</string>
@@ -114,6 +114,14 @@
     <string name="tap_to_wake_summary">জাগিয়ে তুলতে ডিভাইস স্ক্রিনের যেকোন স্থানে ডাবল ট্যাপ করুন</string>
     <string name="allow_proximity_sensor_title">প্রক্সিমিটি সেন্সর অনুমোদন করুন</string>
     <string name="allow_proximity_sensor_summary">কার্যটি শুরু করার আগে সান্নিধ্য পরীক্ষা করুন</string>
+    <string name="oneplus_advanced_settings">ওয়ানপ্লাস সেটিংস</string>
+    <string name="oneplus_advanced_settings_summary">আপনার ডিভাইসের জন্য পছন্দসই নিয়ন্ত্রণ</string>
+    <string name="notification_slider_selection_dialog_title">আচরণ</string>
+    <string name="notification_slider_top_position">উপরের স্থান</string>
+    <string name="notification_slider_middle_position">মধ্য স্থান</string>
+    <string name="notification_slider_bottom_position">নিচের স্থান</string>
+    <string name="notification_slider_mode_total_silence">সম্পূর্ণ নিশ্চুপ</string>
+    <string name="notification_slider_mode_priority_only">শুধু অগ্রাধিকার</string>
     <string name="thermal_benchmark">পারফরম্যান্স</string>
     <string name="thermal_browser">ব্রাউজার</string>
     <string name="thermal_camera">ক্যামেরা</string>

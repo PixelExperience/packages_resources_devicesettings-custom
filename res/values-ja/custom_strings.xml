@@ -124,6 +124,19 @@
     <string name="tap_to_wake_summary">画面をダブルタップすると端末が復帰します</string>
     <string name="allow_proximity_sensor_title">近接センサーを許可</string>
     <string name="allow_proximity_sensor_summary">アクションを実行する前に近接センサーを確認する</string>
+    <string name="oneplus_advanced_settings">OnePlus 設定</string>
+    <string name="oneplus_advanced_settings_summary">お使いの端末のカスタム設定</string>
+    <string name="notification_slider_category_title">Alert Slider</string>
+    <string name="notification_slider_selection_dialog_title">アクション</string>
+    <string name="notification_slider_top_position">上部</string>
+    <string name="notification_slider_middle_position">中央</string>
+    <string name="notification_slider_bottom_position">下部</string>
+    <string name="notification_slider_mode_total_silence">サイレント</string>
+    <string name="notification_slider_mode_alarms_only">アラームのみ</string>
+    <string name="notification_slider_mode_priority_only">優先する通知のみ</string>
+    <string name="notification_slider_mode_silent">サイレント</string>
+    <string name="notification_slider_mode_vibrate">振動</string>
+    <string name="notification_slider_mode_none">標準</string>
     <string name="thermal_title">最適化のプロファイル</string>
     <string name="thermal_summary">パフォーマンス最適化のためにアプリごとのプロファイルを調整する</string>
     <string name="thermal_default">最適化なし</string>
@@ -133,5 +146,17 @@
     <string name="thermal_dialer">電話</string>
     <string name="thermal_gaming">ゲーム</string>
     <string name="thermal_streaming">ストリーミングアプリ</string>
+    <string name="raise_to_wake_gesture_title">持ち上げて復帰</string>
+    <string name="raise_to_wake_gesture_summary">通知のライト点滅の代わりに持ち上げる動作でスリープ解除する</string>
     <string name="device_min_refresh_rate">最小リフレッシュレート</string>
+    <string name="touch_control_title">タッチ画面の最適化</string>
+    <string name="touch_game_mode_title">ゲームモードを有効化</string>
+    <string name="touch_game_mode_summary">タッチ画面の最適化でゲーミング体験を向上するのに寄与できます</string>
+    <string name="touch_response_title">タッチ反応速度</string>
+    <string name="touch_response_summary">タッチ反応速度を制御する</string>
+    <string name="touch_sensitivity_title">タッチ感度</string>
+    <string name="touch_sensitivity_summary">複数回のタップに対する感度を制御する</string>
+    <string name="touch_resistant_title">タッチ感度低下範囲</string>
+    <string name="touch_resistant_summary">誤動作を回避するために画面の縁の周辺の感度を低下させる</string>
+    <string name="home_button_extra_settings">ホームボタンの動作を編集</string>
 </resources>

@@ -42,7 +42,7 @@
     <string name="dirac_headset_in_ear2">Mi ان-ایئر 2</string>
     <string name="dirac_headset_earphone_basic">Mi ایئرفون بیسک</string>
     <string name="dirac_headset_earphone">Mi ایئر فونز</string>
-    <string name="dirac_preset_default">پہلے سے طے شدہ</string>
+    <string name="dirac_preset_default">ڈیفالٹ</string>
     <string name="dirac_preset_rock">راک</string>
     <string name="dirac_preset_jazz">جاز</string>
     <string name="dirac_preset_pop">پاپ</string>
@@ -87,7 +87,7 @@
     <string name="action_messages">پیغامات اپلی کیشن کھولیں</string>
     <string name="tap_title">ایک کلک</string>
     <string name="double_tap_title">دوہرا تھپ تھپانا</string>
-    <string name="long_tap_title">طویل دباؤ</string>
+    <string name="long_tap_title">طویل تھپ تھپانا</string>
     <string name="tap_to_wake">فعال کرنے کیلئے تھپتھپائیں</string>
     <string name="tap_to_wake_summary">آلہ کو فعال کرنے کیلئے اسکرین پر کہیں بھی دو بار تھپتھپائیں</string>
     <string name="allow_proximity_sensor_title">نسبت سینسر کو چالو کریں</string>

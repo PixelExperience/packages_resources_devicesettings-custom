@@ -104,6 +104,10 @@
     <string name="tap_to_wake_summary">ഉപകരണം സജീവമാക്കാൻ സ്‌ക്രീനിലെവിടെയെങ്കിലും രണ്ടുതവണ ടാപ്പുചെയ്യുക</string>
     <string name="allow_proximity_sensor_title">പ്രോക്സിമിറ്റി സെൻസർ അനുവദിക്കുക</string>
     <string name="allow_proximity_sensor_summary">പ്രവർത്തനം നടത്തുന്നതിന് മുമ്പ് പ്രോക്സിമിറ്റി സെൻസർ പരിശോധിക്കുക</string>
+    <string name="oneplus_advanced_settings">വൺപ്ലസ് ക്രമീകരണങ്ങൾ</string>
+    <string name="oneplus_advanced_settings_summary">നിങ്ങളുടെ ഉപകരണത്തിനായുള്ള ഇഷ്‌ടാനുസൃത ക്രമീകരണങ്ങൾ</string>
+    <string name="notification_slider_category_title">അലേർട്ട് സ്ലൈഡർ</string>
+    <string name="notification_slider_selection_dialog_title">പ്രവർത്തനം</string>
     <string name="thermal_default">യാതൊരു നിയന്ത്രണങ്ങളും ഇല്ല</string>
     <string name="thermal_benchmark">പ്രകടനം</string>
     <string name="thermal_browser">ബ്രൗസർ</string>

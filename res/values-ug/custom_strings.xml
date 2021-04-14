@@ -43,7 +43,7 @@
     <string name="dirac_headset_in_ear2">شياۋمى چەمبىرەك2</string>
     <string name="dirac_headset_earphone_basic">شياۋمى تىڭشىغۇچى ئاساسىي نۇسخىسى</string>
     <string name="dirac_headset_earphone">شياۋمى تىڭشىغۇچى</string>
-    <string name="dirac_preset_default">سۈكۈتتىكى ئەپ</string>
+    <string name="dirac_preset_default">سۈكۈتتىكى</string>
     <string name="dirac_preset_rock">روك</string>
     <string name="dirac_preset_jazz">جاز</string>
     <string name="dirac_preset_pop">مودا</string>

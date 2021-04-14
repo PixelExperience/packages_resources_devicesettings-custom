@@ -37,7 +37,7 @@
     <string name="dirac_headset_in_ear_pro">Mi quloqliklari Pro</string>
     <string name="dirac_headset_reduction_noise">Mi-shovqinni Kamaytirish C-turi</string>
     <string name="dirac_headset_cancelling">Mi Shovqinni Kamaytirish 3.5mm</string>
-    <string name="dirac_preset_default">Birlamchi</string>
+    <string name="dirac_preset_default">Standart</string>
     <string name="dirac_preset_rock">Rok</string>
     <string name="dirac_preset_classical">Klassik</string>
     <string name="dirac_preset_blues">Blyuz</string>

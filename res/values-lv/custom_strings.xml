@@ -29,7 +29,7 @@
     <string name="dirac_headset_piston_color">Krāsu modelis</string>
     <string name="dirac_headset_reduction_noise">Mi Trokšņu Slāpēšana Tips-C</string>
     <string name="dirac_headset_cancelling">Mi trokšņu slāpēšana 3.5mm</string>
-    <string name="dirac_preset_default">Noklusējuma</string>
+    <string name="dirac_preset_default">Noklusējums</string>
     <string name="dirac_preset_rock">Roks</string>
     <string name="dirac_preset_jazz">Džezs</string>
     <string name="dirac_preset_pop">Popmūzika</string>
@@ -72,4 +72,7 @@
     <string name="action_camera">Atvērt kameru</string>
     <string name="tap_title">Pieskāriens</string>
     <string name="double_tap_title">Dubultpieskāriens</string>
+    <string name="long_tap_title">Ilgs pieskāriens</string>
+    <string name="oneplus_advanced_settings">OnePlus Iestatījumi</string>
+    <string name="oneplus_advanced_settings_summary">Iestatījumi īpaši tavai ierīcei</string>
 </resources>

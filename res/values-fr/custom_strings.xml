@@ -114,8 +114,8 @@
     <string name="swipe_right_dlg_title">Sélectionnez l’action de coup droit</string>
     <string name="swipe_up_dlg_title">Sélectionnez l’action de balayage gauche</string>
     <string name="swipe_down_dlg_title">Sélectionnez l’action de balayage gauche</string>
-    <string name="tap_title">Appui simple</string>
-    <string name="double_tap_title">Appui double</string>
+    <string name="tap_title">Appui court</string>
+    <string name="double_tap_title">Appuyer deux fois</string>
     <string name="long_tap_title">Appui long</string>
     <string name="tap_dlg_title">Sélectionnez action pour seul robinet</string>
     <string name="double_tap_dlg_title">Action de sélection pour le double robinet</string>
@@ -124,6 +124,19 @@
     <string name="tap_to_wake_summary">Appuyez deux fois n\'importe où sur l\'écran pour réactiver l\'appareil.</string>
     <string name="allow_proximity_sensor_title">Afficher le Capteur de Proximité</string>
     <string name="allow_proximity_sensor_summary">Vérifiez le capteur de proximité avant d’exécuter l’action</string>
+    <string name="oneplus_advanced_settings">Paramètres OnePlus</string>
+    <string name="oneplus_advanced_settings_summary">Paramètres personnalisés pour votre appareil</string>
+    <string name="notification_slider_category_title">Le curseur d\'alerte</string>
+    <string name="notification_slider_selection_dialog_title">Action</string>
+    <string name="notification_slider_top_position">Position haute</string>
+    <string name="notification_slider_middle_position">Position intermédiaire</string>
+    <string name="notification_slider_bottom_position">Position basse</string>
+    <string name="notification_slider_mode_total_silence">Silence complet</string>
+    <string name="notification_slider_mode_alarms_only">Alarmes uniquement</string>
+    <string name="notification_slider_mode_priority_only">Prioritaires uniquement</string>
+    <string name="notification_slider_mode_silent">Silencieux</string>
+    <string name="notification_slider_mode_vibrate">Vibreur</string>
+    <string name="notification_slider_mode_none">Normal</string>
     <string name="thermal_title">Profil d\'optimisation</string>
     <string name="thermal_summary">Ajustez les profils pour chaque application pour des performances optimales</string>
     <string name="thermal_default">Aucune optimisation</string>
@@ -134,6 +147,16 @@
     <string name="thermal_gaming">Jeux</string>
     <string name="thermal_streaming">Flux des applications</string>
     <string name="raise_to_wake_gesture_title">Lever pour faire sortir de veille</string>
+    <string name="raise_to_wake_gesture_summary">Réveiller l\'appareil au lieu de pulser les notifications</string>
     <string name="device_min_refresh_rate">Taux de rafraîchissement minimum</string>
+    <string name="touch_control_title">Optimisations de l\'écran tactile</string>
     <string name="touch_game_mode_title">Activer le mode jeu</string>
+    <string name="touch_game_mode_summary">Aide à améliorer l\'expérience de jeu en optimisant l\'écran tactile</string>
+    <string name="touch_response_title">Taux de réponse tactile</string>
+    <string name="touch_response_summary">Contrôler le taux de réponse tactile </string>
+    <string name="touch_sensitivity_title">Sensibilité du toucher</string>
+    <string name="touch_sensitivity_summary">Contrôle la sensibilité des touchers répétés</string>
+    <string name="touch_resistant_title">Zone non-tactile</string>
+    <string name="touch_resistant_summary">Réduit la sensibilité près des bords pour éviter des manipulations involontaires</string>
+    <string name="home_button_extra_settings">Customiser l\'action du bouton d\'accueil</string>
 </resources>

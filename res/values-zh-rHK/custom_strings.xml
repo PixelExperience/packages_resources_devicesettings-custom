@@ -16,12 +16,15 @@
 -->
 <resources>
     <string name="display_title">顯示</string>
+    <string name="dc_dimming_enable_title">防閃爍</string>
+    <string name="dc_dimming_enable_summary">防閃爍模式透過使用「DC 調光」功能來協助減少低光源環境下的眼睛疲勞。這可能會降機色彩準確性，並影響某些項目的顯示方式。</string>
     <string name="dirac_title">使用米音提升音質</string>
     <string name="dirac_summary">最佳化音質</string>
     <string name="dirac_headset_title">耳機類型設定</string>
     <string name="dirac_preset_title">請選擇預設等化器</string>
     <string name="dirac_hifi_title">使用Hi-Fi高傳真播放</string>
     <string name="dirac_hifi_summary">減低噪音及失真，提升音質</string>
+    <string name="dirac_hifi_enable_title">啟用Hi-Fi</string>
     <string name="dirac_headset_default">預設</string>
     <string name="dirac_headset_earbuds">靈動耳塞式</string>
     <string name="dirac_headset_in_ear_2013">靈悅入耳式</string>
@@ -44,7 +47,7 @@
     <string name="dirac_headset_in_ear2">小米圈鐵耳機2</string>
     <string name="dirac_headset_earphone_basic">小米耳機基本款</string>
     <string name="dirac_headset_earphone">小米耳機</string>
-    <string name="dirac_preset_default">預設</string>
+    <string name="dirac_preset_default">無</string>
     <string name="dirac_preset_rock">搖滾</string>
     <string name="dirac_preset_jazz">爵士</string>
     <string name="dirac_preset_pop">流行</string>
@@ -111,8 +114,8 @@
     <string name="swipe_right_dlg_title">選擇向右滑動的動作</string>
     <string name="swipe_up_dlg_title">選擇向上滑動的動作</string>
     <string name="swipe_down_dlg_title">選擇向下滑動的動作</string>
-    <string name="tap_title">按一下</string>
-    <string name="double_tap_title">按兩下</string>
+    <string name="tap_title">輕觸一下</string>
+    <string name="double_tap_title">點兩下</string>
     <string name="long_tap_title">長按</string>
     <string name="tap_dlg_title">選擇輕觸一下的動作</string>
     <string name="double_tap_dlg_title">選擇點兩下的動作</string>
@@ -121,6 +124,19 @@
     <string name="tap_to_wake_summary">在螢幕上任一處輕按兩下即可喚醒裝置</string>
     <string name="allow_proximity_sensor_title">開啟距離感應器</string>
     <string name="allow_proximity_sensor_summary">執行動作前檢查距離感應器</string>
+    <string name="oneplus_advanced_settings">OnePlus 設定</string>
+    <string name="oneplus_advanced_settings_summary">您裝置的自訂設定</string>
+    <string name="notification_slider_category_title">三段式通知開關</string>
+    <string name="notification_slider_selection_dialog_title">動作</string>
+    <string name="notification_slider_top_position">頂部位置</string>
+    <string name="notification_slider_middle_position">中間位置</string>
+    <string name="notification_slider_bottom_position">底部位置</string>
+    <string name="notification_slider_mode_total_silence">完全靜音</string>
+    <string name="notification_slider_mode_alarms_only">僅允許鬧鐘</string>
+    <string name="notification_slider_mode_priority_only">僅限優先通知</string>
+    <string name="notification_slider_mode_silent">靜音</string>
+    <string name="notification_slider_mode_vibrate">震動</string>
+    <string name="notification_slider_mode_none">正常</string>
     <string name="thermal_title">最佳化設定檔</string>
     <string name="thermal_summary">調整每個應用程式的設定檔以取得最佳效能</string>
     <string name="thermal_default">尚未優化</string>
@@ -130,4 +146,17 @@
     <string name="thermal_dialer">電話</string>
     <string name="thermal_gaming">遊戲</string>
     <string name="thermal_streaming">串流中的應用程式</string>
+    <string name="raise_to_wake_gesture_title">拿起喚醒</string>
+    <string name="raise_to_wake_gesture_summary">喚醒設備而不是發出通知</string>
+    <string name="device_min_refresh_rate">最低刷新率</string>
+    <string name="touch_control_title">觸摸屏優化</string>
+    <string name="touch_game_mode_title">啟用遊戲模式</string>
+    <string name="touch_game_mode_summary">通過優化觸摸屏來幫助改善遊戲體驗</string>
+    <string name="touch_response_title">觸控回應</string>
+    <string name="touch_response_summary">控制觸摸響應</string>
+    <string name="touch_sensitivity_title">觸控靈敏度</string>
+    <string name="touch_sensitivity_summary">控制重複輕拍的靈敏度</string>
+    <string name="touch_resistant_title">防止接觸區域 </string>
+    <string name="touch_resistant_summary">降低邊緣附近的敏感度，以防止意外觸摸</string>
+    <string name="home_button_extra_settings">自定義主頁按鈕行為</string>
 </resources>

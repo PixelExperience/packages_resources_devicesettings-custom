@@ -40,7 +40,7 @@
     <string name="dirac_headset_in_ear2">Mi ઇન-ઇઅર 2</string>
     <string name="dirac_headset_earphone_basic">Mi ઇયરફોન બેઝિક</string>
     <string name="dirac_headset_earphone">Mi ઇયરફોન</string>
-    <string name="dirac_preset_default">ડિફોલ્ટ</string>
+    <string name="dirac_preset_default">ડિફૉલ્ટ</string>
     <string name="dirac_preset_rock">રૉક</string>
     <string name="dirac_preset_jazz">જૅઝ</string>
     <string name="dirac_preset_pop">પૉપ</string>
@@ -112,4 +112,5 @@
     <string name="tap_to_wake_summary">ઉપકરણને સક્રિય કરવા માટે સ્ક્રીન પર ગમે ત્યાં બે વાર ટેપ કરો</string>
     <string name="allow_proximity_sensor_title">પ્રોક્સીમેટ્રી સેન્સર ને મંજૂરી આપો</string>
     <string name="allow_proximity_sensor_summary">ક્રિયા કરવા પહેલાં પ્રોકસીમેટ્રી સેન્સર તપાસો</string>
+    <string name="oneplus_advanced_settings">OnePlus સેટિંગ્સ</string>
 </resources>

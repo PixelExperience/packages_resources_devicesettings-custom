@@ -93,4 +93,6 @@
     <string name="tap_to_wake_summary">Tryk to gange et vilkårligt sted på skærmen for at vække enheden</string>
     <string name="allow_proximity_sensor_title">Aktivér nærhedssensor</string>
     <string name="allow_proximity_sensor_summary">Tjek nærhedssensoren før handlingen udføres</string>
+    <string name="oneplus_advanced_settings">Oneplus Indstillinger</string>
+    <string name="notification_slider_mode_none">Normal</string>
 </resources>

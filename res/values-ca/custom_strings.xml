@@ -36,7 +36,7 @@
     <string name="dirac_headset_cancelling">Cancel·la sorolls Mi 3.5mm</string>
     <string name="dirac_headset_earphone_basic">Auriculars Mi Bàsic</string>
     <string name="dirac_headset_earphone">Mi Auriculars</string>
-    <string name="dirac_preset_default">Predeterminada</string>
+    <string name="dirac_preset_default">Per defecte</string>
     <string name="dirac_preset_classical">Clàssica</string>
     <string name="dirac_preset_electronic">Electrònica</string>
     <string name="dirac_preset_metal">Metall</string>
@@ -105,6 +105,15 @@
     <string name="tap_to_wake_summary">Doble toc a la pantalla per a activar el dispositiu</string>
     <string name="allow_proximity_sensor_title">Habilita el sensor de proximitat</string>
     <string name="allow_proximity_sensor_summary">Comprovar el sensor de proximitat abans d\'executar l\'acció</string>
+    <string name="oneplus_advanced_settings">Configuració OnePlus</string>
+    <string name="oneplus_advanced_settings_summary">Configuració personalitzada del dispositiu</string>
+    <string name="notification_slider_selection_dialog_title">Acció</string>
+    <string name="notification_slider_top_position">Posició superior</string>
+    <string name="notification_slider_middle_position">Posició mitjana</string>
+    <string name="notification_slider_bottom_position">Posició inferior</string>
+    <string name="notification_slider_mode_total_silence">Silenci total</string>
+    <string name="notification_slider_mode_priority_only">Només prioritat</string>
+    <string name="notification_slider_mode_none">Normal</string>
     <string name="thermal_title">Perfil d\'optimització</string>
     <string name="thermal_default">Sense optimització</string>
     <string name="thermal_benchmark">Rendiment</string>

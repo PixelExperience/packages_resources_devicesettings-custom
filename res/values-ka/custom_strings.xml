@@ -35,7 +35,7 @@
     <string name="dirac_headset_capsule">Mi კაპსულა</string>
     <string name="dirac_headset_in_ear_pro">Mi ყურსასმენი Pro</string>
     <string name="dirac_headset_comfort">Mi Comfort-ი</string>
-    <string name="dirac_preset_default">ნაგულისხმევი</string>
+    <string name="dirac_preset_default">დათქმული</string>
     <string name="dirac_preset_rock">როკი</string>
     <string name="dirac_preset_jazz">ჯაზი</string>
     <string name="dirac_preset_pop">პოპი</string>
@@ -62,4 +62,10 @@
     <string name="stop_operate_camera_frequently">თქვენ წინა კამერას ძალიან ხშირად იყენებთ.</string>
     <string name="takeback_camera_front_failed">წინა კამერის სახურვა ვერ მოხერხდა. კიდევ სცადეთ.</string>
     <string name="popup_camera_front_failed">წინა კამერის გახსნა ვერ მოხერხდა. კიდევ სცადეთ.</string>
+    <string name="notification_slider_selection_dialog_title">მოქმედება</string>
+    <string name="notification_slider_top_position">ზედა მხარე</string>
+    <string name="notification_slider_middle_position">საშუალო პოზიცია</string>
+    <string name="notification_slider_bottom_position">ქვედა მხარე</string>
+    <string name="notification_slider_mode_total_silence">სრული სიჩუმე</string>
+    <string name="notification_slider_mode_priority_only">მხოლოდ პრიორიტეტული</string>
 </resources>

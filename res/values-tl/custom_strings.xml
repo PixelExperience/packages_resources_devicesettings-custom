@@ -42,7 +42,7 @@
     <string name="swipe_right_dlg_title">Mamili ng aksyon para sa pag swipe sa kanan</string>
     <string name="tap_title">Isang tapik</string>
     <string name="double_tap_title">Dalawang pindot</string>
-    <string name="long_tap_title">Mahabang pindot</string>
+    <string name="long_tap_title">Mahabang tapik</string>
     <string name="tap_dlg_title">Mamili ng aksyon para sa isang tapik</string>
     <string name="double_tap_dlg_title">Mamili ng aksyon para sa dalawang tapik</string>
     <string name="long_tap_dlg_title">Mamili ng aksyon para sa mahabang pindot</string>
@@ -50,6 +50,7 @@
     <string name="tap_to_wake_summary">Dalawang tapik kahit saan sa screen para gumising ang aparato</string>
     <string name="allow_proximity_sensor_title">Payagan ang proximity sensor</string>
     <string name="allow_proximity_sensor_summary">Tignan ang proximity sensor bago gumawa ng aksyon</string>
+    <string name="oneplus_advanced_settings_summary">Custom settings para sa iyong aparato</string>
     <string name="thermal_title">Optimization profile</string>
     <string name="thermal_default">Walang optimization</string>
     <string name="thermal_camera">Kamera</string>

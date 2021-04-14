@@ -43,7 +43,7 @@
     <string name="dirac_headset_in_ear2">Mi ଇନ୍-ଇୟର 2</string>
     <string name="dirac_headset_earphone_basic">Mi ଇଅରଫୋନ ବେସିକ</string>
     <string name="dirac_headset_earphone">Mi ଇଅର୍‌ଫୋନ୍‌</string>
-    <string name="dirac_preset_default">ଡିଫଲ୍ଟ</string>
+    <string name="dirac_preset_default">ଡିଫଲ୍ଟ୍‌</string>
     <string name="dirac_preset_rock">ରକ୍</string>
     <string name="dirac_preset_jazz">ଜାଜ୍</string>
     <string name="dirac_preset_pop">ପପ୍‌</string>
@@ -69,4 +69,7 @@
     <string name="stop_operate_camera_frequently">ଆପଣ ବାରମ୍ବାର ଆଗ କ୍ୟାମେରା ଖୋଲୁଛନ୍ତି</string>
     <string name="takeback_camera_front_failed">ଆଗ କ୍ୟାମେରା ବନ୍ଦ କରାଯାଇପାରିଲା ନାହିଁ, ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ</string>
     <string name="popup_camera_front_failed">ଆଗ କ୍ୟାମେରା ଖୋଲାଯାଇପାରିଲା ନାହିଁ, ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ</string>
+    <string name="notification_slider_selection_dialog_title">କ୍ରିୟାଗୁଡିକ</string>
+    <string name="notification_slider_mode_total_silence">ସମ୍ପୂର୍ଣ୍ଣ ନୀରବତା</string>
+    <string name="notification_slider_mode_priority_only">କେବଳ ପ୍ରାଧାନ୍ୟ</string>
 </resources>

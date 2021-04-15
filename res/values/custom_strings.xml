@@ -19,6 +19,7 @@
     <string name="display_title">Display</string>
     <string name="dc_dimming_enable_title">Anti flicker</string>
     <string name="dc_dimming_enable_summary">Anti flicker mode helps reducing eyestrain in low light conditions by using "DC dimming" feature. It might degrade color accuracy and affect the way some items are displayed.</string>
+    <string name="dc_dimming_enable_summary_not_supported">Anti flicker is currently not supported by the kernel</string>
 
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Sound Enhancer</string>
@@ -92,6 +93,11 @@
     <string name="takeback_camera_front_failed">Couldn\'t close front camera. Try again.</string>
     <string name="popup_camera_front_failed">Couldn\'t open front camera. Try again.</string>
     <string name="popup_camera_proximity_obstructed">Remove your hand from the proximity sensor to open the front camera...</string>
+
+    <!-- Clear Speaker -->
+    <string name="clear_speaker_title">Clear speaker</string>
+    <string name="clear_speaker_summary">Play a 30-second audio to clear the speaker</string>
+    <string name="clear_speaker_description">Run this feature once or twice if you find that your speaker is lightly blocked by dust. Set media volume to maximum.\n\nIf the speaker is blocked heavily, run this feature 2-5 times while shaking your device with the speaker facing downwards.</string>
 
     <!-- Moto Actions - Title and summary -->
     <string name="moto_actions_title">Moto Actions</string>

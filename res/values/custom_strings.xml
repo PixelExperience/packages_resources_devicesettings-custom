@@ -217,4 +217,7 @@
     <!-- Home button settings -->
     <string name="home_button_extra_settings">Customize home button behavior</string>
 
+    <!-- DT2W settings -->
+    <string name="dt2w_enable_title">Double-Tap to Wake </string>
+    <string name="dt2w_enable_summary">Double-tap on lockscreen to wake device</string>
 </resources>

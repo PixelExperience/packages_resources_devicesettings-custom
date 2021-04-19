@@ -199,6 +199,10 @@
     <!-- Refresh Rate Settings -->
     <string name="device_min_refresh_rate">Minimum refresh rate</string>
 
+    <!-- Device Specific Settings -->
+    <string name="device_specific_settings_title">Device-specific settings</string>
+    <string name="device_specific_settings_summary">Refresh rate configuration</string>
+
     <!-- Touch Control Settings -->
     <string name="touch_control_title">Touch screen optimizations</string>
     <string name="touch_game_mode_title">Enable game mode</string>

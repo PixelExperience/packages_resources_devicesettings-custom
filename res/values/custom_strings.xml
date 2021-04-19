@@ -198,6 +198,8 @@
 
     <!-- Refresh Rate Settings -->
     <string name="device_min_refresh_rate">Minimum refresh rate</string>
+    <string name="refresh_rate_settings_title">Screen refresh rate</string>
+    <string name="refresh_rate_settings_summary">Adjust screen refresh rate</string>
 
     <!-- Touch Control Settings -->
     <string name="touch_control_title">Touch screen optimizations</string>

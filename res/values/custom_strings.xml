@@ -18,8 +18,10 @@
     <!-- DC Dimming settings -->
     <string name="display_title">Display</string>
     <string name="dc_dimming_enable_title">Anti flicker</string>
-    <string name="dc_dimming_enable_summary">Anti flicker mode helps reducing eyestrain in low light conditions by using "DC dimming" feature. It might degrade color accuracy and affect the way some items are displayed.</string>
-    <string name="dc_dimming_enable_summary_not_supported">Anti flicker is currently not supported by the kernel</string>
+    <string name="dc_dimming_enable">Enable anti-flicker mode</string>
+    <string name="dc_dimming_summary">Low-brightness flicker-free eye care</string>
+    <string name="dc_dimming_enable_summary">Reduce eyestrain in low light conditions.</string>
+    <string name="dc_dimming_enable_info">It uses "DC dimming" feature and might degrade color accuracy and affect the way some items are displayed.</string>
 
     <!-- Dirac settings -->
     <string name="dirac_title">Mi Sound Enhancer</string>
@@ -165,11 +167,12 @@
     <string name="allow_proximity_sensor_summary">Check the proximity sensor before performing the action</string>
 
     <!-- OnePlus - General -->
-    <string name="oneplus_advanced_settings">OnePlus Settings</string>
-    <string name="oneplus_advanced_settings_summary">Custom settings for your device</string>
+    <string name="oneplus_advanced_settings">Additional Settings</string>
+    <string name="oneplus_advanced_settings_summary">Display, buttons</string>
 
     <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_category_title">Alert slider</string>
+    <string name="notification_slider_summary">Customize position-wise actions</string>
     <string name="notification_slider_selection_dialog_title">Action</string>
     <string name="notification_slider_top_position">Top position</string>
     <string name="notification_slider_middle_position">Middle position</string>
@@ -182,15 +185,15 @@
     <string name="notification_slider_mode_none">Normal</string>
 
     <!-- Thermal profiles -->
-    <string name="thermal_title">Optimization profiles</string>
-    <string name="thermal_summary">Adjust per-app profiles for optimum performance</string>
-    <string name="thermal_default">No optimization</string>
-    <string name="thermal_benchmark">Performance</string>
+    <string name="thermal_title">Thermal profiles</string>
+    <string name="thermal_summary">Adjust per-app thermal profiles for optimum performance</string>
+    <string name="thermal_default">Default</string>
+    <string name="thermal_benchmark">Benchmark</string>
     <string name="thermal_browser">Browser</string>
     <string name="thermal_camera">Camera</string>
     <string name="thermal_dialer">Dialer</string>
-    <string name="thermal_gaming">Games</string>
-    <string name="thermal_streaming">Streaming applications</string>
+    <string name="thermal_gaming">Gaming</string>
+    <string name="thermal_streaming">Streaming</string>
 
     <!-- Raise to wake strings-->
     <string name="raise_to_wake_gesture_title">Raise to wake</string>

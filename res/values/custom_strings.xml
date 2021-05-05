@@ -215,4 +215,10 @@
     <!-- Home button settings -->
     <string name="home_button_extra_settings">Customize home button behavior</string>
 
+    <!-- Assistant button -->
+    <string name="assistant_button_action">Assistant key action</string>
+
+    <!-- Stylus pen -->
+    <string name="stylus_title">Stylus pen</string>
+
 </resources>

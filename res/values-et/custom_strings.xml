@@ -18,6 +18,7 @@
     <string name="display_title">Ekraan</string>
     <string name="dc_dimming_enable_title">Virvendusfilter</string>
     <string name="dc_dimming_enable_summary">Virvendusfiltri reziim aitab DC Dimm-i abil vähendada silmade väsimust hämaras. See võib vähendada värvide täpsust ja mõjutada mõne üksuse kuvamist.</string>
+    <string name="dc_dimming_enable_summary_not_supported">Tuum ei toeta praegu virvendustõrjet</string>
     <string name="dirac_title">Mi Heli Parandaja</string>
     <string name="dirac_summary">Optimeerige heli kvaliteeti</string>
     <string name="dirac_headset_title">Valige kõrvaklapitüüp</string>
@@ -79,6 +80,9 @@
     <string name="takeback_camera_front_failed">Ei saanud sulgeda esikaamerat. Proovi uuesti.</string>
     <string name="popup_camera_front_failed">Ei saanud avada esikaamerat. Proovi uuesti.</string>
     <string name="popup_camera_proximity_obstructed">Esikaamera avamiseks eemaldage oma käsi lähedusandurilt ...</string>
+    <string name="clear_speaker_title">Kõlari puhastamine</string>
+    <string name="clear_speaker_summary">Kõlari puhastamiseks esitada 30 sekundiline siknaal</string>
+    <string name="clear_speaker_description">Käivitage see funktsioon üks või kaks korda, kui leiate, et kõlar on määrdunud. Seadke helitugevus maksimaalseks. \n\nKui kõlar on tugevalt määrdunud, käivitage funktsiooni 2–5 korda, raputades samal ajal seadet, kõlar allapoole. </string>
     <string name="moto_actions_title">Moto toimingud</string>
     <string name="device_gestures_title">Seadme žestid</string>
     <string name="device_gestures_summary">Halda seadme žeste</string>
@@ -149,6 +153,7 @@
     <string name="raise_to_wake_gesture_title">Äratamiseks tõsta</string>
     <string name="raise_to_wake_gesture_summary">Pulseeriva teate asemel äratag seade</string>
     <string name="device_min_refresh_rate">Minimaalne värskendussagedus</string>
+    <string name="refresh_rate_settings_title">Ekraani värskenduskiirus</string>
     <string name="touch_control_title">Puutetundliku ekraani optimeerimine</string>
     <string name="touch_game_mode_title">Luba mängurežiim</string>
     <string name="touch_game_mode_summary">Aitab puutetundliku ekraani optimeerimise kaudu parandada mängukogemust </string>

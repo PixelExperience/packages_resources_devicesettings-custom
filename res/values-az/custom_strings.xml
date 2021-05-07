@@ -18,6 +18,7 @@
     <string name="display_title">Görüntü</string>
     <string name="dc_dimming_enable_title">Titrəməyə qarşı</string>
     <string name="dc_dimming_enable_summary">Titrəməyə qarşı rejimi, \"DC qaraltma\" özəlliyini istifadə edərək zəif işıq şərtlərində göz yorğunluğunu azaltmağa kömək edir. Rəng dəqiqliyi azalda bilər və bəzi elementlərin görüntüləmə formasına təsir edə bilər.</string>
+    <string name="dc_dimming_enable_summary_not_supported">Anti-titrəmə hazırda nüvə tərəfindən dəstəklənmir</string>
     <string name="dirac_title">Mi Səs Gücləndirici</string>
     <string name="dirac_summary">Səs keyfiyyətini optimallaşdır</string>
     <string name="dirac_headset_title">Qulaqlıq növünü seçin</string>
@@ -79,6 +80,9 @@
     <string name="takeback_camera_front_failed">Ön kamera bağlana bilmədi. Yenidən sınayın.</string>
     <string name="popup_camera_front_failed">Ön kamera açıla bilmədi. Yenidən sınayın.</string>
     <string name="popup_camera_proximity_obstructed">Ön kameranı açmaq üçün əlinizi yaxınlıq sensorundan uzaqlaşdırın...</string>
+    <string name="clear_speaker_title">Dinamiki tımizləyin</string>
+    <string name="clear_speaker_summary">Dinamiki təmizləmək üçün 30 saniyəlik səs çalın</string>
+    <string name="clear_speaker_description">Dinamikinizin çirkli olduğunu görsəniz, bu funksiyanı bir-iki dəfə çalıştırın. Səs səviyyəsini maksimuma qoyun. Dinamiklər çox çirklənibsə, cihazı sükunətçi aşağıya doğru sallayarkən funksiyanı 2-5 dəfə işlədin.</string>
     <string name="moto_actions_title">Moto Hərəkətləri</string>
     <string name="device_gestures_title">Cihaz jestləri</string>
     <string name="device_gestures_summary">Cihaz jestlərini idarə edin</string>
@@ -149,6 +153,7 @@
     <string name="raise_to_wake_gesture_title">Oyandırmaq üçün qaldır</string>
     <string name="raise_to_wake_gesture_summary">Titrəyişli bildirişin əvəzinə cihazı oyandırın</string>
     <string name="device_min_refresh_rate">Minimum təzələmə əmsalı</string>
+    <string name="refresh_rate_settings_title">Ekran təzələmə əmsalı</string>
     <string name="touch_control_title">Toxunaqlı ekranı optimallaşdır</string>
     <string name="touch_game_mode_title">Oyun rejimini fəallaşdır</string>
     <string name="touch_game_mode_summary">Toxunaqlı ekranı optimallaşdıraraq oyun təcrübəsini yaxşılaşdırmağa kömək edər</string>

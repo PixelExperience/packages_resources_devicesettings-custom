@@ -15,7 +15,10 @@
      limitations under the License.
 -->
 <resources>
-    <string name="display_title">Екран</string>
+    <string name="display_title">Дисплей</string>
+    <string name="dc_dimming_enable_title">Анти трептене</string>
+    <string name="dc_dimming_enable_summary">Режимът \"анти трептене\" помага за намаляване на напрежението в очите при условия на слаба светлина, като използва функцията \"DC затъмняване\". Това може да влоши точността на цветовете и да повлияе на начина на показване на някои елементи.</string>
+    <string name="dc_dimming_enable_summary_not_supported">Понастоящем ядрото не поддържа анти трептене</string>
     <string name="dirac_title">Използване на MiSound enhancer</string>
     <string name="dirac_summary">Оптимизиране качеството на звука</string>
     <string name="dirac_headset_title">Вид слушалки</string>
@@ -77,6 +80,10 @@
     <string name="takeback_camera_front_failed">Не може да се затвори селфи камерата. Опитайте отново.</string>
     <string name="popup_camera_front_failed">Не може да се отвори селфи камерата. Опитайте отново.</string>
     <string name="popup_camera_proximity_obstructed">Преместете си ръката от сензора за близост за да отворте предната камера...</string>
+    <string name="clear_speaker_title">Ясен високоговорител</string>
+    <string name="clear_speaker_summary">Пуснете 30-секунден звук, за да изчистите високоговорителя</string>
+    <string name="clear_speaker_description">Стартирайте тази функция веднъж или два пъти, ако установите, че високоговорителят ви е леко блокиран от прах. Задайте максимална сила на медия-звука.\n\nАко високоговорителят ви е силно блокиран, стартирайте тази функция 2-5 пъти, докато разклащате устройството си с високоговорителя обърнат надолу</string>
+    <string name="moto_actions_title">Мото действия</string>
     <string name="device_gestures_title">Жестове на устройството</string>
     <string name="device_gestures_summary">Управление на жестовете на устройството</string>
     <string name="ambient_display_manage_summary">Управление на жестовете на активния дисплей</string>
@@ -123,6 +130,7 @@
     <string name="allow_proximity_sensor_summary">Проверете сензора за близост, преди да извършите действието</string>
     <string name="oneplus_advanced_settings">OnePlus настройки</string>
     <string name="oneplus_advanced_settings_summary">Потребителски настройки за устройството ви</string>
+    <string name="notification_slider_category_title">Допълнителни бутони</string>
     <string name="notification_slider_selection_dialog_title">Действие</string>
     <string name="notification_slider_top_position">Най-горна позиция</string>
     <string name="notification_slider_middle_position">Средна позиция</string>
@@ -134,13 +142,26 @@
     <string name="notification_slider_mode_vibrate">Вибрация</string>
     <string name="notification_slider_mode_none">Нормално</string>
     <string name="thermal_title">Профил за оптимизация</string>
+    <string name="thermal_summary">Регулирайте профили за приложение за оптимална производителност</string>
     <string name="thermal_default">Без оптимизация</string>
     <string name="thermal_benchmark">Производителност</string>
     <string name="thermal_browser">Браузър</string>
     <string name="thermal_camera">Камера</string>
     <string name="thermal_dialer">Телефон</string>
     <string name="thermal_gaming">Игри</string>
+    <string name="thermal_streaming">Приложения за поточно предаване</string>
     <string name="raise_to_wake_gesture_title">Повдигнете, за да се събудите</string>
+    <string name="raise_to_wake_gesture_summary">Събудете устройството, вместо пулсиращо известие</string>
+    <string name="device_min_refresh_rate">Минимална честота на опресняване</string>
+    <string name="refresh_rate_settings_title">Опресняване на екрана</string>
+    <string name="touch_control_title">Оптимизации на сензорния екран</string>
     <string name="touch_game_mode_title">Разреши режим игра</string>
+    <string name="touch_game_mode_summary">Помага за подобряване на игрите чрез оптимизиране на сензорния екран</string>
+    <string name="touch_response_title">Докосване</string>
+    <string name="touch_response_summary">Контролира докосването</string>
     <string name="touch_sensitivity_title">Чувствителност на докосване</string>
+    <string name="touch_sensitivity_summary">Контролира чувствителността при повтарящи се докосвания</string>
+    <string name="touch_resistant_title">Устойчива на допир зона</string>
+    <string name="touch_resistant_summary">Намалява чувствителността в близост до краищата, за да предотврати случайни докосвания</string>
+    <string name="home_button_extra_settings">Персонализирайте поведението на началния бутон</string>
 </resources>

@@ -122,4 +122,5 @@
     <string name="thermal_dialer">Marcador</string>
     <string name="thermal_gaming">Jocs</string>
     <string name="device_min_refresh_rate">Freqüència de refresc mínima</string>
+    <string name="refresh_rate_settings_title">Freqüència d\'actualització de la pantalla </string>
 </resources>

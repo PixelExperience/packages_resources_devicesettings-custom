@@ -149,6 +149,7 @@
     <string name="raise_to_wake_gesture_title">Nâng cao để đánh thức</string>
     <string name="raise_to_wake_gesture_summary">Đánh thức thiết bị thay vì thông báo rung</string>
     <string name="device_min_refresh_rate">Tốc độ làm mới tối thiểu</string>
+    <string name="refresh_rate_settings_title">Tốc độ làm tươi màn hình</string>
     <string name="touch_control_title">Tối ưu hóa màn hình cảm ứng</string>
     <string name="touch_game_mode_title">Bật chế độ chơi game</string>
     <string name="touch_game_mode_summary">Giúp cải thiện trải nghiệm chơi game bằng cách tối ưu hóa màn hình cảm ứng</string>

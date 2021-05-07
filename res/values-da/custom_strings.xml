@@ -95,4 +95,5 @@
     <string name="allow_proximity_sensor_summary">Tjek nærhedssensoren før handlingen udføres</string>
     <string name="oneplus_advanced_settings">Oneplus Indstillinger</string>
     <string name="notification_slider_mode_none">Normal</string>
+    <string name="refresh_rate_settings_title">Skærmopdateringsfrekvens</string>
 </resources>

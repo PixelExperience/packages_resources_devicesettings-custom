@@ -18,10 +18,11 @@
     <string name="display_title">Дисплей</string>
     <string name="dc_dimming_enable_title">Фильтр мерцания</string>
     <string name="dc_dimming_enable_summary">Режим фильтра мерцания помогает снизить утомляемость глаз в условиях низкой освещенности за счет использования функции «DC Dimming». Это может снизить точность цветопередачи и повлиять на отображение некоторых элементов.</string>
+    <string name="dc_dimming_enable_summary_not_supported">Защита от мерцания пока не поддерживается ядром</string>
     <string name="dirac_title">Улучшение звука Mi</string>
     <string name="dirac_summary">Улучшить качество звука</string>
-    <string name="dirac_headset_title">Тип наушников</string>
-    <string name="dirac_preset_title">Выберите настройку</string>
+    <string name="dirac_headset_title">Выберите тип наушников</string>
+    <string name="dirac_preset_title">Выберите предустановку</string>
     <string name="dirac_hifi_title">Звук Hi-Fi</string>
     <string name="dirac_hifi_summary">Уменьшить шумы и искажения для улучшения качества звука</string>
     <string name="dirac_hifi_enable_title">Включить Hi-Fi</string>
@@ -66,7 +67,7 @@
     <string name="popup_title_yingyan">Кондор</string>
     <string name="popup_title_mofa">Магия</string>
     <string name="popup_title_jijia">Механика</string>
-    <string name="popup_title_chilun">Шестерня</string>
+    <string name="popup_title_chilun">Шестерёнка</string>
     <string name="popup_title_cangmen">Дверь каюты</string>
     <string name="popup_camera_tip">Внимание</string>
     <string name="popup_camera_takeback_failed_times_calibrate">Не удалось закрыть переднюю камеру несколько раз. Попробуйте откалибровать камеру.</string>
@@ -79,6 +80,9 @@
     <string name="takeback_camera_front_failed">Не удалось закрыть переднюю камеру. Повторите попытку.</string>
     <string name="popup_camera_front_failed">Не удалось открыть переднюю камеру. Повторите попытку.</string>
     <string name="popup_camera_proximity_obstructed">Уберите руку с датчика приближения, чтобы открыть фронтальную камеру...</string>
+    <string name="clear_speaker_title">Очистка динамика</string>
+    <string name="clear_speaker_summary">Воспроизвести 30-секундный сигнал для очистки динамика</string>
+    <string name="clear_speaker_description">Запустите эту функцию один или два раза, если обнаружите, что ваш динамик загрязнился. Установите максимальную громкость.\n\nЕсли динамик загрязнен сильно, запустите функцию 2-5 раз, одновременно встряхивая ваше устройство, направив динамиком вниз.</string>
     <string name="moto_actions_title">Дополнительные жесты</string>
     <string name="device_gestures_title">Жесты устройства</string>
     <string name="device_gestures_summary">Управление жестами</string>
@@ -149,6 +153,7 @@
     <string name="raise_to_wake_gesture_title">Поднять для пробуждения</string>
     <string name="raise_to_wake_gesture_summary">Разбудить устройство вместо пульсирующего уведомления</string>
     <string name="device_min_refresh_rate">Минимальная частота обновления экрана</string>
+    <string name="refresh_rate_settings_title">Частота обновления экрана</string>
     <string name="touch_control_title">Оптимизация сенсорного экрана</string>
     <string name="touch_game_mode_title">Включить игровой режим</string>
     <string name="touch_game_mode_summary">Помогает улучшить игровой процесс за счет оптимизации сенсорного экрана</string>

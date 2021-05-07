@@ -128,4 +128,5 @@
     <string name="thermal_gaming">Xogos</string>
     <string name="thermal_streaming">Aplicacións de Streaming</string>
     <string name="device_min_refresh_rate">Taxa mínima de actualización </string>
+    <string name="refresh_rate_settings_title">Tasa de refresco da pantalla</string>
 </resources>

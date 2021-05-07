@@ -124,4 +124,5 @@
     <string name="thermal_gaming">Jocuri</string>
     <string name="thermal_streaming">Aplicații streaming</string>
     <string name="device_min_refresh_rate">Rata minimă de reîmprospătare</string>
+    <string name="refresh_rate_settings_title">Rata de actualizare a ecranului</string>
 </resources>

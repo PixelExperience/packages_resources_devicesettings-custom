@@ -18,6 +18,7 @@
     <string name="display_title">Display</string>
     <string name="dc_dimming_enable_title">Anti-sfarfallio</string>
     <string name="dc_dimming_enable_summary">La modalità anti-sfarfallio aiuta a ridurre l\'affaticamento degli occhi in condizioni di scarsa luminosità utilizzando la funzione \"DC dimming\". Essa potrebbe diminuire l\'accuratezza dei colori ed influire sul modo in cui alcuni elementi sono visualizzati.</string>
+    <string name="dc_dimming_enable_summary_not_supported">l\'anti-sfarfallio non é attualmente supportato dal kernel</string>
     <string name="dirac_title">Ottimizzazione Mi Sound</string>
     <string name="dirac_summary">Ottimizza qualità audio</string>
     <string name="dirac_headset_title">Scegli il tipo di cuffie</string>
@@ -79,6 +80,10 @@
     <string name="takeback_camera_front_failed">Impossibile chiudere la fotocamera anteriore. Riprova.</string>
     <string name="popup_camera_front_failed">Impossibile aprire la fotocamera anteriore. Riprova.</string>
     <string name="popup_camera_proximity_obstructed">Allontana la mano dal sensore di prossimità per aprire la fotocamera anteriore.</string>
+    <string name="clear_speaker_title">Pulisci altoparlante</string>
+    <string name="clear_speaker_summary">Riproduce un audio di 30 secondi per ripulire l\'altoparlante</string>
+    <string name="clear_speaker_description">Eseguire questa funzione una o due volte se si scopre che l\'altoparlante è leggermente bloccato dalla polvere.
+Se l\'altoparlante è bloccato pesantemente, eseguire questa funzione 2-5 volte mentre si agita il dispositivo con l\'altoparlante rivolto verso il basso.</string>
     <string name="moto_actions_title">Azioni di movimento</string>
     <string name="device_gestures_title">Gestures del dispositivo</string>
     <string name="device_gestures_summary">Gestione delle gestures del dispositivo</string>
@@ -149,6 +154,7 @@
     <string name="raise_to_wake_gesture_title">Solleva il dispositivo per risvegliare</string>
     <string name="raise_to_wake_gesture_summary">Sveglia il dispositivo al posto delle notifiche tramite pulsazioni</string>
     <string name="device_min_refresh_rate">Refresh rate minimo</string>
+    <string name="refresh_rate_settings_title">Frequenza di aggiornamento</string>
     <string name="touch_control_title">Ottimizzazioni del touch screen</string>
     <string name="touch_game_mode_title">Ablitia modalitá gioco</string>
     <string name="touch_game_mode_summary">Aiuta a migliorare l\'esperienza di gioco ottimizzando il touch screen</string>

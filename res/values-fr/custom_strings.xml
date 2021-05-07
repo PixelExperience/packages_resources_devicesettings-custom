@@ -18,6 +18,7 @@
     <string name="display_title">Affichage</string>
     <string name="dc_dimming_enable_title">Anti-scintillement</string>
     <string name="dc_dimming_enable_summary">Le mode anti-scintillement aide à réduire la fatigue oculaire dans des conditions de faible lumière en utilisant la fonction \"DC dégradation\". Cela peut dégrader la précision des couleurs et affecter les éléments affichés à l\'écran.</string>
+    <string name="dc_dimming_enable_summary_not_supported">Le mode anti-scintillement n\'est actuellement pas supporté par le noyau</string>
     <string name="dirac_title">Amélioration audio Mi</string>
     <string name="dirac_summary">Optimiser la qualité audio</string>
     <string name="dirac_headset_title">Sélectionnez le type d\'écouteurs</string>
@@ -79,6 +80,9 @@
     <string name="takeback_camera_front_failed">Impossible de fermer l\'appareil photo avant. Réessayer.</string>
     <string name="popup_camera_front_failed">Impossible d\'ouvrir l\'appareil photo frontale. Réessayer.</string>
     <string name="popup_camera_proximity_obstructed">Retirez votre main du capteur de proximité pour activer la caméra avant ...</string>
+    <string name="clear_speaker_title">Nettoyer le haut-parleur</string>
+    <string name="clear_speaker_summary">Joue un son de 30 secondes pour nettoyer le haut-parleur</string>
+    <string name="clear_speaker_description">Éxécutez cette fonction une ou deux fois si votre haut-parleur est légèrement bouché par de la poussière. Réglez le volume au maximum.\n\nSi le haut-parleur est plus encombré, répétez de 2 à 5 fois la procédure tout en secouant le téléphone avec le haut-parleur vers le bas.</string>
     <string name="moto_actions_title">Gestes Moto</string>
     <string name="device_gestures_title">Gestes de balayage</string>
     <string name="device_gestures_summary">Gérer les mouvements de l’appareil</string>
@@ -149,6 +153,7 @@
     <string name="raise_to_wake_gesture_title">Lever pour faire sortir de veille</string>
     <string name="raise_to_wake_gesture_summary">Réveiller l\'appareil au lieu de pulser les notifications</string>
     <string name="device_min_refresh_rate">Taux de rafraîchissement minimum</string>
+    <string name="refresh_rate_settings_title">Taux de rafraîchissement de l\'écran </string>
     <string name="touch_control_title">Optimisations de l\'écran tactile</string>
     <string name="touch_game_mode_title">Activer le mode jeu</string>
     <string name="touch_game_mode_summary">Aide à améliorer l\'expérience de jeu en optimisant l\'écran tactile</string>

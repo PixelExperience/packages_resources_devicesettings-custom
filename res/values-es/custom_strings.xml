@@ -18,6 +18,7 @@
     <string name="display_title">Pantalla</string>
     <string name="dc_dimming_enable_title">Anti parpadeo</string>
     <string name="dc_dimming_enable_summary">El modo anti parpadeo ayuda a reducir la fatiga ocular en condiciones de baja luz utilizando la función \"atenuación DC\". Esto podría disminuir la precisión del color y afectar la forma en la que se visualizan algunos ítems</string>
+    <string name="dc_dimming_enable_summary_not_supported">Actualmente el anti-parpadeo no es compatible con el kernel</string>
     <string name="dirac_title">Mi Sound Enhancer</string>
     <string name="dirac_summary">Optimizar la calidad del audio</string>
     <string name="dirac_headset_title">Selecciona el tipo de auriculares</string>
@@ -79,11 +80,14 @@
     <string name="takeback_camera_front_failed">No se pudo cerrar la cámara frontal. Vuelve a intentarlo.</string>
     <string name="popup_camera_front_failed">No se pudo abrir la cámara frontal. Vuelve a intentarlo.</string>
     <string name="popup_camera_proximity_obstructed">Retire la mano del sensor de proximidad para abrir la cámara frontal...</string>
-    <string name="moto_actions_title">Acciones Moto</string>
+    <string name="clear_speaker_title">Limpiar altavoz</string>
+    <string name="clear_speaker_summary">Reproducir un audio de 30 segundos para limpiar el altavoz</string>
+    <string name="clear_speaker_description">Ejecuta esta función una o dos veces si ves que el polvo está obstruyendo el altavoz. Sube el volumen al máximo.\n\nSi el altavoz está un poco bloqueado, ejecuta esta función de 2 a 5 veces mientras agitas el dispositivo con el altavoz hacia abajo.</string>
+    <string name="moto_actions_title">Acciones de Moto</string>
     <string name="device_gestures_title">Gestos del dispositivo</string>
     <string name="device_gestures_summary">Gestionar gestos del dispositivo</string>
-    <string name="ambient_display_manage_summary">Gestionar gestos ambient display</string>
-    <string name="fingerprint_gestures_title">Gestos huella dactilar</string>
+    <string name="ambient_display_manage_summary">Gestionar gestos de la pantalla ambiente</string>
+    <string name="fingerprint_gestures_title">Gestos de huella dactilar</string>
     <string name="fingerprint_gestures_summary">Usar gestos de huella dactilar</string>
     <string name="fingerprint_gestures_manage_summary">Gestionar gestos de huella dactilar</string>
     <string name="fingerprint_actions_screenon">Acciones con pantalla encendida</string>
@@ -149,8 +153,9 @@
     <string name="raise_to_wake_gesture_title">Levantar para despertar</string>
     <string name="raise_to_wake_gesture_summary">Activar el dispositivo en lugar de la notificación pulsante</string>
     <string name="device_min_refresh_rate">Tasa de refresco mínima</string>
+    <string name="refresh_rate_settings_title">Tasa de refresco de la pantalla</string>
     <string name="touch_control_title">Optimizaciones de la pantalla táctil</string>
-    <string name="touch_game_mode_title">Activar el Modo Juego</string>
+    <string name="touch_game_mode_title">Activar el modo de juego</string>
     <string name="touch_game_mode_summary">Ayuda a mejorar la experiencia de juego optimizando la pantalla táctil</string>
     <string name="touch_response_title">Respuesta táctil</string>
     <string name="touch_response_summary">Controla la respuesta táctil</string>

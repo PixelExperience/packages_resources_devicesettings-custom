@@ -18,6 +18,7 @@
     <string name="display_title">Scherm</string>
     <string name="dc_dimming_enable_title">Anti-flicker</string>
     <string name="dc_dimming_enable_summary">De Anti-flicker-instelling helpt visuele vermoeidheid door weinig licht te verminderen d.m.v. de \"DC-dimming\"-functie. Het kan de kleurzuiverheid aantasten en invloed hebben op de wijze waarop sommige dingen worden weergegeven.</string>
+    <string name="dc_dimming_enable_summary_not_supported">Anti-flicker wordt momenteel niet ondersteund door de kernel</string>
     <string name="dirac_title">Mi Geluid Verbeteraar</string>
     <string name="dirac_summary">Audiokwaliteit optimaliseren</string>
     <string name="dirac_headset_title">Kies type hoofdtelefoon</string>
@@ -79,6 +80,9 @@
     <string name="takeback_camera_front_failed">Kon de voorkant camera niet sluiten. Probeer het opnieuw.</string>
     <string name="popup_camera_front_failed">Kon de voorkant camera niet openen. Probeer het opnieuw.</string>
     <string name="popup_camera_proximity_obstructed">Haal uw hand weg van de nabijheidssensor om de pop-up camera te openen</string>
+    <string name="clear_speaker_title">Speaker schoonmaken</string>
+    <string name="clear_speaker_summary">Speel een 30 seconden durend audiofragment af om de speaker schoon te maken</string>
+    <string name="clear_speaker_description">Gebruik deze functie een- of tweemaal wanneer uw speaker door wat stof geblokkeerd wordt. Zet het volume op maximum.\n\Wanneer de speaker volledig geblokkeerd wordt, gebruik dan deze functie 2 tot 5 keer terwijl u het apparaat schudt met de speaker naar beneden gericht.</string>
     <string name="moto_actions_title">Moto acties</string>
     <string name="device_gestures_title">Apparaatgebaren</string>
     <string name="device_gestures_summary">Apparaatgebaren beheren</string>
@@ -149,6 +153,7 @@
     <string name="raise_to_wake_gesture_title">Oppakken om te wekken</string>
     <string name="raise_to_wake_gesture_summary">Toestel wekken i.p.v. trillen</string>
     <string name="device_min_refresh_rate">Minimum vernieuwingsfrequentie</string>
+    <string name="refresh_rate_settings_title">Scherm verversingsfrequentie</string>
     <string name="touch_control_title">Optimalisaties aanraakscherm</string>
     <string name="touch_game_mode_title">Activeer game-mode</string>
     <string name="touch_game_mode_summary">Helpt om de game-ervaring te verbeteren door het aanraakscherm te optimaliseren</string>

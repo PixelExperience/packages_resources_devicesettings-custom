@@ -18,6 +18,7 @@
     <string name="display_title">Tela</string>
     <string name="dc_dimming_enable_title">Modo anti cintilação</string>
     <string name="dc_dimming_enable_summary">O modo anti cintilação ajuda a reduzir a fadiga ocular em condições de pouca luz usando o recurso \"DC dimming\". Isso pode degradar a precisão das cores e afetar a forma como alguns itens são exibidos.</string>
+    <string name="dc_dimming_enable_summary_not_supported">O modo anti cintilação não é suportado pelo kernel atual</string>
     <string name="dirac_title">Mi Sound Enhancer</string>
     <string name="dirac_summary">Otimizar qualidade de áudio</string>
     <string name="dirac_headset_title">Escolher tipo de fone de ouvido</string>
@@ -79,6 +80,9 @@
     <string name="takeback_camera_front_failed">Não foi possível fechar a câmera frontal. Tente novamente.</string>
     <string name="popup_camera_front_failed">Não foi possível abrir a câmera frontal. Tente novamente.</string>
     <string name="popup_camera_proximity_obstructed">Remova a mão do sensor de proximidade para abrir a câmera frontal ...</string>
+    <string name="clear_speaker_title">Limpar alto-falante</string>
+    <string name="clear_speaker_summary">Tocar um som de 30 segundos para limpar o alto-falante</string>
+    <string name="clear_speaker_description">Execute esse recurso uma ou duas vezes se o alto-falante estiver bloqueado por sujeira ou água. Você deve ajustar o volume de mídia para o máximo.\n\nSe o alto-falante estiver muito bloqueado, execute este recurso 2 a 5 vezes enquanto agita seu dispositivo com o alto-falante voltado para baixo.</string>
     <string name="moto_actions_title">Moto Ações</string>
     <string name="device_gestures_title">Gestos do dispositivo</string>
     <string name="device_gestures_summary">Gerenciar os gestos do dispositivo</string>
@@ -149,6 +153,7 @@
     <string name="raise_to_wake_gesture_title">Levantar para acordar</string>
     <string name="raise_to_wake_gesture_summary">Acender a tela do dispositivo ao invés de pulsar notificações</string>
     <string name="device_min_refresh_rate">Taxa de atualização mínima</string>
+    <string name="refresh_rate_settings_title">Taxa de atualização da tela</string>
     <string name="touch_control_title">Otimizações da tela de toque</string>
     <string name="touch_game_mode_title">Ativar modo jogo</string>
     <string name="touch_game_mode_summary">Ajuda a melhorar a experiência em jogos otimizando a tela de toque</string>

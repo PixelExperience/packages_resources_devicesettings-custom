@@ -18,6 +18,7 @@
     <string name="display_title">顯示</string>
     <string name="dc_dimming_enable_title">防閃爍</string>
     <string name="dc_dimming_enable_summary">防閃爍模式透過使用「DC 調光」功能來協助減少低光源環境下的眼睛疲勞。這可能會降機色彩準確性，並影響某些項目的顯示方式。</string>
+    <string name="dc_dimming_enable_summary_not_supported">內核當前不支持防閃爍</string>
     <string name="dirac_title">Mi Sound 加強器</string>
     <string name="dirac_summary">最佳化聲音品質</string>
     <string name="dirac_headset_title">選擇耳機類型</string>
@@ -79,6 +80,9 @@
     <string name="takeback_camera_front_failed">前置相機收回失敗，請重試</string>
     <string name="popup_camera_front_failed">前置相機彈出失敗，請重試</string>
     <string name="popup_camera_proximity_obstructed">請將您的手從近接感測器前移開以開啟前置鏡頭……</string>
+    <string name="clear_speaker_title">清理揚聲器</string>
+    <string name="clear_speaker_summary">播放30秒的音頻以清除揚聲器</string>
+    <string name="clear_speaker_description">如果發現揚聲器被灰塵輕輕遮住，請運行此功能一次或兩次。 將媒體音量設置為最大。\n\n如果揚聲器嚴重阻塞，請在揚聲器朝下搖動設備的同時運行此功能2-5次。</string>
     <string name="moto_actions_title">Moto 動作</string>
     <string name="device_gestures_title">裝置手勢</string>
     <string name="device_gestures_summary">管理裝置手勢</string>
@@ -149,6 +153,7 @@
     <string name="raise_to_wake_gesture_title">拿起喚醒</string>
     <string name="raise_to_wake_gesture_summary">喚醒設備而不是發出通知</string>
     <string name="device_min_refresh_rate">最低更新率</string>
+    <string name="refresh_rate_settings_title">螢幕更新率</string>
     <string name="touch_control_title">觸摸螢幕優化</string>
     <string name="touch_game_mode_title">啟用遊戲模式</string>
     <string name="touch_game_mode_summary">通過優化觸摸螢幕來幫助改善遊戲體驗</string>

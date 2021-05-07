@@ -18,6 +18,7 @@
     <string name="display_title">Display</string>
     <string name="dc_dimming_enable_title">Anti-Flimmern</string>
     <string name="dc_dimming_enable_summary">Der Anti-Flimmer-Modus reduziert die Überanstrengung der Augen bei schlechten Lichtverhältnissen durch Verwendung der Funktion \"DC-Dimmen\". Dies kann die Farbgenauigkeit beeinträchtigen und die Anzeige einiger Elemente beeinträchtigen.</string>
+    <string name="dc_dimming_enable_summary_not_supported">Anti-Flicker wird derzeit vom Kernel nicht unterstützt</string>
     <string name="dirac_title">Mi Klangverbesserung</string>
     <string name="dirac_summary">Audioqualität optimieren</string>
     <string name="dirac_headset_title">Kopfhörertyp auswählen</string>
@@ -79,6 +80,9 @@
     <string name="takeback_camera_front_failed">Das schließen der Frontkamera ist fehlgeschlagen. Versuchen Sie es erneut.</string>
     <string name="popup_camera_front_failed">Das öffnen der Frontkamera ist fehlgeschlagen. Versuche es erneut.</string>
     <string name="popup_camera_proximity_obstructed">Entfernen Sie ihre Hand vom Näherungssensor, um die Frontkamera zu öffnen.</string>
+    <string name="clear_speaker_title">Klarer Lautsprecher</string>
+    <string name="clear_speaker_summary">Spielen Sie einen 30-sekündigen Ton ab, um den Lautsprecher zu entlasten</string>
+    <string name="clear_speaker_description">Führen Sie diese Funktion ein- oder zweimal aus, wenn Sie feststellen, dass Ihr Lautsprecher leicht durch Staub blockiert ist. Stellen Sie die Medienlautstärke auf Maximum ein.\n\nWenn der Lautsprecher stark blockiert ist, führen Sie diese Funktion 2-5 Mal aus, während Sie Ihr Gerät mit dem Lautsprecher nach unten schütteln.</string>
     <string name="moto_actions_title">Moto-Aktionen</string>
     <string name="device_gestures_title">Gerätespezifische Gesten</string>
     <string name="device_gestures_summary">Gerätespezifische Gesten verwalten</string>
@@ -149,6 +153,7 @@
     <string name="raise_to_wake_gesture_title">Anheben, um aufzuwecken</string>
     <string name="raise_to_wake_gesture_summary">Das Gerät aufwecken, wenn eine Benachrichtigung eintrifft</string>
     <string name="device_min_refresh_rate">Minimale Aktualisierungsrate</string>
+    <string name="refresh_rate_settings_title">Bildwiederholrate</string>
     <string name="touch_control_title">Touchscreen Optimierungen</string>
     <string name="touch_game_mode_title">Gaming-Modus aktivieren</string>
     <string name="touch_game_mode_summary">Optimierung des Touchscreens hilft das Spielerlebnis zu optimieren</string>

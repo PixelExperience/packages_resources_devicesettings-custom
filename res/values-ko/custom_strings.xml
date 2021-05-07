@@ -149,6 +149,7 @@
     <string name="raise_to_wake_gesture_title">들어올려 깨우기</string>
     <string name="raise_to_wake_gesture_summary">알림 대신 기기 깨우기</string>
     <string name="device_min_refresh_rate">최소 재생률</string>
+    <string name="refresh_rate_settings_title">화면 재생 빈도</string>
     <string name="touch_control_title">터치스크린 최적화</string>
     <string name="touch_game_mode_title">게임 모드 활성화</string>
     <string name="touch_game_mode_summary">터치스크린을 최적화하여 게이밍 경험 향상을 도와줌</string>

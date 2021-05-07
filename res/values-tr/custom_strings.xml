@@ -18,6 +18,7 @@
     <string name="display_title">Görüntü</string>
     <string name="dc_dimming_enable_title">Titreme önleme</string>
     <string name="dc_dimming_enable_summary">Titreşim önleyici mod, \"DC karartma\" özelliğini kullanarak düşük ışık koşullarında göz yorgunluğunu azaltmaya yardımcı olur. Renk doğruluğunu düşürebilir ve bazı öğelerin görüntülenme şeklini etkileyebilir.</string>
+    <string name="dc_dimming_enable_summary_not_supported">Titreme önleme şu anda çekirdek tarafından desteklenmiyor</string>
     <string name="dirac_title">Mi Ses Yükseltici</string>
     <string name="dirac_summary">Ses kalitesini optimize eder</string>
     <string name="dirac_headset_title">Kulaklık türünü seçin</string>
@@ -79,6 +80,9 @@
     <string name="takeback_camera_front_failed">Ön kamera kapatılamadı. Tekrar deneyin.</string>
     <string name="popup_camera_front_failed">Ön kamera açılamadı. Tekrar deneyin.</string>
     <string name="popup_camera_proximity_obstructed">Ön kamerayı açmak için elinizi yakınlık sensöründen uzaklaştırın...</string>
+    <string name="clear_speaker_title">Hoparlörü temizle</string>
+    <string name="clear_speaker_summary">Hoparlörü temizlemek için 30 saniye boyunca bir ses çal</string>
+    <string name="clear_speaker_description">Eğer hoparlörünüzün hafifçe tıkandığını hissediyorsanız bu özelliği bir veya iki kez çalıştırın. Medya sesini maksimum düzeye getirin.\n\nEğer hoparlörünüz çok tıkalı ise, bu özelliği cihazın hoparlörünü aşağı bakacak şekilde sallayarak 2 ila 5 kez çalıştırın.</string>
     <string name="moto_actions_title">Moto Eylemleri</string>
     <string name="device_gestures_title">Cihaz hareketleri</string>
     <string name="device_gestures_summary">Cihaz hareketlerini yönetin</string>
@@ -149,6 +153,7 @@
     <string name="raise_to_wake_gesture_title">Uyandırmak için kaldır</string>
     <string name="raise_to_wake_gesture_summary">Titreşimli bildirim yerine cihazı uyandırın </string>
     <string name="device_min_refresh_rate">Minimum yenileme hızı</string>
+    <string name="refresh_rate_settings_title">Ekran yenileme oranı</string>
     <string name="touch_control_title">Dokunmatik ekran optimizasyonları </string>
     <string name="touch_game_mode_title">Oyun modunu etkinleştir</string>
     <string name="touch_game_mode_summary">Dokunmatik ekranı optimize ederek oyun deneyimini iyileştirmeye yardımcı olur </string>

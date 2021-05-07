@@ -18,6 +18,7 @@
     <string name="display_title">Paparan</string>
     <string name="dc_dimming_enable_title">Anti kerlipan</string>
     <string name="dc_dimming_enable_summary">Mod anti kerlipan membantu mengurangkan penglihatan mata dalam keadaan cahaya rendah dengan menggunakan ciri \"DC dimming\". Ini mungkin menurunkan ketepatan warna dan mempengaruhi cara beberapa item dipaparkan.</string>
+    <string name="dc_dimming_enable_summary_not_supported">Anti kerlipan pada masa ini tidak disokong oleh kernel</string>
     <string name="dirac_title">Penambah Bunyi Mi</string>
     <string name="dirac_summary">Optimumkan kualiti audio</string>
     <string name="dirac_headset_title">Pilih jenis fon kepala</string>
@@ -79,6 +80,9 @@
     <string name="takeback_camera_front_failed">Tidak dapat menutup kamera depan. Cuba lagi.</string>
     <string name="popup_camera_front_failed">Tidak dapat membuka kamera depan. Cuba lagi.</string>
     <string name="popup_camera_proximity_obstructed">tanggalkan tangan anda dari sensor jarak untuk membuka kamera depan ...</string>
+    <string name="clear_speaker_title">Menjelaskan pembesar suara</string>
+    <string name="clear_speaker_summary">Mainkan audio 30 saat untuk membersihkan pembesar suara</string>
+    <string name="clear_speaker_description">Jalankan ciri ini sekali atau dua kali jika anda dapati pembesar suara anda tersekat sedikit oleh habuk. Tetapkan kelantangan media ke maksimum.\n\nJika pembesar suara disekat dengan teruk, jalankan ciri ini 2-5 kali sambil menggegarkan peranti anda dengan pembesar suara menghadap ke bawah.</string>
     <string name="moto_actions_title">Tindakan Moto</string>
     <string name="device_gestures_title">Gerak isyarat untuk peranti</string>
     <string name="device_gestures_summary">Menguruskan gerak isyarat peranti</string>
@@ -149,6 +153,7 @@
     <string name="raise_to_wake_gesture_title">Angkat untuk mengaktifkan</string>
     <string name="raise_to_wake_gesture_summary">Bangunkan peranti daripada pemberitahuan berdenyut</string>
     <string name="device_min_refresh_rate">kadar penyegaran minimum</string>
+    <string name="refresh_rate_settings_title">Kadar segaran paparan</string>
     <string name="touch_control_title">Pengoptimuman skrin sentuh</string>
     <string name="touch_game_mode_title">Aktifkan mode permainan</string>
     <string name="touch_game_mode_summary">Membantu meningkatkan pengalaman permainan dengan mengoptimumkan skrin sentuh</string>

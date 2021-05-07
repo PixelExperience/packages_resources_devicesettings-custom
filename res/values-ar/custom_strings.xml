@@ -16,8 +16,9 @@
 -->
 <resources>
     <string name="display_title">شاشة العرض</string>
-    <string name="dc_dimming_enable_title">مضاد الوميض</string>
-    <string name="dc_dimming_enable_summary">وضع مضاد الوميض يساعد على تقليل إجهاد العين في ظروف الإضاءة المنخفضة باستخدام خاصية \"التعتيم باستخدام التيار المستمر\". ربما يقلل ذلك من دقة الألوان ويؤثر في كيفية عرض بعض العناصر.</string>
+    <string name="dc_dimming_enable_title">مضاد رعش الشاشة </string>
+    <string name="dc_dimming_enable_summary">وضع مضاد رعش الشاشة يساعد على تقليل إجهاد العين في ظروف الإضاءة المنخفضة باستخدام خاصية \"التعتيم باستخدام التيار المستمر\". ربما يقلل ذلك من دقة الألوان ويؤثر في كيفية عرض بعض العناصر.</string>
+    <string name="dc_dimming_enable_summary_not_supported">وضع مضاد رعش الشاش  غير مدعوم بواسطة Kernal </string>
     <string name="dirac_title">محسن صوت Mi</string>
     <string name="dirac_summary">تحسين جودة الصوت</string>
     <string name="dirac_headset_title">اختيار نوع سماعة الرأس</string>
@@ -79,6 +80,9 @@
     <string name="takeback_camera_front_failed">تعذر فتح الكاميرا الامامية. حاول مجددا.</string>
     <string name="popup_camera_front_failed">تعذر فتح الكاميرا الامامية. حاول مجدداً.</string>
     <string name="popup_camera_proximity_obstructed">أبعد يدك عن مستشعر القرب لتشغيل الكاميرا الأمامية</string>
+    <string name="clear_speaker_title">تنظيف السماعات</string>
+    <string name="clear_speaker_summary">تشغيل صوت لمدة 30 ثانية لتنظيف السماعات</string>
+    <string name="clear_speaker_description">قم بتشغيل هذه الميزة مرة او مرتين مع رفع مستوى الصوت الى الاقصى اذا وجدت انا سماعاتك مسدودة قليلا بسبب التراب. واذا كانت سماعاتك مسدودة تماما قم بتشغيل هذه الميزة من 2-5 مرات مع هز الجهاز و السماعات اتجاهها الى الاسفل.</string>
     <string name="moto_actions_title">إجراءات موتو</string>
     <string name="device_gestures_title">إيماءات الجهاز</string>
     <string name="device_gestures_summary">إدارة إيماءات الجهاز</string>
@@ -149,6 +153,7 @@
     <string name="raise_to_wake_gesture_title">الرفع للإيقاظ</string>
     <string name="raise_to_wake_gesture_summary">ايقاظ الجهاز بدلا من ارسال اشعار</string>
     <string name="device_min_refresh_rate">معدل التحديث الأدنى</string>
+    <string name="refresh_rate_settings_title">معدل تحديث الشاشة</string>
     <string name="touch_control_title">تحسينات شاشة اللمس</string>
     <string name="touch_game_mode_title">تفعيل وضع الالعاب</string>
     <string name="touch_game_mode_summary">تساعد على تحسين تجربة اللعب عن طريق تحسين استجابة اللمس</string>

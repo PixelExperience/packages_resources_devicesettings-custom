@@ -18,6 +18,7 @@
     <string name="display_title">显示</string>
     <string name="dc_dimming_enable_title">防闪烁</string>
     <string name="dc_dimming_enable_summary">防闪烁模式可以通过”DC 调光“功能，减少暗光条件下的眼部疲劳。此模式可能降低色彩精度，并影响部分内容的显示效果。</string>
+    <string name="dc_dimming_enable_summary_not_supported">当前内核不支持防闪烁模式</string>
     <string name="dirac_title">使用米音提升音质</string>
     <string name="dirac_summary">优化音质</string>
     <string name="dirac_headset_title">耳机类型设置</string>
@@ -79,6 +80,9 @@
     <string name="takeback_camera_front_failed">前置相机收回失败，请重试</string>
     <string name="popup_camera_front_failed">前置相机弹出失败，请重试</string>
     <string name="popup_camera_proximity_obstructed">将手从距离传感器移开以打开前置摄像头</string>
+    <string name="clear_speaker_title">清理扬声器</string>
+    <string name="clear_speaker_summary">播放一段约30秒的音频来清理扬声器</string>
+    <string name="clear_speaker_description">当扬声器被少量灰尘覆盖时，将音量调至最大运行1-2次。\n\n当扬声器充满灰尘时将扬声器朝下轻轻摇晃您的设备，运行2-5次。</string>
     <string name="moto_actions_title">Moto 操作</string>
     <string name="device_gestures_title">设备手势</string>
     <string name="device_gestures_summary">管理设备手势</string>
@@ -149,6 +153,7 @@
     <string name="raise_to_wake_gesture_title">抬起手机以点亮屏幕</string>
     <string name="raise_to_wake_gesture_summary">唤醒设备而不是发出通知</string>
     <string name="device_min_refresh_rate">低刷新率</string>
+    <string name="refresh_rate_settings_title">屏幕刷新率</string>
     <string name="touch_control_title">触屏优化</string>
     <string name="touch_game_mode_title">打开游戏模式</string>
     <string name="touch_game_mode_summary">触屏优化以帮助提升游戏体验</string>

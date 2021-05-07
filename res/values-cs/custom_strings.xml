@@ -18,6 +18,7 @@
     <string name="display_title">Displej</string>
     <string name="dc_dimming_enable_title">Eliminace blikání</string>
     <string name="dc_dimming_enable_summary">Režim \"Eliminace blikání\" pomáhá omezit blikání při zhoršených světelných podmínkách pomocí funkce \"DC-Dimming. Může to snížit přesnost barev a ovlivnit způsob zobrazení některých položek.</string>
+    <string name="dc_dimming_enable_summary_not_supported">Eliminace blikání není momentálně jádrem podporována</string>
     <string name="dirac_title">Vylepšení Mi Sound</string>
     <string name="dirac_summary">Vylepšit kvalitu zvuku</string>
     <string name="dirac_headset_title">Vyberte typ sluchátek</string>
@@ -79,6 +80,9 @@
     <string name="takeback_camera_front_failed">Zavření předního fotoaparátu se nezdařilo. Zkuste to znovu.</string>
     <string name="popup_camera_front_failed">Otevření předního fotoaparátu se nezdařilo. Zkuste to znovu.</string>
     <string name="popup_camera_proximity_obstructed">Chcete-li spustit přední fotoaparát, sejměte ruku ze snímače přiblížení...</string>
+    <string name="clear_speaker_title">Vyčistit reproduktor</string>
+    <string name="clear_speaker_summary">Přehraje 30sekundový zvuk a vyčistí reproduktor</string>
+    <string name="clear_speaker_description">Tuto funkci spusťte jednou nebo dvakrát, pokud zjistíte, že váš reproduktor je lehce znečištěn prachem. Nastavte hlasitost na maximum.\n\nPokud je reproduktor silně znečištěn, spusťte tuto funkci 2-5krát a zatřeste zařízením tak, aby reproduktor směřoval dolů.</string>
     <string name="moto_actions_title">Moto Akce</string>
     <string name="device_gestures_title">Gesta zařízení</string>
     <string name="device_gestures_summary">Spravovat gesta zařízení</string>
@@ -149,6 +153,7 @@
     <string name="raise_to_wake_gesture_title">Zvednutím probudit</string>
     <string name="raise_to_wake_gesture_summary">Místo pulzujícího oznámení zařízení probudit</string>
     <string name="device_min_refresh_rate">Minimální obnovovací frekvence</string>
+    <string name="refresh_rate_settings_title">Obnovovací frekvence obrazovky</string>
     <string name="touch_control_title">Optimalizace dotykové obrazovky</string>
     <string name="touch_game_mode_title">Zapnout Herní režim</string>
     <string name="touch_game_mode_summary">Pomáhá vylepšit herní zážitek optimalizací dotykové obrazovky</string>

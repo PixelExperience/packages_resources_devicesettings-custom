@@ -16,8 +16,9 @@
 -->
 <resources>
     <string name="display_title">Показати</string>
-    <string name="dc_dimming_enable_title">Фільтр мерехтіння</string>
+    <string name="dc_dimming_enable_title">Анти мерехтіння</string>
     <string name="dc_dimming_enable_summary">Режим проти мерехтіння сприяє зменшенню напруги очей в умовах слабкої освітленості за допомогою функції \"DC dimming\". Це може погіршити точність кольорів і вплинути на спосіб відображення деяких елементів.</string>
+    <string name="dc_dimming_enable_summary_not_supported">Функція антимерехтіння на даний момент не підтримується ядром</string>
     <string name="dirac_title">Покращення звуку \"Мі Sound\"</string>
     <string name="dirac_summary">Оптимізувати якість звуку</string>
     <string name="dirac_headset_title">Обрати тип навушників</string>
@@ -79,6 +80,9 @@
     <string name="takeback_camera_front_failed">Не вдалося закрити фронтальну камеру. Повторіть спробу.</string>
     <string name="popup_camera_front_failed">Не вдалося відкрити фронтальну камеру. Повторіть спробу.</string>
     <string name="popup_camera_proximity_obstructed">Заберіть руку від датчика наближення, щоб відкрити передню камеру…</string>
+    <string name="clear_speaker_title">Очистка динаміка</string>
+    <string name="clear_speaker_summary">Програти 30-секундний звук, щоб очистити динамік</string>
+    <string name="clear_speaker_description">Запустіть цю функцію раз або двічі, якщо ви помітите, що ваш динамік трохи засмітився. Встановіть максимальну гучність.\n\nЯкщо динамік засмітився сильно, запустіть цю функцію 2-5 разів, потрушуючи ваш пристрій направлений динаміком вниз.</string>
     <string name="moto_actions_title">Додаткові жести</string>
     <string name="device_gestures_title">Жести пристрою</string>
     <string name="device_gestures_summary">Керування жестами</string>
@@ -149,6 +153,7 @@
     <string name="raise_to_wake_gesture_title">Пробудження при взятті в руки</string>
     <string name="raise_to_wake_gesture_summary">Пробудження коли прийде повідомлення</string>
     <string name="device_min_refresh_rate">Найменша частота оновлення</string>
+    <string name="refresh_rate_settings_title">Частота оновлення екрана</string>
     <string name="touch_control_title">Оптимізація сенсорного екрану</string>
     <string name="touch_game_mode_title">Ввімкнути режим ігри</string>
     <string name="touch_game_mode_summary">Допомагає удосконалити опит ігри за допомогою оптимізації сенсорного екрану</string>

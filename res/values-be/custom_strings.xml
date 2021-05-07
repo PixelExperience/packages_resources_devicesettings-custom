@@ -138,4 +138,5 @@
     <string name="thermal_gaming">Гульні</string>
     <string name="thermal_streaming">Патокавыя прыкладанні</string>
     <string name="device_min_refresh_rate">Мінімальная частата абнаўлення экрана</string>
+    <string name="refresh_rate_settings_title">Частата абнаўлення экрана</string>
 </resources>

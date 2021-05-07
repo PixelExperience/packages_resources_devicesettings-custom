@@ -114,4 +114,5 @@
     <string name="thermal_camera">ക്യാമറ</string>
     <string name="thermal_dialer">ഡയലെർ</string>
     <string name="thermal_gaming">ഗെയിമുകൾ</string>
+    <string name="refresh_rate_settings_title">സ്‌ക്രീൻ റിഫ്രഷ് റേറ്റ്</string>
 </resources>

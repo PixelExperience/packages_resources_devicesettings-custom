@@ -92,4 +92,5 @@
     <string name="tap_to_wake_summary">آلہ کو فعال کرنے کیلئے اسکرین پر کہیں بھی دو بار تھپتھپائیں</string>
     <string name="allow_proximity_sensor_title">نسبت سینسر کو چالو کریں</string>
     <string name="allow_proximity_sensor_summary">کام شروع کرنے سے قبل ثالثوں کی جانچ</string>
+    <string name="refresh_rate_settings_title">اسکرین ریفرش ریٹ</string>
 </resources>

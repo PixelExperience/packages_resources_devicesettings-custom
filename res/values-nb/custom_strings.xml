@@ -17,7 +17,8 @@
 <resources>
     <string name="display_title">Skjerm</string>
     <string name="dc_dimming_enable_title">Antiflimmer</string>
-    <string name="dc_dimming_enable_summary">Antiflimmer-modus reduserer belastning på øynene i mørke omgivelser ved bruk av \"DC dimming\". Det kan føre til dårligere fargegjengivelse og påvirke visningen av enkelte elementer.</string>
+    <string name="dc_dimming_enable_summary">Antiflimmer-modus reduserer øyebelastning i mørke omgivelser ved bruk av \"DC dimming\". Det kan føre til dårligere fargegjengivelse og påvirke visningen av enkelte elementer.</string>
+    <string name="dc_dimming_enable_summary_not_supported">Antiflimmer er ikke støttet av den installerte kjerneversjonen</string>
     <string name="dirac_title">Mi lydforbedrer</string>
     <string name="dirac_summary">Optimaliser lydkvaliteten</string>
     <string name="dirac_headset_title">Velg hodetelefontype</string>
@@ -79,6 +80,9 @@
     <string name="takeback_camera_front_failed">Kunne ikke lukke frontkamera. Prøv igjen.</string>
     <string name="popup_camera_front_failed">Kunne ikke åpne frontkamera. Prøv igjen.</string>
     <string name="popup_camera_proximity_obstructed">Fjern hånden din fra nærhetssensoren for å åpne frontkameraet…</string>
+    <string name="clear_speaker_title">Åpne høyttaleren</string>
+    <string name="clear_speaker_summary">Spill av et 30-sekunders lydklipp for å åpne høyttaleren</string>
+    <string name="clear_speaker_description">Bruk denne funksjonen en gang eller to dersom du finner ut at høyttaleren har blitt blokkert av rusk. Sett medievolum til høyeste nivå.\n\nDersom blokkeringen er kraftig, bruk funksjonen to–fem ganger og rist samtidig enheten med høyttaleren vendt nedover.</string>
     <string name="moto_actions_title">Moto-handlinger</string>
     <string name="device_gestures_title">Enhetsbevegelser</string>
     <string name="device_gestures_summary">Administrer enhetsbevegelser</string>
@@ -149,6 +153,7 @@
     <string name="raise_to_wake_gesture_title">Løft for å vekke</string>
     <string name="raise_to_wake_gesture_summary">Vekk enheten i stedet for å pulsere varsel</string>
     <string name="device_min_refresh_rate">Minste oppdateringsfrekvens</string>
+    <string name="refresh_rate_settings_title">Skjermoppdateringsfrekvens</string>
     <string name="touch_control_title">Berøringsskjerm-optimaliseringer</string>
     <string name="touch_game_mode_title">Aktiver spillmodus</string>
     <string name="touch_game_mode_summary">Hjelper til å forbedre spilloplevelsen ved å optimalisere berøringsskjermen</string>

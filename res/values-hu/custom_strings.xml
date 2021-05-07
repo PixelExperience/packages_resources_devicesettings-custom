@@ -18,6 +18,7 @@
     <string name="display_title">Képernyő</string>
     <string name="dc_dimming_enable_title">Vibrálásmentesítés</string>
     <string name="dc_dimming_enable_summary">A vibrálásmentesítés (\"DC dimming\") csökkenti a szemfáradást gyenge fényviszonyok esetén. De sajnos a képminőséget, színhelyességet is gyengíti.</string>
+    <string name="dc_dimming_enable_summary_not_supported">A vibrálásmentesítőt jelenleg nem támogatja a kernel</string>
     <string name="dirac_title">Mi Hangjavítás</string>
     <string name="dirac_summary">Hangminőség-optimalizálás</string>
     <string name="dirac_headset_title">Válasszon egy fülhallgatótípust</string>
@@ -79,6 +80,9 @@
     <string name="takeback_camera_front_failed">Az előlapi kamerát nem lehetett bezárni. Próbálja újra.</string>
     <string name="popup_camera_front_failed">Az előlapi kamerát nem lehetett megnyitni. Próbálja újra.</string>
     <string name="popup_camera_proximity_obstructed">Vegye el a kezét a közelségérzékelő elől, hogy a kamera kinyílhasson...</string>
+    <string name="clear_speaker_title">Hangszórótisztítás</string>
+    <string name="clear_speaker_summary">Tisztítás egy 30 pásodperces hang lejátszásával</string>
+    <string name="clear_speaker_description">Futtassa ezt a funkciót egyszer vagy kétszer ha úgy gondolja hangszórója beporosodott. Állítsa a hangerőt maximumra.\n\nHa nagyon poros, akkor 3-5 alkalommal végezzen tisztítást de közben a készüléket is erősen rázza meg, hangszóróval lefelé.</string>
     <string name="moto_actions_title">Moto-műveletek</string>
     <string name="device_gestures_title">Készülékvezérlő-mozdulatok</string>
     <string name="device_gestures_summary">Készülékvezérlő-mozdulatok beállítása</string>
@@ -149,6 +153,7 @@
     <string name="raise_to_wake_gesture_title">Ébresztés felemeléssel</string>
     <string name="raise_to_wake_gesture_summary">Ébredjen fel a készülék a pulzáló értesítés helyett</string>
     <string name="device_min_refresh_rate">Minimális képernyőfrissítés</string>
+    <string name="refresh_rate_settings_title">A képernyőfrissítés értéke</string>
     <string name="touch_control_title">Az Érintőképernyő optimalizálása</string>
     <string name="touch_game_mode_title">A játékmód engedélyezése</string>
     <string name="touch_game_mode_summary">Az érintőpanel optimalizálásával segít javítani a játékélményt</string>

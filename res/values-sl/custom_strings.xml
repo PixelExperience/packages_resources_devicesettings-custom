@@ -105,4 +105,5 @@
     <string name="thermal_camera">Fotoaparat</string>
     <string name="thermal_dialer">Klicalnik</string>
     <string name="thermal_gaming">Igre</string>
+    <string name="refresh_rate_settings_title">Hitrost osveževanja zaslona</string>
 </resources>

@@ -80,9 +80,9 @@
     <string name="takeback_camera_front_failed">Ön kamera bağlana bilmədi. Yenidən sınayın.</string>
     <string name="popup_camera_front_failed">Ön kamera açıla bilmədi. Yenidən sınayın.</string>
     <string name="popup_camera_proximity_obstructed">Ön kameranı açmaq üçün əlinizi yaxınlıq sensorundan uzaqlaşdırın...</string>
-    <string name="clear_speaker_title">Dinamiki tımizləyin</string>
-    <string name="clear_speaker_summary">Dinamiki təmizləmək üçün 30 saniyəlik səs çalın</string>
-    <string name="clear_speaker_description">Dinamikinizin çirkli olduğunu görsəniz, bu funksiyanı bir-iki dəfə çalıştırın. Səs səviyyəsini maksimuma qoyun. Dinamiklər çox çirklənibsə, cihazı sükunətçi aşağıya doğru sallayarkən funksiyanı 2-5 dəfə işlədin.</string>
+    <string name="clear_speaker_title">Dinamiki təmizləyin</string>
+    <string name="clear_speaker_summary">Dinamiki təmizləmək üçün 30 saniyə ərzində səs oxudun</string>
+    <string name="clear_speaker_description">Əgər dinamikə yüngül toz dolduğunu görürsünüzsə, bu özəlliyi bir və ya iki dəfə işə salın. Media səs həcmini maksimuma tənzimləyin.\n\nƏgər dinamik tozla çox dolubsa, cihazı dinamikini üzü aşağı formada tutaraq silkələyin və bu özəlliyi 2-5 dəfə təkrar işə salın.</string>
     <string name="moto_actions_title">Moto Hərəkətləri</string>
     <string name="device_gestures_title">Cihaz jestləri</string>
     <string name="device_gestures_summary">Cihaz jestlərini idarə edin</string>
@@ -152,8 +152,9 @@
     <string name="thermal_streaming">Axın tətbiqləri</string>
     <string name="raise_to_wake_gesture_title">Oyandırmaq üçün qaldır</string>
     <string name="raise_to_wake_gesture_summary">Titrəyişli bildirişin əvəzinə cihazı oyandırın</string>
-    <string name="device_min_refresh_rate">Minimum təzələmə əmsalı</string>
-    <string name="refresh_rate_settings_title">Ekran təzələmə əmsalı</string>
+    <string name="device_min_refresh_rate">Minimum təzələnmə sürəti</string>
+    <string name="refresh_rate_settings_title">Ekran təzələnmə sürəti</string>
+    <string name="refresh_rate_settings_summary">Ekran təzələnmə sürətini nizamlayın</string>
     <string name="touch_control_title">Toxunaqlı ekranı optimallaşdır</string>
     <string name="touch_game_mode_title">Oyun rejimini fəallaşdır</string>
     <string name="touch_game_mode_summary">Toxunaqlı ekranı optimallaşdıraraq oyun təcrübəsini yaxşılaşdırmağa kömək edər</string>
@@ -164,4 +165,6 @@
     <string name="touch_resistant_title">Toxunuşa davamlı sahə</string>
     <string name="touch_resistant_summary">Təsadüfi toxunuşların qarşısını almaq üçün kənarlara yaxın sahələrin həssaslığını azaldar</string>
     <string name="home_button_extra_settings">Əsas ekran düymə davranışını özəlləşdir</string>
+    <string name="assistant_button_action">Assistant açar hərəkəti</string>
+    <string name="stylus_title">Toxunaqlı Qələm</string>
 </resources>

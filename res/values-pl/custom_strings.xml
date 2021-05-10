@@ -154,6 +154,7 @@
     <string name="raise_to_wake_gesture_summary">Wybudzanie urządzenia zamiast pulsującego powiadomienia</string>
     <string name="device_min_refresh_rate">Minimalna szybkość odświeżania</string>
     <string name="refresh_rate_settings_title">Częstotliwość odświeżania ekranu</string>
+    <string name="refresh_rate_settings_summary">Dostosuj częstotliwość odświeżania ekranu</string>
     <string name="touch_control_title">Optymalizacja ekranu dotykowego</string>
     <string name="touch_game_mode_title">Włącz tryb gry</string>
     <string name="touch_game_mode_summary">Pomaga poprawić wrażenia w grach poprzez optymalizację ekranu dotykowego</string>
@@ -164,4 +165,6 @@
     <string name="touch_resistant_title">Obszar odporny na dotyk</string>
     <string name="touch_resistant_summary">Zmniejsza czułość w pobliżu krawędzi, aby zapobiec przypadkowym dotknięciom</string>
     <string name="home_button_extra_settings">Dostosuj zachowanie przycisku home</string>
+    <string name="assistant_button_action">Akcje przycisku Asystenta</string>
+    <string name="stylus_title">Rysik</string>
 </resources>

@@ -155,6 +155,7 @@ Se l\'altoparlante è bloccato pesantemente, eseguire questa funzione 2-5 volte 
     <string name="raise_to_wake_gesture_summary">Sveglia il dispositivo al posto delle notifiche tramite pulsazioni</string>
     <string name="device_min_refresh_rate">Refresh rate minimo</string>
     <string name="refresh_rate_settings_title">Frequenza di aggiornamento</string>
+    <string name="refresh_rate_settings_summary">Modifica la frequenza di aggiornamento dello schermo</string>
     <string name="touch_control_title">Ottimizzazioni del touch screen</string>
     <string name="touch_game_mode_title">Ablitia modalitá gioco</string>
     <string name="touch_game_mode_summary">Aiuta a migliorare l\'esperienza di gioco ottimizzando il touch screen</string>
@@ -165,4 +166,6 @@ Se l\'altoparlante è bloccato pesantemente, eseguire questa funzione 2-5 volte 
     <string name="touch_resistant_title">Area non-touch</string>
     <string name="touch_resistant_summary">Riduce la sensibilità vicino ai bordi per prevenire tocchi accidentali</string>
     <string name="home_button_extra_settings">Personalizza il comportamento del tasto home</string>
+    <string name="assistant_button_action">Azione chiave dell\'assistente</string>
+    <string name="stylus_title">Penne stilografiche</string>
 </resources>

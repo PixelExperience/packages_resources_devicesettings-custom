@@ -154,6 +154,7 @@
     <string name="raise_to_wake_gesture_summary">Pulseeriva teate asemel äratag seade</string>
     <string name="device_min_refresh_rate">Minimaalne värskendussagedus</string>
     <string name="refresh_rate_settings_title">Ekraani värskenduskiirus</string>
+    <string name="refresh_rate_settings_summary">Reguleerige ekraani värskendussagedust</string>
     <string name="touch_control_title">Puutetundliku ekraani optimeerimine</string>
     <string name="touch_game_mode_title">Luba mängurežiim</string>
     <string name="touch_game_mode_summary">Aitab puutetundliku ekraani optimeerimise kaudu parandada mängukogemust </string>
@@ -164,4 +165,6 @@
     <string name="touch_resistant_title">Puutekindel ala</string>
     <string name="touch_resistant_summary">Vähendab tundlikkust servade lähedal, et vältida juhuslikke puudutusi </string>
     <string name="home_button_extra_settings">Kohandage kodunupu käitumist</string>
+    <string name="assistant_button_action">Assistendi nupu toiming</string>
+    <string name="stylus_title">Stylus</string>
 </resources>

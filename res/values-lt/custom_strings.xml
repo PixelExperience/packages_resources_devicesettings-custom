@@ -143,4 +143,7 @@
     <string name="thermal_streaming">Srautinės programos</string>
     <string name="device_min_refresh_rate">Mažiausias atnaujinimo dažnis</string>
     <string name="refresh_rate_settings_title">Ekrano atnaujinimo dažnis</string>
+    <string name="refresh_rate_settings_summary">Koreguokite ekrano atnaujinimo dažnį</string>
+    <string name="assistant_button_action">Pagalbinio mygtuko valdymas</string>
+    <string name="stylus_title">Rašiklis</string>
 </resources>

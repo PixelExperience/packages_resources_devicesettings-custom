@@ -154,6 +154,7 @@
     <string name="raise_to_wake_gesture_summary">Toestel wekken i.p.v. trillen</string>
     <string name="device_min_refresh_rate">Minimum vernieuwingsfrequentie</string>
     <string name="refresh_rate_settings_title">Scherm verversingsfrequentie</string>
+    <string name="refresh_rate_settings_summary">Vernieuwingsfrequentie beeldscherm aanpassen</string>
     <string name="touch_control_title">Optimalisaties aanraakscherm</string>
     <string name="touch_game_mode_title">Activeer game-mode</string>
     <string name="touch_game_mode_summary">Helpt om de game-ervaring te verbeteren door het aanraakscherm te optimaliseren</string>
@@ -164,4 +165,6 @@
     <string name="touch_resistant_title">Aanraakgebied</string>
     <string name="touch_resistant_summary">Vermindert de gevoeligheid nabij de randen om toevallige aanrakingen te voorkomen</string>
     <string name="home_button_extra_settings">Gedrag thuisknop aanpassen</string>
+    <string name="assistant_button_action">Assistent toets-actie</string>
+    <string name="stylus_title">Styluspen</string>
 </resources>

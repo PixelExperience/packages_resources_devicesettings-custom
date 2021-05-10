@@ -154,6 +154,7 @@
     <string name="raise_to_wake_gesture_summary">Acordar dispositivo em vez de notificação pulsannte</string>
     <string name="device_min_refresh_rate">Taxa mínima de atualização</string>
     <string name="refresh_rate_settings_title">Taxa de atualização do ecrã</string>
+    <string name="refresh_rate_settings_summary">Ajustar taxa de atualização do ecrã</string>
     <string name="touch_control_title">Otimizações para toques no ecrã</string>
     <string name="touch_game_mode_title">Ativar modo jogador</string>
     <string name="touch_game_mode_summary">Ajuda a melhorar o desempenho dos jogos otimizando o ecrã para toques</string>
@@ -164,4 +165,6 @@
     <string name="touch_resistant_title">Área resistente ao toque</string>
     <string name="touch_resistant_summary">Reduz a sensibilidade juntos às margens do ecrã para impedir toques acidentais</string>
     <string name="home_button_extra_settings">Personalizar comportamento do botão Página inicial</string>
+    <string name="assistant_button_action">Ação da tecla Assistente</string>
+    <string name="stylus_title">Estilo da caneta</string>
 </resources>

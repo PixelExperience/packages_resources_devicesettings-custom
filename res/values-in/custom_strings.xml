@@ -154,6 +154,7 @@
     <string name="raise_to_wake_gesture_summary">Bangunkan perangkat alih-alih menampilkan notifikasi</string>
     <string name="device_min_refresh_rate">Kecepatan refresh minimum</string>
     <string name="refresh_rate_settings_title">Kecepatan refresh layar</string>
+    <string name="refresh_rate_settings_summary">Sesuaikan kecepatan refresh layar</string>
     <string name="touch_control_title">Optimalisasi layar sentuh</string>
     <string name="touch_game_mode_title">Aktifkan mode permainan</string>
     <string name="touch_game_mode_summary">Membantu meningkatkan pengalaman bermain game dengan mengoptimalkan layar sentuh</string>
@@ -164,4 +165,6 @@
     <string name="touch_resistant_title">Area tahan sentuh</string>
     <string name="touch_resistant_summary">Mengurangi kepekaan di dekat tepi untuk mencegah sentuhan yang tidak disengaja</string>
     <string name="home_button_extra_settings">Sesuaikan perilaku tombol beranda</string>
+    <string name="assistant_button_action">Tindakan tombol asisten</string>
+    <string name="stylus_title">Pena Stylus</string>
 </resources>

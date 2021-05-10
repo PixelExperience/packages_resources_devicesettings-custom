@@ -154,6 +154,7 @@
     <string name="raise_to_wake_gesture_summary">Das Gerät aufwecken, wenn eine Benachrichtigung eintrifft</string>
     <string name="device_min_refresh_rate">Minimale Aktualisierungsrate</string>
     <string name="refresh_rate_settings_title">Bildwiederholrate</string>
+    <string name="refresh_rate_settings_summary">Bildschirmaktualisierungsrate anpassen</string>
     <string name="touch_control_title">Touchscreen Optimierungen</string>
     <string name="touch_game_mode_title">Gaming-Modus aktivieren</string>
     <string name="touch_game_mode_summary">Optimierung des Touchscreens hilft das Spielerlebnis zu optimieren</string>
@@ -164,4 +165,6 @@
     <string name="touch_resistant_title">Bereich der Berührungsempfindlichkeit</string>
     <string name="touch_resistant_summary">Reduziert die Empfindlichkeit in der Nähe der Kanten, um versehentliche Berührungen zu vermeiden</string>
     <string name="home_button_extra_settings">Passen Sie das Verhalten der Home-Schaltfläche an</string>
+    <string name="assistant_button_action">Assistent Tastenaktion</string>
+    <string name="stylus_title">Stift</string>
 </resources>

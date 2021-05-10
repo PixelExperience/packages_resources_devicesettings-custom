@@ -119,4 +119,7 @@
     <string name="notification_slider_mode_none">ಸಾಧಾರಣ</string>
     <string name="thermal_title">Kannada</string>
     <string name="refresh_rate_settings_title">ಪರದೆ ರಿಫ್ರೆಶ್ ಸಂಖ್ಯೆ</string>
+    <string name="refresh_rate_settings_summary">ಪರದೆಯ ರಿಪ್ರೇಶ್ ವೇಗವನ್ನು ಹೊಂದಿಸಿ</string>
+    <string name="assistant_button_action">ಸಹಾಯಕ ಗುಂಡಿಯ ಕಾರ್ಯ</string>
+    <string name="stylus_title">ಸ್ಟೈಲಸ್ ಲೇಖನಿ</string>
 </resources>

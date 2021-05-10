@@ -154,6 +154,7 @@
     <string name="raise_to_wake_gesture_summary">通知のライト点滅の代わりに持ち上げる動作でスリープ解除する</string>
     <string name="device_min_refresh_rate">最小リフレッシュレート</string>
     <string name="refresh_rate_settings_title">画面リフレッシュレート</string>
+    <string name="refresh_rate_settings_summary">画面のリフレッシュレートを調整する</string>
     <string name="touch_control_title">タッチ画面の最適化</string>
     <string name="touch_game_mode_title">ゲームモードを有効化</string>
     <string name="touch_game_mode_summary">タッチ画面の最適化でゲーミング体験を向上するのに寄与できます</string>
@@ -164,4 +165,6 @@
     <string name="touch_resistant_title">タッチ感度低下範囲</string>
     <string name="touch_resistant_summary">誤動作を回避するために画面の縁の周辺の感度を低下させる</string>
     <string name="home_button_extra_settings">ホームボタンの動作を編集</string>
+    <string name="assistant_button_action">アシスタントキーのアクション</string>
+    <string name="stylus_title">スタイラスペン</string>
 </resources>

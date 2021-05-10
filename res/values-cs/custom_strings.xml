@@ -154,6 +154,7 @@
     <string name="raise_to_wake_gesture_summary">Místo pulzujícího oznámení zařízení probudit</string>
     <string name="device_min_refresh_rate">Minimální obnovovací frekvence</string>
     <string name="refresh_rate_settings_title">Obnovovací frekvence obrazovky</string>
+    <string name="refresh_rate_settings_summary">Upravte obnovovací frekvenci obrazovky</string>
     <string name="touch_control_title">Optimalizace dotykové obrazovky</string>
     <string name="touch_game_mode_title">Zapnout Herní režim</string>
     <string name="touch_game_mode_summary">Pomáhá vylepšit herní zážitek optimalizací dotykové obrazovky</string>
@@ -164,4 +165,6 @@
     <string name="touch_resistant_title">Oblast odolná proti dotyku</string>
     <string name="touch_resistant_summary">Snižuje citlivost blízko okrajů, aby se zabránilo náhodným dotykům</string>
     <string name="home_button_extra_settings">Přizpůsobit chování tlačítka Domů</string>
+    <string name="assistant_button_action">Akce tlačítka Asistent</string>
+    <string name="stylus_title">Dotykové pero</string>
 </resources>

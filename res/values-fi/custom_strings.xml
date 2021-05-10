@@ -154,11 +154,16 @@
     <string name="raise_to_wake_gesture_summary">Herätä laite ilmoitusten vilkuttamisen sijaan</string>
     <string name="device_min_refresh_rate">Minimi virkistystaajuus</string>
     <string name="refresh_rate_settings_title">Näytön virkistystaajuus</string>
+    <string name="refresh_rate_settings_summary">Säädä näytön päivitystaajuus</string>
     <string name="touch_control_title">Kosketusnäytön optimoinnit</string>
     <string name="touch_game_mode_title">Ota pelitila käyttöön</string>
     <string name="touch_game_mode_summary">Auttaa parantamaan pelikokemusta optimoimalla kosketusnäyttöä</string>
+    <string name="touch_response_title">Kosketusherkkyys</string>
+    <string name="touch_response_summary">Kontrolloi kosketusherkkyyttä</string>
     <string name="touch_sensitivity_title">Kosketusherkkyys</string>
     <string name="touch_sensitivity_summary">Kontrolloi toistettavien näpäytysten herkkyyttä</string>
     <string name="touch_resistant_summary">Vähentää lähellä reunaa tapahtuvia vahinko kosketuksia</string>
     <string name="home_button_extra_settings">Mukauta kotinäppäimen käyttäytymistä</string>
+    <string name="assistant_button_action">Assistant painikkeen toiminto</string>
+    <string name="stylus_title">Kosketusnäyttökynä</string>
 </resources>

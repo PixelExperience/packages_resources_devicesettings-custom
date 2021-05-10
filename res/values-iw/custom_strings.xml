@@ -154,6 +154,7 @@
     <string name="raise_to_wake_gesture_summary">העיר את המכשיר במקום הודעה פועמת</string>
     <string name="device_min_refresh_rate">קצב רענון מסך מינימלי</string>
     <string name="refresh_rate_settings_title">קצב רענון המסך:</string>
+    <string name="refresh_rate_settings_summary">התאמת קצב ריענון המסך</string>
     <string name="touch_control_title">מיטוב מסך מגע</string>
     <string name="touch_game_mode_title">אפשר מצב משחק</string>
     <string name="touch_game_mode_summary">עוזר לשיפור חווית המשחק על ידי מיטוב מסך המגע</string>
@@ -164,4 +165,6 @@
     <string name="touch_resistant_title">איזור עמיד למגע</string>
     <string name="touch_resistant_summary">מפחית את הרגישות ליד הקצוות המסך כדי למנוע נגיעות בטעות</string>
     <string name="home_button_extra_settings">התאם אישית את התנהגות כפתור הבית</string>
+    <string name="assistant_button_action">פעולת מקש העוזרת הקולית</string>
+    <string name="stylus_title">עט סטיילוס</string>
 </resources>

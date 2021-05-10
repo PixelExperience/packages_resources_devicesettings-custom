@@ -154,6 +154,7 @@
     <string name="raise_to_wake_gesture_summary">Ébredjen fel a készülék a pulzáló értesítés helyett</string>
     <string name="device_min_refresh_rate">Minimális képernyőfrissítés</string>
     <string name="refresh_rate_settings_title">A képernyőfrissítés értéke</string>
+    <string name="refresh_rate_settings_summary">Képernyőfrissítési érték beállítása</string>
     <string name="touch_control_title">Az Érintőképernyő optimalizálása</string>
     <string name="touch_game_mode_title">A játékmód engedélyezése</string>
     <string name="touch_game_mode_summary">Az érintőpanel optimalizálásával segít javítani a játékélményt</string>
@@ -164,4 +165,6 @@
     <string name="touch_resistant_title">Az érintés-érzékeny terület</string>
     <string name="touch_resistant_summary">Csökkenti az érzékenységet a széleken, hogy megakadályozza a véletlen érintéseket</string>
     <string name="home_button_extra_settings">A Home-gomb viselkedése</string>
+    <string name="assistant_button_action">A segédgomb művelete</string>
+    <string name="stylus_title">Stylus toll</string>
 </resources>

@@ -154,6 +154,7 @@
     <string name="raise_to_wake_gesture_summary">Събудете устройството, вместо пулсиращо известие</string>
     <string name="device_min_refresh_rate">Минимална честота на опресняване</string>
     <string name="refresh_rate_settings_title">Опресняване на екрана</string>
+    <string name="refresh_rate_settings_summary">Регулиране честотата на опресняване на екрана</string>
     <string name="touch_control_title">Оптимизации на сензорния екран</string>
     <string name="touch_game_mode_title">Разреши режим игра</string>
     <string name="touch_game_mode_summary">Помага за подобряване на игрите чрез оптимизиране на сензорния екран</string>
@@ -164,4 +165,6 @@
     <string name="touch_resistant_title">Устойчива на допир зона</string>
     <string name="touch_resistant_summary">Намалява чувствителността в близост до краищата, за да предотврати случайни докосвания</string>
     <string name="home_button_extra_settings">Персонализирайте поведението на началния бутон</string>
+    <string name="assistant_button_action">Действие на бутон асистент</string>
+    <string name="stylus_title">Стилус</string>
 </resources>

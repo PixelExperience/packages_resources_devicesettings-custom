@@ -154,6 +154,7 @@
     <string name="raise_to_wake_gesture_summary">Titreşimli bildirim yerine cihazı uyandırın </string>
     <string name="device_min_refresh_rate">Minimum yenileme hızı</string>
     <string name="refresh_rate_settings_title">Ekran yenileme oranı</string>
+    <string name="refresh_rate_settings_summary">Ekran yenileme hızını ayarlayın</string>
     <string name="touch_control_title">Dokunmatik ekran optimizasyonları </string>
     <string name="touch_game_mode_title">Oyun modunu etkinleştir</string>
     <string name="touch_game_mode_summary">Dokunmatik ekranı optimize ederek oyun deneyimini iyileştirmeye yardımcı olur </string>
@@ -164,4 +165,5 @@
     <string name="touch_resistant_title">Dokunmaya dayanıklı alan</string>
     <string name="touch_resistant_summary">Yanlışlıkla dokunmaları önlemek için kenarlara yakın alanların hassasiyetini azaltır</string>
     <string name="home_button_extra_settings">Ana ekran düğmesi davranışını özelleştirin</string>
+    <string name="stylus_title">Dokunmatik kalem</string>
 </resources>

@@ -99,6 +99,9 @@
     <string name="clear_speaker_summary">Play a 30-second audio to clear the speaker</string>
     <string name="clear_speaker_description">Run this feature once or twice if you find that your speaker is lightly blocked by dust. Set media volume to maximum.\n\nIf the speaker is blocked heavily, run this feature 2-5 times while shaking your device with the speaker facing downwards.</string>
 
+    <!-- Messages -->
+    <string name="msg_device_need_restart">Please restart device for this to take effect.</string>
+
     <!-- Moto Actions - Title and summary -->
     <string name="moto_actions_title">Moto Actions</string>
 
@@ -198,8 +201,12 @@
 
     <!-- Refresh Rate Settings -->
     <string name="device_min_refresh_rate">Minimum refresh rate</string>
+    <string name="device_power_save_refresh_rate">Battery saver refresh rate</string>
+    <string name="device_power_save_refresh_rate_switch">Automatically lower refresh rate when battery saver is active</string>
     <string name="refresh_rate_settings_title">Screen refresh rate</string>
     <string name="refresh_rate_settings_summary">Adjust screen refresh rate</string>
+    <string name="refresh_rate_tile_title">Refresh Rate</string>
+    <string name="refresh_rate_tile_disabled">Battery saver enabled</string>
 
     <!-- Touch Control Settings -->
     <string name="touch_control_title">Touch screen optimizations</string>

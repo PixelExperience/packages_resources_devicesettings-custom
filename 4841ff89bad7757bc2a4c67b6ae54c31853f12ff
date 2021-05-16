@@ -16,6 +16,24 @@
       "message": "Why that is needed?",
       "revId": "4841ff89bad7757bc2a4c67b6ae54c31853f12ff",
       "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e4f4fda0_10fd9629",
+        "filename": "res/values/custom_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 103,
+      "author": {
+        "id": 1000517
+      },
+      "writtenOn": "2021-05-16T01:15:08Z",
+      "side": 1,
+      "message": "Welp, it was supposed to be for notchkiller I tried in between. lemme push a new patch",
+      "parentUuid": "f9369d16_952dcb9e",
+      "revId": "4841ff89bad7757bc2a4c67b6ae54c31853f12ff",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
     }
   ]
 }

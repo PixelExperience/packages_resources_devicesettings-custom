@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f9369d16_952dcb9e",
+        "filename": "res/values/custom_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 103,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-05-16T00:34:48Z",
+      "side": 1,
+      "message": "Why that is needed?",
+      "revId": "4841ff89bad7757bc2a4c67b6ae54c31853f12ff",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    }
+  ]
+}

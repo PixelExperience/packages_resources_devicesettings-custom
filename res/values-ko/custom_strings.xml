@@ -18,6 +18,7 @@
     <string name="display_title">디스플레이</string>
     <string name="dc_dimming_enable_title">깜박임 방지</string>
     <string name="dc_dimming_enable_summary">깜박임 방지 모드는 \"DC 디밍\"기능을 사용하여 저조도 조건에서 눈의 피로를 줄이는 데 도움이됩니다.  색상 정확도가 떨어지고 일부 항목이 표시되는 방식에 영향을 미칠 수 있습니다.</string>
+    <string name="dc_dimming_enable_summary_not_supported">깜빡임 방지 기능은 커널에 의해 현재 지원되지 않습니다</string>
     <string name="dirac_title">Mi 사운드 강화</string>
     <string name="dirac_summary">음질 최적화</string>
     <string name="dirac_headset_title">헤드폰 유형 선택</string>
@@ -79,6 +80,11 @@
     <string name="takeback_camera_front_failed">전면 카메라를 닫을 수 없습니다. 다시 시도해보세요.</string>
     <string name="popup_camera_front_failed">전면 카메라 열기 실패. 다시 시도하세요.</string>
     <string name="popup_camera_proximity_obstructed">근접 센서에서 손을 떼어 전면 카메라를 엽니 다 ...</string>
+    <string name="clear_speaker_title">스피커 청소하기</string>
+    <string name="clear_speaker_summary">스피커 청소를 위해 30초 동안 노래 재생</string>
+    <string name="clear_speaker_description">만약 스피커가 먼지로 약하게 막혀있다면, 이 기능을 한두번만 사용하세요. 스피커 음량을 최대로 설정해두고 사용하세요.
+
+만약 스피커가 먼지로 세게 막혀있다면, 스피커가 바닥을 향하게 들고 흔들며 이 기능을 2~5번 사용하세요.</string>
     <string name="moto_actions_title">모토 액션</string>
     <string name="device_gestures_title">기기 제스처</string>
     <string name="device_gestures_summary">기기 제스처 관리</string>

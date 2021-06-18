@@ -153,8 +153,12 @@
     <string name="raise_to_wake_gesture_title">Oyandırmaq üçün qaldır</string>
     <string name="raise_to_wake_gesture_summary">Titrəyişli bildirişin əvəzinə cihazı oyandırın</string>
     <string name="device_min_refresh_rate">Minimum təzələnmə sürəti</string>
+    <string name="device_power_save_refresh_rate">Batareya qənaəti təzələmə sürəti</string>
+    <string name="device_power_save_refresh_rate_switch">Batareya qənaəti aktiv olanda təzələmə sürətini avtomatik endir</string>
     <string name="refresh_rate_settings_title">Ekran təzələnmə sürəti</string>
     <string name="refresh_rate_settings_summary">Ekran təzələnmə sürətini nizamlayın</string>
+    <string name="refresh_rate_tile_title">Təzələmə Sürəti</string>
+    <string name="refresh_rate_tile_disabled">Batareya qənaəti fəaldır</string>
     <string name="touch_control_title">Toxunaqlı ekranı optimallaşdır</string>
     <string name="touch_game_mode_title">Oyun rejimini fəallaşdır</string>
     <string name="touch_game_mode_summary">Toxunaqlı ekranı optimallaşdıraraq oyun təcrübəsini yaxşılaşdırmağa kömək edər</string>

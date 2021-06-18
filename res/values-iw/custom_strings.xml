@@ -153,8 +153,12 @@
     <string name="raise_to_wake_gesture_title">הרם על מנת להעיר</string>
     <string name="raise_to_wake_gesture_summary">העיר את המכשיר במקום הודעה פועמת</string>
     <string name="device_min_refresh_rate">קצב רענון מסך מינימלי</string>
+    <string name="device_power_save_refresh_rate">קצב ריענון מסך בעת חיסכון בסוללה</string>
+    <string name="device_power_save_refresh_rate_switch">הנמך אוטומטית את קצב ריענון המסך כאשר מצב חיסכון בסוללה פעיל </string>
     <string name="refresh_rate_settings_title">קצב רענון המסך:</string>
     <string name="refresh_rate_settings_summary">התאמת קצב ריענון המסך</string>
+    <string name="refresh_rate_tile_title">קצב ריענון</string>
+    <string name="refresh_rate_tile_disabled">שומר הסוללה מופעל</string>
     <string name="touch_control_title">מיטוב מסך מגע</string>
     <string name="touch_game_mode_title">אפשר מצב משחק</string>
     <string name="touch_game_mode_summary">עוזר לשיפור חווית המשחק על ידי מיטוב מסך המגע</string>

@@ -153,8 +153,12 @@
     <string name="raise_to_wake_gesture_title">Lever pour faire sortir de veille</string>
     <string name="raise_to_wake_gesture_summary">Réveiller l\'appareil au lieu de pulser les notifications</string>
     <string name="device_min_refresh_rate">Taux de rafraîchissement minimum</string>
+    <string name="device_power_save_refresh_rate">Taux de rafraîchissement d\'écran économe en énergie</string>
+    <string name="device_power_save_refresh_rate_switch">Diminuer automatiquement le taux de rafraîchissement de l\'écran quand le mode d\'économie d\'énergie est actif</string>
     <string name="refresh_rate_settings_title">Taux de rafraîchissement de l\'écran </string>
     <string name="refresh_rate_settings_summary">Ajuster la fréquence de rafraîchissement de l\'écran</string>
+    <string name="refresh_rate_tile_title">Taux de raffraichissement</string>
+    <string name="refresh_rate_tile_disabled">Économiseur de batterie activé</string>
     <string name="touch_control_title">Optimisations de l\'écran tactile</string>
     <string name="touch_game_mode_title">Activer le mode jeu</string>
     <string name="touch_game_mode_summary">Aide à améliorer l\'expérience de jeu en optimisant l\'écran tactile</string>

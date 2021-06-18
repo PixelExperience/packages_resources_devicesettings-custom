@@ -153,8 +153,12 @@
     <string name="raise_to_wake_gesture_title">Ανασηκώστε για αφύπνιση</string>
     <string name="raise_to_wake_gesture_summary">Αφυπνίστε τη συσκευή αντί για παλμική ειδοποίηση</string>
     <string name="device_min_refresh_rate">Ελάχιστος ρυθμός ανανέωσης</string>
+    <string name="device_power_save_refresh_rate">Ρυθμός ανανέωσης εξοικονόμησης μπαταρίας</string>
+    <string name="device_power_save_refresh_rate_switch">Αυτόματη μείωση του ρυθμού ανανέωσης όταν είναι ενεργή η εξοικονόμηση μπαταρίας</string>
     <string name="refresh_rate_settings_title">Ρυθμός ανανέωσης οθόνης</string>
     <string name="refresh_rate_settings_summary">Προσαρμόστε το ρυθμό ανανέωσης οθόνης</string>
+    <string name="refresh_rate_tile_title">Ρυθμός Ανανέωσης</string>
+    <string name="refresh_rate_tile_disabled">Η εξοικονόμηση μπαταρίας ενεργοποιήθηκε</string>
     <string name="touch_control_title">Βελτιστοποιήσεις οθόνης αφής</string>
     <string name="touch_game_mode_title">Ενεργοποίηση λειτουργίας παιχνιδιού</string>
     <string name="touch_game_mode_summary">Βοηθά στη βελτίωση της εμπειρίας παιχνιδιού βελτιστοποιώντας την οθόνη αφής</string>

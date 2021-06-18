@@ -153,8 +153,12 @@
     <string name="raise_to_wake_gesture_title">拿起喚醒</string>
     <string name="raise_to_wake_gesture_summary">喚醒設備而不是發出通知</string>
     <string name="device_min_refresh_rate">最低更新率</string>
+    <string name="device_power_save_refresh_rate">省電更新率</string>
+    <string name="device_power_save_refresh_rate_switch">當省電模式作用中時自動降低更新率</string>
     <string name="refresh_rate_settings_title">螢幕更新率</string>
     <string name="refresh_rate_settings_summary">調整屏幕刷新率</string>
+    <string name="refresh_rate_tile_title">更新率</string>
+    <string name="refresh_rate_tile_disabled">已啟用省電模式</string>
     <string name="touch_control_title">觸摸螢幕優化</string>
     <string name="touch_game_mode_title">啟用遊戲模式</string>
     <string name="touch_game_mode_summary">通過優化觸摸螢幕來幫助改善遊戲體驗</string>

@@ -153,8 +153,12 @@
     <string name="raise_to_wake_gesture_title">Повдигнете, за да се събудите</string>
     <string name="raise_to_wake_gesture_summary">Събудете устройството, вместо пулсиращо известие</string>
     <string name="device_min_refresh_rate">Минимална честота на опресняване</string>
+    <string name="device_power_save_refresh_rate">Честота на опресняване в режим пестене на енергия </string>
+    <string name="device_power_save_refresh_rate_switch">Автоматично намаляване честотата на опресняване при активен режим на пестене на батерията</string>
     <string name="refresh_rate_settings_title">Опресняване на екрана</string>
     <string name="refresh_rate_settings_summary">Регулиране честотата на опресняване на екрана</string>
+    <string name="refresh_rate_tile_title">Честота на опресняване</string>
+    <string name="refresh_rate_tile_disabled">Активиран режим на пестене на батерията</string>
     <string name="touch_control_title">Оптимизации на сензорния екран</string>
     <string name="touch_game_mode_title">Разреши режим игра</string>
     <string name="touch_game_mode_summary">Помага за подобряване на игрите чрез оптимизиране на сензорния екран</string>

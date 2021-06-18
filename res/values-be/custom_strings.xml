@@ -153,8 +153,12 @@
     <string name="raise_to_wake_gesture_title">Абуджэнне пры ўзяцці ў рукі </string>
     <string name="raise_to_wake_gesture_summary">Абуджэнне прылады пры апавяшчэнні</string>
     <string name="device_min_refresh_rate">Мінімальная частата абнаўлення экрана</string>
+    <string name="device_power_save_refresh_rate">Частата абнаўлення ў рэжыме энергазберажэння</string>
+    <string name="device_power_save_refresh_rate_switch">Аўтаматычна змяншаць частату абнаўленняў у рэжыме энергазберажэння</string>
     <string name="refresh_rate_settings_title">Частата абнаўлення экрана</string>
     <string name="refresh_rate_settings_summary">Наладзіць частату абнаўлення экрана</string>
+    <string name="refresh_rate_tile_title">Частата абнаўлення</string>
+    <string name="refresh_rate_tile_disabled">Уключаны рэжым энергазберажэння</string>
     <string name="touch_control_title">Аптымізацыя сэнсарнага экрана</string>
     <string name="touch_game_mode_title">Уключыць гульнявы рэжым</string>
     <string name="touch_game_mode_summary">Дапамагае палепшыць гульнявы працэс за кошт аптымізацыі сэнсарнага экрана</string>

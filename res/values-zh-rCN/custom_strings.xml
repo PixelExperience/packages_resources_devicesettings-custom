@@ -27,8 +27,8 @@
     <string name="dirac_hifi_summary">高度还原音源信息，原汁原味</string>
     <string name="dirac_hifi_enable_title">启用 HI-FI</string>
     <string name="dirac_headset_default">默认​​​​​</string>
-    <string name="dirac_headset_earbuds">灵动耳塞式</string>
-    <string name="dirac_headset_in_ear_2013">灵悦入耳式</string>
+    <string name="dirac_headset_earbuds">小米耳塞式</string>
+    <string name="dirac_headset_in_ear_2013">小米圈铁(2013)</string>
     <string name="dirac_headset_piston_1">小米活塞1</string>
     <string name="dirac_headset_general">通用</string>
     <string name="dirac_headset_general_inear">通用入耳式</string>
@@ -154,6 +154,7 @@
     <string name="raise_to_wake_gesture_summary">唤醒设备而不是发出通知</string>
     <string name="device_min_refresh_rate">低刷新率</string>
     <string name="refresh_rate_settings_title">屏幕刷新率</string>
+    <string name="refresh_rate_settings_summary">调整屏幕刷新率</string>
     <string name="touch_control_title">触屏优化</string>
     <string name="touch_game_mode_title">打开游戏模式</string>
     <string name="touch_game_mode_summary">触屏优化以帮助提升游戏体验</string>
@@ -164,4 +165,6 @@
     <string name="touch_resistant_title">防误触区域</string>
     <string name="touch_resistant_summary">降低屏幕边缘附近的灵敏度以防止误触</string>
     <string name="home_button_extra_settings">自定义主屏幕键功能</string>
+    <string name="assistant_button_action">助理关键操作</string>
+    <string name="stylus_title">触控笔</string>
 </resources>

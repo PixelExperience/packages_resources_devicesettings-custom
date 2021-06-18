@@ -154,6 +154,7 @@
     <string name="raise_to_wake_gesture_summary">ايقاظ الجهاز بدلا من ارسال اشعار</string>
     <string name="device_min_refresh_rate">معدل التحديث الأدنى</string>
     <string name="refresh_rate_settings_title">معدل تحديث الشاشة</string>
+    <string name="refresh_rate_settings_summary">ضبط معدل تحديث الشاشة</string>
     <string name="touch_control_title">تحسينات شاشة اللمس</string>
     <string name="touch_game_mode_title">تفعيل وضع الالعاب</string>
     <string name="touch_game_mode_summary">تساعد على تحسين تجربة اللعب عن طريق تحسين استجابة اللمس</string>
@@ -164,4 +165,6 @@
     <string name="touch_resistant_title">المنطقة المضادة للمس</string>
     <string name="touch_resistant_summary">تقليل الحساسية اتجاه اطراف الشاشة لمنع الادخالات الخاطئة</string>
     <string name="home_button_extra_settings">تعديل وظيفة زر الشاشة الرئيسية</string>
+    <string name="assistant_button_action">إجراء زر المساعد الرقمي</string>
+    <string name="stylus_title">قلم ستايلس</string>
 </resources>

@@ -165,5 +165,6 @@
     <string name="touch_resistant_title">Dokunmaya dayanıklı alan</string>
     <string name="touch_resistant_summary">Yanlışlıkla dokunmaları önlemek için kenarlara yakın alanların hassasiyetini azaltır</string>
     <string name="home_button_extra_settings">Ana ekran düğmesi davranışını özelleştirin</string>
+    <string name="assistant_button_action">Asistan tuşu eylemi</string>
     <string name="stylus_title">Dokunmatik kalem</string>
 </resources>

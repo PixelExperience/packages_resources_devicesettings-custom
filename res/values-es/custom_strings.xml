@@ -153,8 +153,8 @@
     <string name="raise_to_wake_gesture_title">Levantar para despertar</string>
     <string name="raise_to_wake_gesture_summary">Activar el dispositivo en lugar de la notificación pulsante</string>
     <string name="device_min_refresh_rate">Tasa de refresco mínima</string>
-    <string name="refresh_rate_settings_title">Tasa de refresco de la pantalla</string>
-    <string name="refresh_rate_settings_summary">Ajustar tasa de refresco </string>
+    <string name="refresh_rate_settings_title">Frecuencia de actualización de la pantalla</string>
+    <string name="refresh_rate_settings_summary">Ajustar frecuencia de actualización</string>
     <string name="touch_control_title">Optimizaciones de la pantalla táctil</string>
     <string name="touch_game_mode_title">Activar el modo de juego</string>
     <string name="touch_game_mode_summary">Ayuda a mejorar la experiencia de juego optimizando la pantalla táctil</string>
@@ -165,6 +165,6 @@
     <string name="touch_resistant_title">Área resistente al tacto</string>
     <string name="touch_resistant_summary">Reduce la sensibilidad cerca de los bordes para evitar toques accidentales.</string>
     <string name="home_button_extra_settings">Personalizar el comportamiento del botón de inicio</string>
-    <string name="assistant_button_action">Botón de asistente </string>
+    <string name="assistant_button_action">Botón del asistente </string>
     <string name="stylus_title">Lapiz óptico</string>
 </resources>

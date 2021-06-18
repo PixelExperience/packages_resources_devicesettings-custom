@@ -18,6 +18,7 @@
     <string name="display_title">Дысплэй</string>
     <string name="dc_dimming_enable_title">Анты-мігаценне</string>
     <string name="dc_dimming_enable_summary">Рэжым барацьбы з мігаценнем дапамагае знізіць напружанне вачэй ва ўмовах нізкай асветленасці пры дапамозе функцыі \"DC dimming\". Гэта можа пагоршыць дакладнасць колеру і паўплываць на адлюстраванне некаторых прадметаў.</string>
+    <string name="dc_dimming_enable_summary_not_supported">Абарона ад мігцення экрана пакуль не падтрымліваецца ярдром</string>
     <string name="dirac_title">Паляпшэнне гуку Mi</string>
     <string name="dirac_summary">Паляпшэнне якасці гуку</string>
     <string name="dirac_headset_title">Выберыце тып навушнікаў</string>
@@ -27,6 +28,7 @@
     <string name="dirac_hifi_enable_title">Уключыць Hi-fi</string>
     <string name="dirac_headset_default">Стандартныя</string>
     <string name="dirac_headset_earbuds">Mi-навушнікі</string>
+    <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
     <string name="dirac_headset_piston_1">Mi-пістоны 1</string>
     <string name="dirac_headset_general">Звычайныя навушнікі</string>
     <string name="dirac_headset_general_inear">Звычайныя ўкладышы</string>
@@ -37,7 +39,15 @@
     <string name="dirac_headset_piston_youth">Моладзевая версія</string>
     <string name="dirac_headset_piston_color">Каляровае версія</string>
     <string name="dirac_headset_in_ear">Mi-укладышы</string>
+    <string name="dirac_headset_capsule">Mi Capsule</string>
+    <string name="dirac_headset_in_ear_pro">Mi In-Ear Pro</string>
+    <string name="dirac_headset_comfort">Mi Comfort</string>
+    <string name="dirac_headset_reduction_noise">Mi Noise Cancelling Type-C</string>
+    <string name="dirac_headset_cancelling">Mi Noise Cancelling 3.5mm</string>
     <string name="dirac_headset_half_in_ear">Mi-укладышы</string>
+    <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
+    <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
+    <string name="dirac_headset_earphone">Mi Earphones</string>
     <string name="dirac_preset_default">Па змаўчанні</string>
     <string name="dirac_preset_rock">Рок</string>
     <string name="dirac_preset_jazz">Джаз</string>
@@ -70,6 +80,9 @@
     <string name="takeback_camera_front_failed">Не атрымалася зачыніць франтальную камеру. Паспрабуйце яшчэ раз.</string>
     <string name="popup_camera_front_failed">Не атрымалася адкрыць франтальную камеру. Паспрабуйце яшчэ раз.</string>
     <string name="popup_camera_proximity_obstructed">Прыбярыце руку з датчыка набліжэння, каб адкрыць франтальную камеру...</string>
+    <string name="clear_speaker_title">Ачыстка дынаміка</string>
+    <string name="clear_speaker_summary">Прайграць 30-секундны сігнал для ачысткі дынаміка</string>
+    <string name="clear_speaker_description">Запусціце гэту функцыю адзін або некалькі разоў, калі выявіцца, што ваш дынамік забрудніўся. Устанавіце максімальную гучнасць.\n\nКалі дынамік моцна забруджаны, запрасіце функцыю 2-5 разоў, адначасова ўскаланоўваючы вашу прыладу, накіраваўшы яе дынамікам уніз.</string>
     <string name="moto_actions_title">Дадатковыя жэсты</string>
     <string name="device_gestures_title">Жэсты прылады</string>
     <string name="device_gestures_summary">Кіраванне жэстамі</string>
@@ -137,6 +150,21 @@
     <string name="thermal_dialer">Набіральнік нумара</string>
     <string name="thermal_gaming">Гульні</string>
     <string name="thermal_streaming">Патокавыя прыкладанні</string>
+    <string name="raise_to_wake_gesture_title">Абуджэнне пры ўзяцці ў рукі </string>
+    <string name="raise_to_wake_gesture_summary">Абуджэнне прылады пры апавяшчэнні</string>
     <string name="device_min_refresh_rate">Мінімальная частата абнаўлення экрана</string>
     <string name="refresh_rate_settings_title">Частата абнаўлення экрана</string>
+    <string name="refresh_rate_settings_summary">Наладзіць частату абнаўлення экрана</string>
+    <string name="touch_control_title">Аптымізацыя сэнсарнага экрана</string>
+    <string name="touch_game_mode_title">Уключыць гульнявы рэжым</string>
+    <string name="touch_game_mode_summary">Дапамагае палепшыць гульнявы працэс за кошт аптымізацыі сэнсарнага экрана</string>
+    <string name="touch_response_title">Адчувальнасць сэнсара</string>
+    <string name="touch_response_summary">Кіруе адчувальнасцю сэнсара</string>
+    <string name="touch_sensitivity_title">Адчувальнасць дотыкаў</string>
+    <string name="touch_sensitivity_summary">Кантралюе адчувальнасць пры паўторных дотыках</string>
+    <string name="touch_resistant_title">Вобласць, устойлівая да дотыкаў </string>
+    <string name="touch_resistant_summary">Зніжае адчувальнасць па краях для прадухілення выпадковых націсканняў</string>
+    <string name="home_button_extra_settings">Наладзіць паводзіны кнопкі \"Дамоў\"</string>
+    <string name="assistant_button_action">Дзеянне кнопкі асістэнта</string>
+    <string name="stylus_title">Стылус</string>
 </resources>

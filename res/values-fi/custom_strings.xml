@@ -153,7 +153,6 @@
     <string name="raise_to_wake_gesture_title">Nosta herättääksesi</string>
     <string name="raise_to_wake_gesture_summary">Herätä laite ilmoitusten vilkuttamisen sijaan</string>
     <string name="device_min_refresh_rate">Minimi virkistystaajuus</string>
-    <string name="device_power_save_refresh_rate">Akun säästön päivitys aikaväli</string>
     <string name="device_power_save_refresh_rate_switch">Automaattisesti pienennä aikaväliä kun akun säästö on päällä</string>
     <string name="refresh_rate_settings_title">Näytön virkistystaajuus</string>
     <string name="refresh_rate_settings_summary">Säädä näytön päivitystaajuus</string>

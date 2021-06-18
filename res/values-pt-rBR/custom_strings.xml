@@ -153,8 +153,12 @@
     <string name="raise_to_wake_gesture_title">Levantar para acordar</string>
     <string name="raise_to_wake_gesture_summary">Acender a tela do dispositivo ao invés de pulsar notificações</string>
     <string name="device_min_refresh_rate">Taxa de atualização mínima</string>
+    <string name="device_power_save_refresh_rate">Economizar bateria automaticamente</string>
+    <string name="device_power_save_refresh_rate_switch">Diminuir automaticamente a taxa de atualização quando a economia de bateria estiver ativa</string>
     <string name="refresh_rate_settings_title">Taxa de atualização da tela</string>
     <string name="refresh_rate_settings_summary">Ajustar a taxa de atualização da tela</string>
+    <string name="refresh_rate_tile_title">Taxa de atualização</string>
+    <string name="refresh_rate_tile_disabled">Economia de bateria ativada</string>
     <string name="touch_control_title">Otimizações da tela de toque</string>
     <string name="touch_game_mode_title">Ativar modo jogo</string>
     <string name="touch_game_mode_summary">Ajuda a melhorar a experiência em jogos otimizando a tela de toque</string>

@@ -142,7 +142,6 @@
     <string name="thermal_gaming">Žaidimai</string>
     <string name="thermal_streaming">Srautinės programos</string>
     <string name="device_min_refresh_rate">Mažiausias atnaujinimo dažnis</string>
-    <string name="device_power_save_refresh_rate">Akumuliatoriaus tausojimo priemonės atnaujinimo dažnis</string>
     <string name="device_power_save_refresh_rate_switch">Automatiškai sumažinti atnaujinimo dažnį, kai įjungta akumuliatoriaus tausojimo priemonė </string>
     <string name="refresh_rate_settings_title">Ekrano atnaujinimo dažnis</string>
     <string name="refresh_rate_settings_summary">Koreguokite ekrano atnaujinimo dažnį</string>

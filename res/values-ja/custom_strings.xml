@@ -153,7 +153,6 @@
     <string name="raise_to_wake_gesture_title">持ち上げて復帰</string>
     <string name="raise_to_wake_gesture_summary">通知のライト点滅の代わりに持ち上げる動作でスリープ解除する</string>
     <string name="device_min_refresh_rate">最小リフレッシュレート</string>
-    <string name="device_power_save_refresh_rate">省電力リフレッシュレート</string>
     <string name="device_power_save_refresh_rate_switch">バッテリーセーバー有効時は自動的にリフレッシュレートを低下させる</string>
     <string name="refresh_rate_settings_title">画面リフレッシュレート</string>
     <string name="refresh_rate_settings_summary">画面のリフレッシュレートを調整する</string>

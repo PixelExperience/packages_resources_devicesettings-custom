@@ -153,7 +153,7 @@
     <string name="raise_to_wake_gesture_title">Ανασηκώστε για αφύπνιση</string>
     <string name="raise_to_wake_gesture_summary">Αφυπνίστε τη συσκευή αντί για παλμική ειδοποίηση</string>
     <string name="device_min_refresh_rate">Ελάχιστος ρυθμός ανανέωσης</string>
-    <string name="device_power_save_refresh_rate">Ρυθμός ανανέωσης εξοικονόμησης μπαταρίας</string>
+    <string name="device_power_save_refresh_rate">Εξοικονομήστε μπαταρία αυτόματα</string>
     <string name="device_power_save_refresh_rate_switch">Αυτόματη μείωση του ρυθμού ανανέωσης όταν είναι ενεργή η εξοικονόμηση μπαταρίας</string>
     <string name="refresh_rate_settings_title">Ρυθμός ανανέωσης οθόνης</string>
     <string name="refresh_rate_settings_summary">Προσαρμόστε το ρυθμό ανανέωσης οθόνης</string>

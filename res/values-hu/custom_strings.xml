@@ -153,7 +153,6 @@
     <string name="raise_to_wake_gesture_title">Ébresztés felemeléssel</string>
     <string name="raise_to_wake_gesture_summary">Ébredjen fel a készülék a pulzáló értesítés helyett</string>
     <string name="device_min_refresh_rate">Minimális képernyőfrissítés</string>
-    <string name="device_power_save_refresh_rate">Képernyőfrissítés értéke akkukímélő módban</string>
     <string name="device_power_save_refresh_rate_switch">Automatikusan kisebb érték amennyiben az akkukímélő aktív</string>
     <string name="refresh_rate_settings_title">A képernyőfrissítés értéke</string>
     <string name="refresh_rate_settings_summary">Képernyőfrissítési érték beállítása</string>

@@ -153,7 +153,7 @@
     <string name="raise_to_wake_gesture_title">拿起喚醒</string>
     <string name="raise_to_wake_gesture_summary">喚醒設備而不是發出通知</string>
     <string name="device_min_refresh_rate">最低更新率</string>
-    <string name="device_power_save_refresh_rate">省電更新率</string>
+    <string name="device_power_save_refresh_rate">自動省電</string>
     <string name="device_power_save_refresh_rate_switch">當省電模式作用中時自動降低更新率</string>
     <string name="refresh_rate_settings_title">螢幕更新率</string>
     <string name="refresh_rate_settings_summary">調整屏幕刷新率</string>

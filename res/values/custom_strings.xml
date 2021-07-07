@@ -168,6 +168,10 @@
     <string name="oneplus_advanced_settings">OnePlus Settings</string>
     <string name="oneplus_advanced_settings_summary">Custom settings for your device</string>
 
+    <!-- OnePlus - PanelModes -->
+    <string name="panel_modes_settings_title">Panel Modes</string>
+    <string name="panel_modes_settings_summary">Choose a pre-made display calibration</string>
+
     <!-- OnePlus - Alert slider settings -->
     <string name="notification_slider_category_title">Alert slider</string>
     <string name="notification_slider_selection_dialog_title">Action</string>
@@ -216,7 +220,9 @@
     <string name="touch_resistant_title">Touch-resistant area</string>
     <string name="touch_resistant_summary">Reduces sensitivity near the edges to prevent accidental touches</string>
 
-    <!-- Home button settings -->
+    <!-- Button settings -->
+    <string name="button_settings_title">Buttons</string>
+    <string name="button_swap_summary">Swap Navigation Buttons</string>
     <string name="home_button_extra_settings">Customize home button behavior</string>
 
     <!-- Assistant button -->
@@ -224,5 +230,8 @@
 
     <!-- Stylus pen -->
     <string name="stylus_title">Stylus Pen</string>
+
+    <!-- High Brightness Mode-->
+    <string name="hbm_title">High Brightness Mode</string>
 
 </resources>

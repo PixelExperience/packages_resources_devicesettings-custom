@@ -16,6 +16,24 @@
       "message": "Is tile for HBM really necessary?",
       "revId": "c9add65c002819ad39350c5e80153ac5eb436f76",
       "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ccc7d7c0_00517a52",
+        "filename": "res/values/custom_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 235,
+      "author": {
+        "id": 1000536
+      },
+      "writtenOn": "2021-07-07T12:05:59Z",
+      "side": 1,
+      "message": "Not mandatory, but nice to have. It\u0027s way easier to toggle it in the quick settings than searching it in the settings everytime. Alternatively, I could remove it from the device settings and leave just the QS tile with the non-translateable shortcut \"HBM\".",
+      "parentUuid": "306f5bbc_29c09484",
+      "revId": "c9add65c002819ad39350c5e80153ac5eb436f76",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
     }
   ]
 }

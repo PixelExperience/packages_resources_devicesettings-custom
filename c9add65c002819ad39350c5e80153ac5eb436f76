@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "306f5bbc_29c09484",
+        "filename": "res/values/custom_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 235,
+      "author": {
+        "id": 1000052
+      },
+      "writtenOn": "2021-07-07T09:30:52Z",
+      "side": 1,
+      "message": "Is tile for HBM really necessary?",
+      "revId": "c9add65c002819ad39350c5e80153ac5eb436f76",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    }
+  ]
+}

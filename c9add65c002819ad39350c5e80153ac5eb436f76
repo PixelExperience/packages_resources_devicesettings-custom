@@ -34,6 +34,24 @@
       "parentUuid": "306f5bbc_29c09484",
       "revId": "c9add65c002819ad39350c5e80153ac5eb436f76",
       "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "4f343eda_1cfa15f7",
+        "filename": "res/values/custom_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 235,
+      "author": {
+        "id": 1000536
+      },
+      "writtenOn": "2021-07-09T11:16:38Z",
+      "side": 1,
+      "message": "What am I supposed to do now? :]",
+      "parentUuid": "ccc7d7c0_00517a52",
+      "revId": "c9add65c002819ad39350c5e80153ac5eb436f76",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
     }
   ]
 }

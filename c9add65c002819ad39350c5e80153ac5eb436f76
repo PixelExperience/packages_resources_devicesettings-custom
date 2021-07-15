@@ -1,6 +1,23 @@
 {
   "comments": [
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "216f3f92_6034a780",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000243
+      },
+      "writtenOn": "2021-07-15T16:44:28Z",
+      "side": 1,
+      "message": "PE has support for AOSP style displaymodes, you should use those instead of panel modes. ",
+      "revId": "c9add65c002819ad39350c5e80153ac5eb436f76",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "306f5bbc_29c09484",

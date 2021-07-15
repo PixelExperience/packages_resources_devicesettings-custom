@@ -20,6 +20,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "2ed767bb_b3c450b5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000536
+      },
+      "writtenOn": "2021-07-15T17:03:16Z",
+      "side": 1,
+      "message": "Those are not the same if you mean \"Display \u003e  Live Display \u003e Display mode/Color calibration\". The panel modes are calibrated presets like SRGB, DCI-P3, etc. . I\u0027ve posted a screenshot in the following github issue.\n\nhttps://github.com/PixelExperience/official_devices/issues/2304#issuecomment-873435445\nIs there a way to build these into the AOSP variant?",
+      "parentUuid": "216f3f92_6034a780",
+      "revId": "c9add65c002819ad39350c5e80153ac5eb436f76",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "306f5bbc_29c09484",
         "filename": "res/values/custom_strings.xml",
         "patchSetId": 1

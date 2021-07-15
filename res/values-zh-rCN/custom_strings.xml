@@ -153,8 +153,12 @@
     <string name="raise_to_wake_gesture_title">抬起手机以点亮屏幕</string>
     <string name="raise_to_wake_gesture_summary">唤醒设备而不是发出通知</string>
     <string name="device_min_refresh_rate">低刷新率</string>
+    <string name="device_power_save_refresh_rate">自动开启省电模式</string>
+    <string name="device_power_save_refresh_rate_switch">开启省电模式时自动降低刷新率</string>
     <string name="refresh_rate_settings_title">屏幕刷新率</string>
     <string name="refresh_rate_settings_summary">调整屏幕刷新率</string>
+    <string name="refresh_rate_tile_title">刷新率</string>
+    <string name="refresh_rate_tile_disabled">省电模式已启用</string>
     <string name="touch_control_title">触屏优化</string>
     <string name="touch_game_mode_title">打开游戏模式</string>
     <string name="touch_game_mode_summary">触屏优化以帮助提升游戏体验</string>

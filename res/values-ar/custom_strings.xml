@@ -153,8 +153,12 @@
     <string name="raise_to_wake_gesture_title">الرفع للإيقاظ</string>
     <string name="raise_to_wake_gesture_summary">ايقاظ الجهاز بدلا من ارسال اشعار</string>
     <string name="device_min_refresh_rate">معدل التحديث الأدنى</string>
+    <string name="device_power_save_refresh_rate">توفير البطاريه بشكل تلقائي </string>
+    <string name="device_power_save_refresh_rate_switch">توفير البطاريه بشكل تلقائي عندما يكون وضع توفير الطاقه مفعلاٌ</string>
     <string name="refresh_rate_settings_title">معدل تحديث الشاشة</string>
     <string name="refresh_rate_settings_summary">ضبط معدل تحديث الشاشة</string>
+    <string name="refresh_rate_tile_title">معدل تحديث الشاشة</string>
+    <string name="refresh_rate_tile_disabled">وضع توفير الطاقة مفعل</string>
     <string name="touch_control_title">تحسينات شاشة اللمس</string>
     <string name="touch_game_mode_title">تفعيل وضع الالعاب</string>
     <string name="touch_game_mode_summary">تساعد على تحسين تجربة اللعب عن طريق تحسين استجابة اللمس</string>

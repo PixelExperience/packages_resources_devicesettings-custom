@@ -154,8 +154,12 @@ Se l\'altoparlante è bloccato pesantemente, eseguire questa funzione 2-5 volte 
     <string name="raise_to_wake_gesture_title">Solleva il dispositivo per risvegliare</string>
     <string name="raise_to_wake_gesture_summary">Sveglia il dispositivo al posto delle notifiche tramite pulsazioni</string>
     <string name="device_min_refresh_rate">Refresh rate minimo</string>
+    <string name="device_power_save_refresh_rate">Risparmia automaticamente la batteria</string>
+    <string name="device_power_save_refresh_rate_switch">Abbassa automaticamente la frequenza d\'aggiornamento quando il risparmio energetico è attivo</string>
     <string name="refresh_rate_settings_title">Frequenza di aggiornamento</string>
     <string name="refresh_rate_settings_summary">Modifica la frequenza di aggiornamento dello schermo</string>
+    <string name="refresh_rate_tile_title">Frequenza d\'aggiornamento</string>
+    <string name="refresh_rate_tile_disabled">Risparmio energetico attivato</string>
     <string name="touch_control_title">Ottimizzazioni del touch screen</string>
     <string name="touch_game_mode_title">Ablitia modalitá gioco</string>
     <string name="touch_game_mode_summary">Aiuta a migliorare l\'esperienza di gioco ottimizzando il touch screen</string>

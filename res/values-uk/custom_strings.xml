@@ -153,9 +153,12 @@
     <string name="raise_to_wake_gesture_title">Пробудження при взятті в руки</string>
     <string name="raise_to_wake_gesture_summary">Пробудження коли прийде повідомлення</string>
     <string name="device_min_refresh_rate">Найменша частота оновлення</string>
+    <string name="device_power_save_refresh_rate">Економія заряду акумулятора автоматично</string>
+    <string name="device_power_save_refresh_rate_switch">Автоматично знижувати частоту оновлення, коли активна економія заряду акумулятора</string>
     <string name="refresh_rate_settings_title">Частота оновлення екрана</string>
     <string name="refresh_rate_settings_summary">Налаштувати частоту оновлення екрану</string>
     <string name="refresh_rate_tile_title">Частота оновлення</string>
+    <string name="refresh_rate_tile_disabled">Енергозбереження ввімкнено</string>
     <string name="touch_control_title">Оптимізація сенсорного екрану</string>
     <string name="touch_game_mode_title">Ввімкнути режим ігри</string>
     <string name="touch_game_mode_summary">Допомагає удосконалити опит ігри за допомогою оптимізації сенсорного екрану</string>

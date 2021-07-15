@@ -150,6 +150,8 @@
     <string name="raise_to_wake_gesture_summary">喚醒設備而不是發出通知</string>
     <string name="device_min_refresh_rate">最低刷新率</string>
     <string name="refresh_rate_settings_title">螢幕刷新率</string>
+    <string name="refresh_rate_tile_title">刷新率</string>
+    <string name="refresh_rate_tile_disabled">開啟省電模式</string>
     <string name="touch_control_title">觸摸屏優化</string>
     <string name="touch_game_mode_title">啟用遊戲模式</string>
     <string name="touch_game_mode_summary">通過優化觸摸屏來幫助改善遊戲體驗</string>
@@ -160,4 +162,6 @@
     <string name="touch_resistant_title">防止接觸區域 </string>
     <string name="touch_resistant_summary">降低邊緣附近的敏感度，以防止意外觸摸</string>
     <string name="home_button_extra_settings">自定義主頁按鈕行為</string>
+    <string name="assistant_button_action">操作助手鍵</string>
+    <string name="stylus_title">Stylus 筆</string>
 </resources>

@@ -153,6 +153,7 @@
     <string name="raise_to_wake_gesture_title">Повдигнете, за да се събудите</string>
     <string name="raise_to_wake_gesture_summary">Събудете устройството, вместо пулсиращо известие</string>
     <string name="device_min_refresh_rate">Минимална честота на опресняване</string>
+    <string name="device_power_save_refresh_rate">Автоматично запазване на батерията</string>
     <string name="device_power_save_refresh_rate_switch">Автоматично намаляване честотата на опресняване при активен режим на пестене на батерията</string>
     <string name="refresh_rate_settings_title">Опресняване на екрана</string>
     <string name="refresh_rate_settings_summary">Регулиране честотата на опресняване на екрана</string>

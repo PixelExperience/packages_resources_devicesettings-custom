@@ -153,6 +153,7 @@
     <string name="raise_to_wake_gesture_title">Angkat untuk Bangun</string>
     <string name="raise_to_wake_gesture_summary">Bangunkan perangkat alih-alih menampilkan notifikasi</string>
     <string name="device_min_refresh_rate">Kecepatan refresh minimum</string>
+    <string name="device_power_save_refresh_rate">Hemat baterai secara otomatis</string>
     <string name="device_power_save_refresh_rate_switch">Otomatis turunkan kecepatan refresh ketika penghemat baterai aktif</string>
     <string name="refresh_rate_settings_title">Kecepatan refresh layar</string>
     <string name="refresh_rate_settings_summary">Sesuaikan kecepatan refresh layar</string>

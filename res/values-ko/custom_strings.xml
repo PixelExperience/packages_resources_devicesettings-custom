@@ -155,7 +155,12 @@
     <string name="raise_to_wake_gesture_title">들어올려 깨우기</string>
     <string name="raise_to_wake_gesture_summary">알림 대신 기기 깨우기</string>
     <string name="device_min_refresh_rate">최소 재생률</string>
+    <string name="device_power_save_refresh_rate">자동 절전</string>
+    <string name="device_power_save_refresh_rate_switch">절전 모드가 실행 중인 경우 새로고침 빈도를 자동으로 줄입니다</string>
     <string name="refresh_rate_settings_title">화면 재생 빈도</string>
+    <string name="refresh_rate_settings_summary">화면 새로고침 빈도</string>
+    <string name="refresh_rate_tile_title">새로고침 빈도</string>
+    <string name="refresh_rate_tile_disabled">절전 모드 켜짐</string>
     <string name="touch_control_title">터치스크린 최적화</string>
     <string name="touch_game_mode_title">게임 모드 활성화</string>
     <string name="touch_game_mode_summary">터치스크린을 최적화하여 게이밍 경험 향상을 도와줌</string>
@@ -166,4 +171,6 @@
     <string name="touch_resistant_title">터치 방지 영역</string>
     <string name="touch_resistant_summary">가장자리의 잘못된 터치를 방지하기 위해 민감도를 줄임</string>
     <string name="home_button_extra_settings">홈 버튼 동작 커스텀</string>
+    <string name="assistant_button_action">도우미 키 동작</string>
+    <string name="stylus_title">스타일러스 펜</string>
 </resources>

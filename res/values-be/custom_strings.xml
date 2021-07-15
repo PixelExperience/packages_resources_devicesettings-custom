@@ -153,6 +153,7 @@
     <string name="raise_to_wake_gesture_title">Абуджэнне пры ўзяцці ў рукі </string>
     <string name="raise_to_wake_gesture_summary">Абуджэнне прылады пры апавяшчэнні</string>
     <string name="device_min_refresh_rate">Мінімальная частата абнаўлення экрана</string>
+    <string name="device_power_save_refresh_rate">Аўтаматычнае захаванне зараду батарэі</string>
     <string name="device_power_save_refresh_rate_switch">Аўтаматычна змяншаць частату абнаўленняў у рэжыме энергазберажэння</string>
     <string name="refresh_rate_settings_title">Частата абнаўлення экрана</string>
     <string name="refresh_rate_settings_summary">Наладзіць частату абнаўлення экрана</string>

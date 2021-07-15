@@ -153,6 +153,7 @@
     <string name="raise_to_wake_gesture_title">Podnieś aby wybudzić</string>
     <string name="raise_to_wake_gesture_summary">Wybudzanie urządzenia zamiast pulsującego powiadomienia</string>
     <string name="device_min_refresh_rate">Minimalna szybkość odświeżania</string>
+    <string name="device_power_save_refresh_rate">Automatyczne oszczędzanie baterii</string>
     <string name="device_power_save_refresh_rate_switch">Automatycznie obniżaj częstotliwość odświeżania, gdy oszczędzanie baterii jest aktywne</string>
     <string name="refresh_rate_settings_title">Częstotliwość odświeżania ekranu</string>
     <string name="refresh_rate_settings_summary">Dostosuj częstotliwość odświeżania ekranu</string>

@@ -153,8 +153,12 @@
     <string name="raise_to_wake_gesture_title">Elevar para acordar</string>
     <string name="raise_to_wake_gesture_summary">Acordar dispositivo em vez de notificação pulsannte</string>
     <string name="device_min_refresh_rate">Taxa mínima de atualização</string>
+    <string name="device_power_save_refresh_rate">Poupança de bateria automática</string>
+    <string name="device_power_save_refresh_rate_switch">Reduzir automaticamente a taxa de atualização se a poupança de energia estiver ativa</string>
     <string name="refresh_rate_settings_title">Taxa de atualização do ecrã</string>
     <string name="refresh_rate_settings_summary">Ajustar taxa de atualização do ecrã</string>
+    <string name="refresh_rate_tile_title">Taxa de atualização</string>
+    <string name="refresh_rate_tile_disabled">Poupança de bateria ativada</string>
     <string name="touch_control_title">Otimizações para toques no ecrã</string>
     <string name="touch_game_mode_title">Ativar modo jogador</string>
     <string name="touch_game_mode_summary">Ajuda a melhorar o desempenho dos jogos otimizando o ecrã para toques</string>

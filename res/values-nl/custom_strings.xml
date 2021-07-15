@@ -153,6 +153,7 @@
     <string name="raise_to_wake_gesture_title">Oppakken om te wekken</string>
     <string name="raise_to_wake_gesture_summary">Toestel wekken i.p.v. trillen</string>
     <string name="device_min_refresh_rate">Minimum vernieuwingsfrequentie</string>
+    <string name="device_power_save_refresh_rate">Automatische batterijbesparing</string>
     <string name="device_power_save_refresh_rate_switch">Verlaag vernieuwingsfrequentie automatisch wanneer batterijbesparing is geactiveerd</string>
     <string name="refresh_rate_settings_title">Scherm verversingsfrequentie</string>
     <string name="refresh_rate_settings_summary">Vernieuwingsfrequentie beeldscherm aanpassen</string>

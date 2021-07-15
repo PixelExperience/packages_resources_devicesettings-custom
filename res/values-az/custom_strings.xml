@@ -153,6 +153,7 @@
     <string name="raise_to_wake_gesture_title">Oyandırmaq üçün qaldır</string>
     <string name="raise_to_wake_gesture_summary">Titrəyişli bildirişin əvəzinə cihazı oyandırın</string>
     <string name="device_min_refresh_rate">Minimum təzələnmə sürəti</string>
+    <string name="device_power_save_refresh_rate">Avtomatik batareya qənaəti</string>
     <string name="device_power_save_refresh_rate_switch">Batareya qənaəti aktiv olanda təzələmə sürətini avtomatik endir</string>
     <string name="refresh_rate_settings_title">Ekran təzələnmə sürəti</string>
     <string name="refresh_rate_settings_summary">Ekran təzələnmə sürətini nizamlayın</string>

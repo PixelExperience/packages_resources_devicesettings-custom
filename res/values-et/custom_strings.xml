@@ -153,8 +153,12 @@
     <string name="raise_to_wake_gesture_title">Äratamiseks tõsta</string>
     <string name="raise_to_wake_gesture_summary">Pulseeriva teate asemel äratag seade</string>
     <string name="device_min_refresh_rate">Minimaalne värskendussagedus</string>
+    <string name="device_power_save_refresh_rate">Säästke akut automaatselt</string>
+    <string name="device_power_save_refresh_rate_switch">Vähendage automaatselt värskendussagedust, kui akusäästja on aktiivne </string>
     <string name="refresh_rate_settings_title">Ekraani värskenduskiirus</string>
     <string name="refresh_rate_settings_summary">Reguleerige ekraani värskendussagedust</string>
+    <string name="refresh_rate_tile_title">Värskendamise tihedus</string>
+    <string name="refresh_rate_tile_disabled">Aku säästja on lubatud</string>
     <string name="touch_control_title">Puutetundliku ekraani optimeerimine</string>
     <string name="touch_game_mode_title">Luba mängurežiim</string>
     <string name="touch_game_mode_summary">Aitab puutetundliku ekraani optimeerimise kaudu parandada mängukogemust </string>

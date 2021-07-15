@@ -153,6 +153,7 @@
     <string name="raise_to_wake_gesture_title">Zvednutím probudit</string>
     <string name="raise_to_wake_gesture_summary">Místo pulzujícího oznámení zařízení probudit</string>
     <string name="device_min_refresh_rate">Minimální obnovovací frekvence</string>
+    <string name="device_power_save_refresh_rate">Automatický spořič baterie</string>
     <string name="device_power_save_refresh_rate_switch">Automaticky snížit obnovovací frekvenci při zapnutém spořiči baterie</string>
     <string name="refresh_rate_settings_title">Obnovovací frekvence obrazovky</string>
     <string name="refresh_rate_settings_summary">Upravte obnovovací frekvenci obrazovky</string>

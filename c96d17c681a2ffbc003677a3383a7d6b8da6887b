@@ -16,6 +16,23 @@
       "message": "Seems fine now.",
       "revId": "c96d17c681a2ffbc003677a3383a7d6b8da6887b",
       "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b08c384c_6d205644",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000243
+      },
+      "writtenOn": "2021-07-19T06:33:34Z",
+      "side": 1,
+      "message": "https://github.com/xLexip/pe_device_oneplus_msm8998-common/commit/7e923ef5a8507d1748391d3dfffbf50b0efe7fcc#diff-cadbd2ee74436e5cb8c8fbe741862cffa5bb2a67c077f574cfcdc33baae832ceR65\nhardcoding the value breaks the entire purpose of having it in external repository for translations. Fix that",
+      "revId": "c96d17c681a2ffbc003677a3383a7d6b8da6887b",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
     }
   ]
 }

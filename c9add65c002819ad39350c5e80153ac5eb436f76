@@ -140,6 +140,24 @@
       "parentUuid": "ccc7d7c0_00517a52",
       "revId": "c9add65c002819ad39350c5e80153ac5eb436f76",
       "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0b04c55e_171079bf",
+        "filename": "res/values/custom_strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 235,
+      "author": {
+        "id": 1000052
+      },
+      "writtenOn": "2021-07-19T06:17:22Z",
+      "side": 1,
+      "message": "just wait for the rest of the review team to give you +1 on the device tree and +2 here by Henrique.\nWe usually process applications on the weekend.",
+      "parentUuid": "4f343eda_1cfa15f7",
+      "revId": "c9add65c002819ad39350c5e80153ac5eb436f76",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
     }
   ]
 }

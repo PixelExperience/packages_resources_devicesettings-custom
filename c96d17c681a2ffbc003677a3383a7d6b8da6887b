@@ -51,6 +51,23 @@
       "parentUuid": "b08c384c_6d205644",
       "revId": "c96d17c681a2ffbc003677a3383a7d6b8da6887b",
       "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4c72d0ce_df79d83a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000243
+      },
+      "writtenOn": "2021-07-20T11:50:34Z",
+      "side": 1,
+      "message": "also when Henrique said to remove vibration strength strings that also means remove vibration strength settings from devicesettings",
+      "revId": "c96d17c681a2ffbc003677a3383a7d6b8da6887b",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
     }
   ]
 }

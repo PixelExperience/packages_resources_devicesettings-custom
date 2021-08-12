@@ -168,6 +168,7 @@
     <string name="touch_sensitivity_summary">控制重复点按的灵敏度</string>
     <string name="touch_resistant_title">防误触区域</string>
     <string name="touch_resistant_summary">降低屏幕边缘附近的灵敏度以防止误触</string>
+    <string name="button_settings_title">按键</string>
     <string name="home_button_extra_settings">自定义主屏幕键功能</string>
     <string name="assistant_button_action">助理关键操作</string>
     <string name="stylus_title">触控笔</string>

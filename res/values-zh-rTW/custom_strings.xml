@@ -168,6 +168,7 @@
     <string name="touch_sensitivity_summary">控制重複輕拍的靈敏度</string>
     <string name="touch_resistant_title">防止接觸區域 </string>
     <string name="touch_resistant_summary">降低邊緣附近的敏感度，以防止意外觸摸</string>
+    <string name="button_settings_title">按鍵</string>
     <string name="home_button_extra_settings">自定義主頁按鈕行為</string>
     <string name="assistant_button_action">助理鍵動作</string>
     <string name="stylus_title">觸控筆</string>

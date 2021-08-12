@@ -113,4 +113,5 @@
     <string name="allow_proximity_sensor_title">પ્રોક્સીમેટ્રી સેન્સર ને મંજૂરી આપો</string>
     <string name="allow_proximity_sensor_summary">ક્રિયા કરવા પહેલાં પ્રોકસીમેટ્રી સેન્સર તપાસો</string>
     <string name="oneplus_advanced_settings">OnePlus સેટિંગ્સ</string>
+    <string name="button_settings_title">બટનો</string>
 </resources>

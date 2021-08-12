@@ -168,6 +168,7 @@
     <string name="touch_sensitivity_summary">Steuert die Empfindlichkeit für wiederholtes Tippen</string>
     <string name="touch_resistant_title">Bereich der Berührungsempfindlichkeit</string>
     <string name="touch_resistant_summary">Reduziert die Empfindlichkeit in der Nähe der Kanten, um versehentliche Berührungen zu vermeiden</string>
+    <string name="button_settings_title">Tasten</string>
     <string name="home_button_extra_settings">Passen Sie das Verhalten der Home-Schaltfläche an</string>
     <string name="assistant_button_action">Assistent Tastenaktion</string>
     <string name="stylus_title">Stift</string>

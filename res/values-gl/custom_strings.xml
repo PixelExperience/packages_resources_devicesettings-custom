@@ -129,4 +129,5 @@
     <string name="thermal_streaming">Aplicacións de Streaming</string>
     <string name="device_min_refresh_rate">Taxa mínima de actualización </string>
     <string name="refresh_rate_settings_title">Tasa de refresco da pantalla</string>
+    <string name="button_settings_title">Botóns</string>
 </resources>

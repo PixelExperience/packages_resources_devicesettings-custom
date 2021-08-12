@@ -96,6 +96,7 @@
     <string name="fingerprint_actions_screenoff">მოქმედებები გამორთული ეკრანით</string>
     <string name="action_home">მთავარი</string>
     <string name="action_power">ეკრანის ჩართვა/გამორთვა</string>
+    <string name="action_wake">გაღვიძება</string>
     <string name="action_back">უკან</string>
     <string name="action_recents">უახლესი</string>
     <string name="action_last_app">ბოლო აპლიკაცია</string>
@@ -125,7 +126,11 @@
     <string name="long_tap_dlg_title">აირჩიეთ მოქმედება ხანგრძლივი შეხებისას</string>
     <string name="tap_to_wake">შეეხეთ გამოსაღვიძებლად</string>
     <string name="tap_to_wake_summary">ორჯერ შეეხეთ ეკრანს ნებისმიერ ადგილას მოწყობილობის გამოსაღვიძებლად</string>
+    <string name="allow_proximity_sensor_title">სიახლოვის სენსორის დაშვება</string>
+    <string name="allow_proximity_sensor_summary">მოქმედების შესრულებამდე შეამოწმეთ სიახლოვის სენსორი</string>
     <string name="oneplus_advanced_settings">OnePlus პარამეტრები</string>
+    <string name="oneplus_advanced_settings_summary">თქვენი მოწყობილობის მორგებული პარამეტრები</string>
+    <string name="notification_slider_category_title">გაფრთხილების სლაიდერი</string>
     <string name="notification_slider_selection_dialog_title">მოქმედება</string>
     <string name="notification_slider_top_position">ზედა მხარე</string>
     <string name="notification_slider_middle_position">საშუალო პოზიცია</string>
@@ -137,6 +142,8 @@
     <string name="notification_slider_mode_vibrate">ვიბრირება</string>
     <string name="notification_slider_mode_none">ნორმალური</string>
     <string name="thermal_title">ოპტიმიზაციის პროფილები</string>
+    <string name="thermal_summary">შეცვალეთ თითო აპლიკაციური პროფილები ოპტიმალური მუშაობისთვის</string>
+    <string name="thermal_default">ოპტიმიზაციის გარეშე</string>
     <string name="thermal_benchmark">წარმადობა</string>
     <string name="thermal_browser">ბრაუზერი</string>
     <string name="thermal_camera">კამერა</string>
@@ -144,10 +151,25 @@
     <string name="thermal_gaming">თამაშები</string>
     <string name="thermal_streaming">სტრიმინგ აპლიკაციები</string>
     <string name="raise_to_wake_gesture_title">ჩართვა ხელში აღებისთანავე</string>
+    <string name="raise_to_wake_gesture_summary">გაიღვიძეთ მოწყობილობა პულსირების ნაცვლად</string>
     <string name="device_min_refresh_rate">განახლების უმცირესი სიჩქარე</string>
+    <string name="device_power_save_refresh_rate">დაზოგე ელემენტი ავტომატურად</string>
+    <string name="device_power_save_refresh_rate_switch">ავტომატურად შეამცირეთ განახლების სიჩქარე, როდესაც ბატარეის დამზოგი აქტიურია</string>
     <string name="refresh_rate_settings_title">ეკრანის განახლების სიხშირე</string>
+    <string name="refresh_rate_settings_summary">შეცვალეთ ეკრანის განახლების სიჩქარე</string>
+    <string name="refresh_rate_tile_title">განახლების სიჩქარე</string>
+    <string name="refresh_rate_tile_disabled">ბატარეის დამზოგი ჩართულია</string>
+    <string name="touch_control_title">სენსორული ეკრანის ოპტიმიზაცია</string>
+    <string name="touch_game_mode_title">თამაშის რეჟიმის ჩართვა</string>
     <string name="touch_game_mode_summary">გეხმარებათ რომ გააუმჯობესოს თამაშის გამოცდილება შეხების ეკრანის ოპტიმიზაციის საშუალებით</string>
     <string name="touch_response_title">პასუხი შეხებისას</string>
+    <string name="touch_response_summary">აკონტროლებს შეხებაზე რეაგირებას</string>
     <string name="touch_sensitivity_title">შეხების მგრძნობელობა</string>
+    <string name="touch_sensitivity_summary">აკონტროლებს განმეორებით შეხებისას მგრძნობელობას</string>
+    <string name="touch_resistant_title">შეხების რეზისტენტული ადგილი</string>
+    <string name="touch_resistant_summary">ამცირებს მგრძნობელობას კიდეებთან ახლოს შემთხვევითი შეხების თავიდან ასაცილებლად</string>
+    <string name="button_settings_title">ღილაკები</string>
+    <string name="home_button_extra_settings">სახლის ღილაკის ქცევის მორგება</string>
     <string name="assistant_button_action">დამხმარე ღილაკის მოქმედება</string>
+    <string name="stylus_title">სტილუს კალამი</string>
 </resources>

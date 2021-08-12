@@ -163,5 +163,6 @@
     <string name="touch_sensitivity_summary">Styrer følsomheten for gjentatte trykk</string>
     <string name="touch_resistant_title">Berøringsbestandig område</string>
     <string name="touch_resistant_summary">Reduserer følsomhet nær kantene for å forhindre utilsiktede trykk</string>
+    <string name="button_settings_title">Knapper</string>
     <string name="home_button_extra_settings">Tilapss oppførselen til hjemknappen</string>
 </resources>

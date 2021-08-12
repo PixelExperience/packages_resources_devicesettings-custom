@@ -106,4 +106,5 @@
     <string name="thermal_dialer">Klicalnik</string>
     <string name="thermal_gaming">Igre</string>
     <string name="refresh_rate_settings_title">Hitrost osveževanja zaslona</string>
+    <string name="button_settings_title">Gumbi</string>
 </resources>

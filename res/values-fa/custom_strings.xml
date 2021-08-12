@@ -151,4 +151,5 @@
     <string name="touch_response_title">پاسخدهی لمس</string>
     <string name="touch_response_summary">تنظیم پاسخدهی لمس</string>
     <string name="touch_sensitivity_title">حساسیت لمس</string>
+    <string name="button_settings_title">دکمه‌ها</string>
 </resources>

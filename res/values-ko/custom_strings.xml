@@ -170,6 +170,7 @@
     <string name="touch_sensitivity_summary">반복 터치로 민감도 조절</string>
     <string name="touch_resistant_title">터치 방지 영역</string>
     <string name="touch_resistant_summary">가장자리의 잘못된 터치를 방지하기 위해 민감도를 줄임</string>
+    <string name="button_settings_title">버튼</string>
     <string name="home_button_extra_settings">홈 버튼 동작 커스텀</string>
     <string name="assistant_button_action">도우미 키 동작</string>
     <string name="stylus_title">스타일러스 펜</string>

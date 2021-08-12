@@ -168,6 +168,7 @@
     <string name="touch_sensitivity_summary">Contrôle la sensibilité des touchers répétés</string>
     <string name="touch_resistant_title">Zone non-tactile</string>
     <string name="touch_resistant_summary">Réduit la sensibilité près des bords pour éviter des manipulations involontaires</string>
+    <string name="button_settings_title">Boutons</string>
     <string name="home_button_extra_settings">Customiser l\'action du bouton d\'accueil</string>
     <string name="assistant_button_action">Action de la touche d\'Assistant</string>
     <string name="stylus_title">Stylet</string>

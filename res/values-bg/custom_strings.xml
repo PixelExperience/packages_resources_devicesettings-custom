@@ -168,6 +168,7 @@
     <string name="touch_sensitivity_summary">Контролира чувствителността при повтарящи се докосвания</string>
     <string name="touch_resistant_title">Устойчива на допир зона</string>
     <string name="touch_resistant_summary">Намалява чувствителността в близост до краищата, за да предотврати случайни докосвания</string>
+    <string name="button_settings_title">Бутони</string>
     <string name="home_button_extra_settings">Персонализирайте поведението на началния бутон</string>
     <string name="assistant_button_action">Действие на бутон асистент</string>
     <string name="stylus_title">Стилус</string>

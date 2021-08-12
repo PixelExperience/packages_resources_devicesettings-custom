@@ -15,6 +15,7 @@
      limitations under the License.
 -->
 <resources>
+    <string name="display_title">Pantalla</string>
     <string name="dc_dimming_enable_title">Anti-parpelleig</string>
     <string name="dirac_title">Potenciador de so Mi</string>
     <string name="dirac_summary">Optimitza la qualitat d\'àudio</string>
@@ -37,8 +38,14 @@
     <string name="dirac_headset_earphone_basic">Auriculars Mi Bàsic</string>
     <string name="dirac_headset_earphone">Mi Auriculars</string>
     <string name="dirac_preset_default">Per defecte</string>
+    <string name="dirac_preset_rock">Rock</string>
+    <string name="dirac_preset_jazz">Jazz</string>
+    <string name="dirac_preset_pop">Pop</string>
     <string name="dirac_preset_classical">Clàssica</string>
+    <string name="dirac_preset_hiphop">Hip Hop</string>
+    <string name="dirac_preset_blues">Blues</string>
     <string name="dirac_preset_electronic">Electrònica</string>
+    <string name="dirac_preset_country">Country</string>
     <string name="dirac_preset_metal">Metall</string>
     <string name="popup_settings_title">Configuració de la càmera Pop-up</string>
     <string name="popup_led_title">LED de la càmera</string>
@@ -107,12 +114,16 @@
     <string name="allow_proximity_sensor_summary">Comprovar el sensor de proximitat abans d\'executar l\'acció</string>
     <string name="oneplus_advanced_settings">Configuració OnePlus</string>
     <string name="oneplus_advanced_settings_summary">Configuració personalitzada del dispositiu</string>
+    <string name="notification_slider_category_title">Alert Slider</string>
     <string name="notification_slider_selection_dialog_title">Acció</string>
     <string name="notification_slider_top_position">Posició superior</string>
     <string name="notification_slider_middle_position">Posició mitjana</string>
     <string name="notification_slider_bottom_position">Posició inferior</string>
     <string name="notification_slider_mode_total_silence">Silenci total</string>
+    <string name="notification_slider_mode_alarms_only">Només alarmes</string>
     <string name="notification_slider_mode_priority_only">Només prioritat</string>
+    <string name="notification_slider_mode_silent">Silenci</string>
+    <string name="notification_slider_mode_vibrate">Vibrar</string>
     <string name="notification_slider_mode_none">Normal</string>
     <string name="thermal_title">Perfil d\'optimització</string>
     <string name="thermal_default">Sense optimització</string>
@@ -122,5 +133,15 @@
     <string name="thermal_dialer">Marcador</string>
     <string name="thermal_gaming">Jocs</string>
     <string name="device_min_refresh_rate">Freqüència de refresc mínima</string>
+    <string name="device_power_save_refresh_rate">Estalviar bateria automàticament</string>
+    <string name="device_power_save_refresh_rate_switch">Baixar la taxa de refresc automàticament quan l\'estalvi de bateria estigui actiu</string>
     <string name="refresh_rate_settings_title">Freqüència d\'actualització de la pantalla </string>
+    <string name="refresh_rate_settings_summary">Ajustar la taxa de refresc de la pantalla</string>
+    <string name="refresh_rate_tile_title">Taxa de refresc</string>
+    <string name="refresh_rate_tile_disabled">Estalvi de bateria activat</string>
+    <string name="touch_game_mode_title">Activar el mode de joc</string>
+    <string name="touch_response_title">Resposta tàctil</string>
+    <string name="touch_sensitivity_title">Sensibilitat tàctil</string>
+    <string name="button_settings_title">Botons</string>
+    <string name="home_button_extra_settings">Personalitzar el comportament del botó d\'inici</string>
 </resources>

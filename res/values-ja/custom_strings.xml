@@ -168,6 +168,7 @@
     <string name="touch_sensitivity_summary">複数回のタップに対する感度を制御する</string>
     <string name="touch_resistant_title">タッチ感度低下範囲</string>
     <string name="touch_resistant_summary">誤動作を回避するために画面の縁の周辺の感度を低下させる</string>
+    <string name="button_settings_title">ボタン</string>
     <string name="home_button_extra_settings">ホームボタンの動作を編集</string>
     <string name="assistant_button_action">アシスタントキーのアクション</string>
     <string name="stylus_title">スタイラスペン</string>

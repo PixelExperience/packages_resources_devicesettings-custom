@@ -168,6 +168,7 @@
     <string name="touch_sensitivity_summary">Kontrollib tundlikkust korduvate puudutuste korral</string>
     <string name="touch_resistant_title">Puutekindel ala</string>
     <string name="touch_resistant_summary">Vähendab tundlikkust servade lähedal, et vältida juhuslikke puudutusi </string>
+    <string name="button_settings_title">Nupud</string>
     <string name="home_button_extra_settings">Kohandage kodunupu käitumist</string>
     <string name="assistant_button_action">Assistendi nupu toiming</string>
     <string name="stylus_title">Stylus</string>

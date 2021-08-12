@@ -168,6 +168,7 @@
     <string name="touch_sensitivity_summary">Regelt de gevoeligheid van herhaalde aanrakingen</string>
     <string name="touch_resistant_title">Aanraakgebied</string>
     <string name="touch_resistant_summary">Vermindert de gevoeligheid nabij de randen om toevallige aanrakingen te voorkomen</string>
+    <string name="button_settings_title">Knoppen</string>
     <string name="home_button_extra_settings">Gedrag thuisknop aanpassen</string>
     <string name="assistant_button_action">Assistent toets-actie</string>
     <string name="stylus_title">Styluspen</string>

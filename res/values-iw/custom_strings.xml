@@ -153,6 +153,7 @@
     <string name="raise_to_wake_gesture_title">הרם על מנת להעיר</string>
     <string name="raise_to_wake_gesture_summary">העיר את המכשיר במקום הודעה פועמת</string>
     <string name="device_min_refresh_rate">קצב רענון מסך מינימלי</string>
+    <string name="device_power_save_refresh_rate">חסוך סוללה באופן אוטומטי</string>
     <string name="device_power_save_refresh_rate_switch">הנמך אוטומטית את קצב ריענון המסך כאשר מצב חיסכון בסוללה פעיל </string>
     <string name="refresh_rate_settings_title">קצב רענון המסך:</string>
     <string name="refresh_rate_settings_summary">התאמת קצב ריענון המסך</string>
@@ -167,6 +168,7 @@
     <string name="touch_sensitivity_summary">שולט על רגישות לנגיעות חוזרות</string>
     <string name="touch_resistant_title">איזור עמיד למגע</string>
     <string name="touch_resistant_summary">מפחית את הרגישות ליד הקצוות המסך כדי למנוע נגיעות בטעות</string>
+    <string name="button_settings_title">מקשים</string>
     <string name="home_button_extra_settings">התאם אישית את התנהגות כפתור הבית</string>
     <string name="assistant_button_action">פעולת מקש העוזרת הקולית</string>
     <string name="stylus_title">עט סטיילוס</string>

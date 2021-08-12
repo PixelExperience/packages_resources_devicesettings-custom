@@ -16,4 +16,5 @@
 -->
 <resources>
     <string name="notification_slider_mode_none">Normaal</string>
+    <string name="button_settings_title">Knoppies</string>
 </resources>

@@ -168,6 +168,7 @@
     <string name="touch_sensitivity_summary">Təkrarlanan toxunuşlar üçün həssaslığa nəzarət edər</string>
     <string name="touch_resistant_title">Toxunuşa davamlı sahə</string>
     <string name="touch_resistant_summary">Təsadüfi toxunuşların qarşısını almaq üçün kənarlara yaxın sahələrin həssaslığını azaldar</string>
+    <string name="button_settings_title">Düymәlәr</string>
     <string name="home_button_extra_settings">Əsas ekran düymə davranışını özəlləşdir</string>
     <string name="assistant_button_action">Assistant açar hərəkəti</string>
     <string name="stylus_title">Toxunaqlı Qələm</string>

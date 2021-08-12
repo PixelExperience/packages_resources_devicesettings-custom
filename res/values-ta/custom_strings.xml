@@ -122,4 +122,6 @@
     <string name="thermal_browser">உலாவி</string>
     <string name="thermal_camera">கேமரா</string>
     <string name="thermal_gaming">ஆட்டங்கள்</string>
+    <string name="refresh_rate_settings_title">திறை புதுப்பிப்பு விகிதம்</string>
+    <string name="button_settings_title">பட்டன்கள்</string>
 </resources>

@@ -168,6 +168,7 @@
     <string name="touch_sensitivity_summary">Mengontrol sensitivitas untuk ketukan berulang</string>
     <string name="touch_resistant_title">Area tahan sentuh</string>
     <string name="touch_resistant_summary">Mengurangi kepekaan di dekat tepi untuk mencegah sentuhan yang tidak disengaja</string>
+    <string name="button_settings_title">Tombol</string>
     <string name="home_button_extra_settings">Sesuaikan perilaku tombol beranda</string>
     <string name="assistant_button_action">Tindakan tombol asisten</string>
     <string name="stylus_title">Pena Stylus</string>

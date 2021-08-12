@@ -168,6 +168,7 @@
     <string name="touch_sensitivity_summary">Ελέγχει την ευαισθησία για επαναλαμβανόμενα πατήματα</string>
     <string name="touch_resistant_title">Περιοχή ανθεκτική στην αφή</string>
     <string name="touch_resistant_summary">Μειώνει την ευαισθησία κοντά στα άκρα για να αποτρέψει τυχαία αγγίγματα</string>
+    <string name="button_settings_title">Πλήκτρα</string>
     <string name="home_button_extra_settings">Προσαρμόστε τη λειτουργία του κουμπιού αρχικής σελίδας</string>
     <string name="assistant_button_action">Κουμπί ενέργειας Βοηθού</string>
     <string name="stylus_title">Stylus Pen</string>

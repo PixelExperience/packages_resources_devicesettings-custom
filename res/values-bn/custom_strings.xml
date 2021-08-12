@@ -163,5 +163,6 @@
     <string name="touch_sensitivity_summary">বারবার ট্যাপ করার সেনসিটিভিটি নিয়ন্ত্রণ করে</string>
     <string name="touch_resistant_title">টাচ-রেজিস্ট্যান্ট অঞ্চল</string>
     <string name="touch_resistant_summary">দুর্ঘটনাজনিত টাচ প্রতিরোধ করতে প্রান্তগুলির সেনসিটিভিটি কমায়</string>
+    <string name="button_settings_title">বাটন</string>
     <string name="home_button_extra_settings">হোম বাটনের আচরণটি কাস্টমাইজ করুন</string>
 </resources>

@@ -148,6 +148,7 @@
     <string name="refresh_rate_settings_summary">Koreguokite ekrano atnaujinimo dažnį</string>
     <string name="refresh_rate_tile_title">Atnaujinimo dažnis </string>
     <string name="refresh_rate_tile_disabled">Įjungta akumuliatoriaus tausojimo priemonė </string>
+    <string name="button_settings_title">Mygtukai</string>
     <string name="assistant_button_action">Pagalbinio mygtuko valdymas</string>
     <string name="stylus_title">Rašiklis</string>
 </resources>

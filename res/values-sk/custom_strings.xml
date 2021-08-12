@@ -164,6 +164,7 @@
     <string name="touch_sensitivity_summary">Ovláda citlivosť opakovaných kliknutí</string>
     <string name="touch_resistant_title">Oblasť odolná proti dotyku</string>
     <string name="touch_resistant_summary">Znižuje citlivosť blízko okrajov, aby sa zabránilo náhodným dotykom</string>
+    <string name="button_settings_title">Tlačidlá</string>
     <string name="home_button_extra_settings">Nastaviť správanie tlačidla Domov</string>
     <string name="assistant_button_action">Akcia pre tlačidlo assistenta</string>
     <string name="stylus_title">Stylusové Pero</string>

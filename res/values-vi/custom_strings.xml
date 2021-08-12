@@ -153,8 +153,12 @@
     <string name="raise_to_wake_gesture_title">Nâng cao để đánh thức</string>
     <string name="raise_to_wake_gesture_summary">Đánh thức thiết bị thay vì thông báo rung</string>
     <string name="device_min_refresh_rate">Tốc độ làm mới tối thiểu</string>
-    <string name="refresh_rate_settings_title">Tốc độ làm tươi màn hình</string>
+    <string name="device_power_save_refresh_rate">Tự động tiết kiệm pin</string>
+    <string name="device_power_save_refresh_rate_switch">Tự động giảm độ làm mới màn hình khi trình tiết kiệm pin hoạt động</string>
+    <string name="refresh_rate_settings_title">Tốc độ làm mới màn hình</string>
     <string name="refresh_rate_settings_summary">Chỉnh tốc độ làm tươi màn hình</string>
+    <string name="refresh_rate_tile_title">Độ làm mới Màn hình</string>
+    <string name="refresh_rate_tile_disabled">Trình tiết kiệm Pin đã được bật</string>
     <string name="touch_control_title">Tối ưu hóa màn hình cảm ứng</string>
     <string name="touch_game_mode_title">Bật chế độ chơi game</string>
     <string name="touch_game_mode_summary">Giúp cải thiện trải nghiệm chơi game bằng cách tối ưu hóa màn hình cảm ứng</string>
@@ -165,6 +169,7 @@
     <string name="touch_sensitivity_summary">Kiểm soát độ nhạy cho các lần chạm lặp lại</string>
     <string name="touch_resistant_title">Khu vực chống cảm ứng</string>
     <string name="touch_resistant_summary">Giảm độ nhạy gần các cạnh để tránh chạm nhầm</string>
+    <string name="button_settings_title">Nút bấm</string>
     <string name="home_button_extra_settings">VIỆT
 Tùy chỉnh hành vi của nút trang chủ</string>
     <string name="assistant_button_action">Hành động phím Trợ lý</string>

@@ -71,4 +71,5 @@
     <string name="popup_camera_front_failed">अघाडिको क्यामेरा खोल्न सकिएन। फेरि प्रयास गर्नुहोस्</string>
     <string name="long_tap_title">लामो समय दबाउने</string>
     <string name="refresh_rate_settings_title">स्क्रिन रिफ्रेस रेट</string>
+    <string name="button_settings_title">बटनहरू</string>
 </resources>

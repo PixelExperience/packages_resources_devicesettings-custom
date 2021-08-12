@@ -60,4 +60,5 @@
     <string name="stop_operate_camera_frequently">Siz juda tez-tex kamerani ochmoqdasiz.</string>
     <string name="takeback_camera_front_failed">Oldingi kamerani yopib bo‘lmadi. Qaytadan ko‘ring.</string>
     <string name="popup_camera_front_failed">Oldingi kamerani ochib bo‘lmadi. Qaytadan ko‘ring.</string>
+    <string name="button_settings_title">Tugmalar</string>
 </resources>

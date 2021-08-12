@@ -43,4 +43,5 @@
     <string name="long_tap_dlg_title">Long tap කිරීමේදී ක්‍රියාව</string>
     <string name="oneplus_advanced_settings">OnePlus සැකසුම්</string>
     <string name="oneplus_advanced_settings_summary">අභිරුචිය අනුව ඔබගේ උපාංගයේ සැකසුම්</string>
+    <string name="button_settings_title">බොත්තම</string>
 </resources>

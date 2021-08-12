@@ -168,6 +168,7 @@
     <string name="touch_sensitivity_summary">Ovládá citlivost opakovaných klepnutí</string>
     <string name="touch_resistant_title">Oblast odolná proti dotyku</string>
     <string name="touch_resistant_summary">Snižuje citlivost blízko okrajů, aby se zabránilo náhodným dotykům</string>
+    <string name="button_settings_title">Tlačítka</string>
     <string name="home_button_extra_settings">Přizpůsobit chování tlačítka Domů</string>
     <string name="assistant_button_action">Akce tlačítka Asistent</string>
     <string name="stylus_title">Dotykové pero</string>

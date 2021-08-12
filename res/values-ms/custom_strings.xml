@@ -163,5 +163,6 @@
     <string name="touch_sensitivity_summary">Mengawal kepekaan untuk mengetuk berulang</string>
     <string name="touch_resistant_title">Area tahan sentuh</string>
     <string name="touch_resistant_summary">Mengurangkan kepekaan di tepi untuk mengelakkan sentuhan tidak sengaja</string>
+    <string name="button_settings_title">Butang</string>
     <string name="home_button_extra_settings">Sesuaikan tingkah laku butang rumah</string>
 </resources>

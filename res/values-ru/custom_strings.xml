@@ -168,6 +168,7 @@
     <string name="touch_sensitivity_summary">Контролирует чувствительность при повторяющихся нажатиях</string>
     <string name="touch_resistant_title">Область, устойчивая к прикосновениям</string>
     <string name="touch_resistant_summary">Снижает чувствительность по краям для предотвращения случайных нажатий</string>
+    <string name="button_settings_title">Кнопки</string>
     <string name="home_button_extra_settings">Настроить поведение кнопки \"Домой\"</string>
     <string name="assistant_button_action">Действие кнопки ассистента</string>
     <string name="stylus_title">Стилус</string>

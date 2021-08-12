@@ -153,6 +153,7 @@
     <string name="raise_to_wake_gesture_title">Ridică dispozitivul pentru pornire.</string>
     <string name="raise_to_wake_gesture_summary">Treziți dispozitivul în loc de notificare pulsantă</string>
     <string name="device_min_refresh_rate">Rata minimă de reîmprospătare</string>
+    <string name="device_power_save_refresh_rate">Reducere automata a consumului de baterie</string>
     <string name="refresh_rate_settings_title">Rata de actualizare a ecranului</string>
     <string name="refresh_rate_settings_summary">Modificarea frecvenței ecranului</string>
     <string name="touch_control_title">Optimizarea ecranului tactil</string>
@@ -164,6 +165,7 @@
     <string name="touch_sensitivity_summary">Controlul sensibilității la antigeri repetate</string>
     <string name="touch_resistant_title">Zona rezistentă la atingere</string>
     <string name="touch_resistant_summary">Reduce sensibilitatea în apropierea marginilor pentru a preveni atingerile accidentale</string>
+    <string name="button_settings_title">Butoane</string>
     <string name="home_button_extra_settings">Personalizați comportamentul butonului de pornire</string>
     <string name="assistant_button_action">Asistent acțiune cheie</string>
     <string name="stylus_title">Stylus</string>

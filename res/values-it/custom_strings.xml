@@ -169,6 +169,7 @@ Se l\'altoparlante è bloccato pesantemente, eseguire questa funzione 2-5 volte 
     <string name="touch_sensitivity_summary">Controlla la sensibilità dei tocchi ripetuti</string>
     <string name="touch_resistant_title">Area non-touch</string>
     <string name="touch_resistant_summary">Riduce la sensibilità vicino ai bordi per prevenire tocchi accidentali</string>
+    <string name="button_settings_title">Tasti</string>
     <string name="home_button_extra_settings">Personalizza il comportamento del tasto home</string>
     <string name="assistant_button_action">Azione chiave dell\'assistente</string>
     <string name="stylus_title">Penne stilografiche</string>

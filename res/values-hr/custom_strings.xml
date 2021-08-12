@@ -117,4 +117,5 @@
     <string name="thermal_streaming">Aplikacije za strimovanje</string>
     <string name="device_min_refresh_rate">Minimalna brzina osvježavanja</string>
     <string name="refresh_rate_settings_title">Brzina osvježavanja zaslona</string>
+    <string name="button_settings_title">Tipke</string>
 </resources>

@@ -168,6 +168,7 @@
     <string name="touch_sensitivity_summary">Controla a sensibilidade dos toques repetitivos</string>
     <string name="touch_resistant_title">Área resistente ao toque</string>
     <string name="touch_resistant_summary">Reduz a sensibilidade juntos às margens do ecrã para impedir toques acidentais</string>
+    <string name="button_settings_title">Botões</string>
     <string name="home_button_extra_settings">Personalizar comportamento do botão Página inicial</string>
     <string name="assistant_button_action">Ação da tecla Assistente</string>
     <string name="stylus_title">Estilo da caneta</string>

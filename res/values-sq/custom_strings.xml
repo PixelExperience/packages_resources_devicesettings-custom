@@ -91,4 +91,5 @@
     <string name="double_tap_dlg_title">Zgjidh aksionin për prekje të dyherëshme</string>
     <string name="long_tap_dlg_title">Zgjedh aksionet për prekje të gjatë</string>
     <string name="notification_slider_mode_none">Normal</string>
+    <string name="button_settings_title">Butonat</string>
 </resources>

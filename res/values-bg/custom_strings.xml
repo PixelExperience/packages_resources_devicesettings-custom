@@ -130,6 +130,8 @@
     <string name="allow_proximity_sensor_summary">Проверете сензора за близост, преди да извършите действието</string>
     <string name="oneplus_advanced_settings">OnePlus настройки</string>
     <string name="oneplus_advanced_settings_summary">Потребителски настройки за устройството ви</string>
+    <string name="panel_modes_settings_title">Режими на панела</string>
+    <string name="panel_modes_settings_summary">Изберете предварително направено калибриране на дисплея</string>
     <string name="notification_slider_category_title">Допълнителни бутони</string>
     <string name="notification_slider_selection_dialog_title">Действие</string>
     <string name="notification_slider_top_position">Най-горна позиция</string>
@@ -169,7 +171,9 @@
     <string name="touch_resistant_title">Устойчива на допир зона</string>
     <string name="touch_resistant_summary">Намалява чувствителността в близост до краищата, за да предотврати случайни докосвания</string>
     <string name="button_settings_title">Бутони</string>
+    <string name="button_swap_summary">Разменете бутоните за навигация</string>
     <string name="home_button_extra_settings">Персонализирайте поведението на началния бутон</string>
     <string name="assistant_button_action">Действие на бутон асистент</string>
     <string name="stylus_title">Стилус</string>
+    <string name="hbm_title">Режим висока яркост </string>
 </resources>

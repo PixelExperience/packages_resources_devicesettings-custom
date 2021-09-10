@@ -130,6 +130,8 @@
     <string name="allow_proximity_sensor_summary">執行動作前檢查距離感應器</string>
     <string name="oneplus_advanced_settings">OnePlus 設定</string>
     <string name="oneplus_advanced_settings_summary">您裝置的自訂設定</string>
+    <string name="panel_modes_settings_title">面板模式</string>
+    <string name="panel_modes_settings_summary">選擇預先製作的顯示校正</string>
     <string name="notification_slider_category_title">三段式開關</string>
     <string name="notification_slider_selection_dialog_title">動作</string>
     <string name="notification_slider_top_position">頂部位置</string>
@@ -169,7 +171,9 @@
     <string name="touch_resistant_title">防止接觸區域 </string>
     <string name="touch_resistant_summary">降低邊緣附近的敏感度，以防止意外觸摸</string>
     <string name="button_settings_title">按鍵</string>
+    <string name="button_swap_summary">交換導覽列按鍵</string>
     <string name="home_button_extra_settings">自定義主頁按鈕行為</string>
     <string name="assistant_button_action">助理鍵動作</string>
     <string name="stylus_title">觸控筆</string>
+    <string name="hbm_title">高亮度模式</string>
 </resources>

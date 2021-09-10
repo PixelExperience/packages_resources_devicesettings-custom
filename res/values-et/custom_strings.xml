@@ -130,6 +130,8 @@
     <string name="allow_proximity_sensor_summary">Kontrollige lähedussensorit enne tegevuse sooritamist</string>
     <string name="oneplus_advanced_settings">OnePlus\'i seaded</string>
     <string name="oneplus_advanced_settings_summary">Kohandatud seaded sinu seadmele</string>
+    <string name="panel_modes_settings_title">Paneeli režiimid</string>
+    <string name="panel_modes_settings_summary">Valige eelseadistatud ekraani kalibreerimine</string>
     <string name="notification_slider_category_title">Teatise lüliti</string>
     <string name="notification_slider_selection_dialog_title">Tegevus</string>
     <string name="notification_slider_top_position">Ülemine positsioon</string>
@@ -169,7 +171,9 @@
     <string name="touch_resistant_title">Puutekindel ala</string>
     <string name="touch_resistant_summary">Vähendab tundlikkust servade lähedal, et vältida juhuslikke puudutusi </string>
     <string name="button_settings_title">Nupud</string>
+    <string name="button_swap_summary">Vahetage navigeerimisnuppe</string>
     <string name="home_button_extra_settings">Kohandage kodunupu käitumist</string>
     <string name="assistant_button_action">Assistendi nupu toiming</string>
     <string name="stylus_title">Stylus</string>
+    <string name="hbm_title">Kõrge heleduse režiim</string>
 </resources>

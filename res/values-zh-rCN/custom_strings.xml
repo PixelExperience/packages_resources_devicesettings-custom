@@ -23,13 +23,13 @@
     <string name="dirac_summary">优化音质</string>
     <string name="dirac_headset_title">耳机类型设置</string>
     <string name="dirac_preset_title">请选择预设效果</string>
-    <string name="dirac_hifi_title">使用Hi-Fi高保真播放</string>
+    <string name="dirac_hifi_title">使用 Hi-Fi 高保真播放</string>
     <string name="dirac_hifi_summary">高度还原音源信息，原汁原味</string>
     <string name="dirac_hifi_enable_title">启用 HI-FI</string>
     <string name="dirac_headset_default">默认​​​​​</string>
     <string name="dirac_headset_earbuds">小米耳塞式</string>
-    <string name="dirac_headset_in_ear_2013">小米圈铁(2013)</string>
-    <string name="dirac_headset_piston_1">小米活塞1</string>
+    <string name="dirac_headset_in_ear_2013">小米圈铁 (2013)</string>
+    <string name="dirac_headset_piston_1">小米活塞 1</string>
     <string name="dirac_headset_general">通用</string>
     <string name="dirac_headset_general_inear">通用入耳式</string>
     <string name="dirac_headset_piston_basic">小米活塞简装版</string>
@@ -40,12 +40,12 @@
     <string name="dirac_headset_piston_color">小米活塞炫彩版</string>
     <string name="dirac_headset_in_ear">小米圈铁</string>
     <string name="dirac_headset_capsule">小米胶囊</string>
-    <string name="dirac_headset_in_ear_pro">小米圈铁Pro</string>
+    <string name="dirac_headset_in_ear_pro">小米圈铁 Pro</string>
     <string name="dirac_headset_comfort">小米头戴轻松版</string>
     <string name="dirac_headset_reduction_noise">小米降噪 typeC</string>
     <string name="dirac_headset_cancelling">小米降噪 3.5mm</string>
     <string name="dirac_headset_half_in_ear">小米半入耳式</string>
-    <string name="dirac_headset_in_ear2">小米圈铁2</string>
+    <string name="dirac_headset_in_ear2">小米圈铁 2</string>
     <string name="dirac_headset_earphone_basic">小米耳机基本款</string>
     <string name="dirac_headset_earphone">小米耳机</string>
     <string name="dirac_preset_default">默认</string>
@@ -81,8 +81,8 @@
     <string name="popup_camera_front_failed">前置相机弹出失败，请重试</string>
     <string name="popup_camera_proximity_obstructed">将手从距离传感器移开以打开前置摄像头</string>
     <string name="clear_speaker_title">清理扬声器</string>
-    <string name="clear_speaker_summary">播放一段约30秒的音频来清理扬声器</string>
-    <string name="clear_speaker_description">当扬声器被少量灰尘覆盖时，将音量调至最大运行1-2次。\n\n当扬声器充满灰尘时将扬声器朝下轻轻摇晃您的设备，运行2-5次。</string>
+    <string name="clear_speaker_summary">播放一段约 30 秒的音频来清理扬声器</string>
+    <string name="clear_speaker_description">当扬声器被少量灰尘覆盖时，将音量调至最大运行 1-2 次。\n\n当扬声器充满灰尘时将扬声器朝下轻轻摇晃您的设备，运行 2-5 次。</string>
     <string name="moto_actions_title">Moto 操作</string>
     <string name="device_gestures_title">设备手势</string>
     <string name="device_gestures_summary">管理设备手势</string>
@@ -112,7 +112,7 @@
     <string name="action_browser">打开浏览器</string>
     <string name="action_dialer">打开拨号器</string>
     <string name="action_email">打开电子邮件应用</string>
-    <string name="action_messages">打开消息应用</string>
+    <string name="action_messages">打开短信应用</string>
     <string name="screen_off_gestures_manage_summary">管理息屏手势</string>
     <string name="swipe_left_dlg_title">选择向左滑动行为</string>
     <string name="swipe_right_dlg_title">选择向右滑动行为</string>
@@ -130,6 +130,8 @@
     <string name="allow_proximity_sensor_summary">在执行操作前检查距离传感器</string>
     <string name="oneplus_advanced_settings">一加设置</string>
     <string name="oneplus_advanced_settings_summary">设备自定义设置</string>
+    <string name="panel_modes_settings_title">平板模式</string>
+    <string name="panel_modes_settings_summary">选择预设显示校准</string>
     <string name="notification_slider_category_title">三段式开关</string>
     <string name="notification_slider_selection_dialog_title">操作</string>
     <string name="notification_slider_top_position">顶部位置</string>
@@ -169,7 +171,9 @@
     <string name="touch_resistant_title">防误触区域</string>
     <string name="touch_resistant_summary">降低屏幕边缘附近的灵敏度以防止误触</string>
     <string name="button_settings_title">按键</string>
+    <string name="button_swap_summary">交换导航按钮</string>
     <string name="home_button_extra_settings">自定义主屏幕键功能</string>
     <string name="assistant_button_action">助理关键操作</string>
     <string name="stylus_title">触控笔</string>
+    <string name="hbm_title">高亮度模式</string>
 </resources>

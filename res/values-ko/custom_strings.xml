@@ -132,6 +132,8 @@
     <string name="allow_proximity_sensor_summary">작업을 수행하기 전에 근접 센서 확인</string>
     <string name="oneplus_advanced_settings">OnePlus 설정</string>
     <string name="oneplus_advanced_settings_summary">기기의 맞춤 설정</string>
+    <string name="panel_modes_settings_title">패널 모드</string>
+    <string name="panel_modes_settings_summary">사전 제작된 화면 보정 선택</string>
     <string name="notification_slider_category_title">경고 슬라이더</string>
     <string name="notification_slider_selection_dialog_title">작업</string>
     <string name="notification_slider_top_position">상단 위치</string>
@@ -171,7 +173,9 @@
     <string name="touch_resistant_title">터치 방지 영역</string>
     <string name="touch_resistant_summary">가장자리의 잘못된 터치를 방지하기 위해 민감도를 줄임</string>
     <string name="button_settings_title">버튼</string>
+    <string name="button_swap_summary">내비게이션 버튼 맞바꿈</string>
     <string name="home_button_extra_settings">홈 버튼 동작 커스텀</string>
     <string name="assistant_button_action">도우미 키 동작</string>
     <string name="stylus_title">스타일러스 펜</string>
+    <string name="hbm_title">최대 밝기 모드</string>
 </resources>

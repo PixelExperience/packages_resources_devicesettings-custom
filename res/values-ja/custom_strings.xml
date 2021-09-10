@@ -23,9 +23,9 @@
     <string name="dirac_summary">オーディオ品質を最適化</string>
     <string name="dirac_headset_title">ヘッドフォンの種類を選択</string>
     <string name="dirac_preset_title">プリセットを選択してください</string>
-    <string name="dirac_hifi_title">Hi-Fiオーディオ</string>
+    <string name="dirac_hifi_title">Hi-Fi オーディオ</string>
     <string name="dirac_hifi_summary">ノイズやひずみを低減し、オーディオ品質を向上させる</string>
-    <string name="dirac_hifi_enable_title">HI-FI の有効化</string>
+    <string name="dirac_hifi_enable_title">Hi-Fi の有効化</string>
     <string name="dirac_headset_default">デフォルト</string>
     <string name="dirac_headset_earbuds">Mi イヤーバッド</string>
     <string name="dirac_headset_in_ear_2013">Mi インイヤー (2013)</string>
@@ -130,6 +130,8 @@
     <string name="allow_proximity_sensor_summary">アクションを実行する前に近接センサーを確認する</string>
     <string name="oneplus_advanced_settings">OnePlus 設定</string>
     <string name="oneplus_advanced_settings_summary">お使いの端末のカスタム設定</string>
+    <string name="panel_modes_settings_title">パネルモード</string>
+    <string name="panel_modes_settings_summary">事前に作られたディスプレイキャリブレーションを選択する</string>
     <string name="notification_slider_category_title">Alert Slider</string>
     <string name="notification_slider_selection_dialog_title">アクション</string>
     <string name="notification_slider_top_position">上部</string>
@@ -169,7 +171,9 @@
     <string name="touch_resistant_title">タッチ感度低下範囲</string>
     <string name="touch_resistant_summary">誤動作を回避するために画面の縁の周辺の感度を低下させる</string>
     <string name="button_settings_title">ボタン</string>
+    <string name="button_swap_summary">ナビゲーションボタンの入れ替え</string>
     <string name="home_button_extra_settings">ホームボタンの動作を編集</string>
     <string name="assistant_button_action">アシスタントキーのアクション</string>
     <string name="stylus_title">スタイラスペン</string>
+    <string name="hbm_title">高輝度モード</string>
 </resources>

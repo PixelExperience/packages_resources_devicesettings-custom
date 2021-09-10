@@ -130,6 +130,8 @@
     <string name="allow_proximity_sensor_summary">Periksa sensor jarak sebelum melakukan aksi</string>
     <string name="oneplus_advanced_settings">Setelan OnePlus</string>
     <string name="oneplus_advanced_settings_summary">Setelan kustom untuk perangkat Anda</string>
+    <string name="panel_modes_settings_title">Mode Panel</string>
+    <string name="panel_modes_settings_summary">Pilih kalibrasi tampilan yang dibuat sebelumnya</string>
     <string name="notification_slider_category_title">Slider pengingat</string>
     <string name="notification_slider_selection_dialog_title">Aksi</string>
     <string name="notification_slider_top_position">Posisi atas</string>
@@ -169,7 +171,9 @@
     <string name="touch_resistant_title">Area tahan sentuh</string>
     <string name="touch_resistant_summary">Mengurangi kepekaan di dekat tepi untuk mencegah sentuhan yang tidak disengaja</string>
     <string name="button_settings_title">Tombol</string>
+    <string name="button_swap_summary">Tukar Tombol Navigasi</string>
     <string name="home_button_extra_settings">Sesuaikan perilaku tombol beranda</string>
     <string name="assistant_button_action">Tindakan tombol asisten</string>
     <string name="stylus_title">Pena Stylus</string>
+    <string name="hbm_title">Mode Kecerahan Tinggi</string>
 </resources>

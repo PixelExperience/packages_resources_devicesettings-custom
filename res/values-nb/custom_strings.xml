@@ -154,6 +154,7 @@
     <string name="raise_to_wake_gesture_summary">Vekk enheten i stedet for å pulsere varsel</string>
     <string name="device_min_refresh_rate">Minste oppdateringsfrekvens</string>
     <string name="refresh_rate_settings_title">Skjermoppdateringsfrekvens</string>
+    <string name="refresh_rate_tile_title">Oppdateringsintervall</string>
     <string name="touch_control_title">Berøringsskjerm-optimaliseringer</string>
     <string name="touch_game_mode_title">Aktiver spillmodus</string>
     <string name="touch_game_mode_summary">Hjelper til å forbedre spilloplevelsen ved å optimalisere berøringsskjermen</string>

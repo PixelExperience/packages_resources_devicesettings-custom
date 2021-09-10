@@ -72,7 +72,7 @@
     <string name="popup_camera_tip">Chú ý</string>
     <string name="popup_camera_takeback_failed_times_calibrate">Không thể đóng máy ảnh trước nhiều lần. Thử hiệu chỉnh máy ảnh.</string>
     <string name="popup_camera_popup_failed_times_calibrate">Không thể mở máy ảnh trước nhiều lần. Thử hiệu chỉnh máy ảnh.</string>
-    <string name="popup_camera_calibrate_running">Camera phía trước không thể được sử dụng trong quá trình hiệu chuẩn.</string>
+    <string name="popup_camera_calibrate_running">Camera trước không dùng được trong quá trình hiệu chỉnh.</string>
     <string name="popup_camera_calibrate_now">Hiệu chỉnh</string>
     <string name="popup_camera_calibrate_failed">Không thể hiệu chỉnh. Mang thiết bị của bạn lại gần Mi Home để phân tích vấn đề</string>
     <string name="popup_camera_calibrate_success">Hiệu chỉnh thành công. Giờ bạn có thể mở máy ảnh trước.</string>
@@ -130,6 +130,8 @@
     <string name="allow_proximity_sensor_summary">Kiểm tra cảm biến tiệm cận trước khi thực hiện hành động</string>
     <string name="oneplus_advanced_settings">Thiết đặt OnePlus</string>
     <string name="oneplus_advanced_settings_summary">Thiết lập tuỳ chỉnh cho thiết bị của bạn</string>
+    <string name="panel_modes_settings_title">Chế độ bảng</string>
+    <string name="panel_modes_settings_summary">Chọn một hiệu chỉnh màn hình được làm sẵn</string>
     <string name="notification_slider_category_title">Thanh trượt cảnh báo</string>
     <string name="notification_slider_selection_dialog_title">Hành động</string>
     <string name="notification_slider_top_position">Vị trí trên cùng</string>
@@ -170,8 +172,10 @@
     <string name="touch_resistant_title">Khu vực chống cảm ứng</string>
     <string name="touch_resistant_summary">Giảm độ nhạy gần các cạnh để tránh chạm nhầm</string>
     <string name="button_settings_title">Nút bấm</string>
+    <string name="button_swap_summary">Hoán đổi nút điều hướng</string>
     <string name="home_button_extra_settings">VIỆT
 Tùy chỉnh hành vi của nút trang chủ</string>
     <string name="assistant_button_action">Hành động phím Trợ lý</string>
     <string name="stylus_title">Bút cảm ứng</string>
+    <string name="hbm_title">Chế độ ánh sáng cao</string>
 </resources>

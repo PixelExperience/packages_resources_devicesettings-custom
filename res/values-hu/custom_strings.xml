@@ -130,6 +130,8 @@
     <string name="allow_proximity_sensor_summary">A művelet végrehajtása előtt ellenőrizze a közelségérzékelőt</string>
     <string name="oneplus_advanced_settings">OnePlus beállítások</string>
     <string name="oneplus_advanced_settings_summary">Haladó beállítások az Ön készülékéhez</string>
+    <string name="panel_modes_settings_title">Panelmódok</string>
+    <string name="panel_modes_settings_summary">Választhat az előre beállított képernyőkalibrációk közül</string>
     <string name="notification_slider_category_title">Csúszka-figyelmeztetés</string>
     <string name="notification_slider_selection_dialog_title">Művelet</string>
     <string name="notification_slider_top_position">Felső pozíció</string>
@@ -146,7 +148,7 @@
     <string name="thermal_default">Nincs optimalizálás</string>
     <string name="thermal_benchmark">Teljesítménycentrikus</string>
     <string name="thermal_browser">Böngészéshez</string>
-    <string name="thermal_camera">Kamerához</string>
+    <string name="thermal_camera">Kamera</string>
     <string name="thermal_dialer">Tárcsázóhoz</string>
     <string name="thermal_gaming">Játékokhoz</string>
     <string name="thermal_streaming">Sztreamelő alkalmazáshoz</string>
@@ -169,7 +171,9 @@
     <string name="touch_resistant_title">Az érintés-érzékeny terület</string>
     <string name="touch_resistant_summary">Csökkenti az érzékenységet a széleken, hogy megakadályozza a véletlen érintéseket</string>
     <string name="button_settings_title">Gombok</string>
+    <string name="button_swap_summary">Navigációs gombok felcserélése</string>
     <string name="home_button_extra_settings">A Home-gomb viselkedése</string>
     <string name="assistant_button_action">A segédgomb művelete</string>
     <string name="stylus_title">Stylus toll</string>
+    <string name="hbm_title">Magas fényerejű mód</string>
 </resources>

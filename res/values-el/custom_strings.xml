@@ -130,6 +130,8 @@
     <string name="allow_proximity_sensor_summary">Ελέγξτε τον αισθητήρα εγγύτητας πριν από την εκτέλεση της δράσης</string>
     <string name="oneplus_advanced_settings">Ρυθμίσεις OnePlus</string>
     <string name="oneplus_advanced_settings_summary">Προσαρμοσμένες ρυθμίσεις για την συσκευή σας</string>
+    <string name="panel_modes_settings_title">Στυλ πάνελ</string>
+    <string name="panel_modes_settings_summary">Επιλέξτε μια προκαθορισμένη ρύθμιση οθόνης</string>
     <string name="notification_slider_category_title">Διακόπτης ειδοποιήσεων</string>
     <string name="notification_slider_selection_dialog_title">Ενέργεια</string>
     <string name="notification_slider_top_position">Πάνω θέση</string>
@@ -169,7 +171,9 @@
     <string name="touch_resistant_title">Περιοχή ανθεκτική στην αφή</string>
     <string name="touch_resistant_summary">Μειώνει την ευαισθησία κοντά στα άκρα για να αποτρέψει τυχαία αγγίγματα</string>
     <string name="button_settings_title">Πλήκτρα</string>
+    <string name="button_swap_summary">Εναλλαγή Πλήκτρων Πλοήγησης</string>
     <string name="home_button_extra_settings">Προσαρμόστε τη λειτουργία του κουμπιού αρχικής σελίδας</string>
     <string name="assistant_button_action">Κουμπί ενέργειας Βοηθού</string>
     <string name="stylus_title">Stylus Pen</string>
+    <string name="hbm_title">Λειτουργία Υψηλής Φωτεινότητας</string>
 </resources>

@@ -130,6 +130,8 @@
     <string name="allow_proximity_sensor_summary">Comprobar el sensor de proximidad antes de realizar la acción</string>
     <string name="oneplus_advanced_settings">Configuración OnePlus</string>
     <string name="oneplus_advanced_settings_summary">Configuración personalizada del dispositivo</string>
+    <string name="panel_modes_settings_title">Modos de panel</string>
+    <string name="panel_modes_settings_summary">Seleccione una calibración de pantalla ya creada</string>
     <string name="notification_slider_category_title">Alert Slider</string>
     <string name="notification_slider_selection_dialog_title">Acción</string>
     <string name="notification_slider_top_position">Posición superior</string>
@@ -169,7 +171,9 @@
     <string name="touch_resistant_title">Área resistente al tacto</string>
     <string name="touch_resistant_summary">Reduce la sensibilidad cerca de los bordes para evitar toques accidentales.</string>
     <string name="button_settings_title">Botones</string>
+    <string name="button_swap_summary">Intercambiar los botones de navegación</string>
     <string name="home_button_extra_settings">Personalizar el comportamiento del botón de inicio</string>
     <string name="assistant_button_action">Botón del asistente </string>
     <string name="stylus_title">Lapiz óptico</string>
+    <string name="hbm_title">Modo de alto brillo</string>
 </resources>

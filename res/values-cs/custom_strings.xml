@@ -130,6 +130,8 @@
     <string name="allow_proximity_sensor_summary">Zkontrolovat senzor přiblížení před provedením akce</string>
     <string name="oneplus_advanced_settings">OnePlus nastavení</string>
     <string name="oneplus_advanced_settings_summary">Vlastní nastavení pro vaše zařízení</string>
+    <string name="panel_modes_settings_title">Režimy panelu</string>
+    <string name="panel_modes_settings_summary">Výběr předem připravené kalibrace displeje</string>
     <string name="notification_slider_category_title">Posuvník oznámení</string>
     <string name="notification_slider_selection_dialog_title">Akce</string>
     <string name="notification_slider_top_position">Pozice nahoře</string>
@@ -169,7 +171,9 @@
     <string name="touch_resistant_title">Oblast odolná proti dotyku</string>
     <string name="touch_resistant_summary">Snižuje citlivost blízko okrajů, aby se zabránilo náhodným dotykům</string>
     <string name="button_settings_title">Tlačítka</string>
+    <string name="button_swap_summary">Prohození navigačních tlačítek</string>
     <string name="home_button_extra_settings">Přizpůsobit chování tlačítka Domů</string>
     <string name="assistant_button_action">Akce tlačítka Asistent</string>
     <string name="stylus_title">Dotykové pero</string>
+    <string name="hbm_title">Režim vysokého jasu</string>
 </resources>

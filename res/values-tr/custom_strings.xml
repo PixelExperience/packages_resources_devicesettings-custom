@@ -130,6 +130,8 @@
     <string name="allow_proximity_sensor_summary">İşlemi gerçekleştirmeden önce yakınlık sensörünü kontrol eder</string>
     <string name="oneplus_advanced_settings">OnePlus Ayarları</string>
     <string name="oneplus_advanced_settings_summary">Cihazınız için özelleştirilmiş ayarlar</string>
+    <string name="panel_modes_settings_title">Panel Modları</string>
+    <string name="panel_modes_settings_summary">Önayarlı ekran kalibrasyonu seçin</string>
     <string name="notification_slider_category_title">Uyarı kaydırıcı</string>
     <string name="notification_slider_selection_dialog_title">Eylem</string>
     <string name="notification_slider_top_position">Üst konum</string>
@@ -169,7 +171,9 @@
     <string name="touch_resistant_title">Dokunmaya dayanıklı alan</string>
     <string name="touch_resistant_summary">Yanlışlıkla dokunmaları önlemek için kenarlara yakın alanların hassasiyetini azaltır</string>
     <string name="button_settings_title">Tuşlar</string>
+    <string name="button_swap_summary">Gezinme Tuşlarını Değiştirin</string>
     <string name="home_button_extra_settings">Ana ekran düğmesi davranışını özelleştirin</string>
     <string name="assistant_button_action">Asistan tuşu eylemi</string>
     <string name="stylus_title">Dokunmatik kalem</string>
+    <string name="hbm_title">Yüksek Parlaklık Modu</string>
 </resources>

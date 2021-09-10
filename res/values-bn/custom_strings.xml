@@ -130,6 +130,8 @@
     <string name="allow_proximity_sensor_summary">কার্যটি শুরু করার আগে সান্নিধ্য পরীক্ষা করুন</string>
     <string name="oneplus_advanced_settings">ওয়ানপ্লাস সেটিংস</string>
     <string name="oneplus_advanced_settings_summary">আপনার ডিভাইসের জন্য পছন্দসই নিয়ন্ত্রণ</string>
+    <string name="panel_modes_settings_title">প্যানেল মোডস</string>
+    <string name="panel_modes_settings_summary">একটি পূর্ব প্রস্তুত ডিসপ্লে ক্রমাঙ্কন নির্বাচন করুন</string>
     <string name="notification_slider_category_title">অ্যালার্ট স্লাইডার</string>
     <string name="notification_slider_selection_dialog_title">আচরণ</string>
     <string name="notification_slider_top_position">উপরের স্থান</string>
@@ -153,7 +155,12 @@
     <string name="raise_to_wake_gesture_title">জাগাতে চাগিয়ে ধরুন</string>
     <string name="raise_to_wake_gesture_summary">বিজ্ঞপ্তি পালস করার পরিবর্তে ডিভাইসটি জাগান</string>
     <string name="device_min_refresh_rate">সর্বনিম্ন রিফ্রেশ রেট</string>
+    <string name="device_power_save_refresh_rate">স্বয়ংক্রিয় ব্যাটারির শক্তি সংরক্ষণ করুন</string>
+    <string name="device_power_save_refresh_rate_switch">ব্যাটারি সেভার সক্রিয় থাকলে স্বয়ংক্রিয় রিফ্রেশ রেট কমিয়ে দিন</string>
     <string name="refresh_rate_settings_title">স্ক্রিন রিফ্রেশ রেট</string>
+    <string name="refresh_rate_settings_summary">স্ক্রিন রিফ্রেশ রেট সামঞ্জস্য করুন</string>
+    <string name="refresh_rate_tile_title">রিফ্রেশ রেট</string>
+    <string name="refresh_rate_tile_disabled">ব্যাটারি সেভার সক্রিয়</string>
     <string name="touch_control_title">টাচ স্ক্রিন অপ্টিমাইজেশন</string>
     <string name="touch_game_mode_title">গেম মোড চালু করুন</string>
     <string name="touch_game_mode_summary">টাচ স্ক্রিনটি অপটিমাইজ করে গেমিংয়ের অভিজ্ঞতা উন্নত করতে সহায়তা করে</string>
@@ -164,5 +171,9 @@
     <string name="touch_resistant_title">টাচ-রেজিস্ট্যান্ট অঞ্চল</string>
     <string name="touch_resistant_summary">দুর্ঘটনাজনিত টাচ প্রতিরোধ করতে প্রান্তগুলির সেনসিটিভিটি কমায়</string>
     <string name="button_settings_title">বাটন</string>
+    <string name="button_swap_summary">টেনে দেয়ার দিকনির্দেশক বোতামগুলি</string>
     <string name="home_button_extra_settings">হোম বাটনের আচরণটি কাস্টমাইজ করুন</string>
+    <string name="assistant_button_action">সহকারী বোতামের ক্রিয়া</string>
+    <string name="stylus_title">স্টাইলাস কলম</string>
+    <string name="hbm_title">উচ্চ উজ্জ্বল অবস্থা</string>
 </resources>

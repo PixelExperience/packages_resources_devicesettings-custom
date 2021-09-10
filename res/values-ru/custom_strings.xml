@@ -130,6 +130,8 @@
     <string name="allow_proximity_sensor_summary">Проверить датчик приближения перед выполнением действия</string>
     <string name="oneplus_advanced_settings">Настройки OnePlus</string>
     <string name="oneplus_advanced_settings_summary">Пользовательские настройки для вашего устройства</string>
+    <string name="panel_modes_settings_title">Режимы быстрой панели</string>
+    <string name="panel_modes_settings_summary">Выберите предустановленную калибровку экрана</string>
     <string name="notification_slider_category_title">Переключатель уведомлений</string>
     <string name="notification_slider_selection_dialog_title">Действие</string>
     <string name="notification_slider_top_position">Верхнее положение</string>
@@ -169,7 +171,9 @@
     <string name="touch_resistant_title">Область, устойчивая к прикосновениям</string>
     <string name="touch_resistant_summary">Снижает чувствительность по краям для предотвращения случайных нажатий</string>
     <string name="button_settings_title">Кнопки</string>
+    <string name="button_swap_summary">Поменять местами кнопки навигации</string>
     <string name="home_button_extra_settings">Настроить поведение кнопки \"Домой\"</string>
     <string name="assistant_button_action">Действие кнопки ассистента</string>
     <string name="stylus_title">Стилус</string>
+    <string name="hbm_title">Режим высокой яркости</string>
 </resources>

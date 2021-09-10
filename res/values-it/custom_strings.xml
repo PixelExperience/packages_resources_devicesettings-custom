@@ -131,6 +131,8 @@ Se l\'altoparlante è bloccato pesantemente, eseguire questa funzione 2-5 volte 
     <string name="allow_proximity_sensor_summary">Controlla il sensore di prossimità prima di eseguire l\'azione</string>
     <string name="oneplus_advanced_settings">Impostazioni OnePlus</string>
     <string name="oneplus_advanced_settings_summary">Impostazioni personalizzate per il tuo dispositivo</string>
+    <string name="panel_modes_settings_title">Modalità del pannello</string>
+    <string name="panel_modes_settings_summary">Scegli una calibrazione predefinita del display</string>
     <string name="notification_slider_category_title">Dispositivo di scorrimento delle notifiche</string>
     <string name="notification_slider_selection_dialog_title">Azione</string>
     <string name="notification_slider_top_position">Silenzioso</string>
@@ -169,8 +171,10 @@ Se l\'altoparlante è bloccato pesantemente, eseguire questa funzione 2-5 volte 
     <string name="touch_sensitivity_summary">Controlla la sensibilità dei tocchi ripetuti</string>
     <string name="touch_resistant_title">Area non-touch</string>
     <string name="touch_resistant_summary">Riduce la sensibilità vicino ai bordi per prevenire tocchi accidentali</string>
-    <string name="button_settings_title">Tasti</string>
+    <string name="button_settings_title">Pulsanti</string>
+    <string name="button_swap_summary">Scambia pulsanti di navigazione</string>
     <string name="home_button_extra_settings">Personalizza il comportamento del tasto home</string>
     <string name="assistant_button_action">Azione chiave dell\'assistente</string>
     <string name="stylus_title">Penne stilografiche</string>
+    <string name="hbm_title">Modalità alta luminosità</string>
 </resources>

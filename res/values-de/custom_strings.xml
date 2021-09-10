@@ -130,6 +130,8 @@
     <string name="allow_proximity_sensor_summary">Überprüfen Sie den Näherungssensor, bevor Sie diese Aktion ausführen</string>
     <string name="oneplus_advanced_settings">OnePlus Einstellungen</string>
     <string name="oneplus_advanced_settings_summary">Benutzerdefinierte Einstellungen für das Gerät</string>
+    <string name="panel_modes_settings_title">Panelmodus</string>
+    <string name="panel_modes_settings_summary">Eine vorgefertigte Display-Kalibrierung auswählen</string>
     <string name="notification_slider_category_title">Alarm-Schieberegler</string>
     <string name="notification_slider_selection_dialog_title">Aktion</string>
     <string name="notification_slider_top_position">Obere Position</string>
@@ -169,7 +171,9 @@
     <string name="touch_resistant_title">Bereich der Berührungsempfindlichkeit</string>
     <string name="touch_resistant_summary">Reduziert die Empfindlichkeit in der Nähe der Kanten, um versehentliche Berührungen zu vermeiden</string>
     <string name="button_settings_title">Tasten</string>
+    <string name="button_swap_summary">Tausche Navigationstasten</string>
     <string name="home_button_extra_settings">Passen Sie das Verhalten der Home-Schaltfläche an</string>
     <string name="assistant_button_action">Assistent Tastenaktion</string>
     <string name="stylus_title">Stift</string>
+    <string name="hbm_title">Hohe Helligkeit</string>
 </resources>

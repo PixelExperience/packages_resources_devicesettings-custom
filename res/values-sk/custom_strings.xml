@@ -130,6 +130,8 @@
     <string name="allow_proximity_sensor_summary">Skontrolovať senzor priblíženia pred vykonaním akcie</string>
     <string name="oneplus_advanced_settings">OnePlus nastavenia</string>
     <string name="oneplus_advanced_settings_summary">Vlastné nastavenia pre vaše zariadenie</string>
+    <string name="panel_modes_settings_title">Režimy panelu</string>
+    <string name="panel_modes_settings_summary">Výber vopred pripravenej kalibrácie displeja</string>
     <string name="notification_slider_category_title">Posuvník upozornení</string>
     <string name="notification_slider_selection_dialog_title">Akcia</string>
     <string name="notification_slider_top_position">Umiestnenie hore</string>
@@ -153,8 +155,12 @@
     <string name="raise_to_wake_gesture_title">Prebudiť zdvihnutím</string>
     <string name="raise_to_wake_gesture_summary">Namiesto pulzujúceho upozornenia zariadenie prebudiť</string>
     <string name="device_min_refresh_rate">Minimálna obnovovacia frekvencia</string>
+    <string name="device_power_save_refresh_rate">Automatický šetrič batérie</string>
+    <string name="device_power_save_refresh_rate_switch">Automaticky znížiť obnovovaciu frekvenciu pri zapnutom šetriči batérie</string>
     <string name="refresh_rate_settings_title">Obnovovacia frekvencia obrazovky</string>
     <string name="refresh_rate_settings_summary">Zmeniť rýchlosť obnovenie obrazovky</string>
+    <string name="refresh_rate_tile_title">Obnovovacia frekvencia</string>
+    <string name="refresh_rate_tile_disabled">Šetrič batérie zapnutý</string>
     <string name="touch_control_title">Optimalizácie dotykovej obrazovky</string>
     <string name="touch_game_mode_title">Zapnúť Herný režim</string>
     <string name="touch_game_mode_summary">Pomáha vylepšiť herný zážitok optimalizáciou dotykovej obrazovky</string>
@@ -165,7 +171,9 @@
     <string name="touch_resistant_title">Oblasť odolná proti dotyku</string>
     <string name="touch_resistant_summary">Znižuje citlivosť blízko okrajov, aby sa zabránilo náhodným dotykom</string>
     <string name="button_settings_title">Tlačidlá</string>
+    <string name="button_swap_summary">Prehodenie navigačných tlačidiel</string>
     <string name="home_button_extra_settings">Nastaviť správanie tlačidla Domov</string>
     <string name="assistant_button_action">Akcia pre tlačidlo assistenta</string>
     <string name="stylus_title">Stylusové Pero</string>
+    <string name="hbm_title">Režim vysokého jasu</string>
 </resources>

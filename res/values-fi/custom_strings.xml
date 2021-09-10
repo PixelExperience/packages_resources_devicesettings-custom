@@ -80,8 +80,8 @@
     <string name="takeback_camera_front_failed">Etukameraa ei voitu sulkea. Yritä uudelleen.</string>
     <string name="popup_camera_front_failed">Etukameraa ei voitu avata. Yritä uudelleen</string>
     <string name="popup_camera_proximity_obstructed">Poista kätesi etäisyysanturilta avataksesi etukameran...</string>
-    <string name="clear_speaker_title">Selvä kaijutin</string>
-    <string name="clear_speaker_summary">Soita 30-sekunttia ääntä puhdistaaksesi kaijuttimen.</string>
+    <string name="clear_speaker_title">Puhdista kaiutin</string>
+    <string name="clear_speaker_summary">Toista 30 sekuntia ääntä puhdistaaksesi kaiuttimen.</string>
     <string name="clear_speaker_description">Käytä tätä toimintoa muutaman kerran, jos kaijutin on pölyssä tai tukossa. Aseta volyymi maksimiin \n\n jos kaijutin on tukossa pahasti, niin toista tämä monta kertaa ravistaen kaijutin alaspäin.</string>
     <string name="moto_actions_title">Moto Toiminnot</string>
     <string name="device_gestures_title">Laite-eleet</string>
@@ -130,6 +130,8 @@
     <string name="allow_proximity_sensor_summary">Tarkista etäisyysanturi ennen toiminnon suorittamista</string>
     <string name="oneplus_advanced_settings">OnePlus Asetukset</string>
     <string name="oneplus_advanced_settings_summary">Muokatut asetukset laitteellesi</string>
+    <string name="panel_modes_settings_title">Paneeli säädöt</string>
+    <string name="panel_modes_settings_summary">Valitse valmis näytön säätö</string>
     <string name="notification_slider_category_title">Hälytys säädin</string>
     <string name="notification_slider_selection_dialog_title">Toiminto</string>
     <string name="notification_slider_top_position">Yläasento</string>
@@ -153,11 +155,11 @@
     <string name="raise_to_wake_gesture_title">Nosta herättääksesi</string>
     <string name="raise_to_wake_gesture_summary">Herätä laite ilmoitusten vilkuttamisen sijaan</string>
     <string name="device_min_refresh_rate">Minimi virkistystaajuus</string>
-    <string name="device_power_save_refresh_rate">Säästä akkua automaattisesti</string>
+    <string name="device_power_save_refresh_rate">Säästä virtaa automaattisesti</string>
     <string name="device_power_save_refresh_rate_switch">Alenna virkistystaajuutta automaattisesti, kun virransäästö on päällä</string>
     <string name="refresh_rate_settings_title">Näytön virkistystaajuus</string>
-    <string name="refresh_rate_settings_summary">Säädä näytön päivitystaajuus</string>
-    <string name="refresh_rate_tile_title">Virkistystiheys</string>
+    <string name="refresh_rate_settings_summary">Säädä näytön virkistystaajuutta</string>
+    <string name="refresh_rate_tile_title">Virkistystaajuus</string>
     <string name="refresh_rate_tile_disabled">Virransäästö kaytössä</string>
     <string name="touch_control_title">Kosketusnäytön optimoinnit</string>
     <string name="touch_game_mode_title">Ota pelitila käyttöön</string>
@@ -169,7 +171,9 @@
     <string name="touch_resistant_title">Kosketusta vastustava alue </string>
     <string name="touch_resistant_summary">Vähentää lähellä reunaa tapahtuvia vahinko kosketuksia</string>
     <string name="button_settings_title">Painikkeet</string>
+    <string name="button_swap_summary">Vaihda navigointinäppäinten paikkaa</string>
     <string name="home_button_extra_settings">Mukauta kotinäppäimen käyttäytymistä</string>
     <string name="assistant_button_action">Assistant painikkeen toiminto</string>
     <string name="stylus_title">Kosketusnäyttökynä</string>
+    <string name="hbm_title">Korkean kirkkauden tila</string>
 </resources>

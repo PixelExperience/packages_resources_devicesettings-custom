@@ -130,6 +130,8 @@
     <string name="allow_proximity_sensor_summary">בדוק את חיישן הקרבה לפני ביצוע הפעולה</string>
     <string name="oneplus_advanced_settings">הגדרות OnePlus</string>
     <string name="oneplus_advanced_settings_summary">הגדרות אישיות למכשיר שלך</string>
+    <string name="panel_modes_settings_title">מצבי לוח</string>
+    <string name="panel_modes_settings_summary">בחר כיול תצוגה מוכן מראש </string>
     <string name="notification_slider_category_title">מחוון התראה</string>
     <string name="notification_slider_selection_dialog_title">פעולה</string>
     <string name="notification_slider_top_position">מיקום עליון</string>
@@ -169,7 +171,9 @@
     <string name="touch_resistant_title">איזור עמיד למגע</string>
     <string name="touch_resistant_summary">מפחית את הרגישות ליד הקצוות המסך כדי למנוע נגיעות בטעות</string>
     <string name="button_settings_title">מקשים</string>
+    <string name="button_swap_summary">החלף לחצני ניווט</string>
     <string name="home_button_extra_settings">התאם אישית את התנהגות כפתור הבית</string>
     <string name="assistant_button_action">פעולת מקש העוזרת הקולית</string>
     <string name="stylus_title">עט סטיילוס</string>
+    <string name="hbm_title">מצב בהירות גבוהה </string>
 </resources>

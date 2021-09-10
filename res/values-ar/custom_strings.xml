@@ -169,7 +169,9 @@
     <string name="touch_resistant_title">المنطقة المضادة للمس</string>
     <string name="touch_resistant_summary">تقليل الحساسية اتجاه اطراف الشاشة لمنع الادخالات الخاطئة</string>
     <string name="button_settings_title">الأزرار</string>
+    <string name="button_swap_summary">أزرار التنقل</string>
     <string name="home_button_extra_settings">تعديل وظيفة زر الشاشة الرئيسية</string>
     <string name="assistant_button_action">إجراء زر المساعد الرقمي</string>
     <string name="stylus_title">قلم ستايلس</string>
+    <string name="hbm_title">وضع السطوع العالي</string>
 </resources>

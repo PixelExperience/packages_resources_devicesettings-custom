@@ -121,6 +121,8 @@
     <string name="allow_proximity_sensor_summary">Prieš atlikdami veiksmą, patikrinkite artumo jutiklį</string>
     <string name="oneplus_advanced_settings">OnePlus nustatymai</string>
     <string name="oneplus_advanced_settings_summary">Pasirinktiniai nustatymai jūsų įrenginiui</string>
+    <string name="panel_modes_settings_title">Skydelio režimai</string>
+    <string name="panel_modes_settings_summary">Pasirinkite iš anksto paruoštą ekrano kalibravimą </string>
     <string name="notification_slider_category_title">Įspėjimo slankiklis</string>
     <string name="notification_slider_selection_dialog_title">Veiksmas</string>
     <string name="notification_slider_top_position">Viršutinė pozicija</string>
@@ -149,6 +151,8 @@
     <string name="refresh_rate_tile_title">Atnaujinimo dažnis </string>
     <string name="refresh_rate_tile_disabled">Įjungta akumuliatoriaus tausojimo priemonė </string>
     <string name="button_settings_title">Mygtukai</string>
+    <string name="button_swap_summary">Keisti naršymo mygtukus</string>
     <string name="assistant_button_action">Pagalbinio mygtuko valdymas</string>
     <string name="stylus_title">Rašiklis</string>
+    <string name="hbm_title">Didelio ryškumo režimas</string>
 </resources>

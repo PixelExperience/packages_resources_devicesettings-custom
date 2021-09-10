@@ -130,6 +130,8 @@
     <string name="allow_proximity_sensor_summary">მოქმედების შესრულებამდე შეამოწმეთ სიახლოვის სენსორი</string>
     <string name="oneplus_advanced_settings">OnePlus პარამეტრები</string>
     <string name="oneplus_advanced_settings_summary">თქვენი მოწყობილობის მორგებული პარამეტრები</string>
+    <string name="panel_modes_settings_title">პანელის რეჟიმები</string>
+    <string name="panel_modes_settings_summary">აირჩიეთ წინასწარ გაკეთებული ეკრანის კალიბრაცია</string>
     <string name="notification_slider_category_title">გაფრთხილების სლაიდერი</string>
     <string name="notification_slider_selection_dialog_title">მოქმედება</string>
     <string name="notification_slider_top_position">ზედა მხარე</string>
@@ -169,7 +171,9 @@
     <string name="touch_resistant_title">შეხების რეზისტენტული ადგილი</string>
     <string name="touch_resistant_summary">ამცირებს მგრძნობელობას კიდეებთან ახლოს შემთხვევითი შეხების თავიდან ასაცილებლად</string>
     <string name="button_settings_title">ღილაკები</string>
+    <string name="button_swap_summary">ადგილის გაცვლა ნავიგაციის ღილაკებისთვის</string>
     <string name="home_button_extra_settings">სახლის ღილაკის ქცევის მორგება</string>
     <string name="assistant_button_action">დამხმარე ღილაკის მოქმედება</string>
     <string name="stylus_title">სტილუს კალამი</string>
+    <string name="hbm_title">მაღალი ნათების რეჟიმი</string>
 </resources>

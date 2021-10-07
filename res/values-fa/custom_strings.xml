@@ -15,7 +15,9 @@
      limitations under the License.
 -->
 <resources>
+    <string name="display_title">صفحه نمایش</string>
     <string name="dc_dimming_enable_title">ضد پرش تصویر</string>
+    <string name="dc_dimming_enable_summary">ممکن است دقت رنگ را تضعیف کرده و نحوه نمایش برخی موارد را تحت تأثیر قرار دهد.</string>
     <string name="dc_dimming_enable_summary_not_supported">درحال حاضر قابلیت ضد پرش تصویر توسط کرنل پشتیبانی نمیشود</string>
     <string name="dirac_title">تقویت‌کننده صدای Mi</string>
     <string name="dirac_summary">بهینه‌سازی کیفیت صدا</string>
@@ -59,6 +61,8 @@
     <string name="dirac_preset_metal">متال</string>
     <string name="popup_settings_title">تنظیمات دوربین بیرون جهنده</string>
     <string name="popup_led_title">نشانگر دوربین</string>
+    <string name="popup_led_summary">هنگامی که دوربین جلو ظاهر می شود و مخفی می شود ، چراغ LED نشان داده شود</string>
+    <string name="popup_sound_title">جلوه های صوتی</string>
     <string name="popup_title_muqin">سنتور چوبی</string>
     <string name="popup_title_yingyan">کرکس</string>
     <string name="popup_title_mofa">جادو</string>
@@ -126,13 +130,18 @@
     <string name="allow_proximity_sensor_summary">قبل از انجام عمل، سنسور مجاورت را بررسی کن</string>
     <string name="oneplus_advanced_settings">تنظیمات وان پلاس</string>
     <string name="oneplus_advanced_settings_summary">تنظیمات سفارشی برای دستگاه شما</string>
+    <string name="panel_modes_settings_title">حالت های پنل</string>
+    <string name="panel_modes_settings_summary">کالیبراسیون صفحه نمایش از پیش ساخته شده را انتخاب کنید</string>
     <string name="notification_slider_category_title">دکمه کشویی </string>
     <string name="notification_slider_selection_dialog_title">عملکرد</string>
     <string name="notification_slider_top_position">بالاترین موقعیت</string>
     <string name="notification_slider_middle_position">موقعیت میانی</string>
     <string name="notification_slider_bottom_position">موقعیت پایین</string>
     <string name="notification_slider_mode_total_silence">سکوت کامل</string>
+    <string name="notification_slider_mode_alarms_only">فقط زنگ هشدار</string>
     <string name="notification_slider_mode_priority_only">فقط اولویت ها</string>
+    <string name="notification_slider_mode_silent">بی صدا</string>
+    <string name="notification_slider_mode_vibrate">لرزش</string>
     <string name="notification_slider_mode_none">عادی</string>
     <string name="thermal_title">پروفایل بهینه سازی</string>
     <string name="thermal_summary">تنظیم مشخصات مختص هر برنامه برای عملکرد مطلوب</string>
@@ -143,8 +152,13 @@
     <string name="thermal_dialer">شماره گیر</string>
     <string name="thermal_gaming">بازی ها</string>
     <string name="thermal_streaming">برنامه های پخش</string>
+    <string name="raise_to_wake_gesture_title">بردارید تا بیدار شود</string>
     <string name="raise_to_wake_gesture_summary">بجای هشدار ضربان‌دار دستگاه روشن شود</string>
+    <string name="device_min_refresh_rate">حداقل نرخ تازه سازی</string>
+    <string name="device_power_save_refresh_rate">ذخیره باتری به صورت خودکار</string>
+    <string name="device_power_save_refresh_rate_switch">وقتی صرفه جویی در باتری فعال است ، نرخ تازه سازی را خودکار خودکار کاهش میدهد</string>
     <string name="refresh_rate_settings_title">نرخ تجدید صفحه</string>
+    <string name="refresh_rate_settings_summary">تنظیم نرخ تجدید صفحه</string>
     <string name="touch_control_title">بهینه سازی صفحه لمسی</string>
     <string name="touch_game_mode_title">فعال سازی حالت بازی</string>
     <string name="touch_game_mode_summary">با بهینه سازی صفحه لمسی به بهبود تجربه بازی کردن کمک میکند</string>

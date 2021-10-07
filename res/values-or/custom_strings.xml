@@ -72,4 +72,5 @@
     <string name="notification_slider_selection_dialog_title">କ୍ରିୟାଗୁଡିକ</string>
     <string name="notification_slider_mode_total_silence">ସମ୍ପୂର୍ଣ୍ଣ ନୀରବତା</string>
     <string name="notification_slider_mode_priority_only">କେବଳ ପ୍ରାଧାନ୍ୟ</string>
+    <string name="thermal_camera">କ୍ୟାମେରା</string>
 </resources>

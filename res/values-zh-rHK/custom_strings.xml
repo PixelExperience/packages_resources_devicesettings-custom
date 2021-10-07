@@ -18,6 +18,7 @@
     <string name="display_title">顯示</string>
     <string name="dc_dimming_enable_title">防閃爍</string>
     <string name="dc_dimming_enable_summary">防閃爍模式透過使用「DC 調光」功能來協助減少低光源環境下的眼睛疲勞。這可能會降機色彩準確性，並影響某些項目的顯示方式。</string>
+    <string name="dc_dimming_enable_summary_not_supported">此內核當前不支持防閃爍</string>
     <string name="dirac_title">使用米音提升音質</string>
     <string name="dirac_summary">最佳化音質</string>
     <string name="dirac_headset_title">耳機類型設定</string>
@@ -79,6 +80,9 @@
     <string name="takeback_camera_front_failed">前置相機收回失敗，請重試</string>
     <string name="popup_camera_front_failed">前置相機彈出失敗，請重試</string>
     <string name="popup_camera_proximity_obstructed">請將您的手從鄰近感測器前移開以開啟前置鏡頭…</string>
+    <string name="clear_speaker_title">清理揚聲器</string>
+    <string name="clear_speaker_summary">播放一段30秒的音頻以清理揚聲器</string>
+    <string name="clear_speaker_description">如果發現揚聲器被灰塵輕輕遮住，請運行此功能一次或兩次。 將媒體音量設置為最大。\n\n如果揚聲器被嚴重阻塞，請把揚聲器朝下並在搖動設備的同時運行此功能2-5次。</string>
     <string name="moto_actions_title">動作行為</string>
     <string name="device_gestures_title">裝置手勢</string>
     <string name="device_gestures_summary">管理裝置手勢</string>
@@ -126,6 +130,8 @@
     <string name="allow_proximity_sensor_summary">執行動作前檢查距離感應器</string>
     <string name="oneplus_advanced_settings">OnePlus 設定</string>
     <string name="oneplus_advanced_settings_summary">您裝置的自訂設定</string>
+    <string name="panel_modes_settings_title">面板模式</string>
+    <string name="panel_modes_settings_summary">選擇預設的顯示校正</string>
     <string name="notification_slider_category_title">三段式通知開關</string>
     <string name="notification_slider_selection_dialog_title">動作</string>
     <string name="notification_slider_top_position">頂部位置</string>
@@ -149,7 +155,10 @@
     <string name="raise_to_wake_gesture_title">拿起喚醒</string>
     <string name="raise_to_wake_gesture_summary">喚醒設備而不是發出通知</string>
     <string name="device_min_refresh_rate">最低刷新率</string>
+    <string name="device_power_save_refresh_rate">自動省電</string>
+    <string name="device_power_save_refresh_rate_switch">當省電模式作用中時自動降低更新率</string>
     <string name="refresh_rate_settings_title">螢幕刷新率</string>
+    <string name="refresh_rate_settings_summary">調整屏幕刷新率</string>
     <string name="refresh_rate_tile_title">刷新率</string>
     <string name="refresh_rate_tile_disabled">開啟省電模式</string>
     <string name="touch_control_title">觸摸屏優化</string>

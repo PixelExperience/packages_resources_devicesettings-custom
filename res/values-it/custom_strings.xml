@@ -177,4 +177,10 @@ Se l\'altoparlante è bloccato pesantemente, eseguire questa funzione 2-5 volte 
     <string name="assistant_button_action">Azione chiave dell\'assistente</string>
     <string name="stylus_title">Penne stilografiche</string>
     <string name="hbm_title">Modalità alta luminosità</string>
+    <string name="lcd_features_title">Caratteristiche LCD</string>
+    <string name="lcd_features_summary">Modalità ad Alta Luminosità, CABC</string>
+    <string name="lcd_hbm_title">Modalità ad Alta Luminosità (HBM)</string>
+    <string name="lcd_hbm_tile_title">HBM</string>
+    <string name="lcd_cabc_title">Modalità CABC</string>
+    <string name="lcd_features_info">High Brightness Mode (HBM) incrementa la luminosità massima del display per migliorare la visibilità sotto la luce del sole. Aumenta il consumo energetico.\n\nCABC (Content Adaptive Backlight Control) regola il display e la luminosità in base al contenuto mostrato, per ridurre il consumo senza degrado dell\'immagine.</string>
 </resources>

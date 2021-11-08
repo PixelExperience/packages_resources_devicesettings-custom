@@ -176,4 +176,10 @@
     <string name="assistant_button_action">A segédgomb művelete</string>
     <string name="stylus_title">Stylus toll</string>
     <string name="hbm_title">Magas fényerejű mód</string>
+    <string name="lcd_features_title">LCD-jellemzők</string>
+    <string name="lcd_features_summary">Magas fényerejű mód, CABC</string>
+    <string name="lcd_hbm_title">Magas fényerejű mód, HBM</string>
+    <string name="lcd_hbm_tile_title">HBM</string>
+    <string name="lcd_cabc_title">CABC</string>
+    <string name="lcd_features_info">HBM = Magas Fényerőmód növeli a kijelző maximális fényerejét, hogy javítsa a láthatóságot napfényben. Növeli az energiafogyasztást.\n\nCABC = Tartalomfüggő háttérvilágítás-vezérlés beállítja a kijelző és a háttérvilágítás fényerejét az aktuálisan megjelenített tartalom alapján, hogy csökkentse az energiafogyasztást, lehetőleg minőségromlás nélkül.</string>
 </resources>

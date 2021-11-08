@@ -176,4 +176,10 @@
     <string name="assistant_button_action">Tindakan tombol asisten</string>
     <string name="stylus_title">Pena Stylus</string>
     <string name="hbm_title">Mode Kecerahan Tinggi</string>
+    <string name="lcd_features_title">Fitur LCD</string>
+    <string name="lcd_features_summary">Mode Kecerahan Tinggi, CABC</string>
+    <string name="lcd_hbm_title">Mode Kecerahan Tinggi, (HBM)</string>
+    <string name="lcd_hbm_tile_title">HBM</string>
+    <string name="lcd_cabc_title">Mode CABC</string>
+    <string name="lcd_features_info">Mode Kecerahan Tinggi (HBM) meningkatkan kecerahan maksimum tampilan untuk meningkatkan visibilitas di bawah sinar matahari. Meningkatkan konsumsi daya.\n\nCABC (Kontrol Lampu Latar Adaptif Konten) menyesuaikan tampilan dan kecerahan lampu latar berdasarkan konten yang ditampilkan saat ini, untuk mengurangi konsumsi daya tanpa penurunan daya.</string>
 </resources>

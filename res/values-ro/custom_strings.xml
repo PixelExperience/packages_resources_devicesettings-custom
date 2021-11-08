@@ -130,6 +130,8 @@
     <string name="allow_proximity_sensor_summary">Verifică senzorul de proximitate înainte de a efectua acțiunea</string>
     <string name="oneplus_advanced_settings">Setări OnePlus</string>
     <string name="oneplus_advanced_settings_summary">Setări personalizate pentru dispozitivul dvs.</string>
+    <string name="panel_modes_settings_title">Moduri panou</string>
+    <string name="panel_modes_settings_summary">Alegeți o calibrare a afișajului prefabricată</string>
     <string name="notification_slider_category_title">Slider de alertă</string>
     <string name="notification_slider_selection_dialog_title">Acţiune</string>
     <string name="notification_slider_top_position">Poziția de sus</string>
@@ -154,8 +156,11 @@
     <string name="raise_to_wake_gesture_summary">Treziți dispozitivul în loc de notificare pulsantă</string>
     <string name="device_min_refresh_rate">Rata minimă de reîmprospătare</string>
     <string name="device_power_save_refresh_rate">Reducere automata a consumului de baterie</string>
+    <string name="device_power_save_refresh_rate_switch">Se reduce automat rata de reîmprospătare când economisirea bateriei este activă</string>
     <string name="refresh_rate_settings_title">Rata de actualizare a ecranului</string>
     <string name="refresh_rate_settings_summary">Modificarea frecvenței ecranului</string>
+    <string name="refresh_rate_tile_title">Rată de reîmprospătare</string>
+    <string name="refresh_rate_tile_disabled">Economisirea bateriei este activată</string>
     <string name="touch_control_title">Optimizarea ecranului tactil</string>
     <string name="touch_game_mode_title">Pornirea modului joc</string>
     <string name="touch_game_mode_summary">Ajută pentru a îmbunătăți experiența de joc prin optimizarea ecranului tactil</string>
@@ -166,7 +171,15 @@
     <string name="touch_resistant_title">Zona rezistentă la atingere</string>
     <string name="touch_resistant_summary">Reduce sensibilitatea în apropierea marginilor pentru a preveni atingerile accidentale</string>
     <string name="button_settings_title">Butoane</string>
+    <string name="button_swap_summary">Schimbați butoanele de navigare</string>
     <string name="home_button_extra_settings">Personalizați comportamentul butonului de pornire</string>
     <string name="assistant_button_action">Asistent acțiune cheie</string>
     <string name="stylus_title">Stylus</string>
+    <string name="hbm_title">Mod luminozitate ridicată</string>
+    <string name="lcd_features_title">Caracteristici LCD</string>
+    <string name="lcd_features_summary">Mod de luminozitate ridicată, CABC (Control adaptiv al iluminării din spate a conținutului)</string>
+    <string name="lcd_hbm_title">Mod de luminozitate ridicată (MLR)</string>
+    <string name="lcd_hbm_tile_title">MLR</string>
+    <string name="lcd_cabc_title">Modul CABC (Control adaptiv al iluminării din spate a conținutului)</string>
+    <string name="lcd_features_info">Modul Luminozitatea Maxima (HBM) mărește luminozitatea maximă a afișajului pentru a îmbunătăți vizibilitatea la lumina soarelui. Crește consumul de energie. \n\nCABC (Content Adaptive Backlight Control) reglează luminozitatea afișajului și a luminii de fundal pe baza conținutului prezentat, pentru a reduce consumul de energie fără degradare.</string>
 </resources>

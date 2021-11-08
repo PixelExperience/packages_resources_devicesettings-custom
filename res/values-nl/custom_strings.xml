@@ -176,4 +176,10 @@
     <string name="assistant_button_action">Assistent toets-actie</string>
     <string name="stylus_title">Styluspen</string>
     <string name="hbm_title">Hoge helderheidsmodus</string>
+    <string name="lcd_features_title">LCD-functies</string>
+    <string name="lcd_features_summary">Hoge helderheidsmodus, CABC</string>
+    <string name="lcd_hbm_title">Hoge helderheidsmodus (HHM)</string>
+    <string name="lcd_hbm_tile_title">HHM</string>
+    <string name="lcd_cabc_title">CABC modus</string>
+    <string name="lcd_features_info">De Hoge HelderheidsModus (HHM) verhoogt de maximale helderheid van het scherm om de leesbaarheid in de zon te verbeteren. Dit verhoogt het batterijverbruik.\n\nCABC(de regelbare scherm-achtergrondverlichting) past de achtergrondhelderheid aan van het scherm, gebaseerd op de werkelijke weergave op het scherm. Het batterijverbruik wordt verminderd zonder kwaliteitsverlies.</string>
 </resources>

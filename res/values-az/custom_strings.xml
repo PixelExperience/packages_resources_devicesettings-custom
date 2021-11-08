@@ -176,4 +176,10 @@
     <string name="assistant_button_action">Assistant açar hərəkəti</string>
     <string name="stylus_title">Toxunaqlı Qələm</string>
     <string name="hbm_title">Yüksək parlaqlıq rejimi</string>
+    <string name="lcd_features_title">LCD özəllikləri</string>
+    <string name="lcd_features_summary">Yüksək parlaqlıq rejimi, CABC</string>
+    <string name="lcd_hbm_title">Yüksək parlaqlıq rejimi (HBM)</string>
+    <string name="lcd_hbm_tile_title">HBM</string>
+    <string name="lcd_cabc_title">CABC rejimi</string>
+    <string name="lcd_features_info">Yüksək parlaqlıq rejimi (HBM), gün işığı altında ekranın görünməsini yaxşılaşdırmaq üçün maksimum parlaqlığı artırır. Enerji istifadəsini artırır.\n\nCABC (Məzmuna Uyğun Arxa işıq Nəzarəti), enerji istifadəsini ekranda pozulma olmadan azaltmaq üçün ekran və arxa işıq parlaqlığını həmin an göstərilən məzmuna görə nizamlayır.</string>
 </resources>

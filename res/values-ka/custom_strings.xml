@@ -176,4 +176,10 @@
     <string name="assistant_button_action">დამხმარე ღილაკის მოქმედება</string>
     <string name="stylus_title">სტილუს კალამი</string>
     <string name="hbm_title">მაღალი ნათების რეჟიმი</string>
+    <string name="lcd_features_title">LCD ფუნქციები</string>
+    <string name="lcd_features_summary">მაღალი ნათების რეჟიმი, CABC</string>
+    <string name="lcd_hbm_title">მაღალი ნათების რეჟიმი (HBM)</string>
+    <string name="lcd_hbm_tile_title">HBM</string>
+    <string name="lcd_cabc_title">CABC რეჟიმი</string>
+    <string name="lcd_features_info">მაღალი სიკაშკაშის რეჟიმი (HBM) ზრდის ეკრანის მაქსიმალურ სიკაშკაშეს მზის სხივების ქვეშ ხილვადობის გასაუმჯობესებლად. ზრდის ენერგიის მოხმარებას. \ N \ nCABC (შინაარსის ადაპტირებადი განათების კონტროლი) არეგულირებს ეკრანისა და შუქის სიკაშკაშეს ამჟამად ნაჩვენები შინაარსის მიხედვით, რათა შეამციროს ენერგიის მოხმარება დეგრადაციის გარეშე.</string>
 </resources>

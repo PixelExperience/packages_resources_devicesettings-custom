@@ -130,6 +130,8 @@
     <string name="allow_proximity_sensor_summary">Pastikan sensor pengesan jarak sebelum melakukan tindakan</string>
     <string name="oneplus_advanced_settings">Tetapan OnePlus</string>
     <string name="oneplus_advanced_settings_summary">Tetapan peribadi untuk peranti anda</string>
+    <string name="panel_modes_settings_title">Mod Panel</string>
+    <string name="panel_modes_settings_summary">Pilih kalibrasi paparan sedia ada</string>
     <string name="notification_slider_category_title">Gelangsar amaran</string>
     <string name="notification_slider_selection_dialog_title">Tindakan</string>
     <string name="notification_slider_top_position">Kedudukan atas</string>

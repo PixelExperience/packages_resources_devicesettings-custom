@@ -166,4 +166,9 @@
     <string name="touch_response_summary">تنظیم پاسخدهی لمس</string>
     <string name="touch_sensitivity_title">حساسیت لمس</string>
     <string name="button_settings_title">دکمه‌ها</string>
+    <string name="lcd_features_title">ویژگی های LCD</string>
+    <string name="lcd_features_summary">حالت روشنایی بالا ، CABC</string>
+    <string name="lcd_hbm_title">حالت روشنایی بالا (HBM)</string>
+    <string name="lcd_cabc_title">حالت CABC</string>
+    <string name="lcd_features_info">بدون تنزل</string>
 </resources>

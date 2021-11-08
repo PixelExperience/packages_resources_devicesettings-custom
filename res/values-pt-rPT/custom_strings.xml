@@ -176,4 +176,10 @@
     <string name="assistant_button_action">Ação da tecla Assistente</string>
     <string name="stylus_title">Estilo da caneta</string>
     <string name="hbm_title">Modo de alto brilho</string>
+    <string name="lcd_features_title">Funcionalidades LCD</string>
+    <string name="lcd_features_summary">Modo de brilho intenso (CABC)</string>
+    <string name="lcd_hbm_title">Modo de brilho intenso (HBM)</string>
+    <string name="lcd_hbm_tile_title">HBM</string>
+    <string name="lcd_cabc_title">CABC</string>
+    <string name="lcd_features_info">O modo de brilho intenso (HBM) aumenta o brilho máximo do ecrã para melhorar a visibilidade sob a luz solar mas também aumenta o consumo de energia.\n\nO modo Content Adaptive Backlight Control (CABC) ajusta o brilho do ecrã e da retroiluminação tendo por base o conteúdo mostrado, reduzindo assim o consumo de energia mas sem degradação.</string>
 </resources>

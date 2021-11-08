@@ -60,4 +60,5 @@
     <string name="tap_to_wake_summary">Senned snat n tikkal anda tufiḍ deg wagdil i wakken ad yermed yibenk </string>
     <string name="allow_proximity_sensor_title">Sken amaṭṭaf n tanila</string>
     <string name="allow_proximity_sensor_summary">Senqed amaṭṭaf n tanila send uselkem n tigawt </string>
+    <string name="notification_slider_mode_none">Amagnu</string>
 </resources>

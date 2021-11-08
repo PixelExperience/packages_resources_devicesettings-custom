@@ -176,4 +176,10 @@
     <string name="assistant_button_action">Akcia pre tlačidlo assistenta</string>
     <string name="stylus_title">Stylusové Pero</string>
     <string name="hbm_title">Režim vysokého jasu</string>
+    <string name="lcd_features_title">Vlastnosti LCD</string>
+    <string name="lcd_features_summary">Režim vysokého jasu</string>
+    <string name="lcd_hbm_title">Režim vysokého jasu)</string>
+    <string name="lcd_hbm_tile_title">HBM</string>
+    <string name="lcd_cabc_title">CABC Mode</string>
+    <string name="lcd_features_info">Režim vysokého jasu (HBM) zvyšuje maximálny jas displeja, aby sa zlepšila viditeľnosť pri slnečnom svetle. Zvyšuje spotrebu energie.\n\nCABC (Content Adaptive Backlight Control) upravuje jas displeja a podsvietenia na základe aktuálne zobrazeného obsahu, aby sa znížila spotreba energie bez zníženia kvality.</string>
 </resources>

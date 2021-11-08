@@ -176,4 +176,10 @@
     <string name="assistant_button_action">Дія клавіші помічника</string>
     <string name="stylus_title">Стилус</string>
     <string name="hbm_title">Режим високої яскравості</string>
+    <string name="lcd_features_title">Особливості LCD</string>
+    <string name="lcd_features_summary">Режим високої яскравості, CABC</string>
+    <string name="lcd_hbm_title">Режим високої яскравості (HBM)</string>
+    <string name="lcd_hbm_tile_title">HBM</string>
+    <string name="lcd_cabc_title">Режим CABC</string>
+    <string name="lcd_features_info">Режим високої яскравості (HBM) збільшує максимальну яскравість дисплея, щоб покращити видимість під сонячним світлом.  Збільшує енергоспоживання.\n\nCABC (Content Adaptive Backlight Control) регулює яскравість дисплея та підсвічування на основі поточного відображеного вмісту, щоб зменшити споживання енергії без погіршення якості.</string>
 </resources>

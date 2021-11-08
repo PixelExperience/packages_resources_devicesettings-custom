@@ -176,4 +176,10 @@
     <string name="assistant_button_action">アシスタントキーのアクション</string>
     <string name="stylus_title">スタイラスペン</string>
     <string name="hbm_title">高輝度モード</string>
+    <string name="lcd_features_title">液晶の機能</string>
+    <string name="lcd_features_summary">高輝度モード、CABC</string>
+    <string name="lcd_hbm_title">高輝度モード (HBM)</string>
+    <string name="lcd_hbm_tile_title">HBM</string>
+    <string name="lcd_cabc_title">CABC モード</string>
+    <string name="lcd_features_info">高輝度モード (HBM) は画面の明るさを上げて日光の下での視認性を向上させますが、電池の消費は激しくなります。\n\nCABC モード (コンテンツ自動認識バックライト制御) は画面とバックライトの明るさを現在表示されているコンテンツに合わせて自動的に調節し、品質低下を抑えつつ電池の消費を抑えます。</string>
 </resources>

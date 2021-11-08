@@ -176,4 +176,10 @@
     <string name="assistant_button_action">Akcje przycisku Asystenta</string>
     <string name="stylus_title">Rysik</string>
     <string name="hbm_title">Tryb wysokiej jasności</string>
+    <string name="lcd_features_title">Funkcje LCD</string>
+    <string name="lcd_features_summary">Tryb wysokiej jasności, CABC</string>
+    <string name="lcd_hbm_title">Tryb wysokiej jasności (HBM)</string>
+    <string name="lcd_hbm_tile_title">HBM</string>
+    <string name="lcd_cabc_title">Tryb CABC</string>
+    <string name="lcd_features_info">Tryb High Brightness (HBM) zwiększa maksymalną jasność wyświetlacza, aby poprawić widoczność w świetle słonecznym. Zwiększa zużycie energii.CABC (Content Adaptive Backlight Control) dostosowuje jasność wyświetlacza i podświetlenia w oparciu o aktualnie wyświetlaną zawartość, aby zmniejszyć zużycie energii bez pogorszenia jakości obrazu.</string>
 </resources>

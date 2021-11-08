@@ -178,4 +178,10 @@ Tùy chỉnh hành vi của nút trang chủ</string>
     <string name="assistant_button_action">Hành động phím Trợ lý</string>
     <string name="stylus_title">Bút cảm ứng</string>
     <string name="hbm_title">Chế độ ánh sáng cao</string>
+    <string name="lcd_features_title">Tính năng cho Màn hình LCD</string>
+    <string name="lcd_features_summary">Chế độ sáng cao, CABC</string>
+    <string name="lcd_hbm_title">Chế độ sáng cao (HBM)</string>
+    <string name="lcd_hbm_tile_title">HBM</string>
+    <string name="lcd_cabc_title">Chế độ CABC</string>
+    <string name="lcd_features_info">Chế độ sáng cao (HBM) tăng độ sáng của màn hình lên đến cao nhất để cải thiện tầm nhìn dưới ánh nắng. Tiêu thụ nhiều năng lượng hơn.\n\nCABC (Điều chỉnh độ sáng thích ứng theo nội dung) điều khiển ánh sáng màn hình được hiển thị dựa trên nội dung được hiển thị trên màn hình, giảm tiêu thụ năng lượng mà không làm suy thoái tầm nhìn.</string>
 </resources>

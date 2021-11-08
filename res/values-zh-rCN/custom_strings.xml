@@ -154,7 +154,7 @@
     <string name="thermal_streaming">流媒体应用程序</string>
     <string name="raise_to_wake_gesture_title">抬起手机以点亮屏幕</string>
     <string name="raise_to_wake_gesture_summary">唤醒设备而不是发出通知</string>
-    <string name="device_min_refresh_rate">低刷新率</string>
+    <string name="device_min_refresh_rate">最低刷新率</string>
     <string name="device_power_save_refresh_rate">自动开启省电模式</string>
     <string name="device_power_save_refresh_rate_switch">开启省电模式时自动降低刷新率</string>
     <string name="refresh_rate_settings_title">屏幕刷新率</string>
@@ -176,4 +176,10 @@
     <string name="assistant_button_action">助理关键操作</string>
     <string name="stylus_title">触控笔</string>
     <string name="hbm_title">高亮度模式</string>
+    <string name="lcd_features_title">LCD 功能</string>
+    <string name="lcd_features_summary">高亮度模式、动态背光控制</string>
+    <string name="lcd_hbm_title">高亮度模式</string>
+    <string name="lcd_hbm_tile_title">高亮度模式</string>
+    <string name="lcd_cabc_title">动态背光控制模式</string>
+    <string name="lcd_features_info">高亮度模式可以提升屏幕的最大亮度，以改善阳光下的可读性，但会增加电量消耗。\n\n动态背光控制可以根据当前的显示内容调整背光强度，在不损失显示质量的前提下减少电量消耗。</string>
 </resources>

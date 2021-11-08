@@ -176,4 +176,10 @@
     <string name="assistant_button_action">Akce tlačítka Asistent</string>
     <string name="stylus_title">Dotykové pero</string>
     <string name="hbm_title">Režim vysokého jasu</string>
+    <string name="lcd_features_title">Funkce LCD</string>
+    <string name="lcd_features_summary">Režim vysokého jasu, CABC</string>
+    <string name="lcd_hbm_title">Režim vysokého jasu, (HMB)</string>
+    <string name="lcd_hbm_tile_title">HBM</string>
+    <string name="lcd_cabc_title">Režim CABC</string>
+    <string name="lcd_features_info">Režim vysokého jasu (HBM) zvyšuje maximální jas displeje, aby se zlepšila viditelnost na slunci. Zvyšuje spotřebu energie. \n\nFunkce CABC (Adaptivní ovládání podsvícení obsahu) upravuje jas displeje a podsvícení na základě aktuálně zobrazovaného obsahu, aby se bez zhoršení snížila spotřeba energie.</string>
 </resources>

@@ -176,4 +176,10 @@
     <string name="assistant_button_action">Действие кнопки ассистента</string>
     <string name="stylus_title">Стилус</string>
     <string name="hbm_title">Режим высокой яркости</string>
+    <string name="lcd_features_title">Характеристики экрана</string>
+    <string name="lcd_features_summary">Режим высокой яркости (CABC)</string>
+    <string name="lcd_hbm_title">Режим высокой яркости (HBM)</string>
+    <string name="lcd_hbm_tile_title">HBM (Режим высокой яркости) </string>
+    <string name="lcd_cabc_title">Режим CABC</string>
+    <string name="lcd_features_info">Режим высокой яркости (HBM) увеличивает максимальную яркость дисплея для улучшения видимости при солнечном свете. Увеличивает энергопотребление.\n\nCABC (Адаптивное управление подсветкой контента) регулирует яркость дисплея и подсветки в зависимости от текущего отображаемого контента, чтобы снизить энергопотребление без ухудшения качества.</string>
 </resources>

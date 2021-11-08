@@ -176,4 +176,10 @@
     <string name="assistant_button_action">Assistendi nupu toiming</string>
     <string name="stylus_title">Stylus</string>
     <string name="hbm_title">Kõrge heleduse režiim</string>
+    <string name="lcd_features_title">Ekraani omadused</string>
+    <string name="lcd_features_summary">Kõrge heledusega režiim (CABC)</string>
+    <string name="lcd_hbm_title">Kõrge heledusega režiim (HBM)</string>
+    <string name="lcd_hbm_tile_title">HBM</string>
+    <string name="lcd_cabc_title">CABC režiim</string>
+    <string name="lcd_features_info">HBM (Kõrge heleduse režiim) suurendab ekraani maksimaalset heledust, et parandada nähtavust päikesevalguse käes. Suurendab energiatarbimist.\n\nCABC (Sisuga kohanduv taustvalgustuse juhtimine) reguleerib ekraani ja taustvalgustuse heledust vastavalt praegu näidatud sisule, et vähendada energiatarvet ilma, et kvaliteet halveneks. </string>
 </resources>

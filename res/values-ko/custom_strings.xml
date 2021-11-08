@@ -178,4 +178,10 @@
     <string name="assistant_button_action">도우미 키 동작</string>
     <string name="stylus_title">스타일러스 펜</string>
     <string name="hbm_title">최대 밝기 모드</string>
+    <string name="lcd_features_title">LCD 기능</string>
+    <string name="lcd_features_summary">최대 밝기 모드, CABC</string>
+    <string name="lcd_hbm_title">최대 밝기 모드 (HBM)</string>
+    <string name="lcd_hbm_tile_title">HBM</string>
+    <string name="lcd_cabc_title">CABC 모드</string>
+    <string name="lcd_features_info">최대 밝기 모드(HBM)는 직사광선 아래에서도 화면이 더 잘 보이도록 최대 밝기를 더 높입니다. 배터리 소모량이 증가합니다.\n\nCABC(콘텐츠 적응형 백라이트 제어)는 화면이 잘 보이도록 하면서 배터리 소모량을 줄이기 위해 현재 보여지는 콘텐츠를 바탕으로 화면과 백라이트의 밝기를 조절합니다.</string>
 </resources>

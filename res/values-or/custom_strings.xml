@@ -72,5 +72,12 @@
     <string name="notification_slider_selection_dialog_title">କ୍ରିୟାଗୁଡିକ</string>
     <string name="notification_slider_mode_total_silence">ସମ୍ପୂର୍ଣ୍ଣ ନୀରବତା</string>
     <string name="notification_slider_mode_priority_only">କେବଳ ପ୍ରାଧାନ୍ୟ</string>
+    <string name="notification_slider_mode_vibrate">କମ୍ପନ</string>
     <string name="thermal_camera">କ୍ୟାମେରା</string>
+    <string name="lcd_features_title">LCD ବୈଶିଷ୍ଟ୍ୟଗୁଡ଼ିକ</string>
+    <string name="lcd_features_summary">ଉଚ୍ଚ ଉଜ୍ଜ୍ୱଳତା ମୋଡ୍, CABC</string>
+    <string name="lcd_hbm_title">ଉଚ୍ଚ ଉଜ୍ଜ୍ୱଳତା ମୋଡ୍ (HBM)</string>
+    <string name="lcd_hbm_tile_title">HBM</string>
+    <string name="lcd_cabc_title">CABC ମୋଡ୍</string>
+    <string name="lcd_features_info">ଉଚ୍ଚ ଉଜ୍ଜ୍ୱଳତା ମୋଡ୍ (HBM) ସୂର୍ଯ୍ୟକିରଣ ରେ ଦୃଶ୍ୟମାନତା ଉନ୍ନତ କରିବାକୁ ପ୍ରଦର୍ଶନର ସର୍ବାଧିକ ଉଜ୍ଜ୍ୱଳତା ବୃଦ୍ଧି କରେ। ପାୱାର୍ ବ୍ୟବହାର ବୃଦ୍ଧି କରେ।\n\nCABC (ବିଷୟବସ୍ତୁ ଆଡାପ୍ଟିଭ୍ ବ୍ୟାକ୍ ଲାଇଟ୍ ନିୟନ୍ତ୍ରଣ) ଅବକ୍ଷୟ ବିନା ପାୱାର୍ ବ୍ୟବହାର ହ୍ରାସ କରିବାକୁ ବର୍ତ୍ତମାନ ଦେଖାଯାଇଥିବା ବିଷୟବସ୍ତୁ ଉପରେ ଆଧାର କରି ପ୍ରଦର୍ଶନ ଏବଂ ବ୍ୟାକ୍ ଲାଇଟ୍ ଉଜ୍ଜ୍ୱଳତା ନିୟନ୍ତ୍ରଣ କରେ।</string>
 </resources>

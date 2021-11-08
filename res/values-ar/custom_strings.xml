@@ -130,6 +130,8 @@
     <string name="allow_proximity_sensor_summary">تحقق من مستشعر القرب قبل تنفيذ الإجراء</string>
     <string name="oneplus_advanced_settings">إعدادات OnePlus</string>
     <string name="oneplus_advanced_settings_summary">إعدادات مخصصة لجهازك</string>
+    <string name="panel_modes_settings_title">اوضاع اللوحة</string>
+    <string name="panel_modes_settings_summary">اختر احد اعدادات العرض المعدة مسبقا</string>
     <string name="notification_slider_category_title">مزلاق التنبيه</string>
     <string name="notification_slider_selection_dialog_title">إجراء</string>
     <string name="notification_slider_top_position">الموضع العلوي</string>
@@ -174,4 +176,9 @@
     <string name="assistant_button_action">إجراء زر المساعد الرقمي</string>
     <string name="stylus_title">قلم ستايلس</string>
     <string name="hbm_title">وضع السطوع العالي</string>
+    <string name="lcd_features_title">خصائص شاشة LCD</string>
+    <string name="lcd_features_summary">وضع السطوع العالي</string>
+    <string name="lcd_hbm_title">وضع السطوع العالي (و س ع) </string>
+    <string name="lcd_hbm_tile_title">و س ع</string>
+    <string name="lcd_cabc_title">وضع اعداد الاضاءة الخلفية حسب المحتوى</string>
 </resources>

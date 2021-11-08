@@ -176,4 +176,10 @@
     <string name="assistant_button_action">সহকারী বোতামের ক্রিয়া</string>
     <string name="stylus_title">স্টাইলাস কলম</string>
     <string name="hbm_title">উচ্চ উজ্জ্বল অবস্থা</string>
+    <string name="lcd_features_title">এলসিডি বৈশিষ্ট্য</string>
+    <string name="lcd_features_summary">উচ্চ উজ্জ্বল অবস্থা, সিএবিসি</string>
+    <string name="lcd_hbm_title">উচ্চ উজ্জ্বল অবস্থা (এইচবিএম)</string>
+    <string name="lcd_hbm_tile_title">এইচবিএম</string>
+    <string name="lcd_cabc_title">সিএবিসি মোড</string>
+    <string name="lcd_features_info">উচ্চ উজ্জ্বলতা মোড (HBM) সূর্যালোকের অধীনে দৃশ্যমানতা উন্নত করতে প্রদর্শনের সর্বাধিক উজ্জ্বলতা বাড়ায়। এতে ব্যাটারির শক্তি ব্যয়ও বৃদ্ধি পায়।\n\nসিএবিসি (বিষয়বস্তু অভিযোজিত ব্যাকলাইট নিয়ন্ত্রণ) বর্তমানে প্রদর্শিত বিষয়বস্তুর উপর ভিত্তি করে প্রদর্শন এবং ব্যাকলাইটের উজ্জ্বলতা সামঞ্জস্য করে, অবনতি ছাড়াই ব্যাটারির খরচ কমাতে।</string>
 </resources>

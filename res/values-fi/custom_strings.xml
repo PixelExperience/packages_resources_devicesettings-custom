@@ -176,4 +176,10 @@
     <string name="assistant_button_action">Assistant painikkeen toiminto</string>
     <string name="stylus_title">Kosketusnäyttökynä</string>
     <string name="hbm_title">Korkean kirkkauden tila</string>
+    <string name="lcd_features_title">LCD-ominaisuudet</string>
+    <string name="lcd_features_summary">Korkean kirkkauden tila, CABC</string>
+    <string name="lcd_hbm_title">Korkean kirkkauden tila (HBM)</string>
+    <string name="lcd_hbm_tile_title">Korkeakirkkaus</string>
+    <string name="lcd_cabc_title">Kirkkauden säätö tila</string>
+    <string name="lcd_features_info">Korkean kirkkauden tila (HBM) lisää näytön maksimikirkkautta näkyvyyden parantamiseksi auringonvalossa. Lisää virrankulutusta.\n\nCABC (Sisältöön mukautuva näytön taustavalaistus) säätää näytön ja taustavalon kirkkauden näytön sisällön perusteella virrankulutuksen vähentämiseksi laadun kärsimättä.</string>
 </resources>

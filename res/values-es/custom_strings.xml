@@ -176,4 +176,10 @@
     <string name="assistant_button_action">Botón del asistente </string>
     <string name="stylus_title">Lapiz óptico</string>
     <string name="hbm_title">Modo de alto brillo</string>
+    <string name="lcd_features_title">Características del LCD</string>
+    <string name="lcd_features_summary">Modo de alto brillo, CABC</string>
+    <string name="lcd_hbm_title">Modo de alto brillo (HBM)</string>
+    <string name="lcd_hbm_tile_title">HBM</string>
+    <string name="lcd_cabc_title">Modo CABC</string>
+    <string name="lcd_features_info">El modo de alto brillo HBM (High Brightness Mode) aumenta el brillo máximo de la pantalla para mejorar la visibilidad bajo la luz del sol. Aumenta el consumo de energía.\n\nCABC (Content Adaptive Backlight Control) ajusta el brillo de la pantalla y de la retroiluminación en función del contenido mostrado en ese momento, para reducir el consumo de energía sin degradarlo.</string>
 </resources>

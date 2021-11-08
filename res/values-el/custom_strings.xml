@@ -176,4 +176,10 @@
     <string name="assistant_button_action">Κουμπί ενέργειας Βοηθού</string>
     <string name="stylus_title">Stylus Pen</string>
     <string name="hbm_title">Λειτουργία Υψηλής Φωτεινότητας</string>
+    <string name="lcd_features_title">Χαρακτηριστικά LCD</string>
+    <string name="lcd_features_summary">Λειτουργία Υψηλής Φωτεινότητας, CABC</string>
+    <string name="lcd_hbm_title">Λειτουργία Υψηλής Φωτεινότητας (HBM)</string>
+    <string name="lcd_hbm_tile_title">HBM</string>
+    <string name="lcd_cabc_title">Λειτουργία CABC</string>
+    <string name="lcd_features_info">Η Λειτουργία Υψηλής Φωτεινότητας (HBM) αυξάνει τη μέγιστη φωτεινότητα της οθόνης για βελτίωση της ορατότητας κάτω από το φως του ήλιου.  Αυξάνει την κατανάλωση ενέργειας.\n\nCABC (Content Adaptive Backlight Control) προσαρμόζει τη φωτεινότητα της οθόνης και του οπίσθιου φωτισμού με βάση το τρέχον περιεχόμενο που εμφανίζεται, για να μειώσει την κατανάλωση ενέργειας χωρίς υποβάθμιση.</string>
 </resources>

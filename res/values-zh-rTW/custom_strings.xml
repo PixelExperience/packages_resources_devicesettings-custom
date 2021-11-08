@@ -176,4 +176,10 @@
     <string name="assistant_button_action">助理鍵動作</string>
     <string name="stylus_title">觸控筆</string>
     <string name="hbm_title">高亮度模式</string>
+    <string name="lcd_features_title">LCD 特徵</string>
+    <string name="lcd_features_summary">高亮度模式,CABC</string>
+    <string name="lcd_hbm_title">高亮度模式(HBM)</string>
+    <string name="lcd_hbm_tile_title">HBM</string>
+    <string name="lcd_cabc_title">CABC 模式</string>
+    <string name="lcd_features_info">高亮度模式 (HBM) 可增加顯示屏的最大亮度，以提高陽光下的可見度。 增加功耗。\n\nCABC（內容自適應背光控制）根據當前顯示的內容調整顯示和背光亮度，以在不降低功耗的情況下降低功耗。</string>
 </resources>
